@@ -1,0 +1,38 @@
+name: 每日日报自动更新
+
+on:
+  schedule:
+    - cron: '30 23 * * 0-4'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 生成 news.json
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python tools/generate_news.py
+
+      - name: 提交更新
+        run: |
+          git config user.name  "iGlobalLaw Bot"
+          git config user.email "bot@igloballaw.com"
+          if git diff --quiet news.json; then
+            echo "今日内容无变化，跳过提交。"
+          else
+            git add news.json
+            git commit -m "chore: 自动更新每日日报 $(date -u +%Y-%m-%d)"
+            git push
+          fi
