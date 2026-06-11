@@ -1,0 +1,14 @@
+{
+  "name": "律连全球 · 秦林蒿律师",
+  "short_name": "律连全球",
+  "description": "秦林蒿律师 · 广东融关律师事务所 · 涉外法律 · 婚姻家庭 · 心理咨询",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

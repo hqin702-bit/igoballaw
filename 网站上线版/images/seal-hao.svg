@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#1a2942"/>
+      <stop offset="65%" stop-color="#0D1B2A"/>
+      <stop offset="100%" stop-color="#060d15"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8D49A"/>
+      <stop offset="45%" stop-color="#C9A84C"/>
+      <stop offset="100%" stop-color="#8B6914"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
+  </defs>
+  <!-- 圆形底 -->
+  <circle cx="256.0" cy="256.0" r="240.64" fill="url(#bg)"/>
+  <!-- 外金环 -->
+  <circle cx="256.0" cy="256.0" r="232.96" fill="none" stroke="url(#gold)" stroke-width="9.216"/>
+  <!-- 内细环 -->
+  <circle cx="256.0" cy="256.0" r="204.8" fill="none" stroke="url(#gold)" stroke-width="3.072" opacity="0.7"/>
+  <!-- 四角篆刻点缀 -->
+  <g fill="url(#gold)" opacity="0.85">
+    <circle cx="256.0" cy="43.52" r="6.144"/>
+    <circle cx="256.0" cy="468.48" r="6.144"/>
+    <circle cx="43.52" cy="256.0" r="6.144"/>
+    <circle cx="468.48" cy="256.0" r="6.144"/>
+  </g>
+  <!-- 中央大字 -->
+  <text x="256.0" y="256.0" font-family="'Noto Serif SC','STSong',serif" font-size="266.24"
+        font-weight="900" fill="url(#gold)" text-anchor="middle" dominant-baseline="central"
+        style="font-feature-settings:normal;">蒿</text>
+</svg>

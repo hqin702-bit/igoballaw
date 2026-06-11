@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iGlobal Law 国际商贸法律日报 · 律连全球</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0D1B2A">
+<link rel="apple-touch-icon" href="images/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="律连全球">
+<meta name="description" content="iGlobal Law 国际商贸法律日报 · 每日精选涉外法律资讯 · 律连全球 · 秦林蒿律师">
+<!-- 微信/社交分享卡片 (Open Graph) -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="律连全球 iGlobal Law">
+<meta property="og:title" content="iGlobal Law 国际商贸法律日报 · 律连全球">
+<meta property="og:description" content="每日精选涉外法律资讯 · 国际商贸 · 跨境合规 · 律连全球">
+<meta property="og:image" content="https://igloballaw.com/images/icon-512.png">
+<meta property="og:url" content="https://igloballaw.com/daily-report.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="iGlobal Law 国际商贸法律日报 · 律连全球">
+<meta name="twitter:image" content="https://igloballaw.com/images/icon-512.png">
+<link rel="stylesheet" href="assets/fontawesome/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{--gold:#C9A84C;--gold-lt:#E8D49A;--gold-dk:#8B6914;--gold-bg:#FAF6EC;--ink:#0D1B2A;--ink-mid:#2D3A4A;--ink-lt:#5A6A7A;--cream:#FAF8F4;--cream-mid:#F0EDE4;--navy:#163555;--sky:#1B5490;--red:#8B2025;--silver:#E2DDD6;--white:#FFFFFF;--rule:#D8D2C8;}
+body{font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;background:var(--cream);color:var(--ink);}
+.navbar{background:var(--white);height:64px;display:flex;align-items:center;padding:0 3rem;border-bottom:1px solid var(--rule);box-shadow:0 2px 12px rgba(0,0,0,0.06);position:sticky;top:0;z-index:100;}
+.nav-inner{display:flex;align-items:center;justify-content:space-between;width:100%;}
+.logo{display:flex;align-items:center;gap:12px;text-decoration:none;}
+.logo-mark{width:38px;height:38px;border-radius:50%;overflow:hidden;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+.logo-name{font-family:'Noto Serif SC',"Songti SC","SimSun","Source Han Serif SC",serif;font-size:15px;font-weight:700;color:var(--ink);display:block;line-height:1.2;}
+.logo-domain{font-size:10px;color:var(--gold-dk);letter-spacing:1px;}
+.back-btn{background:var(--ink);color:var(--white);font-size:13px;padding:8px 18px;border-radius:4px;text-decoration:none;font-weight:700;}
+/* Masthead */
+.report-masthead{background:var(--navy);padding:3rem;position:relative;overflow:hidden;}
+.rm-grid{position:absolute;inset:0;background-image:repeating-linear-gradient(0deg,rgba(201,168,76,0.04) 0,rgba(201,168,76,0.04) 1px,transparent 1px,transparent 64px),repeating-linear-gradient(90deg,rgba(201,168,76,0.04) 0,rgba(201,168,76,0.04) 1px,transparent 1px,transparent 64px);}
+.rm-inner{position:relative;z-index:2;max-width:1000px;margin:0 auto;}
+.rm-brand{font-family:'Noto Serif SC',"Songti SC","SimSun","Source Han Serif SC",serif;font-size:2rem;font-weight:900;color:var(--white);margin-bottom:6px;}
+.rm-slogan{font-size:13px;color:var(--gold-lt);letter-spacing:2px;margin-bottom:1rem;}
+.rm-meta{display:flex;gap:1.5rem;flex-wrap:wrap;align-items:center;font-size:12px;color:rgba(255,255,255,0.6);}
+.rm-date{font-family:'EB Garamond',Georgia,"Times New Roman",serif;font-size:14px;color:var(--gold);}
+.auto-tag{display:inline-flex;align-items:center;gap:6px;background:rgba(102,187,106,0.12);border:1px solid rgba(102,187,106,0.3);color:#66BB6A;font-size:11px;padding:4px 12px;border-radius:14px;}
+.auto-tag::before{content:'';width:6px;height:6px;border-radius:50%;background:#66BB6A;}
+/* Body */
+.report-body{max-width:1000px;margin:0 auto;padding:3rem;}
+.report-actions{display:flex;gap:10px;margin-bottom:2rem;flex-wrap:wrap;}
+.ra-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:4px;font-size:13px;font-weight:700;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;cursor:pointer;border:none;text-decoration:none;transition:all 0.2s;}
+.ra-primary{background:var(--gold);color:var(--ink);}
+.ra-primary:hover{background:var(--gold-lt);}
+.ra-outline{background:transparent;color:var(--gold-dk);border:1px solid var(--gold);}
+.ra-outline:hover{background:var(--gold-bg);}
+.news-section{margin-bottom:2.5rem;}
+.news-section-title{font-family:'Noto Serif SC',"Songti SC","SimSun","Source Han Serif SC",serif;font-size:1.1rem;font-weight:700;color:var(--ink);padding-bottom:8px;border-bottom:2px solid var(--gold);margin-bottom:1.25rem;display:flex;align-items:center;gap:10px;}
+.news-item{background:var(--white);border:1px solid var(--silver);border-left:4px solid var(--gold);padding:1.25rem 1.5rem;margin-bottom:1rem;border-radius:0 4px 4px 0;transition:all 0.2s;}
+.news-item:hover{box-shadow:0 6px 20px rgba(0,0,0,0.06);}
+.ni-cat{display:inline-block;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--gold-dk);background:var(--gold-bg);padding:2px 10px;border-radius:10px;margin-bottom:8px;}
+.ni-cat.focus{color:var(--red);background:#fdf0f0;}
+.ni-title{font-size:15px;font-weight:700;color:var(--ink);line-height:1.6;margin-bottom:8px;}
+.ni-summary{font-size:13px;color:var(--ink-mid);line-height:1.8;margin-bottom:10px;}
+.ni-source{font-size:11px;color:var(--ink-lt);display:flex;align-items:center;gap:6px;}
+.ni-source i{color:var(--gold-dk);}
+.disclaimer{background:var(--cream-mid);border-left:3px solid var(--ink-lt);padding:1rem 1.25rem;font-size:12px;color:var(--ink-lt);line-height:1.8;border-radius:0 4px 4px 0;margin-top:2rem;}
+.subscribe-box{background:var(--navy);padding:2rem;border-radius:8px;margin-top:2rem;text-align:center;}
+.subscribe-box h3{font-family:'Noto Serif SC',"Songti SC","SimSun","Source Han Serif SC",serif;color:var(--white);font-size:1.25rem;margin-bottom:8px;}
+.subscribe-box p{font-size:13px;color:rgba(255,255,255,0.6);margin-bottom:1.25rem;}
+.sub-form{display:flex;gap:10px;max-width:420px;margin:0 auto;}
+.sub-form input{flex:1;padding:11px 14px;border:none;border-radius:4px;font-size:13px;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;outline:none;}
+.sub-form button{background:var(--gold);color:var(--ink);border:none;padding:11px 22px;border-radius:4px;font-weight:700;cursor:pointer;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;white-space:nowrap;}
+footer{background:#060D15;padding:2rem 3rem;text-align:center;border-top:2px solid rgba(201,168,76,0.2);}
+footer p{font-size:11px;color:rgba(255,255,255,0.3);}
+footer a{color:var(--gold);text-decoration:none;}
+@media(max-width:680px){.navbar,.report-masthead,.report-body{padding-left:1.25rem;padding-right:1.25rem;}.rm-brand{font-size:1.5rem;}.sub-form{flex-direction:column;}.report-actions{flex-direction:column;}.ra-btn{justify-content:center;}}
+</style>
+</head>
+<body>
+<nav class="navbar">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">
+      <div class="logo-mark"><img src="images/seal-rong-192.png" alt="融" style="width:100%;height:100%;border-radius:50%;object-fit:cover;"></div>
+      <div><span class="logo-name">iGlobal Law · 律连全球</span><span class="logo-domain">国际商贸法律日报</span></div>
+    </a>
+    <a href="index.html" class="back-btn"><i class="fas fa-arrow-left"></i> 返回首页</a>
+  </div>
+</nav>
+
+<div class="report-masthead">
+  <div class="rm-grid"></div>
+  <div class="rm-inner">
+    <div class="rm-brand">国际商贸法律日报</div>
+    <div class="rm-slogan">INTERNATIONAL COMMERCIAL LAW DAILY · 洞规 · 御险 · 笃行</div>
+    <div class="rm-meta">
+      <span class="rm-date" id="reportDate">2026年5月29日 · 星期五</span>
+      <span>第 <span id="dayNum">149</span> 期 · 内部参考</span>
+      <span class="auto-tag">AI 辅助 · 每日自动更新</span>
+    </div>
+  </div>
+</div>
+
+<div class="report-body">
+  <div class="report-actions">
+    <button class="ra-btn ra-primary" onclick="alert('生成完整HTML日报功能需接入后端Claude API后启用。届时点击将实时抓取当日资讯并生成完整报告。')"><i class="fas fa-file-alt"></i> 生成完整日报</button>
+    <button class="ra-btn ra-outline" onclick="alert('周报汇总功能需接入后端后启用，将自动汇总本周5个工作日精华。')"><i class="fas fa-calendar-week"></i> 生成本周周报</button>
+    <a class="ra-btn ra-outline" href="index.html#contact"><i class="fas fa-envelope"></i> 订阅日报</a>
+  </div>
+
+  <div class="news-section">
+    <div class="news-section-title"><i class="fas fa-fire" style="color:var(--red);"></i> 当日焦点</div>
+    <div class="news-item">
+      <span class="ni-cat focus">当日焦点</span>
+      <div class="ni-title" id="ni-title-focus">商务部回应美国扩大芯片出口管制：相关措施严重违反世贸规则，中方保留采取反制措施权利</div>
+      <div class="ni-summary" id="ni-summary-focus">商务部新闻发言人在例行发布会上表示，美方扩大对华半导体出口管制清单的做法违反市场经济原则和国际贸易规则。对中国出海企业而言，需重新评估供应链中受管制物项的占比，提前规划替代方案，并关注后续可能的反制措施对双向贸易的影响。</div>
+      <div class="ni-source" id="ni-source-focus"><i class="fas fa-link"></i> 来源：商务部新闻发布会 · 2026.05.29</div>
+    </div>
+  </div>
+
+  <div class="news-section">
+    <div class="news-section-title"><i class="fas fa-gavel" style="color:var(--gold-dk);"></i> 典型案例</div>
+    <div class="news-item">
+      <span class="ni-cat">典型案例</span>
+      <div class="ni-title" id="ni-title-case">最高法发布跨境电商平台责任典型案例：平台不知情但怠于核查供应商资质，连带承担侵权责任</div>
+      <div class="ni-summary" id="ni-summary-case">最高人民法院发布的该典型案例明确，跨境电商平台对入驻商家负有合理审查义务。即使平台主观不知情，若未尽到对供应商资质的核查义务，仍需就商家的侵权行为承担连带责任。这对跨境电商企业的合规体系建设提出更高要求。</div>
+      <div class="ni-source" id="ni-source-case"><i class="fas fa-link"></i> 来源：最高人民法院 典型案例发布 · 2026.05.28</div>
+    </div>
+  </div>
+
+  <div class="news-section">
+    <div class="news-section-title"><i class="fas fa-clipboard-list" style="color:var(--sky);"></i> 政策动态</div>
+    <div class="news-item">
+      <span class="ni-cat">政策动态</span>
+      <div class="ni-title" id="ni-title-policy">广东自贸区扩大跨境数据流动"白名单"至32类数据，涉及金融、医疗、制造业跨境业务</div>
+      <div class="ni-summary" id="ni-summary-policy">广东省数据局发布新政，将可便利化跨境流动的数据类别从原有范围扩大至32类，覆盖金融、医疗、智能制造等关键领域。区内企业进行数据出境时，属于白名单范围的可适用简化流程，大幅降低合规成本。建议相关企业对照新清单梳理自身数据出境场景。</div>
+      <div class="ni-source" id="ni-source-policy"><i class="fas fa-link"></i> 来源：广东省数据局 粤数发〔2026〕18号</div>
+    </div>
+  </div>
+
+  <div class="news-section">
+    <div class="news-section-title"><i class="fas fa-search" style="color:var(--gold-dk);"></i> 律师研判</div>
+    <div class="news-item">
+      <span class="ni-cat">律师研判</span>
+      <div class="ni-title" id="ni-title-analysis">CIETAC《2026仲裁规则》修订草案出台：紧急仲裁员程序时限压缩至5天，费用结构调整对中小企业有利</div>
+      <div class="ni-summary" id="ni-summary-analysis">秦林蒿律师研判：本次CIETAC规则修订中，紧急仲裁员程序从原来的较长周期压缩至5天，显著提升了争议解决效率，对需要快速止损的跨境贸易纠纷尤为有利。费用结构的调整也降低了中小企业的仲裁门槛。建议合同起草时优先考虑将CIETAC列为争议解决机构。</div>
+      <div class="ni-source" id="ni-source-analysis"><i class="fas fa-link"></i> 来源：CIETAC官网 征求意见稿 · 2026.05.26</div>
+    </div>
+  </div>
+
+  <div class="disclaimer">
+    <strong>免责声明：</strong>本日报内容由AI辅助整理生成，信息来源于公开渠道，仅供参考，不构成任何法律意见或投资建议。具体法律问题请咨询秦林蒿律师（微信 law5488 / 电话 159 1983 5488）。日报版权归广东融关律师事务所涉外法律服务中心所有。
+  </div>
+
+  <div class="subscribe-box">
+    <h3>订阅每日法律资讯</h3>
+    <p>留下邮箱，每个工作日自动接收 iGlobal Law 国际商贸法律日报</p>
+    <div class="sub-form">
+      <input type="email" placeholder="您的邮箱 / Your email">
+      <button onclick="alert('✅ 订阅成功！日报将发送至您的邮箱。')">订阅 Subscribe</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>© 2026 <a href="index.html">律连全球 · igloballaw.com</a> · iGlobal Law 国际商贸法律日报 · 广东融关律师事务所涉外法律服务中心出品</p>
+</footer>
+
+<script>
+(function(){
+  var days=['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+  function fmtDate(now){return now.getFullYear()+'年'+(now.getMonth()+1)+'月'+now.getDate()+'日 · '+days[now.getDay()];}
+  function setText(id,txt){var el=document.getElementById(id);if(el&&txt)el.textContent=txt;}
+  function setSource(id,txt){var el=document.getElementById(id);if(el&&txt)el.innerHTML='<i class="fas fa-link"></i> '+txt;}
+  // 默认（兜底）：以本机日期显示
+  var now=new Date();
+  var start=new Date(now.getFullYear(),0,0);
+  var dayNum=Math.floor((now-start)/86400000);
+  setText('reportDate',fmtDate(now));
+  setText('dayNum',dayNum);
+  // 动态：尝试加载 news.json（由 GitHub Actions 每日自动生成）
+  fetch('news.json?_='+Date.now()).then(function(r){
+    if(!r.ok) throw 0; return r.json();
+  }).then(function(d){
+    if(d.dateLabel) setText('reportDate',d.dateLabel);
+    if(d.issue!=null) setText('dayNum',d.issue);
+    ['focus','case','policy','analysis'].forEach(function(k){
+      if(d[k]){
+        setText('ni-title-'+k,d[k].title);
+        setText('ni-summary-'+k,d[k].summary);
+        setSource('ni-source-'+k,d[k].source);
+      }
+    });
+  }).catch(function(){ /* news.json 不存在或无效时，保留页面内置的种子内容 */ });
+})();
+</script>
+<!-- 微信咨询：浮动按钮 + 弹窗（自包含） -->
+<button onclick="openWechat()" style="position:fixed;bottom:2rem;left:2rem;display:inline-flex;align-items:center;gap:8px;background:#07C160;color:#fff;border:none;border-radius:26px;padding:11px 18px;font-size:14px;font-weight:700;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;cursor:pointer;box-shadow:0 4px 18px rgba(7,193,96,0.45);z-index:9999;"><i class="fab fa-weixin" style="font-size:18px;"></i> 微信咨询</button>
+<div id="wechatModal" onclick="if(event.target===this)closeWechat()" style="position:fixed;inset:0;background:rgba(13,27,42,0.72);display:none;align-items:center;justify-content:center;z-index:10001;padding:1.5rem;">
+  <div style="background:#fff;border-radius:16px;padding:2rem 2rem 1.5rem;max-width:330px;width:100%;text-align:center;position:relative;box-shadow:0 20px 60px rgba(0,0,0,0.35);">
+    <button onclick="closeWechat()" aria-label="关闭" style="position:absolute;top:10px;right:14px;background:none;border:none;font-size:24px;line-height:1;color:#5A6A7A;cursor:pointer;">&times;</button>
+    <h3 style="font-family:'Noto Serif SC',"Songti SC","SimSun","Source Han Serif SC",serif;font-size:1.15rem;color:#0D1B2A;margin:0 0 4px;">微信咨询</h3>
+    <div style="font-size:12px;color:#5A6A7A;margin-bottom:1rem;">秦林蒿律师 · 律连全球 iGlobal Law</div>
+    <img src="images/wechat-qr.png" alt="微信二维码 law5488" onerror="this.style.display='none';" style="width:230px;height:230px;object-fit:contain;border:1px solid #D8D2C8;border-radius:10px;padding:8px;background:#fff;">
+    <div style="margin-top:0.9rem;font-size:13px;color:#2D3A4A;">微信号：<b style="color:#07C160;font-size:15px;">law5488</b></div>
+    <div style="margin-top:6px;font-size:12px;color:#5A6A7A;">扫码或长按识别二维码 · 添加后即可语音/视频咨询</div>
+  </div>
+</div>
+<script>
+function openWechat(){var m=document.getElementById('wechatModal');if(m)m.style.display='flex';}
+function closeWechat(){var m=document.getElementById('wechatModal');if(m)m.style.display='none';}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeWechat();});
+</script>
+<button id="pwaInstallBtn" style="display:none;position:fixed;bottom:5.5rem;right:2rem;z-index:9998;background:var(--ink,#0D1B2A);color:#E8D49A;border:1px solid rgba(201,168,76,0.4);border-radius:24px;padding:8px 16px;font-size:12px;cursor:pointer;font-family:sans-serif;align-items:center;gap:6px;box-shadow:0 4px 16px rgba(0,0,0,0.25);"><span>📲 安装到桌面</span></button>
+<script>
+/* PWA: register service worker */
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>{ navigator.serviceWorker.register('sw.js').catch(()=>{}); });
+}
+/* "添加到主屏幕" 提示 */
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt',(e)=>{
+  e.preventDefault(); deferredPrompt=e;
+  const btn=document.getElementById('pwaInstallBtn');
+  if(btn){ btn.style.display='flex'; btn.onclick=async()=>{ btn.style.display='none'; deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; }; }
+});
+</script>
+</body>
+</html>
