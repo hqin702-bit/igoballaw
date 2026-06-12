@@ -620,11 +620,16 @@ function sendP(){
   P_ROUND++;
   var t=document.createElement('div');t.style.cssText='background:rgba(255,255,255,0.07);padding:9px 13px;font-size:12px;color:#DDD;align-self:flex-start;max-width:90%;border:1px solid rgba(255,255,255,0.08);border-radius:4px;';
   t.textContent=lang==='en'?'Thinking...':'正在思考...';c.appendChild(t);c.scrollTop=c.scrollHeight;
-  setTimeout(function(){
-    var body=lang==='en'?"Thank you for sharing. Such situations often involve both emotional and developmental factors, so understanding the full context matters. Here's a preliminary perspective for your reference.":"感谢您的分享。这类情况通常涉及情绪与成长等多重因素，需要了解完整背景。这里提供一个初步视角供参考。";
-    var tail=lang==='en'?'<div style="margin-top:8px;font-size:11px;color:#C4A8E0;">⚠ For personalized guidance, please consult Attorney/Counselor Qin (Psychologist · Family Counselor) · 159 1983 5488 · WeChat law5488. AI replies are for reference only.</div><div style="margin-top:4px;font-size:11px;color:#888;">Questions left: '+(3-P_ROUND)+'</div>':'<div style="margin-top:8px;font-size:11px;color:#C4A8E0;">⚠ 如需个性化指导，请向秦老师（心理咨询师·婚姻家庭咨询师）咨询 · 159 1983 5488 · 微信 law5488。AI回复仅供参考。</div><div style="margin-top:4px;font-size:11px;color:#888;">本次剩余提问次数：'+(3-P_ROUND)+'</div>';
-    t.innerHTML=body+tail;c.scrollTop=c.scrollHeight;
-  },1400);
+  var tail=lang==='en'?'<div style="margin-top:8px;font-size:11px;color:#C4A8E0;">⚠ For personalized guidance, please consult Attorney/Counselor Qin (Psychologist · Family Counselor) · 159 1983 5488 · WeChat law5488. AI replies are for reference only.</div><div style="margin-top:4px;font-size:11px;color:#888;">Questions left: '+(3-P_ROUND)+'</div>':'<div style="margin-top:8px;font-size:11px;color:#C4A8E0;">⚠ 如需个性化指导，请向秦老师（心理咨询师·婚姻家庭咨询师）咨询 · 159 1983 5488 · 微信 law5488。AI回复仅供参考。</div><div style="margin-top:4px;font-size:11px;color:#888;">本次剩余提问次数：'+(3-P_ROUND)+'</div>';
+  fetch('https://ai.igloballawyer.com/',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:v,mode:'psych'})})
+    .then(function(r){return r.json();})
+    .then(function(d){
+      var body=(d&&d.reply)?String(d.reply).replace(/\n/g,'<br>'):(lang==='en'?"Sorry, I couldn't respond just now. Please try again or contact Counselor Qin (WeChat law5488).":"抱歉，暂时无法回答，请稍后再试或直接联系秦老师（微信 law5488）。");
+      t.innerHTML=body+tail;c.scrollTop=c.scrollHeight;
+    })
+    .catch(function(){
+      t.innerHTML=(lang==='en'?"Network issue, please try again later or contact Counselor Qin (WeChat law5488).":"网络异常，请稍后再试，或直接联系秦老师（微信 law5488）。")+tail;c.scrollTop=c.scrollHeight;
+    });
 }
 document.getElementById('psyInp').addEventListener('keydown',function(e){if(e.key==='Enter')sendP();});
 

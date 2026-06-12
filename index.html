@@ -1071,7 +1071,7 @@ function setQ(t){ document.getElementById('aiInput').value=t; document.getElemen
    前端绝不可直接写API密钥！必须经过您自己的后端中转。
    后端示例见随附 server-example 说明。
 */
-const AI_BACKEND = '';  // 例如 'https://your-domain.com/api/ai-consult' ，留空则用演示回复
+const AI_BACKEND = 'https://ai.igloballawyer.com/';  // Cloudflare Worker 后端（代理 DeepSeek，密钥仅存 Worker）
 async function callRealAI(question, type, lang){
   // 上线接入：把 AI_BACKEND 设为您的后端地址，后端再去调 DeepSeek/ChatGPT
   const res = await fetch(AI_BACKEND, {
@@ -1138,7 +1138,7 @@ async function sendAI(){
     const counter = lang==='en'
       ? '<div class="ai-rounds">Questions left this session: '+roundsLeft+'</div>'
       : '<div class="ai-rounds">本次剩余提问次数：'+roundsLeft+'</div>';
-    thinking.querySelector('.msg-content').innerHTML = reply + tail + counter;
+    thinking.querySelector('.msg-content').innerHTML = String(reply).replace(/\n/g,'<br>') + tail + counter;
     document.getElementById('aiMessages').scrollTop=99999;
   }catch(err){
     thinking.querySelector('.msg-content').innerHTML = (lang==='en'
