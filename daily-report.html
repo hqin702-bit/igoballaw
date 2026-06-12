@@ -102,7 +102,7 @@ footer a{color:var(--gold);text-decoration:none;}
 <div class="report-body">
   <div class="report-actions">
     <button class="ra-btn ra-primary" onclick="alert('生成完整HTML日报功能需接入后端Claude API后启用。届时点击将实时抓取当日资讯并生成完整报告。')"><i class="fas fa-file-alt"></i> 生成完整日报</button>
-    <button class="ra-btn ra-outline" onclick="alert('周报汇总功能需接入后端后启用，将自动汇总本周5个工作日精华。')"><i class="fas fa-calendar-week"></i> 生成本周周报</button>
+    <button class="ra-btn ra-outline" id="weeklyBtn" onclick="toggleWeekly(this)"><i class="fas fa-calendar-week"></i> 生成本周周报</button>
     <a class="ra-btn ra-outline" href="index.html#contact"><i class="fas fa-envelope"></i> 订阅日报</a>
   </div>
 
@@ -170,18 +170,7 @@ footer a{color:var(--gold);text-decoration:none;}
   function fmtDate(now){return now.getFullYear()+'年'+(now.getMonth()+1)+'月'+now.getDate()+'日 · '+days[now.getDay()];}
   function setText(id,txt){var el=document.getElementById(id);if(el&&txt)el.textContent=txt;}
   function setSource(id,txt){var el=document.getElementById(id);if(el&&txt)el.innerHTML='<i class="fas fa-link"></i> '+txt;}
-  // 默认（兜底）：以本机日期显示
-  var now=new Date();
-  var start=new Date(now.getFullYear(),0,0);
-  var dayNum=Math.floor((now-start)/86400000);
-  setText('reportDate',fmtDate(now));
-  setText('dayNum',dayNum);
-  // 动态：尝试加载 news.json（由 GitHub Actions 每日自动生成）
-  fetch('news.json?_='+Date.now()).then(function(r){
-    if(!r.ok) throw 0; return r.json();
-  }).then(function(d){
-    if(d.dateLabel) setText('reportDate',d.dateLabel);
-    if(d.issue!=null) setText('dayNum',d.issue);
+  function fillSections(d){
     ['focus','case','policy','analysis'].forEach(function(k){
       if(d[k]){
         setText('ni-title-'+k,d[k].title);
@@ -189,7 +178,53 @@ footer a{color:var(--gold);text-decoration:none;}
         setSource('ni-source-'+k,d[k].source);
       }
     });
+  }
+  // 默认（兜底）：以本机日期显示
+  var now=new Date();
+  var start=new Date(now.getFullYear(),0,0);
+  setText('reportDate',fmtDate(now));
+  setText('dayNum',Math.floor((now-start)/86400000));
+  // 每日：尝试加载 news.json（由 GitHub Actions 每日自动生成）
+  fetch('news.json?_='+Date.now()).then(function(r){
+    if(!r.ok) throw 0; return r.json();
+  }).then(function(d){
+    if(d.dateLabel) setText('reportDate',d.dateLabel);
+    if(d.issue!=null) setText('dayNum',d.issue);
+    fillSections(d);
   }).catch(function(){ /* news.json 不存在或无效时，保留页面内置的种子内容 */ });
+
+  // 周报：点击「生成本周周报」加载 weekly.json（由 GitHub Actions 每周五自动汇总）
+  var weeklyOn=false;
+  window.toggleWeekly=function(btn){
+    if(weeklyOn){ location.reload(); return; }
+    fetch('weekly.json?_='+Date.now()).then(function(r){
+      if(!r.ok) throw 0; return r.json();
+    }).then(function(d){
+      weeklyOn=true;
+      if(d.weekLabel) setText('reportDate',d.weekLabel);
+      if(d.issue!=null) setText('dayNum',d.issue);
+      fillSections(d);
+      // 首个栏目标题/标签改为「本周要闻」
+      var t=document.querySelector('.news-section-title');
+      if(t) t.innerHTML='<i class="fas fa-fire" style="color:var(--red);"></i> 本周要闻';
+      var c=document.querySelector('.ni-cat.focus');
+      if(c) c.textContent='本周要闻';
+      // 顶部横幅标识
+      var b=document.getElementById('weeklyBanner');
+      if(!b){
+        b=document.createElement('div'); b.id='weeklyBanner';
+        b.style.cssText='background:rgba(201,168,76,0.14);border:1px solid var(--gold);color:var(--ink);padding:12px 16px;border-radius:8px;margin-bottom:1.25rem;font-size:13px;text-align:center;line-height:1.6;';
+        var actions=document.querySelector('.report-actions');
+        if(actions&&actions.parentNode) actions.parentNode.insertBefore(b, actions.nextSibling);
+      }
+      b.innerHTML='📅 <b>本周周报</b> · 自动汇总本周 5 个工作日精华'+(d.weekLabel?' · '+d.weekLabel:'');
+      b.style.display='block';
+      if(btn) btn.innerHTML='<i class="fas fa-arrow-left"></i> 返回每日日报';
+      window.scrollTo({top:0,behavior:'smooth'});
+    }).catch(function(){
+      alert('本周周报尚未生成。系统每周五 18:00 自动汇总，生成后再来点这里即可查看。');
+    });
+  };
 })();
 </script>
 <!-- 微信咨询：浮动按钮 + 弹窗（自包含） -->

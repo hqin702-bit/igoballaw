@@ -223,6 +223,7 @@ footer p{font-size:11px;color:#555;}footer a{color:var(--gold);text-decoration:n
   <button class="snav-item" onclick="showP('assessment',this)">📊 专业测评</button>
   <button class="snav-item" onclick="showP('youth',this)">🌱 青少年心理养护</button>
   <button class="snav-item" onclick="showP('learning',this)">📚 智能学习法</button>
+  <button class="snav-item" onclick="showP('studytour',this)">✈️ 游学研学</button>
   <button class="snav-item" onclick="showP('aiconsult',this)">🤖 AI咨询</button>
   <button class="snav-item" onclick="showP('book',this)">💬 预约留言</button>
 </div>
@@ -394,6 +395,21 @@ footer p{font-size:11px;color:#555;}footer a{color:var(--gold);text-decoration:n
   </div>
 </div>
 
+<!-- Panel: Study Tours -->
+<div class="panel" id="panel-studytour">
+  <span class="eyebrow">STUDY TOURS & ENRICHMENT</span>
+  <h2 class="cs-h2">游学研学</h2>
+  <p class="cs-sub">走出课堂，在真实世界中成长 —— 视野、能力与品格的全面历练</p>
+  <div class="purpline"></div>
+  <div class="cards-3">
+    <div class="psy-card"><span class="psy-icon">✈️</span><div class="psy-h">欧美游学</div><div class="psy-en">Overseas Study Tours</div><div class="psy-desc">欧美名校沉浸式游学，实地探访世界顶尖学府与人文胜地，开拓国际视野，提前规划升学与成长路径。</div><div class="psy-tags"><span class="ptag">名校探访</span><span class="ptag">国际视野</span></div></div>
+    <div class="psy-card"><span class="psy-icon">🏕️</span><div class="psy-h">夏令营</div><div class="psy-en">Summer Camp</div><div class="psy-desc">学术、科创、户外、人文等主题夏令营，在沉浸式体验中培养独立生活、团队协作与主动探索的能力。</div><div class="psy-tags"><span class="ptag">学术营</span><span class="ptag">科创营</span><span class="ptag">户外</span></div></div>
+    <div class="psy-card"><span class="psy-icon">🎒</span><div class="psy-h">周末营</div><div class="psy-en">Weekend Camp</div><div class="psy-desc">就近开展的周末短期营，成长工作坊与实践活动相结合，平衡学业与综合素养提升，家长省心。</div><div class="psy-tags"><span class="ptag">成长工作坊</span><span class="ptag">实践</span></div></div>
+    <div class="psy-card"><span class="psy-icon">💼</span><div class="psy-h">青少年CEO培养</div><div class="psy-en">Young CEO Program</div><div class="psy-desc">商业思维启蒙、项目实战、商业路演与表达，从小培养创业家精神、财商与商业领导力。</div><div class="psy-tags"><span class="ptag">商业思维</span><span class="ptag">项目实战</span><span class="ptag">路演表达</span></div></div>
+    <div class="psy-card"><span class="psy-icon">🧭</span><div class="psy-h">领导力提升</div><div class="psy-en">Leadership Development</div><div class="psy-desc">团队协作、公众表达、决策与责任担当的系统训练，全面提升青少年的领导力与影响力。</div><div class="psy-tags"><span class="ptag">团队协作</span><span class="ptag">公众表达</span><span class="ptag">决策力</span></div></div>
+  </div>
+</div>
+
 <!-- Panel: AI Consult -->
 <div class="panel" id="panel-aiconsult">
   <span class="eyebrow">AI PSYCHOLOGY ASSISTANT</span>
@@ -458,8 +474,8 @@ footer p{font-size:11px;color:#555;}footer a{color:var(--gold);text-decoration:n
     <a href="domestic.html" class="cbtn-o">⚖ 查看法律服务</a>
   </div>
 </div>
-<footer><p>© 2026 <a href="index.html">律连全球 · igloballawyer.com</a> · 广东融关律师事务所 · 粤ICP备17013427号</p><div style="display:flex;gap:1rem;"><a href="international.html" style="font-size:11px;color:#666;text-decoration:none;">国际业务</a><a href="domestic.html" style="font-size:11px;color:#666;text-decoration:none;">国内业务</a></div></footer>
-<button class="float-btn" onclick="showP('book',document.querySelectorAll('.snav-item')[7])">💬</button>
+<footer><p>© 2026 <a href="index.html">律连全球 · igloballawyer.com</a> · 广东融关律师事务所</p><div style="display:flex;gap:1rem;"><a href="international.html" style="font-size:11px;color:#666;text-decoration:none;">国际业务</a><a href="domestic.html" style="font-size:11px;color:#666;text-decoration:none;">国内业务</a></div></footer>
+<button class="float-btn" onclick="showP('book',document.querySelector('.snav-item:last-child'))">💬</button>
 <style>@keyframes blink{0%,100%{opacity:1;}50%{opacity:0.2;}}
 /* 旗舰测评卡 */
 .flagship-card{display:flex;gap:1.5rem;background:linear-gradient(135deg,var(--psy) 0%,#3a2a5a 100%);padding:2rem;border:1px solid rgba(196,168,224,0.3);margin-bottom:2rem;align-items:center;border-radius:8px;}
@@ -674,9 +690,9 @@ const I18N_EN = {
   "融关人以实践推动法治进步，《物权法》《民事诉讼法》有融关人的立法建议；二十余年累计捐款逾五百万元。":"Rongguan advances rule of law through practice, contributing to the Property and Civil Procedure Laws, with over ¥5M donated in 20+ years.",
   "首次咨询免费 · 中英双语 · 24小时内回复 · Free First Consultation":"Free first consult · Bilingual · Reply within 24h",
   "美国OFAC、欧盟、联合国制裁体系合规评估，识别供应链和交易对手方制裁风险，制定合规管理方案。":"OFAC/EU/UN sanctions compliance assessment, identifying supply-chain and counterparty risks.",
-  "· 广东融关律师事务所 · 粤ICP备17013427号 · 本站内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · ICP 17013427 · Content for reference only, not legal advice",
+  "· 广东融关律师事务所 · 本站内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · Content for reference only, not legal advice",
   "熟悉国际商会ICC、香港国际仲裁中心HKIAC仲裁规则，代理跨境商事争议，支持多法域协作。":"Familiar with ICC and HKIAC rules, handling cross-border commercial disputes across jurisdictions.",
-  "· 广东融关律师事务所 · 粤ICP备17013427号 · 内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · ICP 17013427 · For reference only, not legal advice",
+  "· 广东融关律师事务所 · 内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · For reference only, not legal advice",
   "欧盟CSDD企业可持续发展尽职调查指令合规，中国供应链合规体系建设，应对境外采购商审查。":"EU CSDD due diligence compliance and supply-chain systems for overseas buyer audits.",
   "代理诉讼离婚与协议离婚全程，专业处理财产分割方案，兼顾法律与情感双重维度，有温度有力度。":"Full divorce representation (litigated and uncontested) handling property division with both legal rigor and emotional care.",
   "美国EAR/ITAR、中国《出口管制法》合规评估，许可证申请，违规应对及内控体系建设。":"EAR/ITAR and China Export Control Law compliance, license applications and internal control systems.",
@@ -778,7 +794,7 @@ const I18N_EN = {
   "资质，在法律服务之外为当事人提供全方位情绪支持与家庭疏导。":" credentials, providing comprehensive emotional and family support beyond legal services.",
   "iGlobal Law | 律连全球 · 国际商贸法律日报":"iGlobal Law · International Commercial Law Daily",
   "评估在亲密关系中的依恋类型（回避/焦虑），改善伴侣关系。":"Assesses attachment style (avoidant/anxious) in intimate relationships to improve them.",
-  "· 广东融关律师事务所 · 粤ICP备17013427号":"· Guangdong Rongguan Law Firm · ICP 17013427",
+  "· 广东融关律师事务所":"· Guangdong Rongguan Law Firm",
   "电话/微信/邮件沟通，了解基本情况，评估法律需求（免费）":"Phone/WeChat/email contact to understand your situation and assess needs (free).",
   "融关有您｜周行有道 跃马凌云——诚挚欢迎周跃律师加入融关":"Firm News | Warmly welcoming Attorney Zhou Yue to Rongguan",
   "扫码支付，境内外微信账户均可，实时到账，支持开具电子发票":"Scan to pay with domestic/overseas WeChat accounts; instant, with e-invoices.",
@@ -1078,6 +1094,14 @@ const I18N_EN = {
   "📅 预约咨询":"Book",
   "📞 立即咨询":"Consult Now",
   "🤖 AI咨询":"AI Consult",
+  "✈️ 游学研学":"✈️ Study Tours",
+  "游学研学":"Study Tours & Enrichment",
+  "走出课堂，在真实世界中成长 —— 视野、能力与品格的全面历练":"Learning beyond the classroom — growing vision, ability and character in the real world",
+  "欧美游学":"Overseas Study Tours",
+  "夏令营":"Summer Camp",
+  "周末营":"Weekend Camp",
+  "青少年CEO培养":"Young CEO Program",
+  "领导力提升":"Leadership Development",
   "生成今日日报":"Generate Today's Report",
   "生成本周周报":"Generate Weekly",
   "HKIAC":"HKIAC",

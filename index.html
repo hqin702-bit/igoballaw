@@ -406,8 +406,8 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
     <a href="index.html" class="logo">
       <div class="logo-mark"><img src="images/seal-rong-192.png" alt="融" style="width:100%;height:100%;border-radius:50%;object-fit:cover;"></div>
       <div>
-        <span class="logo-name">律连全球 · igloballawyer.com</span>
-        <span class="logo-domain">秦林蒿律师 · 广东融关律师事务所</span>
+        <span class="logo-name">律连全球 · iGlobal Law</span>
+        <span class="logo-domain">秦林蒿律师 · 广东融关</span>
       </div>
     </a>
     <div class="nav-links">
@@ -511,7 +511,8 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
   .nav-links{display:none;}
   .navbar .nav-links{display:none;}
   .nav-mobile-toggle{display:flex !important;}
-  .logo-name,.nav-domain,.nav-title{font-size:13px !important;}
+  .logo-name,.nav-domain,.nav-title{font-size:13px !important;white-space:nowrap;}
+  .logo-domain{white-space:nowrap;letter-spacing:0.5px;}
   .nav-sub{display:none;}
   .lang-flag-toggle{transform:scale(0.9);}
   /* Hero */
@@ -880,10 +881,10 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
 <!-- DB STRIP -->
 <section class="db-section">
   <div class="container">
-    <div class="db-header">
+    <div class="db-header" style="justify-content:center;text-align:center;">
       <div>
-        <span class="section-label" style="display:inline;">Official Legal Resources</span>
-        <span class="db-title"> &nbsp;官方法律资源直连</span>
+        <span class="section-label" style="display:block;margin-bottom:6px;letter-spacing:2px;">Official Legal Resources</span>
+        <span class="db-title">官方法律资源直连</span>
       </div>
     </div>
     <div class="db-grid">
@@ -898,7 +899,8 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
 </section>
 
 <!-- PAYMENT -->
-<section class="pay-section">
+<!-- 支付板块：备案期间隐藏，备案通过后删掉下行 style 即可恢复 -->
+<section class="pay-section" style="display:none;">
   <div class="container">
     <div class="section-header center reveal">
       <span class="section-label">Flexible Payment Options</span>
@@ -1033,7 +1035,7 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
     </div>
   </div>
   <div class="footer-bottom">
-    <div class="footer-copy">© 2026 <a href="#">律连全球 · igloballawyer.com</a> · 广东融关律师事务所 · 粤ICP备17013427号 · 本站内容仅供参考，不构成法律意见</div>
+    <div class="footer-copy">© 2026 <a href="#">律连全球 · igloballawyer.com</a> · 广东融关律师事务所 · 本站内容仅供参考，不构成法律意见</div>
     <div class="footer-legal"><a href="#">法律声明</a><a href="#">隐私政策</a><a href="#">English</a></div>
   </div>
 </footer>
@@ -1312,9 +1314,9 @@ const I18N_EN = {
   "融关人以实践推动法治进步，《物权法》《民事诉讼法》有融关人的立法建议；二十余年累计捐款逾五百万元。":"Rongguan advances rule of law through practice, contributing to the Property and Civil Procedure Laws, with over ¥5M donated in 20+ years.",
   "首次咨询免费 · 中英双语 · 24小时内回复 · Free First Consultation":"Free first consult · Bilingual · Reply within 24h",
   "美国OFAC、欧盟、联合国制裁体系合规评估，识别供应链和交易对手方制裁风险，制定合规管理方案。":"OFAC/EU/UN sanctions compliance assessment, identifying supply-chain and counterparty risks.",
-  "· 广东融关律师事务所 · 粤ICP备17013427号 · 本站内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · ICP 17013427 · Content for reference only, not legal advice",
+  "· 广东融关律师事务所 · 本站内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · Content for reference only, not legal advice",
   "熟悉国际商会ICC、香港国际仲裁中心HKIAC仲裁规则，代理跨境商事争议，支持多法域协作。":"Familiar with ICC and HKIAC rules, handling cross-border commercial disputes across jurisdictions.",
-  "· 广东融关律师事务所 · 粤ICP备17013427号 · 内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · ICP 17013427 · For reference only, not legal advice",
+  "· 广东融关律师事务所 · 内容仅供参考，不构成法律意见":"· Guangdong Rongguan Law Firm · For reference only, not legal advice",
   "欧盟CSDD企业可持续发展尽职调查指令合规，中国供应链合规体系建设，应对境外采购商审查。":"EU CSDD due diligence compliance and supply-chain systems for overseas buyer audits.",
   "代理诉讼离婚与协议离婚全程，专业处理财产分割方案，兼顾法律与情感双重维度，有温度有力度。":"Full divorce representation (litigated and uncontested) handling property division with both legal rigor and emotional care.",
   "美国EAR/ITAR、中国《出口管制法》合规评估，许可证申请，违规应对及内控体系建设。":"EAR/ITAR and China Export Control Law compliance, license applications and internal control systems.",
@@ -1416,7 +1418,7 @@ const I18N_EN = {
   "资质，在法律服务之外为当事人提供全方位情绪支持与家庭疏导。":" credentials, providing comprehensive emotional and family support beyond legal services.",
   "iGlobal Law | 律连全球 · 国际商贸法律日报":"iGlobal Law · International Commercial Law Daily",
   "评估在亲密关系中的依恋类型（回避/焦虑），改善伴侣关系。":"Assesses attachment style (avoidant/anxious) in intimate relationships to improve them.",
-  "· 广东融关律师事务所 · 粤ICP备17013427号":"· Guangdong Rongguan Law Firm · ICP 17013427",
+  "· 广东融关律师事务所":"· Guangdong Rongguan Law Firm",
   "电话/微信/邮件沟通，了解基本情况，评估法律需求（免费）":"Phone/WeChat/email contact to understand your situation and assess needs (free).",
   "融关有您｜周行有道 跃马凌云——诚挚欢迎周跃律师加入融关":"Firm News | Warmly welcoming Attorney Zhou Yue to Rongguan",
   "扫码支付，境内外微信账户均可，实时到账，支持开具电子发票":"Scan to pay with domestic/overseas WeChat accounts; instant, with e-invoices.",
