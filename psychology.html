@@ -430,7 +430,7 @@ footer p{font-size:11px;color:#555;}footer a{color:var(--gold);text-decoration:n
       <button onclick="addPQ('和父母沟通困难，怎么改善？')" style="background:rgba(255,255,255,0.04);border:1px solid rgba(196,168,224,0.2);color:#AAA;font-size:10px;padding:4px 10px;border-radius:2px;cursor:pointer;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;">亲子沟通</button>
     </div>
     <div style="display:flex;gap:8px;">
-      <input id="psyInp" style="flex:1;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.1);padding:9px 12px;color:#DDD;font-size:12px;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;outline:none;border-radius:2px;" placeholder="输入您的问题...">
+      <input id="psyInp" style="flex:1;min-width:0;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.1);padding:9px 12px;color:#DDD;font-size:12px;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;outline:none;border-radius:2px;" placeholder="输入您的问题...">
       <button onclick="sendP()" style="background:var(--purple);border:none;padding:9px 16px;font-size:12px;font-weight:700;color:white;cursor:pointer;font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;border-radius:2px;">发送</button>
     </div>
   </div>
@@ -532,7 +532,10 @@ footer p{font-size:11px;color:#555;}footer a{color:var(--gold);text-decoration:n
   .nav-mobile-toggle{display:flex !important;}
   .logo-name,.nav-domain,.nav-title{font-size:13px !important;}
   .nav-sub{display:none;}
-  .lang-flag-toggle{transform:scale(0.9);}
+  html{overflow-x:hidden;}
+  body{max-width:100vw;}
+  .nav-right,.nav-inner{min-width:0;}
+  .lang-flag-toggle{transform:scale(0.82);transform-origin:right center;}
   /* Hero */
   .hero-left{padding:2.5rem 1.25rem 1.5rem;}
   .hero-title,.hero-h1{font-size:1.75rem !important;}
