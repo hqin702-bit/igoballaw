@@ -395,10 +395,40 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
   <div class="ticker-tag">⚡ 律连全球</div>
   <div class="ticker-track">
     <div class="ticker-inner">
-      <span>2026.05.29 | 商务部就美国扩大芯片出口管制提出严正交涉 &nbsp;｜&nbsp; 最高院发布跨境电商平台责任典型案例 &nbsp;｜&nbsp; CIETAC《2026仲裁规则》修订草案出台 &nbsp;｜&nbsp; 广东自贸区跨境数据流动白名单扩至32类 &nbsp;｜&nbsp; 欧盟CSDD指令：中国供应链企业合规窗口期仅余8个月 &nbsp;&nbsp;&nbsp;&nbsp; 2026.05.29 | 商务部就美国扩大芯片出口管制提出严正交涉 &nbsp;｜&nbsp; 最高院发布跨境电商平台责任典型案例 &nbsp;｜&nbsp; CIETAC《2026仲裁规则》修订草案出台 &nbsp;｜&nbsp; 广东自贸区跨境数据流动白名单扩至32类 &nbsp;｜&nbsp; 欧盟CSDD指令：中国供应链企业合规窗口期仅余8个月</span>
+      <span id="tickerText">2026.05.29 | 商务部就美国扩大芯片出口管制提出严正交涉 &nbsp;｜&nbsp; 最高院发布跨境电商平台责任典型案例 &nbsp;｜&nbsp; CIETAC《2026仲裁规则》修订草案出台 &nbsp;｜&nbsp; 广东自贸区跨境数据流动白名单扩至32类 &nbsp;｜&nbsp; 欧盟CSDD指令：中国供应链企业合规窗口期仅余8个月 &nbsp;&nbsp;&nbsp;&nbsp; 2026.05.29 | 商务部就美国扩大芯片出口管制提出严正交涉 &nbsp;｜&nbsp; 最高院发布跨境电商平台责任典型案例 &nbsp;｜&nbsp; CIETAC《2026仲裁规则》修订草案出台 &nbsp;｜&nbsp; 广东自贸区跨境数据流动白名单扩至32类 &nbsp;｜&nbsp; 欧盟CSDD指令：中国供应链企业合规窗口期仅余8个月</span>
     </div>
   </div>
 </div>
+
+<script>
+/* 首页滚动栏：读取 news.json，与每日日报同步自动更新 */
+(function(){
+  fetch('news.json?_='+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var el=document.getElementById('tickerText'); if(!el) return;
+    var date=d.dateLabel?d.dateLabel.split(' · ')[0].replace('年','.').replace('月','.').replace('日',''):'';
+    var items=['focus','case','policy','analysis'].map(function(k){return d[k]&&d[k].title;}).filter(Boolean);
+    if(!items.length) return;
+    var line=(date?date+' | ':'')+items.join(' &nbsp;｜&nbsp; ');
+    el.innerHTML=line+' &nbsp;&nbsp;&nbsp;&nbsp; '+line;
+  }).catch(function(){});
+})();
+</script>
+
+<script>
+/* 拨号按钮时段门控：营业时间(北京 9:00-21:00)外，点击拨号改为引导加微信/留言，避免跨时区夜间打扰 */
+document.addEventListener('DOMContentLoaded',function(){
+  var h=(new Date().getUTCHours()+8)%24;
+  if(h>=9 && h<21) return; // 营业时段，正常拨号
+  document.querySelectorAll('a[href^="tel:"]').forEach(function(a){
+    a.title='非工作时间（北京时间 9:00–21:00 营业）· 点此加微信 law5488 预约或留言';
+    a.addEventListener('click',function(e){
+      e.preventDefault();
+      if(typeof openWechat==='function') openWechat();
+      else location.hash='#contact';
+    });
+  });
+});
+</script>
 
 <!-- NAV -->
 <nav class="navbar" id="navbar">
@@ -739,7 +769,7 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
 <section class="portals-section">
   <div class="container">
     <div class="section-header center reveal">
-      <span class="section-label">Three Practice Dimensions</span>
+      <span class="section-label">Our Core Practice Areas</span>
       <h2 class="section-title">选择您需要的服务</h2>
       <p class="section-sub">三大核心领域，每个均有独立详细专页</p>
       <div class="gold-rule"></div>
@@ -784,6 +814,19 @@ footer{background:#060D15;padding:3rem 3rem 1.5rem;border-top:2px solid rgba(201
           <div class="portal-link">查看家庭心理服务 <i class="fas fa-arrow-right"></i></div>
         </div>
       </a>
+    </div>
+  </div>
+</section>
+
+<!-- 日报 / 周报入口 -->
+<section style="background:var(--navy);padding:48px 1.5rem;">
+  <div style="max-width:960px;margin:0 auto;text-align:center;">
+    <span class="section-label" style="color:var(--gold-lt);">Daily &amp; Weekly Legal Briefing</span>
+    <h2 class="section-title" style="color:#fff;margin:8px 0 6px;">国际商贸法律日报</h2>
+    <p style="color:rgba(255,255,255,0.62);font-size:14px;line-height:1.7;margin-bottom:1.6rem;">AI 辅助 · 每个工作日自动更新涉外法律资讯，周五自动汇总本周精华</p>
+    <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+      <a href="daily-report.html" style="display:inline-flex;align-items:center;gap:8px;background:var(--gold);color:var(--ink);font-weight:700;font-size:14px;padding:12px 26px;border-radius:6px;text-decoration:none;"><i class="fas fa-newspaper"></i> 阅读今日日报</a>
+      <a href="daily-report.html" style="display:inline-flex;align-items:center;gap:8px;background:transparent;color:var(--gold-lt);border:1px solid var(--gold);font-weight:700;font-size:14px;padding:12px 26px;border-radius:6px;text-decoration:none;"><i class="fas fa-calendar-week"></i> 本周周报</a>
     </div>
   </div>
 </section>
@@ -1172,6 +1215,10 @@ function showTeam(id,btn){
 /* ===== 中英双语引擎 v2 (substring, longest-first) ===== */
 const I18N_EN = {
   "｜":"|",
+  "国际商贸法律日报":"Intl Commercial Law Daily",
+  "AI 辅助 · 每个工作日自动更新涉外法律资讯，周五自动汇总本周精华":"AI-assisted · auto-updated every business day, with a weekly digest each Friday",
+  "阅读今日日报":"Read Today's Brief",
+  "本周周报":"This Week's Digest",
   "📲 安装到桌面":"📲 Install to Home Screen",
   "年":"yrs",
   "秦林蒿律师，广东融关律师事务所合伙人、涉外律师，":"Qin Linhao, partner and cross-border lawyer at Guangdong Rongguan Law Firm, ",
