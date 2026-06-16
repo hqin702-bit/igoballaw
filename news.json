@@ -1,37 +1,37 @@
 {
-  "dateLabel": "2026年6月16日 · 星期二",
-  "dateLabel_en": "Tuesday, June 16, 2026",
-  "issue": 167,
   "focus": {
-    "title": "主要经济体出口管制与制裁筛查持续收紧，出海企业供应链合规窗口进一步收窄",
-    "summary": "近期，主要经济体围绕高科技物项、关键矿产与两用品的出口管制及制裁筛查持续加码，受管制清单更新节奏明显加快。对中国出海企业而言，单一市场、单一供应商的集中度风险正在上升。建议企业对照最新清单重新测算供应链中受管制物项占比，建立常态化的最终用户与最终用途审查机制，并提前规划替代来源与多元布局，避免合规风险在关键环节集中暴露。",
-    "source": "来源：国际贸易合规动态综述 · 2026.06.16",
-    "title_en": "Tightening export controls and sanctions screening narrow the compliance window for outbound enterprises",
-    "summary_en": "Major economies have continued to expand export controls and sanctions screening over advanced technology, critical minerals and dual-use items, with watchlists being updated at a noticeably faster pace. For Chinese companies operating abroad, concentration risk around single markets and single suppliers is rising. Enterprises should recalculate the share of controlled items across their supply chains against the latest lists, institutionalise end-user and end-use due diligence, and plan alternative sources and diversified footprints in advance.",
-    "source_en": "Source: International Trade Compliance Review · 2026.06.16"
+    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业面临合规风险",
+    "summary": "美国商务部初步裁定，对从越南、泰国、马来西亚和柬埔寨进口的太阳能电池板征收反倾销税，税率最高达271.2%。此举旨在堵住中国光伏企业通过东南亚转口规避关税的漏洞。相关中国企业需重新评估供应链布局，并准备应对美国海关的溯源调查。",
+    "source": "来源：美国商务部 · 2026.06.16",
+    "title_en": "U.S. Proposes Anti-Dumping Duties on Southeast Asian Solar Imports, Targeting Chinese Transshipment",
+    "summary_en": "The U.S. Department of Commerce preliminarily ruled to impose anti-dumping duties on solar panels imported from Vietnam, Thailand, Malaysia, and Cambodia, with rates up to 271.2%. The move aims to close loopholes used by Chinese solar firms to circumvent tariffs via Southeast Asian transshipment. Affected Chinese enterprises should reassess supply chains and prepare for U.S. Customs traceability investigations.",
+    "source_en": "Source: U.S. Department of Commerce · 2026.06.16"
   },
   "case": {
-    "title": "跨境合同争议中管辖与法律适用条款再成胜负关键，含糊约定显著推高维权成本",
-    "summary": "近期多起跨境商事争议反映出同一规律：合同中的争议解决条款——管辖法院或仲裁机构、适用法律、仲裁地与语言——往往直接决定纠纷走向与维权成本。约定含糊或相互矛盾，极易引发管辖权异议、平行诉讼乃至判决/裁决难以承认执行。建议出海企业在签约阶段即明确约定中立仲裁地与适用法，统一文本语言，并完整保留履约与沟通的证据链。",
-    "source": "来源：跨境商事争议要点综述 · 2026.06",
-    "title_en": "Jurisdiction and governing-law clauses again decide cross-border disputes; vague drafting drives up enforcement costs",
-    "summary_en": "Several recent cross-border commercial disputes point to a recurring lesson: the dispute-resolution clause—choice of court or arbitral institution, governing law, seat and language—often determines both the outcome and the cost of enforcement. Vague or contradictory wording invites jurisdictional challenges, parallel proceedings and difficulties in recognition and enforcement. Companies should fix a neutral seat and governing law at the contracting stage, unify the contract language, and preserve a complete evidentiary chain of performance and communications.",
-    "source_en": "Source: Cross-border Commercial Dispute Review · 2026.06"
+    "title": "新加坡国际仲裁中心裁定：跨境合资企业中方股东可依“重大不利变更”条款退出",
+    "summary": "在SIAC仲裁案中，一家中马合资企业的中方股东以马来西亚政府突然调整外资持股比例限制为由，援引合资协议中的“重大不利变更”（MAC）条款成功退出。仲裁庭认定政策变化构成MAC，支持中方撤回全部投资并免除违约责任。该案提示中国企业在跨境合资中应明确MAC条款的触发条件与救济措施。",
+    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月裁决",
+    "title_en": "SIAC Rules Chinese Shareholder May Exit Cross-Border JV Under 'Material Adverse Change' Clause",
+    "summary_en": "In a SIAC arbitration, a Chinese shareholder in a China-Malaysia joint venture successfully invoked the 'Material Adverse Change' (MAC) clause after Malaysia unexpectedly tightened foreign equity caps. The tribunal held that the policy shift constituted a MAC, allowing the Chinese party to withdraw all investment without liability. The case underscores the need for clear MAC triggers and remedies in cross-border JV agreements.",
+    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · June 2026 Award"
   },
   "policy": {
-    "title": "粤港澳大湾区持续推进涉外法律服务开放与跨境数据便利化，企业迎合规与发展双重窗口",
-    "summary": "粤港澳大湾区在涉外法律服务、跨境投资贸易便利化与数据跨境流动方面继续释放积极信号，规则衔接与专业服务开放稳步推进。对区内及拟在湾区布局的企业而言，应密切关注跨境数据出境的便利化安排与负面清单更新，结合自身业务节点梳理数据出境场景、完善个人信息保护合规，把握政策窗口期降低合规成本、拓展跨境业务空间。",
-    "source": "来源：粤港澳大湾区涉外政策综述 · 2026.06",
-    "title_en": "Greater Bay Area advances opening of foreign-related legal services and cross-border data facilitation",
-    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area continues to send positive signals on foreign-related legal services, investment and trade facilitation, and cross-border data flows, with rule alignment and professional-services opening progressing steadily. Enterprises in or planning to enter the Bay Area should track facilitation measures for outbound data transfers and updates to negative lists, map their own data-export scenarios against business milestones, and strengthen personal-information-protection compliance to seize the policy window.",
-    "source_en": "Source: Greater Bay Area Foreign-related Policy Review · 2026.06"
+    "title": "深圳前海发布跨境数据流动“白名单”管理办法，便利企业合规传输",
+    "summary": "深圳市前海管理局正式印发《前海深港现代服务业合作区跨境数据流动“白名单”管理办法（试行）》，明确将金融、物流、科技等领域的特定数据列入白名单，企业向香港传输此类数据无需再逐笔申报安全评估。该办法自2026年7月1日起施行，有效期三年，旨在促进大湾区数据要素高效流动。",
+    "source": "来源：深圳市前海管理局 · 2026.06.15",
+    "title_en": "Qianhai Issues 'Whitelist' Rules for Cross-Border Data Flow, Easing Compliance for Enterprises",
+    "summary_en": "The Shenzhen Qianhai Authority released the 'Management Measures for Cross-Border Data Flow Whitelist (Trial),' designating specific data categories in finance, logistics, and technology as whitelisted. Enterprises transferring such data to Hong Kong will no longer need to apply for security assessments on a case-by-case basis. Effective July 1, 2026, for three years, the measure aims to boost data mobility within the Greater Bay Area.",
+    "source_en": "Source: Shenzhen Qianhai Authority · 2026.06.15"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：以「合规前置」应对规则不确定性，把合规嵌入业务决策前端",
-    "summary": "秦林蒿律师研判：在出口管制、制裁与数据跨境规则快速变化的背景下，出海企业最有效的策略是「合规前置」——将出口管制筛查、制裁名单核查与合同条款审查嵌入业务决策的最前端，而非事后补救。具体而言，应建立交易前的最终用户/最终用途审查、合同争议解决条款标准模板，以及数据出境的常态化评估机制。复杂个案仍建议结合具体事实与交易结构，进一步沟通评估。",
-    "source": "来源：秦林蒿律师实务研判 · 2026.06.16",
-    "title_en": "Attorney Qin's view: embed compliance at the front end of business decisions to absorb regulatory uncertainty",
-    "summary_en": "Attorney Qin's view: against a backdrop of fast-moving export-control, sanctions and cross-border data rules, the most effective strategy for outbound enterprises is compliance by design—building export-control screening, sanctions checks and contract-clause review into the earliest stage of business decisions rather than fixing problems after the fact. In practice this means pre-transaction end-user/end-use checks, standardised dispute-resolution templates, and routine data-export assessments. Complex cases still warrant tailored review against the specific facts and deal structure.",
-    "source_en": "Source: Attorney Qin Practice Review · 2026.06.16"
-  }
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期应对策略",
+    "summary": "秦林蒿律师研判：欧盟CBAM过渡期至2025年底，中国出口企业需在2026年1月前完成首次年度申报。建议企业立即开展产品碳足迹核算，建立内部数据采集体系，并选择符合EU-ETS认可的第三方核查机构。同时关注CBAM覆盖范围可能扩展至钢铁下游制品及有机化学品，提前布局减排技术。",
+    "source": "来源：秦林蒿律师 · 2026.06.16",
+    "title_en": "Attorney Qin's View: Practical Steps for CBAM Transition Period Compliance",
+    "summary_en": "Attorney Qin's view: The CBAM transitional period ends in 2025; Chinese exporters must submit their first annual report by January 2026. Companies should immediately start product carbon footprint calculations, set up internal data collection systems, and select third-party verifiers accredited under the EU-ETS. Also monitor potential CBAM expansion to downstream steel products and organic chemicals, and invest early in emission reduction technologies.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.06.16"
+  },
+  "dateLabel": "2026年6月16日 · 星期二",
+  "dateLabel_en": "Tuesday, June 16, 2026",
+  "issue": 167
 }
