@@ -1,12 +1,14 @@
 name: 每日日报自动更新
 
+# 每个工作日（周一至周五）北京时间 07:17 运行（= UTC 23:17 前一天）
+# 用 :17 这种非整点/半点，避开 GitHub 定时最拥堵的时刻，降低被丢弃概率
 on:
   schedule:
-    - cron: '30 23 * * 0-4'
-  workflow_dispatch: {}
+    - cron: '17 23 * * 0-4'
+  workflow_dispatch: {}   # 也支持在 GitHub 网页上手动点一下立即运行
 
 permissions:
-  contents: write
+  contents: write          # 允许把生成的 news.json 提交回仓库
 
 jobs:
   generate:

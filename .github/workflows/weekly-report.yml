@@ -1,9 +1,9 @@
 name: 每周周报自动汇总
 
-# 每周五北京时间 18:00 运行（= UTC 10:00）
+# 每周五北京时间 18:13 运行（= UTC 10:13）；用非整点降低被 GitHub 丢弃概率
 on:
   schedule:
-    - cron: '0 10 * * 5'
+    - cron: '13 10 * * 5'
   workflow_dispatch: {}   # 也支持在 GitHub 网页上手动点一下立即运行
 
 permissions:
