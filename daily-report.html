@@ -72,7 +72,7 @@ body{font-family:'Noto Sans SC',"PingFang SC","Microsoft YaHei","Hiragino Sans G
 footer{background:#060D15;padding:2rem 3rem;text-align:center;border-top:2px solid rgba(201,168,76,0.2);}
 footer p{font-size:11px;color:rgba(255,255,255,0.3);}
 footer a{color:var(--gold);text-decoration:none;}
-@media(max-width:680px){.navbar,.report-masthead,.report-body{padding-left:1.25rem;padding-right:1.25rem;}.rm-brand{font-size:1.5rem;}.sub-form{flex-direction:column;}.report-actions{flex-direction:column;}.ra-btn{justify-content:center;}}
+@media(max-width:680px){.navbar,.report-masthead,.report-body{padding-left:1.5rem;padding-right:1.5rem;}.rm-brand{font-size:1.5rem;}.sub-form{flex-direction:column;}.report-actions{flex-direction:column;}.ra-btn{justify-content:center;}}
 </style>
 </head>
 <body>
@@ -89,12 +89,13 @@ footer a{color:var(--gold);text-decoration:none;}
 <div class="report-masthead">
   <div class="rm-grid"></div>
   <div class="rm-inner">
-    <div class="rm-brand">国际商贸法律日报</div>
+    <div class="rm-brand" id="rmBrand">国际商贸法律日报</div>
     <div class="rm-slogan">INTERNATIONAL COMMERCIAL LAW DAILY · 洞规 · 御险 · 笃行</div>
     <div class="rm-meta">
       <span class="rm-date" id="reportDate">2026年5月29日 · 星期五</span>
-      <span>第 <span id="dayNum">149</span> 期 · 内部参考</span>
-      <span class="auto-tag">AI 辅助 · 每日自动更新</span>
+      <span id="rmIssue">第 <span id="dayNum">149</span> 期 · 内部参考</span>
+      <span class="auto-tag" id="rmAuto">AI 辅助 · 每日自动更新</span>
+      <button id="rptLangBtn" onclick="setReportLang(window.rptLang==='en'?'zh':'en')" style="margin-left:auto;background:rgba(255,255,255,0.12);border:1px solid rgba(255,255,255,0.35);color:#fff;font-size:11px;padding:4px 14px;border-radius:14px;cursor:pointer;font-family:inherit;">EN</button>
     </div>
   </div>
 </div>
@@ -146,13 +147,13 @@ footer a{color:var(--gold);text-decoration:none;}
     </div>
   </div>
 
-  <div class="disclaimer">
+  <div class="disclaimer" id="rptDisclaimer">
     <strong>免责声明：</strong>本日报内容由AI辅助整理生成，信息来源于公开渠道，仅供参考，不构成任何法律意见或投资建议。具体法律问题请咨询秦林蒿律师（微信 law5488 / 电话 159 1983 5488）。日报版权归广东融关律师事务所涉外法律服务中心所有。
   </div>
 
   <div class="subscribe-box">
-    <h3>订阅每日法律资讯</h3>
-    <p>留下邮箱，每个工作日自动接收 iGlobal Law 国际商贸法律日报</p>
+    <h3 id="subH3">订阅每日法律资讯</h3>
+    <p id="subP">留下邮箱，每个工作日自动接收 iGlobal Law 国际商贸法律日报</p>
     <div class="sub-form">
       <input type="email" placeholder="您的邮箱 / Your email">
       <button onclick="alert('✅ 订阅成功！日报将发送至您的邮箱。')">订阅 Subscribe</button>
@@ -171,11 +172,13 @@ footer a{color:var(--gold);text-decoration:none;}
   function setText(id,txt){var el=document.getElementById(id);if(el&&txt)el.textContent=txt;}
   function setSource(id,txt){var el=document.getElementById(id);if(el&&txt)el.innerHTML='<i class="fas fa-link"></i> '+txt;}
   function fillSections(d){
+    window.RPT_LAST=d;
+    var en=window.rptLang==='en';
     ['focus','case','policy','analysis'].forEach(function(k){
       if(d[k]){
-        setText('ni-title-'+k,d[k].title);
-        setText('ni-summary-'+k,d[k].summary);
-        setSource('ni-source-'+k,d[k].source);
+        setText('ni-title-'+k, en&&d[k].title_en?d[k].title_en:d[k].title);
+        setText('ni-summary-'+k, en&&d[k].summary_en?d[k].summary_en:d[k].summary);
+        setSource('ni-source-'+k, en&&d[k].source_en?d[k].source_en:d[k].source);
       }
     });
   }
@@ -188,28 +191,29 @@ footer a{color:var(--gold);text-decoration:none;}
   fetch('news.json?_='+Date.now()).then(function(r){
     if(!r.ok) throw 0; return r.json();
   }).then(function(d){
-    if(d.dateLabel) setText('reportDate',d.dateLabel);
+    window.RPT_DATE={zh:d.dateLabel,en:d.dateLabel_en};
+    if(d.dateLabel) setText('reportDate', window.rptLang==='en'&&d.dateLabel_en?d.dateLabel_en:d.dateLabel);
     if(d.issue!=null) setText('dayNum',d.issue);
     fillSections(d);
   }).catch(function(){ /* news.json 不存在或无效时，保留页面内置的种子内容 */ });
 
   // 周报：点击「生成本周周报」加载 weekly.json（由 GitHub Actions 每周五自动汇总）
-  var weeklyOn=false;
+  window.weeklyOn=false;
   window.toggleWeekly=function(btn){
-    if(weeklyOn){ location.reload(); return; }
+    if(window.weeklyOn){ location.reload(); return; }
     fetch('weekly.json?_='+Date.now()).then(function(r){
       if(!r.ok) throw 0; return r.json();
     }).then(function(d){
-      weeklyOn=true;
-      if(d.weekLabel) setText('reportDate',d.weekLabel);
+      window.weeklyOn=true;
+      var en=window.rptLang==='en';
+      window.RPT_DATE={zh:d.weekLabel,en:d.weekLabel_en};
+      if(d.weekLabel) setText('reportDate', en&&d.weekLabel_en?d.weekLabel_en:d.weekLabel);
       if(d.issue!=null) setText('dayNum',d.issue);
       fillSections(d);
-      // 首个栏目标题/标签改为「本周要闻」
       var t=document.querySelector('.news-section-title');
-      if(t) t.innerHTML='<i class="fas fa-fire" style="color:var(--red);"></i> 本周要闻';
+      if(t) t.innerHTML='<i class="fas fa-fire" style="color:var(--red);"></i> '+(en?"This Week's Headlines":'本周要闻');
       var c=document.querySelector('.ni-cat.focus');
-      if(c) c.textContent='本周要闻';
-      // 顶部横幅标识
+      if(c) c.textContent=en?"This Week's Headlines":'本周要闻';
       var b=document.getElementById('weeklyBanner');
       if(!b){
         b=document.createElement('div'); b.id='weeklyBanner';
@@ -217,13 +221,54 @@ footer a{color:var(--gold);text-decoration:none;}
         var actions=document.querySelector('.report-actions');
         if(actions&&actions.parentNode) actions.parentNode.insertBefore(b, actions.nextSibling);
       }
-      b.innerHTML='📅 <b>本周周报</b> · 自动汇总本周 5 个工作日精华'+(d.weekLabel?' · '+d.weekLabel:'');
+      b.innerHTML=en?('📅 <b>Weekly Digest</b> · this week’s 5 working-day highlights'+(d.weekLabel?' · '+(d.weekLabel_en||d.weekLabel):'')):('📅 <b>本周周报</b> · 自动汇总本周 5 个工作日精华'+(d.weekLabel?' · '+d.weekLabel:''));
       b.style.display='block';
-      if(btn) btn.innerHTML='<i class="fas fa-arrow-left"></i> 返回每日日报';
+      if(btn) btn.innerHTML=en?'<i class="fas fa-arrow-left"></i> Back to Daily':'<i class="fas fa-arrow-left"></i> 返回每日日报';
       window.scrollTo({top:0,behavior:'smooth'});
     }).catch(function(){
-      alert('本周周报尚未生成。系统每周五 18:00 自动汇总，生成后再来点这里即可查看。');
+      alert(window.rptLang==='en'?"This week's digest isn't ready yet — it is auto-generated every Friday.":'本周周报尚未生成。系统每周五自动汇总，生成后再来点这里即可查看。');
     });
+  };
+
+  // 中 / EN 双语切换
+  var RPT={
+    brand:['国际商贸法律日报','Intl Commercial Law Daily'],
+    issuePre:['第 ','Issue '], issueSuf:[' 期 · 内部参考',' · Internal Reference'],
+    auto:['AI 辅助 · 每日自动更新','AI-assisted · Auto-updated'],
+    sec:[['当日焦点',"Today's Focus"],['典型案例','Case in Point'],['政策动态','Policy Update'],['律师研判',"Attorney's Analysis"]],
+    secIcon:['<i class="fas fa-fire" style="color:var(--red);"></i> ','<i class="fas fa-gavel" style="color:var(--gold-dk);"></i> ','<i class="fas fa-clipboard-list" style="color:var(--sky);"></i> ','<i class="fas fa-search" style="color:var(--gold-dk);"></i> '],
+    btnFull:['<i class="fas fa-file-alt"></i> 生成完整日报','<i class="fas fa-file-alt"></i> Full Report'],
+    btnWeek:['<i class="fas fa-calendar-week"></i> 生成本周周报',"<i class='fas fa-calendar-week'></i> This Week's Digest"],
+    btnSub:['<i class="fas fa-envelope"></i> 订阅日报','<i class="fas fa-envelope"></i> Subscribe'],
+    back:['<i class="fas fa-arrow-left"></i> 返回首页','<i class="fas fa-arrow-left"></i> Home'],
+    disc:['<strong>免责声明：</strong>本日报内容由AI辅助整理生成，信息来源于公开渠道，仅供参考，不构成任何法律意见或投资建议。具体法律问题请咨询秦林蒿律师（微信 law5488 / 电话 159 1983 5488）。日报版权归广东融关律师事务所涉外法律服务中心所有。',"<strong>Disclaimer: </strong>This brief is AI-assisted and compiled from public sources, for reference only and not legal or investment advice. For specific matters please consult Attorney Qin Linhao (WeChat law5488 / Tel 159 1983 5488). © Cross-border Legal Center, Guangdong Rongguan Law Firm."],
+    subH:['订阅每日法律资讯','Subscribe to the Daily Brief'],
+    subP:['留下邮箱，每个工作日自动接收 iGlobal Law 国际商贸法律日报','Leave your email to receive the iGlobal Law daily brief every business day']
+  };
+  window.rptLang='zh';
+  window.setReportLang=function(lang){
+    window.rptLang=lang; var i=lang==='en'?1:0;
+    function setHTML(id,h){var el=document.getElementById(id);if(el)el.innerHTML=h;}
+    function setTxt(id,t){var el=document.getElementById(id);if(el)el.textContent=t;}
+    setTxt('rmBrand',RPT.brand[i]); setTxt('rmAuto',RPT.auto[i]);
+    var dn=document.getElementById('dayNum'); var num=dn?dn.textContent:'';
+    setHTML('rmIssue',RPT.issuePre[i]+'<span id="dayNum">'+num+'</span>'+RPT.issueSuf[i]);
+    document.querySelectorAll('.news-section-title').forEach(function(el,idx){
+      if(idx===0){ el.innerHTML=RPT.secIcon[0]+(window.weeklyOn?(i?"This Week's Headlines":'本周要闻'):RPT.sec[0][i]); }
+      else if(RPT.sec[idx]){ el.innerHTML=RPT.secIcon[idx]+RPT.sec[idx][i]; }
+    });
+    document.querySelectorAll('.ni-cat').forEach(function(el,idx){
+      if(idx===0){ el.textContent=window.weeklyOn?(i?"This Week's Headlines":'本周要闻'):RPT.sec[0][i]; }
+      else if(RPT.sec[idx]){ el.textContent=RPT.sec[idx][i]; }
+    });
+    var bF=document.querySelector('.ra-primary'); if(bF) bF.innerHTML=RPT.btnFull[i];
+    var bW=document.getElementById('weeklyBtn'); if(bW&&!window.weeklyOn) bW.innerHTML=RPT.btnWeek[i];
+    var bS=document.querySelector('a.ra-btn[href*="contact"]'); if(bS) bS.innerHTML=RPT.btnSub[i];
+    var bk=document.querySelector('.back-btn'); if(bk) bk.innerHTML=RPT.back[i];
+    setHTML('rptDisclaimer',RPT.disc[i]); setTxt('subH3',RPT.subH[i]); setTxt('subP',RPT.subP[i]);
+    var rd=document.getElementById('reportDate'); if(rd&&window.RPT_DATE) rd.textContent=(lang==='en'&&window.RPT_DATE.en)?window.RPT_DATE.en:window.RPT_DATE.zh;
+    if(window.RPT_LAST) fillSections(window.RPT_LAST);
+    var lb=document.getElementById('rptLangBtn'); if(lb) lb.textContent=lang==='en'?'中文':'EN';
   };
 })();
 </script>
