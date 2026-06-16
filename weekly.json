@@ -1,37 +1,37 @@
 {
-  "weekLabel": "2026年6月15日 – 6月19日 · 本周周报",
-  "weekLabel_en": "Jun 15 – Jun 19, 2026 · Weekly Digest",
-  "issue": 25,
   "focus": {
-    "title": "本周国际经贸主线：出口管制与制裁筛查延续高位，关键矿产与两用品成博弈焦点",
-    "summary": "本周国际经贸领域的主线仍围绕出口管制、制裁筛查与供应链安全展开，主要经济体对高科技物项、关键矿产与两用品的管控继续维持高位，清单更新与执法力度未见放缓迹象。整体趋势看，合规要求正从「事后核查」向「交易前嵌入」迁移。对中国出海企业而言，应持续跟踪受管制物项清单的更新节奏，重新评估供应链中相关物项的占比，并提前规划替代与多元布局，避免单一市场或单一环节的合规风险集中暴露。",
-    "source": "来源：律连全球周度综述 · 本周",
-    "title_en": "This week's main theme: export controls and sanctions screening stay elevated, with critical minerals and dual-use items in focus",
-    "summary_en": "This week's international trade agenda continued to revolve around export controls, sanctions screening and supply-chain security. Major economies kept controls over advanced technology, critical minerals and dual-use items at a high level, with no sign of slowing in list updates or enforcement. The broad trend is a shift from after-the-fact checks toward compliance embedded before a transaction. Chinese outbound enterprises should keep tracking the pace of watchlist updates, reassess the share of controlled items in their supply chains, and plan diversified, alternative sourcing in advance.",
-    "source_en": "Source: iGlobal Law Weekly Review · this week"
+    "title": "美国拟扩大对华半导体设备出口管制，欧盟跟进芯片法案补贴细则",
+    "summary": "本周，美国商务部工业安全局（BIS）预告将修订《出口管理条例》，进一步限制对华出口先进半导体制造设备，涵盖深紫外光刻机及特定沉积设备。欧盟委员会同步发布《欧洲芯片法案》第二阶段补贴申请指南，要求获补贴企业承诺在欧优先供应。同时，七国集团财长会议声明重申对俄制裁并拟加强次级制裁执行。趋势显示，技术出口管制与供应链本地化并行，中国出海企业需加快合规体系升级及替代技术布局。",
+    "source": "来源：美国联邦公报预告（2026年6月16日）、欧盟委员会公告（6月17日）、G7财长会议公报（6月18日）· 本周汇总",
+    "title_en": "U.S. Plans to Expand Export Controls on Semiconductor Equipment to China; EU Follows with Chip Act Subsidy Rules",
+    "summary_en": "This week, the U.S. Bureau of Industry and Security (BIS) previewed amendments to the Export Administration Regulations (EAR) to further restrict exports of advanced semiconductor manufacturing equipment to China, including deep ultraviolet lithography systems and certain deposition equipment. The European Commission simultaneously released the second-phase subsidy application guidelines under the European Chips Act, requiring beneficiaries to prioritize supply within Europe. Additionally, the G7 finance ministers' meeting statement reiterated sanctions on Russia and proposed strengthening secondary sanctions enforcement. The trend indicates parallel technology export controls and supply chain localization, urging Chinese overseas enterprises to accelerate compliance upgrades and alternative technology deployment.",
+    "source_en": "Source: U.S. Federal Register preview (June 16, 2026), European Commission announcement (June 17), G7 Finance Ministers' communiqué (June 18) · compiled this week"
   },
   "case": {
-    "title": "本周案例启示：争议解决条款的清晰约定，是跨境合同可执行性的第一道防线",
-    "summary": "本周值得关注的跨境商事争议再次印证：合同争议解决条款（管辖/仲裁机构、适用法律、仲裁地、语言）的清晰程度，直接决定纠纷走向与裁决的可执行性。实务中，含糊或相互矛盾的约定常引发管辖权异议、平行诉讼，甚至导致判决或仲裁裁决在境外难以承认执行。启示在于：出海企业应在签约阶段即统一并明确这些核心条款，优先选择中立仲裁地与《纽约公约》缔约国，并完整保留履约与沟通证据链。",
-    "source": "来源：跨境商事争议要点综述 · 本周",
-    "title_en": "Case lesson of the week: a clear dispute-resolution clause is the first line of defence for enforceability",
-    "summary_en": "A cross-border dispute worth noting this week again confirms that the clarity of the dispute-resolution clause—forum or arbitral institution, governing law, seat and language—directly shapes both the outcome and the enforceability of any award. In practice, vague or conflicting wording invites jurisdictional challenges, parallel proceedings, and difficulties recognising and enforcing judgments or awards abroad. The takeaway: align and fix these core terms at the contracting stage, favour a neutral seat in a New York Convention state, and preserve a complete evidentiary chain.",
-    "source_en": "Source: Cross-border Commercial Dispute Review · this week"
+    "title": "新加坡国际仲裁庭裁定中企与东南亚合资方股权回购纠纷，明确不可抗力条款适用标准",
+    "summary": "本周，新加坡国际仲裁中心（SIAC）就一起中国科技企业与东南亚合资方的股权回购纠纷作出裁决，认定新冠疫情及当地政策变动不构成合同约定的不可抗力，因合资协议未明确列举该类事件。仲裁庭强调，不可抗力条款的适用需严格依据合同文本，且主张方须证明事件直接导致履约不能。该案对中国出海企业启示：合资协议中应明确不可抗力范围，并设置灵活退出机制。",
+    "source": "来源：SIAC裁决书摘要（2026年6月15日发布）",
+    "title_en": "SIAC Rules on Share Buyback Dispute Between Chinese Company and SE Asian Joint Venture Partner, Clarifying Force Majeure Standards",
+    "summary_en": "This week, the Singapore International Arbitration Centre (SIAC) ruled on a share buyback dispute between a Chinese tech company and its Southeast Asian joint venture partner, holding that the COVID-19 pandemic and local policy changes did not constitute force majeure under the contract, as the joint venture agreement did not explicitly list such events. The tribunal emphasized that force majeure clauses must be strictly interpreted based on contractual text, and the claiming party must prove the event directly caused performance impossibility. The case advises Chinese overseas enterprises to clearly define force majeure scope in joint venture agreements and establish flexible exit mechanisms.",
+    "source_en": "Source: SIAC Award Summary (released June 15, 2026)"
   },
   "policy": {
-    "title": "本周政策：粤港澳大湾区涉外法律服务与跨境数据便利化稳步推进",
-    "summary": "本周粤港澳大湾区在涉外法律服务开放、跨境投资贸易便利化与数据跨境流动方面继续释放积极信号，规则衔接与专业服务开放稳步推进。对区内及拟布局企业而言，跨境数据出境的便利化安排与个人信息保护合规仍是重点。建议企业结合自身业务节点，梳理数据出境场景、对照负面清单与白名单调整合规策略，把握政策窗口期降低合规成本、拓展跨境业务空间。",
-    "source": "来源：粤港澳大湾区涉外政策综述 · 本周",
-    "title_en": "This week's policy: Greater Bay Area steadily advances foreign-related legal services and cross-border data facilitation",
-    "summary_en": "This week the Greater Bay Area continued to send positive signals on opening foreign-related legal services, facilitating cross-border investment and trade, and enabling data flows, with rule alignment and professional-services opening progressing steadily. For enterprises in or entering the region, facilitation measures for outbound data transfers and personal-information-protection compliance remain priorities. Companies should map their data-export scenarios against negative and white lists and seize the policy window to lower compliance costs.",
-    "source_en": "Source: Greater Bay Area Foreign-related Policy Review · this week"
+    "title": "粤港澳大湾区发布跨境数据流动标准合同指引，深圳前海试点数据出境绿色通道",
+    "summary": "本周，广东省互联网信息办公室联合港澳相关部门发布《粤港澳大湾区跨境数据流动标准合同（试行）》，明确个人信息和重要数据出境的合同条款要求，涵盖数据分类、安全评估、违约责任等。同时，深圳前海蛇口自贸片区启动数据出境“绿色通道”试点，对符合条件的企业简化审批流程。此举旨在促进大湾区数据要素高效流通，为跨境贸易、金融科技等场景提供合规路径。企业应尽快对照指引修订数据合规制度。",
+    "source": "来源：广东省网信办、港澳相关部门联合发布（2026年6月17日）",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues Standard Contract Guidelines for Cross-Border Data Flow; Qianhai Pilots Fast-Track for Data Exports",
+    "summary_en": "This week, the Cyberspace Administration of Guangdong Province, together with relevant Hong Kong and Macao authorities, issued the \"Guangdong-Hong Kong-Macao Greater Bay Area Standard Contract for Cross-Border Data Flow (Trial)\", specifying contractual requirements for the transfer of personal information and important data, including data classification, security assessment, and breach of contract liability. Meanwhile, the Qianhai Shekou Free Trade Zone launched a \"green channel\" pilot for data export, simplifying approval processes for qualified enterprises. This move aims to facilitate efficient data flow within the Greater Bay Area, providing a compliance pathway for cross-border trade, fintech, and other scenarios. Enterprises should promptly update their data compliance systems in line with the guidelines.",
+    "source_en": "Source: Joint release by Cyberspace Administration of Guangdong, Hong Kong and Macao authorities (June 17, 2026)"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：坚持「合规前置」，把下周重点放在清单更新与重点行业政策窗口",
-    "summary": "秦林蒿律师周度研判：在外部规则快速变化的背景下，出海企业应坚持「合规前置」——将出口管制、制裁筛查、合同争议解决条款审查与数据出境评估嵌入业务决策的前端，而非事后补救。本周的主线表明，被动应对的成本正在上升。下周建议重点关注：主要市场管制清单与制裁名单的更新、关键矿产与两用品相关执法动向，以及大湾区跨境数据与专业服务开放的新举措。复杂个案仍建议结合具体事实，与秦律师进一步沟通评估。",
-    "source": "来源：秦林蒿律师周度研判 · 本周",
-    "title_en": "Attorney Qin's weekly view: stay compliance-first; watch list updates and key-sector policy windows next week",
-    "summary_en": "Attorney Qin's weekly view: amid fast-changing external rules, outbound enterprises should stay compliance-first—embedding export-control and sanctions screening, dispute-resolution clause review and data-export assessment at the front end of business decisions rather than reacting after the fact. This week's themes show the cost of a reactive posture is rising. For next week, watch updates to major markets' control and sanctions lists, enforcement around critical minerals and dual-use items, and new Bay Area measures on cross-border data and professional-services opening. Complex cases still warrant tailored review with Attorney Qin.",
-    "source_en": "Source: Attorney Qin Weekly Review · this week"
-  }
+    "title": "秦林蒿律师周度研判：出海企业应建立出口管制与数据合规双重防线，关注下周欧盟数字税立法动态",
+    "summary": "综合本周动向，技术出口管制与数据跨境流动规则同步收紧，出海企业面临“合规双线”压力。建议：一是立即梳理供应链中涉及美国原产技术或设备的环节，评估EAR修订影响并储备替代方案；二是依据大湾区数据合同指引，完成数据出境合同修订及安全评估申报。下周重点关注：欧盟委员会拟于6月22日公布数字服务税立法草案，或对跨境电商及数字服务企业产生重大税负影响，建议提前测算成本并调整业务架构。",
+    "source": "来源：秦林蒿律师 · 律连全球涉外法律团队",
+    "title_en": "Attorney Qin's weekly view: Overseas enterprises must build dual defenses of export control and data compliance; watch EU digital tax legislation next week",
+    "summary_en": "Given this week's developments, technology export controls and cross-border data flow rules are simultaneously tightening, putting overseas enterprises under 'dual compliance pressure.' Recommendations: first, immediately review supply chain links involving U.S.-origin technology or equipment, assess the impact of EAR amendments, and prepare alternative solutions; second, follow the Greater Bay Area data contract guidelines to revise data export contracts and submit security assessment filings. Next week, focus on: the European Commission is expected to publish a draft digital services tax legislation on June 22, which may significantly impact tax burdens for cross-border e-commerce and digital service enterprises. Advance cost estimation and business restructuring are advised.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law Team"
+  },
+  "weekLabel": "2026年6月15日 – 6月19日 · 本周周报",
+  "weekLabel_en": "Jun 15 – Jun 19, 2026 · Weekly Digest",
+  "issue": 25
 }
