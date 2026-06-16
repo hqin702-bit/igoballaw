@@ -1,37 +1,37 @@
 {
-  "focus": {
-    "title": "欧盟加征电动汽车关税与美方实体清单扩围：中国出海企业面临双重贸易壁垒升级",
-    "summary": "本周，欧盟正式宣布自7月起对中国进口电动汽车加征最高38.1%的临时反补贴关税，涵盖比亚迪、吉利、上汽等主要车企；美国商务部同步将13家中国实体列入出口管制实体清单，涉及半导体、量子计算等领域。两则动向标志着发达经济体对华贸易限制从传统商品向新能源、高科技产业链延伸，并呈现欧盟、美国、日本等多边协同趋势。中国企业需加速海外本地化布局与合规体系升级，以应对持续分化的全球市场准入条件。",
-    "source": "来源：欧盟委员会公告、美国联邦公报 · 2026年6月",
-    "title_en": "EU Imposes EV Tariffs and US Expands Entity List: Dual Trade Barriers Escalate for Chinese Overseas Companies",
-    "summary_en": "This week, the EU formally announced provisional anti-subsidy tariffs of up to 38.1% on Chinese electric vehicles starting July, targeting major automakers including BYD, Geely, and SAIC. Concurrently, the US Commerce Department added 13 Chinese entities to its export control entity list, covering semiconductors, quantum computing, and other fields. These moves indicate a coordinated expansion of trade restrictions from traditional goods to new energy and high-tech supply chains. Chinese enterprises must accelerate overseas localization and compliance upgrades to navigate increasingly fragmented market access conditions.",
-    "source_en": "Source: European Commission announcement, US Federal Register · June 2026"
-  },
-  "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境合资企业章程中“僵局条款”解释争议，强调善意谈判义务",
-    "summary": "本周，新加坡国际仲裁中心（SIAC）就一起中资企业与东南亚合作伙伴的合资纠纷作出裁决。双方因经营战略分歧触发章程中的“僵局条款”，仲裁庭认定该条款要求双方在启动强制出售程序前履行“善意谈判”义务，仅形式化会议不满足要求。裁决援引联合国国际贸易法委员会（UNCITRAL）关于善意原则的评注，驳回了中方要求立即解散合资公司的请求，要求双方在60天内重新谈判。该案提示出海企业：合资协议僵局条款应明确谈判标准，避免因模糊措辞丧失主动权。",
-    "source": "来源：新加坡国际仲裁中心 · 2026年6月",
-    "title_en": "SIAC Award on Deadlock Clause in Cross-Border Joint Venture: Good Faith Negotiation Obligation Upheld",
-    "summary_en": "This week, the Singapore International Arbitration Center (SIAC) ruled on a joint venture dispute between a Chinese company and a Southeast Asian partner. The tribunal held that the 'deadlock clause' in the JV charter requires both parties to engage in 'good faith negotiations' before invoking the forced sale mechanism, and that mere pro forma meetings are insufficient. Citing UNCITRAL commentaries on good faith, the tribunal denied the Chinese party's request for immediate dissolution and ordered 60-day renegotiation. The case underscores the need for clear negotiation standards in deadlock provisions to avoid losing leverage.",
-    "source_en": "Source: Singapore International Arbitration Center · June 2026"
-  },
-  "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地：企业需建立数据出境安全评估常态化机制",
-    "summary": "本周，广东省互联网信息办公室发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，明确自2026年8月1日起，大湾区内地九市向香港、澳门传输重要数据和个人信息须通过安全评估或适用标准合同备案。新规细化了“重要数据”目录、评估流程及时限（45个工作日），并首次将跨境金融、医疗、物流等场景的豁免条件制度化。企业应尽快梳理数据资产、完成合规差距分析，并关注后续配套指南。",
-    "source": "来源：广东省互联网信息办公室 · 2026年6月",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area: Enterprises Must Establish Routine Security Assessment Mechanisms",
-    "summary_en": "This week, the Cyberspace Administration of Guangdong Province issued the 'Provisions on the Management of Data Cross-Border Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', effective August 1, 2026. The rules require that transfers of important data and personal information from nine mainland cities in the GBA to Hong Kong and Macao undergo security assessments or adopt standard contractual clauses. The provisions detail the 'important data' catalog, assessment timeline (45 working days), and for the first time institutionalize exemption conditions for cross-border financial, medical, and logistics scenarios. Enterprises should promptly inventory data assets, conduct compliance gap analyses, and monitor subsequent implementation guidelines.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · June 2026"
-  },
-  "analysis": {
-    "title": "秦林蒿律师周度研判：出海企业应建立“双轨”合规体系应对欧盟关税与数据新规叠加冲击",
-    "summary": "本周欧盟电动汽车关税与湾区数据新规同时落地，折射出出海企业面临的“贸易壁垒+数据主权”双重合规压力。建议企业：（1）对欧出口电动汽车相关企业立即启动供应链溯源与成本测算，评估通过第三国组装或技术授权规避部分关税的可行性；（2）涉及跨境数据传输的企业（尤其是金融、医疗、电商）应在8月前完成数据映射与安全评估预申请；（3）关注美国大选前可能进一步升级的出口管制，提前备货关键芯片与软件授权。下周重点关注：欧盟对华钢铁反补贴调查初裁、美国对东南亚光伏产品反倾销复审结果。",
-    "source": "来源：秦林蒿律师 · 律连全球 · 2026年6月",
-    "title_en": "Attorney Qin's Weekly View: Outbound Firms Should Establish 'Dual-Track' Compliance to Navigate EU Tariffs and Data Rules",
-    "summary_en": "This week's EU EV tariffs and GBA data rules highlight dual compliance pressures of 'trade barriers + data sovereignty' for outbound enterprises. Recommendations: (1) EV exporters to the EU should immediately conduct supply chain traceability and cost analysis to assess partial tariff avoidance via third-country assembly or technology licensing; (2) firms involved in cross-border data transfers (especially finance, healthcare, e-commerce) should complete data mapping and pre-submit security assessment applications before August; (3) monitor potential escalation of US export controls before the election and pre-stock critical chips and software licenses. Next week's focus: EU's preliminary anti-subsidy ruling on Chinese steel, US anti-dumping review results on Southeast Asian photovoltaic products.",
-    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · June 2026"
-  },
   "weekLabel": "2026年6月15日 – 6月19日 · 本周周报",
   "weekLabel_en": "Jun 15 – Jun 19, 2026 · Weekly Digest",
-  "issue": 25
+  "issue": 25,
+  "focus": {
+    "title": "本周国际经贸主线：出口管制与制裁筛查延续高位，关键矿产与两用品成博弈焦点",
+    "summary": "本周国际经贸领域的主线仍围绕出口管制、制裁筛查与供应链安全展开，主要经济体对高科技物项、关键矿产与两用品的管控继续维持高位，清单更新与执法力度未见放缓迹象。整体趋势看，合规要求正从「事后核查」向「交易前嵌入」迁移。对中国出海企业而言，应持续跟踪受管制物项清单的更新节奏，重新评估供应链中相关物项的占比，并提前规划替代与多元布局，避免单一市场或单一环节的合规风险集中暴露。",
+    "source": "来源：律连全球周度综述 · 本周",
+    "title_en": "This week's main theme: export controls and sanctions screening stay elevated, with critical minerals and dual-use items in focus",
+    "summary_en": "This week's international trade agenda continued to revolve around export controls, sanctions screening and supply-chain security. Major economies kept controls over advanced technology, critical minerals and dual-use items at a high level, with no sign of slowing in list updates or enforcement. The broad trend is a shift from after-the-fact checks toward compliance embedded before a transaction. Chinese outbound enterprises should keep tracking the pace of watchlist updates, reassess the share of controlled items in their supply chains, and plan diversified, alternative sourcing in advance.",
+    "source_en": "Source: iGlobal Law Weekly Review · this week"
+  },
+  "case": {
+    "title": "本周案例启示：争议解决条款的清晰约定，是跨境合同可执行性的第一道防线",
+    "summary": "本周值得关注的跨境商事争议再次印证：合同争议解决条款（管辖/仲裁机构、适用法律、仲裁地、语言）的清晰程度，直接决定纠纷走向与裁决的可执行性。实务中，含糊或相互矛盾的约定常引发管辖权异议、平行诉讼，甚至导致判决或仲裁裁决在境外难以承认执行。启示在于：出海企业应在签约阶段即统一并明确这些核心条款，优先选择中立仲裁地与《纽约公约》缔约国，并完整保留履约与沟通证据链。",
+    "source": "来源：跨境商事争议要点综述 · 本周",
+    "title_en": "Case lesson of the week: a clear dispute-resolution clause is the first line of defence for enforceability",
+    "summary_en": "A cross-border dispute worth noting this week again confirms that the clarity of the dispute-resolution clause—forum or arbitral institution, governing law, seat and language—directly shapes both the outcome and the enforceability of any award. In practice, vague or conflicting wording invites jurisdictional challenges, parallel proceedings, and difficulties recognising and enforcing judgments or awards abroad. The takeaway: align and fix these core terms at the contracting stage, favour a neutral seat in a New York Convention state, and preserve a complete evidentiary chain.",
+    "source_en": "Source: Cross-border Commercial Dispute Review · this week"
+  },
+  "policy": {
+    "title": "本周政策：粤港澳大湾区涉外法律服务与跨境数据便利化稳步推进",
+    "summary": "本周粤港澳大湾区在涉外法律服务开放、跨境投资贸易便利化与数据跨境流动方面继续释放积极信号，规则衔接与专业服务开放稳步推进。对区内及拟布局企业而言，跨境数据出境的便利化安排与个人信息保护合规仍是重点。建议企业结合自身业务节点，梳理数据出境场景、对照负面清单与白名单调整合规策略，把握政策窗口期降低合规成本、拓展跨境业务空间。",
+    "source": "来源：粤港澳大湾区涉外政策综述 · 本周",
+    "title_en": "This week's policy: Greater Bay Area steadily advances foreign-related legal services and cross-border data facilitation",
+    "summary_en": "This week the Greater Bay Area continued to send positive signals on opening foreign-related legal services, facilitating cross-border investment and trade, and enabling data flows, with rule alignment and professional-services opening progressing steadily. For enterprises in or entering the region, facilitation measures for outbound data transfers and personal-information-protection compliance remain priorities. Companies should map their data-export scenarios against negative and white lists and seize the policy window to lower compliance costs.",
+    "source_en": "Source: Greater Bay Area Foreign-related Policy Review · this week"
+  },
+  "analysis": {
+    "title": "秦林蒿律师周度研判：坚持「合规前置」，把下周重点放在清单更新与重点行业政策窗口",
+    "summary": "秦林蒿律师周度研判：在外部规则快速变化的背景下，出海企业应坚持「合规前置」——将出口管制、制裁筛查、合同争议解决条款审查与数据出境评估嵌入业务决策的前端，而非事后补救。本周的主线表明，被动应对的成本正在上升。下周建议重点关注：主要市场管制清单与制裁名单的更新、关键矿产与两用品相关执法动向，以及大湾区跨境数据与专业服务开放的新举措。复杂个案仍建议结合具体事实，与秦律师进一步沟通评估。",
+    "source": "来源：秦林蒿律师周度研判 · 本周",
+    "title_en": "Attorney Qin's weekly view: stay compliance-first; watch list updates and key-sector policy windows next week",
+    "summary_en": "Attorney Qin's weekly view: amid fast-changing external rules, outbound enterprises should stay compliance-first—embedding export-control and sanctions screening, dispute-resolution clause review and data-export assessment at the front end of business decisions rather than reacting after the fact. This week's themes show the cost of a reactive posture is rising. For next week, watch updates to major markets' control and sanctions lists, enforcement around critical minerals and dual-use items, and new Bay Area measures on cross-border data and professional-services opening. Complex cases still warrant tailored review with Attorney Qin.",
+    "source_en": "Source: Attorney Qin Weekly Review · this week"
+  }
 }
