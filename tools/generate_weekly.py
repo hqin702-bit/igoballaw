@@ -31,9 +31,12 @@ def week_meta():
     friday = monday + datetime.timedelta(days=4)
     label = "%d年%d月%d日 – %d月%d日 · 本周周报" % (
         monday.year, monday.month, monday.day, friday.month, friday.day)
+    EN_M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+    label_en = "%s %d – %s %d, %d · Weekly Digest" % (
+        EN_M[monday.month-1], monday.day, EN_M[friday.month-1], friday.day, friday.year)
     issue = now.isocalendar()[1]  # 当年第几周，作为期号
     span = "%d.%02d.%02d–%02d.%02d" % (monday.year, monday.month, monday.day, friday.month, friday.day)
-    return label, issue, span
+    return label, label_en, issue, span
 
 
 PROMPT = """你是「律连全球 · iGlobal Law 国际商贸法律日报」的资深主编（主笔为涉外律师秦林蒿）。
@@ -45,14 +48,14 @@ PROMPT = """你是「律连全球 · iGlobal Law 国际商贸法律日报」的�
    - case（本周案例）：一条本周具有指导意义的跨境/涉外司法或仲裁案例要点及启示。
    - policy（本周政策）：综述本周中国（尤其粤港澳大湾区）涉外/跨境相关的政策法规要点。
    - analysis（律师研判）：以「秦林蒿律师周度研判：」开头，对本周趋势给出面向出海企业的实务建议与下周关注点。
-3. 每条包含 title（25-45字标题）、summary（150-220字摘要）、source（来源说明，含机构名与本周大致时间）。
+3. 每条包含中文 title（25-45字）/summary（150-220字）/source，以及对应英文 title_en / summary_en / source_en（地道专业英文，analysis 英文以「Attorney Qin's weekly view: 」开头）。
 4. 内容须自洽、可信、不得编造具体红头文件编号或不存在的判决书号；来源可写机构名+大致时间。
 5. 仅输出 JSON，结构严格如下，不要任何额外文字：
 {{
-  "focus":    {{"title":"...","summary":"...","source":"来源：... · 本周"}},
-  "case":     {{"title":"...","summary":"...","source":"来源：..."}},
-  "policy":   {{"title":"...","summary":"...","source":"来源：..."}},
-  "analysis": {{"title":"...","summary":"...","source":"来源：..."}}
+  "focus":    {{"title":"...","summary":"...","source":"来源：... · 本周","title_en":"...","summary_en":"...","source_en":"Source: ... · this week"}},
+  "case":     {{"title":"...","summary":"...","source":"来源：...","title_en":"...","summary_en":"...","source_en":"Source: ..."}},
+  "policy":   {{"title":"...","summary":"...","source":"来源：...","title_en":"...","summary_en":"...","source_en":"Source: ..."}},
+  "analysis": {{"title":"...","summary":"...","source":"来源：...","title_en":"...","summary_en":"...","source_en":"Source: ..."}}
 }}"""
 
 
@@ -80,7 +83,7 @@ def validate(d):
     for k in ("focus", "case", "policy", "analysis"):
         if k not in d or not isinstance(d[k], dict):
             raise ValueError("缺少栏目: " + k)
-        for f in ("title", "summary", "source"):
+        for f in ("title", "summary", "source", "title_en", "summary_en", "source_en"):
             if not d[k].get(f):
                 raise ValueError("栏目 %s 缺少字段 %s" % (k, f))
     return True
@@ -90,7 +93,7 @@ def main():
     if not API_KEY:
         print("ERROR: 未设置 DEEPSEEK_API_KEY，跳过生成（保留旧 weekly.json）。", file=sys.stderr)
         sys.exit(1)
-    label, issue, span = week_meta()
+    label, label_en, issue, span = week_meta()
     prompt = PROMPT.format(span=span)
     raw = call_api(prompt)
     try:
@@ -100,6 +103,7 @@ def main():
         content = json.loads(raw[s:e+1])
     validate(content)
     content["weekLabel"] = label
+    content["weekLabel_en"] = label_en
     content["issue"] = issue
     with open(OUT, "w", encoding="utf-8") as fh:
         json.dump(content, fh, ensure_ascii=False, indent=2)
