@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业面临合规风险",
-    "summary": "美国商务部初步裁定，对从越南、泰国、马来西亚和柬埔寨进口的太阳能电池板征收反倾销税，税率最高达271.2%。此举旨在堵住中国光伏企业通过东南亚转口规避关税的漏洞。相关中国企业需重新评估供应链布局，并准备应对美国海关的溯源调查。",
-    "source": "来源：美国商务部 · 2026.06.16",
-    "title_en": "U.S. Proposes Anti-Dumping Duties on Southeast Asian Solar Imports, Targeting Chinese Transshipment",
-    "summary_en": "The U.S. Department of Commerce preliminarily ruled to impose anti-dumping duties on solar panels imported from Vietnam, Thailand, Malaysia, and Cambodia, with rates up to 271.2%. The move aims to close loopholes used by Chinese solar firms to circumvent tariffs via Southeast Asian transshipment. Affected Chinese enterprises should reassess supply chains and prepare for U.S. Customs traceability investigations.",
-    "source_en": "Source: U.S. Department of Commerce · 2026.06.16"
+    "title": "美国拟对东南亚四国光伏产品征收反倾销税，中国企业面临转口贸易合规挑战",
+    "summary": "美国商务部初步裁定，对从越南、泰国、马来西亚、柬埔寨进口的晶体硅光伏电池及组件征收反倾销税，税率在14%至271%之间。此举旨在封堵中国光伏企业通过东南亚转口规避关税的路径。涉案企业需在30天内提交问卷，否则适用最高税率。建议相关企业立即审查供应链合规性，调整出口策略。",
+    "source": "来源：美国商务部 · 2026.06.17",
+    "title_en": "US Proposes Anti-Dumping Duties on Solar Products from Four Southeast Asian Countries, Challenging Chinese Firms' Transshipment Compliance",
+    "summary_en": "The US Department of Commerce preliminarily ruled to impose anti-dumping duties on crystalline silicon photovoltaic cells and modules imported from Vietnam, Thailand, Malaysia, and Cambodia, with rates ranging from 14% to 271%. This move aims to block Chinese solar firms' circumvention via Southeast Asian transshipment. Affected companies must submit questionnaires within 30 days or face the highest rate. Immediate supply chain compliance review and export strategy adjustment are recommended.",
+    "source_en": "Source: U.S. Department of Commerce · 2026.06.17"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁定：跨境合资企业中方股东可依“重大不利变更”条款退出",
-    "summary": "在SIAC仲裁案中，一家中马合资企业的中方股东以马来西亚政府突然调整外资持股比例限制为由，援引合资协议中的“重大不利变更”（MAC）条款成功退出。仲裁庭认定政策变化构成MAC，支持中方撤回全部投资并免除违约责任。该案提示中国企业在跨境合资中应明确MAC条款的触发条件与救济措施。",
-    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月裁决",
-    "title_en": "SIAC Rules Chinese Shareholder May Exit Cross-Border JV Under 'Material Adverse Change' Clause",
-    "summary_en": "In a SIAC arbitration, a Chinese shareholder in a China-Malaysia joint venture successfully invoked the 'Material Adverse Change' (MAC) clause after Malaysia unexpectedly tightened foreign equity caps. The tribunal held that the policy shift constituted a MAC, allowing the Chinese party to withdraw all investment without liability. The case underscores the need for clear MAC triggers and remedies in cross-border JV agreements.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · June 2026 Award"
+    "title": "新加坡国际仲裁中心裁决：跨境投资协议中“最惠国待遇”条款不适用于仲裁程序事项",
+    "summary": "新加坡国际仲裁中心（SIAC）在一起中资企业诉东南亚某国政府的投资仲裁案中裁定，双边投资协定中的最惠国待遇（MFN）条款不能扩展适用于争端解决程序。投资者试图援引第三方条约中的更有利仲裁条款，但仲裁庭认为MFN条款的文本未明确涵盖程序性权利，驳回该主张。此案警示中国投资者在谈判投资协定时应明确MFN适用范围。",
+    "source": "来源：新加坡国际仲裁中心 · 2026年6月",
+    "title_en": "SIAC Tribunal: MFN Clause in Cross-Border Investment Treaty Does Not Extend to Arbitration Procedures",
+    "summary_en": "In an investment arbitration case between a Chinese enterprise and a Southeast Asian government, the Singapore International Arbitration Center (SIAC) ruled that the Most-Favored-Nation (MFN) clause in the bilateral investment treaty cannot be extended to dispute resolution procedures. The investor sought to invoke more favorable arbitration terms from a third-party treaty, but the tribunal held that the MFN clause's text did not explicitly cover procedural rights, dismissing the claim. This case warns Chinese investors to clarify MFN scope when negotiating investment treaties.",
+    "source_en": "Source: Singapore International Arbitration Center · June 2026"
   },
   "policy": {
-    "title": "深圳前海发布跨境数据流动“白名单”管理办法，便利企业合规传输",
-    "summary": "深圳市前海管理局正式印发《前海深港现代服务业合作区跨境数据流动“白名单”管理办法（试行）》，明确将金融、物流、科技等领域的特定数据列入白名单，企业向香港传输此类数据无需再逐笔申报安全评估。该办法自2026年7月1日起施行，有效期三年，旨在促进大湾区数据要素高效流动。",
-    "source": "来源：深圳市前海管理局 · 2026.06.15",
-    "title_en": "Qianhai Issues 'Whitelist' Rules for Cross-Border Data Flow, Easing Compliance for Enterprises",
-    "summary_en": "The Shenzhen Qianhai Authority released the 'Management Measures for Cross-Border Data Flow Whitelist (Trial),' designating specific data categories in finance, logistics, and technology as whitelisted. Enterprises transferring such data to Hong Kong will no longer need to apply for security assessments on a case-by-case basis. Effective July 1, 2026, for three years, the measure aims to boost data mobility within the Greater Bay Area.",
-    "source_en": "Source: Shenzhen Qianhai Authority · 2026.06.15"
+    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地，首批涵盖金融与医疗领域",
+    "summary": "广东省互联网信息办公室发布《粤港澳大湾区数据跨境流动安全评估管理办法》，建立“白名单”机制，对列入清单的数据类别可免于安全评估。首批名单包括金融信用信息、医疗健康数据等。企业需通过指定平台申报数据出境，符合条件者享受快速通道。此举将大幅提升大湾区跨境数据流动效率，但企业仍须履行个人信息保护义务。",
+    "source": "来源：广东省互联网信息办公室 · 2026.06.17",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches 'Whitelist' Mechanism for Cross-Border Data Flow, Covering Finance and Healthcare First",
+    "summary_en": "The Cyberspace Administration of Guangdong Province issued the 'Security Assessment Measures for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area,' establishing a whitelist mechanism that exempts listed data categories from security assessments. The first batch includes financial credit information and healthcare data. Enterprises must declare data outbound via designated platforms; eligible ones enjoy fast-track processing. This move will significantly enhance cross-border data flow efficiency in the Greater Bay Area, but companies must still fulfill personal information protection obligations.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.17"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期应对策略",
-    "summary": "秦林蒿律师研判：欧盟CBAM过渡期至2025年底，中国出口企业需在2026年1月前完成首次年度申报。建议企业立即开展产品碳足迹核算，建立内部数据采集体系，并选择符合EU-ETS认可的第三方核查机构。同时关注CBAM覆盖范围可能扩展至钢铁下游制品及有机化学品，提前布局减排技术。",
-    "source": "来源：秦林蒿律师 · 2026.06.16",
-    "title_en": "Attorney Qin's View: Practical Steps for CBAM Transition Period Compliance",
-    "summary_en": "Attorney Qin's view: The CBAM transitional period ends in 2025; Chinese exporters must submit their first annual report by January 2026. Companies should immediately start product carbon footprint calculations, set up internal data collection systems, and select third-party verifiers accredited under the EU-ETS. Also monitor potential CBAM expansion to downstream steel products and organic chemicals, and invest early in emission reduction technologies.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.06.16"
+    "title": "秦林蒿律师研判：美国对华半导体出口管制持续加码，中国企业应建立“双供应链”与合规防火墙",
+    "summary": "秦林蒿律师研判：美国近期将多家中国半导体企业列入实体清单，并扩大对EDA软件、半导体设备等出口限制。建议中国企业：1）构建“中国+海外”双供应链，关键设备与材料备选方案；2）设立独立合规部门，定期筛查交易方与最终用途；3）利用“最低含量”规则例外，但需审慎评估触发风险。长期应加大自主研发，减少对外依赖。Attorney Qin's view: The US has recently added multiple Chinese semiconductor firms to the Entity List and expanded export controls on EDA software and semiconductor equipment. Recommendations for Chinese companies: 1) Build a 'China plus overseas' dual supply chain with alternative sources for critical equipment and materials; 2) Establish an independent compliance department to regularly screen transaction parties and end-uses; 3) Utilize 'de minimis' rule exceptions but carefully assess triggering risks. Long-term, increase R&D to reduce external dependence.",
+    "source": "来源：秦林蒿律师 · 2026.06.17",
+    "title_en": "Attorney Qin's View: US Semiconductor Export Controls Intensify—Chinese Firms Should Build Dual Supply Chains and Compliance Firewalls",
+    "summary_en": "Attorney Qin's view: The US has recently added multiple Chinese semiconductor firms to the Entity List and expanded export controls on EDA software and semiconductor equipment. Recommendations for Chinese companies: 1) Build a 'China plus overseas' dual supply chain with alternative sources for critical equipment and materials; 2) Establish an independent compliance department to regularly screen transaction parties and end-uses; 3) Utilize 'de minimis' rule exceptions but carefully assess triggering risks. Long-term, increase R&D to reduce external dependence.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.06.17"
   },
-  "dateLabel": "2026年6月16日 · 星期二",
-  "dateLabel_en": "Tuesday, June 16, 2026",
-  "issue": 167
+  "dateLabel": "2026年6月17日 · 星期三",
+  "dateLabel_en": "Wednesday, June 17, 2026",
+  "issue": 168
 }
