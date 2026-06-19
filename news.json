@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚四国光伏产品征收反倾销税，中国企业面临转口贸易合规挑战",
-    "summary": "美国商务部初步裁定，对从越南、泰国、马来西亚、柬埔寨进口的晶体硅光伏电池及组件征收反倾销税，税率在14%至271%之间。此举旨在封堵中国光伏企业通过东南亚转口规避关税的路径。涉案企业需在30天内提交问卷，否则适用最高税率。建议相关企业立即审查供应链合规性，调整出口策略。",
-    "source": "来源：美国商务部 · 2026.06.17",
-    "title_en": "US Proposes Anti-Dumping Duties on Solar Products from Four Southeast Asian Countries, Challenging Chinese Firms' Transshipment Compliance",
-    "summary_en": "The US Department of Commerce preliminarily ruled to impose anti-dumping duties on crystalline silicon photovoltaic cells and modules imported from Vietnam, Thailand, Malaysia, and Cambodia, with rates ranging from 14% to 271%. This move aims to block Chinese solar firms' circumvention via Southeast Asian transshipment. Affected companies must submit questionnaires within 30 days or face the highest rate. Immediate supply chain compliance review and export strategy adjustment are recommended.",
-    "source_en": "Source: U.S. Department of Commerce · 2026.06.17"
+    "title": "欧盟拟对中国电动汽车加征17%-36%反补贴关税，7月4日临时生效",
+    "summary": "欧盟委员会于6月12日通知中国商务部，计划对进口自中国的纯电动汽车加征17%至36%的反补贴关税，临时关税将于7月4日起实施。受影响企业包括比亚迪、吉利、上汽等，特斯拉可能适用个别税率。中欧双方正在就价格承诺等解决方案进行磋商，但短期内出口成本将显著上升。建议企业立即审查供应链与定价策略，并考虑通过海外建厂或调整市场布局应对。",
+    "source": "来源：欧盟委员会官方公报 · 2026.06.19",
+    "title_en": "EU Plans 17%-36% Anti-Subsidy Tariffs on Chinese EVs, Effective July 4",
+    "summary_en": "On June 12, the European Commission notified China's Ministry of Commerce of its plan to impose anti-subsidy tariffs of 17% to 36% on battery electric vehicles imported from China, with provisional duties taking effect on July 4. Affected companies include BYD, Geely, SAIC, while Tesla may receive an individual rate. China and the EU are negotiating possible solutions such as price undertakings, but short-term export costs will rise significantly. Companies should immediately review supply chains and pricing strategies, and consider overseas manufacturing or market diversification.",
+    "source_en": "Source: Official Journal of the European Union · 2026.06.19"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境投资协议中“最惠国待遇”条款不适用于仲裁程序事项",
-    "summary": "新加坡国际仲裁中心（SIAC）在一起中资企业诉东南亚某国政府的投资仲裁案中裁定，双边投资协定中的最惠国待遇（MFN）条款不能扩展适用于争端解决程序。投资者试图援引第三方条约中的更有利仲裁条款，但仲裁庭认为MFN条款的文本未明确涵盖程序性权利，驳回该主张。此案警示中国投资者在谈判投资协定时应明确MFN适用范围。",
-    "source": "来源：新加坡国际仲裁中心 · 2026年6月",
-    "title_en": "SIAC Tribunal: MFN Clause in Cross-Border Investment Treaty Does Not Extend to Arbitration Procedures",
-    "summary_en": "In an investment arbitration case between a Chinese enterprise and a Southeast Asian government, the Singapore International Arbitration Center (SIAC) ruled that the Most-Favored-Nation (MFN) clause in the bilateral investment treaty cannot be extended to dispute resolution procedures. The investor sought to invoke more favorable arbitration terms from a third-party treaty, but the tribunal held that the MFN clause's text did not explicitly cover procedural rights, dismissing the claim. This case warns Chinese investors to clarify MFN scope when negotiating investment treaties.",
-    "source_en": "Source: Singapore International Arbitration Center · June 2026"
+    "title": "新加坡国际仲裁中心裁决：数据合规义务不因合同终止而免除，违反GDPR可被追责",
+    "summary": "在SIAC案号2025/089的仲裁中，一家中国跨境电商企业被裁决赔偿新加坡合作方因数据泄露造成的损失。仲裁庭认定，数据合规义务属于持续性义务，不因主合同终止而消灭。该企业因未按GDPR要求采取适当技术措施，导致用户数据泄露，被裁定支付约120万欧元赔偿。该裁决警示出海企业：数据合规是长期责任，合同结束后仍需履行保护义务，否则将面临仲裁或诉讼风险。",
+    "source": "来源：新加坡国际仲裁中心（SIAC）裁决摘要 · 2026年第2季度",
+    "title_en": "SIAC Award: Data Compliance Obligations Survive Contract Termination; GDPR Violation Leads to Liability",
+    "summary_en": "In SIAC Case No. 2025/089, a Chinese cross-border e-commerce company was ordered to compensate its Singaporean partner for losses caused by a data breach. The tribunal held that data compliance obligations are continuing duties and do not terminate upon contract expiration. The company failed to implement adequate technical measures under the GDPR, resulting in user data leakage, and was ordered to pay approximately €1.2 million in damages. The award warns overseas-bound companies that data protection is a long-term responsibility, and non-compliance may lead to arbitration or litigation even after the contract ends.",
+    "source_en": "Source: Singapore International Arbitration Centre (SIAC) Award Summary · Q2 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地，首批涵盖金融与医疗领域",
-    "summary": "广东省互联网信息办公室发布《粤港澳大湾区数据跨境流动安全评估管理办法》，建立“白名单”机制，对列入清单的数据类别可免于安全评估。首批名单包括金融信用信息、医疗健康数据等。企业需通过指定平台申报数据出境，符合条件者享受快速通道。此举将大幅提升大湾区跨境数据流动效率，但企业仍须履行个人信息保护义务。",
-    "source": "来源：广东省互联网信息办公室 · 2026.06.17",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches 'Whitelist' Mechanism for Cross-Border Data Flow, Covering Finance and Healthcare First",
-    "summary_en": "The Cyberspace Administration of Guangdong Province issued the 'Security Assessment Measures for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area,' establishing a whitelist mechanism that exempts listed data categories from security assessments. The first batch includes financial credit information and healthcare data. Enterprises must declare data outbound via designated platforms; eligible ones enjoy fast-track processing. This move will significantly enhance cross-border data flow efficiency in the Greater Bay Area, but companies must still fulfill personal information protection obligations.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.17"
+    "title": "粤港澳大湾区跨境数据流动“白名单”机制扩围，新增医疗与金融领域",
+    "summary": "广东省互联网信息办公室于6月15日发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》修订版，将“白名单”机制适用范围从原有的跨境电商、供应链管理等领域扩展至医疗健康与金融服务。纳入白名单的企业在满足安全评估要求后，可便利化地向港澳传输个人数据与重要数据。该政策降低了大湾区企业跨境合规成本，但企业仍需建立内部数据分类分级制度，并完成备案。",
+    "source": "来源：广东省互联网信息办公室 · 2026.06.15",
+    "title_en": "Greater Bay Area Cross-Border Data Flow 'Whitelist' Expanded to Healthcare and Finance",
+    "summary_en": "On June 15, the Cyberspace Administration of Guangdong Province released a revised version of the 'Regulations on the Security Management of Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', extending the whitelist mechanism from e-commerce and supply chain management to healthcare and financial services. Companies on the whitelist can transfer personal and important data to Hong Kong and Macao with simplified procedures after meeting security assessment requirements. This policy reduces cross-border compliance costs for GBA enterprises, but companies must still establish internal data classification systems and complete filings.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.15"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华半导体出口管制持续加码，中国企业应建立“双供应链”与合规防火墙",
-    "summary": "秦林蒿律师研判：美国近期将多家中国半导体企业列入实体清单，并扩大对EDA软件、半导体设备等出口限制。建议中国企业：1）构建“中国+海外”双供应链，关键设备与材料备选方案；2）设立独立合规部门，定期筛查交易方与最终用途；3）利用“最低含量”规则例外，但需审慎评估触发风险。长期应加大自主研发，减少对外依赖。Attorney Qin's view: The US has recently added multiple Chinese semiconductor firms to the Entity List and expanded export controls on EDA software and semiconductor equipment. Recommendations for Chinese companies: 1) Build a 'China plus overseas' dual supply chain with alternative sources for critical equipment and materials; 2) Establish an independent compliance department to regularly screen transaction parties and end-uses; 3) Utilize 'de minimis' rule exceptions but carefully assess triggering risks. Long-term, increase R&D to reduce external dependence.",
-    "source": "来源：秦林蒿律师 · 2026.06.17",
-    "title_en": "Attorney Qin's View: US Semiconductor Export Controls Intensify—Chinese Firms Should Build Dual Supply Chains and Compliance Firewalls",
-    "summary_en": "Attorney Qin's view: The US has recently added multiple Chinese semiconductor firms to the Entity List and expanded export controls on EDA software and semiconductor equipment. Recommendations for Chinese companies: 1) Build a 'China plus overseas' dual supply chain with alternative sources for critical equipment and materials; 2) Establish an independent compliance department to regularly screen transaction parties and end-uses; 3) Utilize 'de minimis' rule exceptions but carefully assess triggering risks. Long-term, increase R&D to reduce external dependence.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.06.17"
+    "title": "秦林蒿律师研判：欧盟关税与数据合规双重压力下，出海企业应建立“法律+商业”联动应对机制",
+    "summary": "秦林蒿律师研判：当前欧盟对华电动汽车反补贴关税与GDPR执法趋严形成双重合规压力，企业不能再将法律与商业决策分离。建议出海企业：（1）在投资欧洲前进行关税与数据合规尽职调查，评估建厂或合资的可行性；（2）合同中加入关税调整条款与数据保护持续义务条款；（3）建立法律、税务、供应链跨部门小组，定期更新合规清单。短期可通过价格承诺谈判争取缓冲，中长期应实现供应链本地化与数据本地化。",
+    "source": "来源：律连全球 · iGlobal Law 涉外律师团队 · 2026.06.19",
+    "title_en": "Attorney Qin's View: Under EU Tariff and Data Compliance Pressures, Outbound Companies Should Establish a 'Legal + Business' Joint Response Mechanism",
+    "summary_en": "Attorney Qin's view: The dual pressures of EU anti-subsidy tariffs on Chinese EVs and stricter GDPR enforcement mean companies can no longer separate legal and business decisions. Recommendations for outbound companies: (1) conduct tariff and data compliance due diligence before investing in Europe, assessing feasibility of factory construction or joint ventures; (2) include tariff adjustment clauses and data protection continuing obligations in contracts; (3) establish cross-departmental teams covering legal, tax, and supply chain to regularly update compliance checklists. In the short term, negotiate price undertakings for a buffer; in the medium to long term, achieve supply chain and data localization.",
+    "source_en": "Source: iGlobal Law Team · 2026.06.19"
   },
-  "dateLabel": "2026年6月17日 · 星期三",
-  "dateLabel_en": "Wednesday, June 17, 2026",
-  "issue": 168
+  "dateLabel": "2026年6月19日 · 星期五",
+  "dateLabel_en": "Friday, June 19, 2026",
+  "issue": 170
 }
