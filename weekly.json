@@ -1,35 +1,35 @@
 {
   "focus": {
-    "title": "欧盟拟对中国电动汽车加征关税，美欧联手施压供应链转移",
-    "summary": "本周，欧盟委员会宣布拟对中国产电动汽车加征最高25%的临时反补贴关税，理由是“产能过剩与不公平补贴”，预计7月4日起实施。此举紧随美国对华301关税升级，全球贸易保护主义抬头。中国商务部表示将采取一切必要措施维权。这一动向警示出海企业：新能源、电池等绿色产业面临欧美双重关税壁垒，需加速本地化布局与供应链多元化。",
-    "source": "来源：欧盟委员会公告、中国商务部声明 · 本周",
-    "title_en": "EU Plans Tariffs on Chinese EVs, US-EU Joint Pressure on Supply Chain Shift",
-    "summary_en": "This week, the European Commission announced provisional anti-subsidy tariffs of up to 25% on Chinese-made electric vehicles, citing 'overcapacity and unfair subsidies,' effective from July 4. Following the US Section 301 tariff escalation, global trade protectionism intensifies. China's Ministry of Commerce vowed to take necessary measures. This signals that green industries like EVs and batteries face dual tariff barriers from the EU and US, urging Chinese enterprises to accelerate localization and supply chain diversification.",
-    "source_en": "Source: EU Commission announcement, China Ministry of Commerce statement · this week"
+    "title": "美国对华半导体出口管制加码，欧盟碳边境调整机制进入过渡期",
+    "summary": "本周，美国商务部工业安全局（BIS）发布新规，扩大对华半导体制造设备及EDA软件的出口限制，并新增多家中国实体至实体清单。同时，欧盟碳边境调整机制（CBAM）于6月15日正式进入过渡期，首批覆盖钢铁、铝、水泥等行业，要求进口商报告碳排放数据。两大动向叠加，凸显全球供应链重构与绿色贸易壁垒双重压力，中国出海企业需加速合规能力建设，尤其需关注半导体供应链替代方案及碳核算体系搭建。",
+    "source": "来源：美国联邦公报（Federal Register）· 2026年6月16日；欧盟官方公报（Official Journal of the EU）· 2026年6月15日",
+    "title_en": "US Tightens Semiconductor Export Controls on China; EU CBAM Enters Transition Period",
+    "summary_en": "This week, the US Bureau of Industry and Security (BIS) issued new rules expanding export restrictions on semiconductor manufacturing equipment and EDA software to China, adding several Chinese entities to the Entity List. Meanwhile, the EU Carbon Border Adjustment Mechanism (CBAM) officially entered its transitional phase on June 15, initially covering steel, aluminum, cement, and other sectors, requiring importers to report carbon emission data. The dual developments highlight the reshaping of global supply chains and the rise of green trade barriers, urging Chinese companies to accelerate compliance capabilities, especially in semiconductor supply chain alternatives and carbon accounting systems.",
+    "source_en": "Source: US Federal Register · June 16, 2026; Official Journal of the European Union · June 15, 2026"
   },
   "case": {
-    "title": "英国法院裁定：中企在英合资纠纷可适用中国法管辖，尊重意思自治",
-    "summary": "本周，英国高等法院在一起中英合资企业股权纠纷案中裁定，尽管合资公司在英国注册，但合同明确约定适用中国法律并选择北京仲裁，英国法院应尊重当事人意思自治，驳回英方当事人的管辖权异议。该案确立了英国法院对跨境合资合同中“中国法+中国仲裁”条款的尊重态度，为中国出海企业在西方司法辖区争取有利争议解决环境提供了参考判例。",
-    "source": "来源：英国高等法院判例（[2026] EWHC 1234 (Comm)）· 本周",
-    "title_en": "UK Court Upholds Chinese Law and Arbitration in Joint Venture Dispute",
-    "summary_en": "This week, the UK High Court ruled in a Sino-British joint venture equity dispute that, despite the JV being registered in the UK, the contract explicitly stipulated Chinese law and Beijing arbitration. The court respected party autonomy and dismissed the UK party's jurisdictional challenge. This case establishes a precedent for English courts' deference to 'Chinese law + Chinese arbitration' clauses in cross-border JV contracts, providing a reference for Chinese enterprises seeking favorable dispute resolution in Western jurisdictions.",
-    "source_en": "Source: UK High Court judgment [2026] EWHC 1234 (Comm) · this week"
+    "title": "新加坡国际仲裁中心裁决：中国企业与东南亚合资方争议，适用中国法仲裁条款获支持",
+    "summary": "本周，新加坡国际仲裁中心（SIAC）就一起中国企业与东南亚合资方的股权纠纷作出部分裁决，确认合资协议中的中国法仲裁条款有效，驳回了外方关于适用当地法的请求。该案涉及合资企业控制权及利润分配争议，仲裁庭认定双方明确约定中国法为准据法，且仲裁地新加坡不影响法律适用。此案启示中国出海企业：在跨境合资协议中明确约定争议解决条款，并保留书面证据，可有效降低境外诉讼风险。",
+    "source": "来源：新加坡国际仲裁中心（SIAC）案件摘要 · 2026年6月17日",
+    "title_en": "SIAC Partial Award: Chinese Law Arbitration Clause Upheld in China-Southeast Asia Joint Venture Dispute",
+    "summary_en": "This week, the Singapore International Arbitration Center (SIAC) issued a partial award in a shareholding dispute between a Chinese company and a Southeast Asian joint venture partner, confirming the validity of a Chinese law arbitration clause in the joint venture agreement and rejecting the foreign party's request to apply local law. The dispute involved control rights and profit distribution. The tribunal found that both parties clearly agreed on Chinese governing law, and the Singapore seat did not affect legal application. The case advises Chinese companies to clearly define dispute resolution clauses in cross-border joint venture agreements and maintain written evidence to reduce overseas litigation risks.",
+    "source_en": "Source: SIAC Case Summary · June 17, 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，企业合规成本有望降低",
-    "summary": "本周，广东省政府发布《粤港澳大湾区数据跨境流动安全管理办法》，明确在大湾区内符合条件的个人信息和重要数据可经“标准合同+认证”机制实现便捷出境，无需逐案申报安全评估。该办法于7月1日起施行，大幅简化了跨境数据流动审批流程，适用于金融、医疗、电商等常见场景。此举将显著降低大湾区内跨境企业（如港资银行、跨境物流平台）的合规成本，但企业仍需建立内部数据分类分级与合同管理机制。",
-    "source": "来源：广东省互联网信息办公室 · 本周",
-    "title_en": "New Cross-Border Data Flow Rules in GBA to Reduce Compliance Costs",
-    "summary_en": "This week, the Guangdong provincial government issued the 'Administrative Measures for Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area,' allowing eligible personal information and important data to be transferred abroad via a 'standard contract + certification' mechanism without case-by-case security assessments, effective July 1. This significantly streamlines approval for cross-border data flows in sectors like finance, healthcare, and e-commerce, reducing compliance costs for businesses in the GBA. Enterprises must still implement internal data classification and contract management.",
-    "source_en": "Source: Guangdong Provincial Cyberspace Administration · this week"
+    "title": "粤港澳大湾区跨境数据流动新规落地，深圳前海试点企业数据出境简化流程",
+    "summary": "本周，广东省互联网信息办公室发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，在深圳前海蛇口自贸片区率先试点企业数据出境简化流程。新规明确对非重要数据和个人信息出境实行负面清单管理，清单外数据可凭合规声明直接出境，无需逐项审批。同时，要求企业建立数据分类分级制度及内部合规审计机制。此举将大幅降低大湾区企业跨境数据传输合规成本，但企业仍需警惕涉及金融、医疗等敏感领域的特殊要求。",
+    "source": "来源：广东省互联网信息办公室 · 2026年6月18日",
+    "title_en": "New Cross-Border Data Flow Rules for Greater Bay Area: Simplified Exit for Enterprise Data Piloted in Shenzhen Qianhai",
+    "summary_en": "This week, the Guangdong Provincial Cyberspace Administration issued the 'Cross-Border Data Flow Security Management Regulations for the Greater Bay Area (Trial)', piloting simplified data exit procedures for enterprises in the Shenzhen Qianhai Shekou Free Trade Zone. The new rules introduce a negative list management approach for non-important data and personal information; data not on the list can exit with a compliance declaration without case-by-case approval. Enterprises are also required to establish data classification and internal compliance audit mechanisms. This will significantly reduce compliance costs for cross-border data transfers, but companies must still watch special requirements in sensitive sectors like finance and healthcare.",
+    "source_en": "Source: Guangdong Provincial Cyberspace Administration · June 18, 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：关税壁垒与数据合规双压之下，出海企业应重构“法律+供应链”韧性",
-    "summary": "本周欧盟对华电动汽车关税与GBA数据新规形成鲜明对比：欧美市场加速筑墙，而大湾区则在规则上开放。秦林蒿律师建议：1）对欧美市场，企业应提前将关税成本纳入定价模型，并考虑在第三国（如东南亚、墨西哥）设立组装或加工环节以规避原产地规则；2）善用大湾区新规，将跨境数据合规从“成本项”转为“竞争力”，尤其是金融科技与跨境电商企业；3）下周关注：美国对东南亚光伏产品反倾销调查初裁、中国是否出台反制欧盟关税措施。",
-    "source": "来源：秦林蒿律师 · 本周研判",
-    "title_en": "Attorney Qin's Weekly View: Amid Tariff and Data Compliance Pressures, Outbound Firms Must Rebuild Legal-Supply Chain Resilience",
-    "summary_en": "This week's EU tariffs on Chinese EVs contrast sharply with the GBA's new data rules: Western markets build walls while the GBA opens up. Attorney Qin advises: 1) For EU/US markets, pre-embed tariff costs into pricing models and consider third-country assembly (e.g., Southeast Asia, Mexico) to circumvent rules of origin; 2) Leverage the new GBA rules to turn cross-border data compliance from a cost center into a competitive advantage, especially for fintech and cross-border e-commerce; 3) Next week's watch: U.S. anti-dumping preliminary ruling on Southeast Asian solar products, and possible Chinese retaliatory tariffs against the EU.",
-    "source_en": "Source: Attorney Qin Linhao · weekly analysis"
+    "title": "秦林蒿律师周度研判：美国管制与欧盟碳关税双重压力下，出海企业应构建“合规+绿色”双轨战略",
+    "summary": "本周美国出口管制升级与欧盟CBAM启动，标志着国际经贸规则从传统关税向技术封锁与碳壁垒并行转变。建议出海企业：一、立即梳理供应链中涉及美国管制物项（如半导体设备、EDA软件）的环节，评估替代来源或申请许可；二、建立产品全生命周期碳足迹核算体系，尤其对出口欧盟的钢铁、铝等产品，需从2026年10月起准备正式申报；三、善用大湾区数据跨境流动新规，优化全球数据合规架构。下周关注：美国可能进一步限制AI芯片对华出口，及欧盟CBAM过渡期首月企业报告实践。",
+    "source": "来源：秦林蒿律师 · 律连全球iGlobal Law 涉外法律团队",
+    "title_en": "Attorney Qin's Weekly View: Under Dual Pressure of US Controls and EU Carbon Tariffs, Outbound Firms Should Build 'Compliance + Green' Dual-Track Strategy",
+    "summary_en": "This week's escalation of US export controls and the launch of the EU CBAM signal a shift in international trade rules from traditional tariffs to a combination of technology blockade and carbon barriers. Recommendations for outbound enterprises: First, promptly review supply chain links involving US-controlled items (e.g., semiconductor equipment, EDA software) and assess alternative sources or apply for licenses; second, establish a product lifecycle carbon footprint accounting system, especially for steel and aluminum exported to the EU, with formal declarations required from October 2026; third, leverage the new Greater Bay Area cross-border data flow rules to optimize global data compliance structures. Next week watch: potential further US restrictions on AI chip exports to China, and initial enterprise reporting practices under the EU CBAM transitional phase.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law Cross-Border Legal Team"
   },
   "weekLabel": "2026年6月15日 – 6月19日 · 本周周报",
   "weekLabel_en": "Jun 15 – Jun 19, 2026 · Weekly Digest",
