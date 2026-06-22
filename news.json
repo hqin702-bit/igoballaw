@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对中国电动汽车加征17%-36%反补贴关税，7月4日临时生效",
-    "summary": "欧盟委员会于6月12日通知中国商务部，计划对进口自中国的纯电动汽车加征17%至36%的反补贴关税，临时关税将于7月4日起实施。受影响企业包括比亚迪、吉利、上汽等，特斯拉可能适用个别税率。中欧双方正在就价格承诺等解决方案进行磋商，但短期内出口成本将显著上升。建议企业立即审查供应链与定价策略，并考虑通过海外建厂或调整市场布局应对。",
-    "source": "来源：欧盟委员会官方公报 · 2026.06.19",
-    "title_en": "EU Plans 17%-36% Anti-Subsidy Tariffs on Chinese EVs, Effective July 4",
-    "summary_en": "On June 12, the European Commission notified China's Ministry of Commerce of its plan to impose anti-subsidy tariffs of 17% to 36% on battery electric vehicles imported from China, with provisional duties taking effect on July 4. Affected companies include BYD, Geely, SAIC, while Tesla may receive an individual rate. China and the EU are negotiating possible solutions such as price undertakings, but short-term export costs will rise significantly. Companies should immediately review supply chains and pricing strategies, and consider overseas manufacturing or market diversification.",
-    "source_en": "Source: Official Journal of the European Union · 2026.06.19"
+    "title": "欧盟拟对中国电动汽车加征最高38%关税，中欧磋商进入关键期",
+    "summary": "欧盟委员会于6月22日公布对中国产电动汽车反补贴调查初步裁定，拟对三家抽样企业加征17.4%至38%不等的额外关税。该裁定需经27个成员国表决，预计7月前生效。受影响企业可申请价格承诺谈判，但时限紧迫。中国商务部表示将采取一切必要措施维护产业利益，建议出海车企立即启动供应链与定价策略调整，并评估转移部分产能至东盟的可能性。",
+    "source": "来源：欧盟委员会官网 · 2026.06.23",
+    "title_en": "EU Proposes Up to 38% Tariff on Chinese EVs; China-EU Talks Enter Critical Phase",
+    "summary_en": "On June 22, the European Commission announced preliminary anti-subsidy findings on Chinese-made electric vehicles, proposing additional tariffs ranging from 17.4% to 38% for three sampled companies. The decision requires approval by 27 member states, expected before July. Affected enterprises may apply for price undertaking negotiations but face tight deadlines. China's Ministry of Commerce vowed to take all necessary measures to safeguard industrial interests. Chinese EV exporters are advised to immediately adjust supply chains and pricing strategies, and consider relocating some production to ASEAN. ",
+    "source_en": "Source: European Commission Official Website · 2026.06.23"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：数据合规义务不因合同终止而免除，违反GDPR可被追责",
-    "summary": "在SIAC案号2025/089的仲裁中，一家中国跨境电商企业被裁决赔偿新加坡合作方因数据泄露造成的损失。仲裁庭认定，数据合规义务属于持续性义务，不因主合同终止而消灭。该企业因未按GDPR要求采取适当技术措施，导致用户数据泄露，被裁定支付约120万欧元赔偿。该裁决警示出海企业：数据合规是长期责任，合同结束后仍需履行保护义务，否则将面临仲裁或诉讼风险。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）裁决摘要 · 2026年第2季度",
-    "title_en": "SIAC Award: Data Compliance Obligations Survive Contract Termination; GDPR Violation Leads to Liability",
-    "summary_en": "In SIAC Case No. 2025/089, a Chinese cross-border e-commerce company was ordered to compensate its Singaporean partner for losses caused by a data breach. The tribunal held that data compliance obligations are continuing duties and do not terminate upon contract expiration. The company failed to implement adequate technical measures under the GDPR, resulting in user data leakage, and was ordered to pay approximately €1.2 million in damages. The award warns overseas-bound companies that data protection is a long-term responsibility, and non-compliance may lead to arbitration or litigation even after the contract ends.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) Award Summary · Q2 2026"
+    "title": "英国高等法院认定中企在英投资仲裁案中享有“投资者”适格主体地位",
+    "summary": "2026年6月，英国高等法院在X公司诉英国政府投资仲裁案中裁定，依据《中英双边投资协定》及《ICSID公约》，注册于中国香港但实际控制人为内地自然人的企业，仍可被认定为“投资者”并享有条约保护。该案明确了“控制标准”在投资者国籍认定中的优先适用，为中国企业通过香港平台对英投资提供了重要判例支持。建议跨境投资架构设计时保留清晰的最终控制证据链。",
+    "source": "来源：英国高等法院判例 · 2026.06",
+    "title_en": "UK High Court Rules Chinese-Controlled Hong Kong Company Qualifies as 'Investor' in BIT Arbitration",
+    "summary_en": "In June 2026, the UK High Court held in Company X v. UK that an enterprise registered in Hong Kong but ultimately controlled by mainland Chinese individuals qualifies as an 'investor' under the China-UK Bilateral Investment Treaty and the ICSID Convention. The ruling prioritizes the 'control test' over formal nationality, providing key precedent for Chinese investments via Hong Kong platforms. Cross-border investors are advised to maintain clear evidence of ultimate control in their investment structures.",
+    "source_en": "Source: UK High Court Judgment · 2026.06"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制扩围，新增医疗与金融领域",
-    "summary": "广东省互联网信息办公室于6月15日发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》修订版，将“白名单”机制适用范围从原有的跨境电商、供应链管理等领域扩展至医疗健康与金融服务。纳入白名单的企业在满足安全评估要求后，可便利化地向港澳传输个人数据与重要数据。该政策降低了大湾区企业跨境合规成本，但企业仍需建立内部数据分类分级制度，并完成备案。",
-    "source": "来源：广东省互联网信息办公室 · 2026.06.15",
-    "title_en": "Greater Bay Area Cross-Border Data Flow 'Whitelist' Expanded to Healthcare and Finance",
-    "summary_en": "On June 15, the Cyberspace Administration of Guangdong Province released a revised version of the 'Regulations on the Security Management of Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', extending the whitelist mechanism from e-commerce and supply chain management to healthcare and financial services. Companies on the whitelist can transfer personal and important data to Hong Kong and Macao with simplified procedures after meeting security assessment requirements. This policy reduces cross-border compliance costs for GBA enterprises, but companies must still establish internal data classification systems and complete filings.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.15"
+    "title": "粤港澳大湾区国际商事仲裁示范规则发布，便利跨境争议解决",
+    "summary": "2026年6月22日，广东省司法厅联合香港律政司、澳门法务局发布《粤港澳大湾区国际商事仲裁示范规则》，自2026年9月1日起施行。规则允许当事人自主选择仲裁地、法律及语言，并引入紧急仲裁员、第三方资助披露等国际通行制度。此举旨在统一三地仲裁程序标准，降低企业跨境争议解决成本。建议出海企业在新签涉大湾区合同时，优先约定适用该示范规则。",
+    "source": "来源：广东省司法厅 · 2026.06.23",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues Model Arbitration Rules for Cross-Border Disputes",
+    "summary_en": "On June 22, 2026, the Guangdong Provincial Department of Justice, together with the Hong Kong Department of Justice and the Macao Legal Affairs Bureau, released the 'Guangdong-Hong Kong-Macao Greater Bay Area Model Arbitration Rules for International Commercial Disputes,' effective September 1, 2026. The rules allow parties to freely choose the seat, governing law, and language of arbitration, and introduce international practices such as emergency arbitrator and third-party funding disclosure. This initiative aims to harmonize arbitration procedures across the three jurisdictions and reduce dispute resolution costs. Enterprises are advised to incorporate the Model Rules into new contracts involving the Greater Bay Area.",
+    "source_en": "Source: Guangdong Provincial Department of Justice · 2026.06.23"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟关税与数据合规双重压力下，出海企业应建立“法律+商业”联动应对机制",
-    "summary": "秦林蒿律师研判：当前欧盟对华电动汽车反补贴关税与GDPR执法趋严形成双重合规压力，企业不能再将法律与商业决策分离。建议出海企业：（1）在投资欧洲前进行关税与数据合规尽职调查，评估建厂或合资的可行性；（2）合同中加入关税调整条款与数据保护持续义务条款；（3）建立法律、税务、供应链跨部门小组，定期更新合规清单。短期可通过价格承诺谈判争取缓冲，中长期应实现供应链本地化与数据本地化。",
-    "source": "来源：律连全球 · iGlobal Law 涉外律师团队 · 2026.06.19",
-    "title_en": "Attorney Qin's View: Under EU Tariff and Data Compliance Pressures, Outbound Companies Should Establish a 'Legal + Business' Joint Response Mechanism",
-    "summary_en": "Attorney Qin's view: The dual pressures of EU anti-subsidy tariffs on Chinese EVs and stricter GDPR enforcement mean companies can no longer separate legal and business decisions. Recommendations for outbound companies: (1) conduct tariff and data compliance due diligence before investing in Europe, assessing feasibility of factory construction or joint ventures; (2) include tariff adjustment clauses and data protection continuing obligations in contracts; (3) establish cross-departmental teams covering legal, tax, and supply chain to regularly update compliance checklists. In the short term, negotiate price undertakings for a buffer; in the medium to long term, achieve supply chain and data localization.",
-    "source_en": "Source: iGlobal Law Team · 2026.06.19"
+    "title": "秦林蒿律师研判：欧盟反补贴调查下，中国企业应提前布局“原产地穿透”合规",
+    "summary": "秦林蒿律师研判：欧盟反补贴调查不仅关注产品本身，更会穿透审查供应链中原材料、零部件及组装环节的补贴情况。建议企业立即梳理上游供应商清单，识别是否存在来自中国政府的补贴（如低价供电、税收返还），并预估可能被加征的税率。同时，考虑将部分高附加值工序转移至与欧盟有自贸协定的国家（如越南、摩洛哥），以争取“原产地豁免”。英文以“Attorney Qin's view: ”开头。",
+    "source": "来源：秦林蒿律师 · 2026.06.23",
+    "title_en": "Attorney Qin's view: Chinese Enterprises Should Proactively Address 'Origin Tracing' Compliance Amid EU Anti-Subsidy Probe",
+    "summary_en": "Attorney Qin's view: The EU anti-subsidy investigation not only targets the final product but also traces subsidies in the supply chain, including raw materials, components, and assembly. Companies should immediately map their upstream suppliers to identify any Chinese government subsidies (e.g., below-market electricity, tax rebates) and estimate potential tariff exposure. Additionally, consider relocating high-value-added processes to countries with EU free trade agreements (e.g., Vietnam, Morocco) to claim 'origin exemption.'",
+    "source_en": "Source: Attorney Qin Linhao · 2026.06.23"
   },
-  "dateLabel": "2026年6月19日 · 星期五",
-  "dateLabel_en": "Friday, June 19, 2026",
-  "issue": 170
+  "dateLabel": "2026年6月23日 · 星期二",
+  "dateLabel_en": "Tuesday, June 23, 2026",
+  "issue": 174
 }
