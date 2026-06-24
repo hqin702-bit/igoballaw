@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征反补贴关税，中企应启动供应链溯源与替代方案评估",
-    "summary": "欧盟委员会于6月22日公布针对中国电动汽车的反补贴调查初步裁定，拟对进口自中国的纯电动汽车加征17%至36%的额外关税。该措施预计7月临时生效，最终裁定将于11月作出。受调查企业包括比亚迪、吉利、上汽等主要出口商。建议相关企业立即梳理欧盟原产地规则、调整供应链布局，并准备价格承诺谈判方案。",
-    "source": "来源：欧盟委员会官网 · 2026.06.23",
-    "title_en": "EU Plans Countervailing Duties on Chinese EVs; Firms Urged to Review Supply Chains",
-    "summary_en": "On June 22, the European Commission announced preliminary findings in its anti-subsidy investigation into Chinese electric vehicles, proposing additional tariffs of 17% to 36% on BEVs imported from China. The measures are expected to take effect provisionally in July, with a final ruling in November. Affected companies including BYD, Geely, and SAIC should immediately review EU rules of origin, adjust supply chains, and prepare for price undertaking negotiations.",
-    "source_en": "Source: European Commission · 2026.06.23"
+    "title": "欧盟拟对华电动汽车加征临时反补贴关税，最高达38.1%",
+    "summary": "欧盟委员会于6月12日披露拟对中国产电动汽车加征17.4%至38.1%的临时反补贴关税，涉及比亚迪、吉利、上汽等企业。该关税预计7月4日起实施，中欧双方仍在磋商。建议出口企业提前评估供应链调整与价格转嫁方案。",
+    "source": "来源：欧盟委员会官网 · 2026.06.12",
+    "title_en": "EU Plans Provisional Anti-Subsidy Tariffs on Chinese EVs, Up to 38.1%",
+    "summary_en": "On June 12, the European Commission disclosed plans to impose provisional anti-subsidy tariffs of 17.4% to 38.1% on Chinese EVs, affecting BYD, Geely, SAIC, etc. The tariffs are expected to take effect on July 4, with ongoing EU-China consultations. Exporters should assess supply chain adjustments and price pass-through strategies.",
+    "source_en": "Source: European Commission · 2026.06.12"
   },
   "case": {
-    "title": "英国高等法院裁定：跨境数据泄露适用GDPR域外管辖，中资云服务商需注意合规",
-    "summary": "英国高等法院近期在一起集体诉讼中裁定，某中资云服务商因未能保护欧盟用户数据而承担GDPR项下的直接责任。法院认为，即使数据处理发生在境外，只要向欧盟境内个人提供服务或监控其行为，即受GDPR管辖。该案警示出海企业，数据保护合规不能仅依赖国内法，须建立符合GDPR/UK GDPR的全流程数据治理体系。",
-    "source": "来源：英国高等法院判决（案号略）· 2026年6月",
-    "title_en": "UK High Court: GDPR Extraterritoriality Applies to Cross-Border Data Breach – Cloud Providers Take Note",
-    "summary_en": "In a recent class action, the UK High Court held a Chinese cloud service provider directly liable under the GDPR for failing to protect EU users' data. The court ruled that as long as services are offered to or behavior of individuals in the EU is monitored, GDPR applies regardless of where data processing occurs. This case warns Chinese enterprises that data protection compliance must go beyond domestic laws and establish a full-cycle data governance framework compliant with GDPR/UK GDPR.",
-    "source_en": "Source: UK High Court judgment (case number omitted) · June 2026"
+    "title": "新加坡国际仲裁中心裁决：跨境股权转让未获中国外管局登记不导致协议无效",
+    "summary": "SIAC在2026年5月裁决一起中企与新加坡投资者的股权纠纷案，认定未完成中国外汇管理局登记不影响股权转让协议在仲裁中的效力，但登记义务仍须履行。该案提示跨境交易中登记性义务与合同效力的区分。",
+    "source": "来源：SIAC 2026年裁决摘要 · 2026.05",
+    "title_en": "SIAC Holds: Failure to Register Cross-Border Share Transfer with SAFE Does Not Void Agreement",
+    "summary_en": "In a May 2026 award, the SIAC ruled that the failure to complete SAFE registration for a cross-border share transfer does not invalidate the underlying agreement in arbitration, though the registration obligation remains. The case highlights the distinction between regulatory formalities and contractual validity in cross-border deals.",
+    "source_en": "Source: SIAC Award Summary · May 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境争议解决规则衔接新进展：深圳国际仲裁院试行线上仲裁与临时措施协作机制",
-    "summary": "深圳市司法局与深圳国际仲裁院于6月20日联合发布《大湾区跨境争议线上仲裁指引（试行）》，并同步启动与香港、澳门仲裁机构的临时措施协作试点。该指引允许当事人全程线上参与仲裁程序，并明确仲裁庭可依申请作出财产保全、证据保全等临时措施，经协作机制由三地法院协助执行。此举将显著降低跨境争议解决的时间与成本。",
-    "source": "来源：深圳市司法局 · 2026.06.23",
-    "title_en": "New GBA Cross-Border Dispute Resolution Rules: Shenzhen Court of International Arbitration Pilots Online Arbitration & Interim Measures Cooperation",
-    "summary_en": "On June 20, the Shenzhen Municipal Bureau of Justice and the Shenzhen Court of International Arbitration jointly issued the Pilot Guidelines on Online Arbitration for Cross-Border Disputes in the Greater Bay Area, and launched a pilot cooperation mechanism for interim measures with arbitration institutions in Hong Kong and Macau. The guidelines allow parties to participate in arbitration entirely online, and empower tribunals to order interim measures such as asset preservation and evidence preservation, enforceable by courts in the three regions through the cooperation mechanism. This will significantly reduce the time and cost of cross-border dispute resolution.",
-    "source_en": "Source: Shenzhen Municipal Bureau of Justice · 2026.06.23"
+    "title": "粤港澳大湾区跨境数据流动“白名单”机制落地，首批涵盖金融与医疗",
+    "summary": "广东省网信办与香港创新科技署于6月20日联合发布大湾区数据跨境流动“白名单”试点指引，明确金融、医疗等领域经备案可便利化出境。企业需建立数据分类分级与合规自评估机制。",
+    "source": "来源：广东省互联网信息办公室 · 2026.06.20",
+    "title_en": "GBA Cross-Border Data Flow 'White List' Mechanism Launched, Covering Finance and Healthcare",
+    "summary_en": "On June 20, the Guangdong Cyberspace Administration and Hong Kong Innovation and Technology Bureau jointly issued a pilot guideline for the GBA data cross-border 'white list', facilitating outbound data flows in finance and healthcare after filing. Enterprises should establish data classification and compliance self-assessment mechanisms.",
+    "source_en": "Source: Guangdong Cyberspace Administration · 2026.06.20"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国《生物安全法案》草案影响中企赴美合作，建议提前布局非美市场与合规防火墙",
-    "summary": "美国国会最新版《生物安全法案》草案（BIOSECURE Act）拟限制联邦机构与中国生物科技企业合作。秦林蒿律师研判：该法案虽未最终通过，但已对中企在美融资、合作及知识产权布局产生寒蝉效应。建议相关企业：（1）加速第三方市场（如东南亚、中东）的合作伙伴拓展；（2）构建符合FDA及EU GMP标准的独立合规体系；（3）评估现有在美合同中的不可抗力与终止条款，防范政策突变风险。",
-    "source": "来源：美国国会立法动态 · 秦林蒿律师研判 · 2026.06.23",
-    "title_en": "Attorney Qin's view: U.S. BIOSECURE Act Draft May Chill China Biotech Cooperation; Preemptive Diversification and Compliance Firewall Recommended",
-    "summary_en": "The latest draft of the U.S. BIOSECURE Act proposes restrictions on federal agencies contracting with Chinese biotechnology companies. Attorney Qin Linhao opines that although the Act is not yet final, it has already created a chilling effect on Chinese firms' fundraising, collaboration, and IP strategy in the U.S. He recommends that affected companies: (1) accelerate partner diversification in third markets such as Southeast Asia and the Middle East; (2) build independent compliance systems meeting FDA and EU GMP standards; and (3) review force majeure and termination clauses in existing U.S. contracts to mitigate sudden policy shifts.",
-    "source_en": "Source: U.S. Congress legislative developments · Attorney Qin Linhao's analysis · 2026.06.23"
+    "title": "秦林蒿律师研判：欧盟反补贴调查下，中国企业应提前构建“原产地+定价”合规防线",
+    "summary": "秦林蒿律师研判：欧盟反补贴调查可能扩展至光伏、风电等领域。建议企业从三方面应对：一是优化供应链，增加非中国原产组件比例；二是建立独立的出口定价与成本核算文档；三是主动申请市场经济待遇。英文以Attorney Qin's view: 开头。",
+    "source": "来源：律连全球 · iGlobal Law · 2026.06.24",
+    "title_en": "Attorney Qin's View: Under EU Anti-Subs Probes, Chinese Firms Should Build 'Origin + Pricing' Compliance Defenses",
+    "summary_en": "Attorney Qin's view: EU anti-subsidy investigations may extend to solar, wind sectors. Recommendations: (1) optimize supply chains by increasing non-Chinese-origin components; (2) maintain independent export pricing and cost documentation; (3) proactively apply for Market Economy Treatment.",
+    "source_en": "Source: iGlobal Law · 2026.06.24"
   },
-  "dateLabel": "2026年6月23日 · 星期二",
-  "dateLabel_en": "Tuesday, June 23, 2026",
-  "issue": 174
+  "dateLabel": "2026年6月24日 · 星期三",
+  "dateLabel_en": "Wednesday, June 24, 2026",
+  "issue": 175
 }
