@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征反补贴关税，中欧磋商进入关键期",
-    "summary": "欧盟委员会于6月24日公布了对中国电动汽车反补贴调查的初步裁定，拟对进口自中国的纯电动汽车加征17%至36%的额外关税。中欧双方正就价格承诺等解决方案进行紧急磋商，预计7月4日前作出最终决定。中国商务部表示将采取一切必要措施捍卫产业利益。建议出口企业密切关注税率变动，评估供应链调整方案，并提前与欧洲进口商协商合同中的关税分担条款。",
-    "source": "来源：欧盟委员会官网 · 2026.06.25",
-    "title_en": "EU Proposes Anti-Subsidy Tariffs on Chinese EVs; China-EU Talks Enter Critical Phase",
-    "summary_en": "On June 24, the European Commission published preliminary findings of its anti-subsidy investigation into Chinese electric vehicles, proposing additional tariffs of 17%-36% on battery electric vehicles imported from China. China and the EU are in urgent consultations on solutions such as price undertakings, with a final decision expected by July 4. China's Ministry of Commerce stated it will take all necessary measures to protect industrial interests. Exporters are advised to monitor tariff changes, assess supply chain adjustments, and negotiate tariff-sharing clauses with European importers in advance.",
-    "source_en": "Source: European Commission · 2026.06.25"
+    "title": "欧盟修订《反胁迫工具法案》实施细则，新增反制清单触发条件",
+    "summary": "欧盟委员会于2026年6月24日发布《反胁迫工具法案》（ACI）实施细则，明确当第三国采取“经济胁迫”措施（如限制贸易、投资或技术转让）时，欧盟可对其实施反制措施，包括加征关税、暂停知识产权保护或限制服务贸易。新规将“胁迫”定义扩展至数字服务与数据流动限制，并建立快速响应机制。中国出海企业需关注欧盟对华贸易政策风险，尤其是新能源、半导体及跨境电商领域。",
+    "source": "来源：欧盟委员会官网 · 2026.06.26",
+    "title_en": "EU Revises Enforcement Rules for Anti-Coercion Instrument, Adds New Trigger Conditions for Countermeasures",
+    "summary_en": "On June 24, 2026, the European Commission published implementing rules for the Anti-Coercion Instrument (ACI), specifying that when a third country takes 'economic coercion' measures (e.g., restricting trade, investment, or technology transfer), the EU may impose countermeasures including tariffs, suspension of IP protection, or restrictions on service trade. The new rules expand the definition of coercion to cover digital services and data flow restrictions and establish a rapid response mechanism. Chinese overseas-bound enterprises should monitor EU trade policy risks, especially in new energy, semiconductors, and cross-border e-commerce.",
+    "source_en": "Source: European Commission Official Website · 2026.06.26"
   },
   "case": {
-    "title": "美国联邦巡回上诉法院裁定：未注册中国商标不能依据《兰哈姆法》获得跨境保护",
-    "summary": "2026年6月，美国联邦巡回上诉法院在「深圳华强电子诉美国经销商案」中维持原判，认定中国企业在美未注册的商标不受《兰哈姆法》保护，不能主张商标侵权或不正当竞争。该案警示出海企业：仅凭中国商标注册无法在美获得法律救济，必须提前布局美国商标注册。建议企业在产品进入美国市场前至少6-12个月提交商标申请，并保留使用证据。",
-    "source": "来源：美国联邦巡回上诉法院判决 · 2026.06",
-    "title_en": "U.S. Federal Circuit Rules: Unregistered Chinese Marks Not Protected Under Lanham Act for Cross-Border Claims",
-    "summary_en": "In June 2026, the U.S. Court of Appeals for the Federal Circuit upheld a lower court ruling in Shenzhen Huaqiang Electronics v. U.S. Distributor, holding that Chinese companies' unregistered trademarks in the U.S. are not protected under the Lanham Act, barring claims for infringement or unfair competition. The case warns Chinese exporters: domestic registration alone offers no legal remedy in the U.S.; proactive U.S. trademark registration is essential. Companies are advised to file trademark applications at least 6-12 months before market entry and maintain evidence of use.",
-    "source_en": "Source: U.S. Court of Appeals for the Federal Circuit · 2026.06"
+    "title": "新加坡国际仲裁庭裁决：中国承包商因不可抗力条款约定不明致索赔失败",
+    "summary": "在SIAC仲裁案（SIAC Case No. 2025-089）中，一家中国建筑企业因某东南亚国家政府项目延期，援引不可抗力条款要求免除违约金并索赔额外费用。仲裁庭认定，合同中的不可抗力条款未明确列举疫情、供应链中断等情形，且企业未及时履行通知义务，故驳回其主张。该案提示中国企业：涉外合同中的不可抗力条款应具体化，并严格遵循程序性要求。",
+    "source": "来源：新加坡国际仲裁中心（SIAC）2026年6月裁决",
+    "title_en": "SIAC Rules Against Chinese Contractor for Vague Force Majeure Clause in Dispute over Government Project Delay",
+    "summary_en": "In SIAC Case No. 2025-089, a Chinese construction firm invoked a force majeure clause to seek exemption from liquidated damages and additional costs for a delay in a Southeast Asian government project. The tribunal held that the clause did not explicitly cover pandemics or supply chain disruptions, and the contractor failed to give timely notice, thus rejecting the claim. This case highlights that force majeure clauses in cross-border contracts should be specific, and procedural requirements must be strictly followed.",
+    "source_en": "Source: Singapore International Arbitration Centre (SIAC) Award, June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区内地九市试点实施跨境数据流动“白名单”管理，简化合规流程",
-    "summary": "国家互联网信息办公室于2026年6月22日发布《粤港澳大湾区数据跨境流动促进办法（试行）》，在深圳、广州等九市试点“白名单”机制。对列入白名单的常见商业数据（如贸易、物流、支付信息）出境实行备案制，免除安全评估。此举将大幅降低企业数据合规成本。建议企业梳理数据分类，争取将自身业务数据纳入白名单，并建立内部数据分级管理制度。",
-    "source": "来源：国家互联网信息办公室 · 2026.06.22",
-    "title_en": "Pilot 'Whitelist' for Cross-Border Data Flows in Nine Greater Bay Area Cities Simplifies Compliance",
-    "summary_en": "On June 22, 2026, the Cyberspace Administration of China issued the 'Interim Measures on Promoting Cross-Border Data Flows in the Guangdong-Hong Kong-Macao Greater Bay Area', piloting a whitelist mechanism in nine cities including Shenzhen and Guangzhou. Common commercial data (e.g., trade, logistics, payment information) on the whitelist will be subject to a filing system, exempting security assessments. This will significantly reduce data compliance costs. Companies are advised to classify data, seek inclusion in the whitelist, and establish internal data grading management systems.",
-    "source_en": "Source: Cyberspace Administration of China · 2026.06.22"
+    "title": "粤港澳大湾区发布《跨境数据流动安全评估指引（2026版）》，简化合规流程",
+    "summary": "广东省互联网信息办公室联合香港、澳门相关部门于2026年6月20日发布新版指引，对粤港澳大湾区内的跨境数据流动实行“白名单”管理。对列入白名单的常见商业数据（如物流、支付、供应链信息）免予安全评估，仅需备案；对敏感个人信息和重要数据仍保留评估要求。该指引旨在促进大湾区数字贸易便利化，企业可据此优化数据出境合规方案。",
+    "source": "来源：广东省互联网信息办公室 · 2026.06.26",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues 2026 Guidelines on Cross-Border Data Flow Security Assessment, Streamlining Compliance",
+    "summary_en": "On June 20, 2026, the Cyberspace Administration of Guangdong, together with Hong Kong and Macao authorities, released new guidelines adopting a 'whitelist' approach for cross-border data flows within the Greater Bay Area. Common business data (e.g., logistics, payment, supply chain information) on the whitelist are exempt from security assessment and require only filing; assessment remains for sensitive personal information and important data. The guidelines aim to facilitate digital trade in the region, and enterprises can optimize their data export compliance strategies accordingly.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.26"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华半导体出口管制持续加码，企业应建立“双供应链”与合规内控体系",
-    "summary": "秦林蒿律师研判：美国商务部工业安全局（BIS）近期拟进一步扩大对华半导体设备及EDA软件的出口限制，并强化最终用户审查。中国半导体企业应尽快评估现有供应链中的受管制物项，建立“中国+海外”双供应链备份；同时完善出口合规内控体系，包括物项分类、最终用户尽职调查及内部培训。建议聘请专业律师定期开展合规审计，以应对美方突袭检查。",
-    "source": "来源：秦林蒿律师 · 2026.06.25",
-    "title_en": "Attorney Qin's view: As U.S. Semiconductor Export Controls Tighten, Firms Should Build Dual Supply Chains and Compliance Systems",
-    "summary_en": "Attorney Qin's view: The U.S. Bureau of Industry and Security (BIS) is expected to further expand export restrictions on semiconductor equipment and EDA software to China, and strengthen end-user reviews. Chinese semiconductor companies should promptly assess controlled items in their supply chains, establish 'China + overseas' dual supply chain backups, and enhance internal export compliance systems, including item classification, end-user due diligence, and internal training. It is advisable to engage professional lawyers for regular compliance audits to prepare for potential U.S. inspections.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.06.25"
+    "title": "秦林蒿律师研判：中国企业应警惕美国对华半导体设备出口管制“长臂管辖”新动向",
+    "summary": "秦林蒿律师研判：美国商务部工业安全局（BIS）近期拟修订《出口管理条例》（EAR），将“外国直接产品规则”扩展至更多半导体制造设备，并加强对“最终用户”的审查。建议中国半导体企业：（1）全面审查供应链中美国原产技术占比；（2）对涉及美国技术的高风险交易申请许可证；（3）建立内部合规体系，区分EAR与非EAR技术。同时关注中国反制措施的动态，如不可靠实体清单。",
+    "source": "来源：秦林蒿律师 · 2026.06.26",
+    "title_en": "Attorney Qin's View: Chinese Companies Should Watch New Developments in US 'Long-Arm Jurisdiction' over Semiconductor Equipment Export Controls",
+    "summary_en": "Attorney Qin's view: The US Bureau of Industry and Security (BIS) is proposing to amend the Export Administration Regulations (EAR) to extend the 'foreign direct product rule' to more semiconductor manufacturing equipment and tighten end-user screening. Chinese semiconductor companies are advised to: (1) comprehensively review the proportion of US-origin technology in their supply chains; (2) apply for licenses for high-risk transactions involving US technology; (3) establish internal compliance systems to distinguish EAR from non-EAR technologies. Also monitor China's countermeasures, such as the Unreliable Entity List.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.06.26"
   },
-  "dateLabel": "2026年6月25日 · 星期四",
-  "dateLabel_en": "Thursday, June 25, 2026",
-  "issue": 176
+  "dateLabel": "2026年6月26日 · 星期五",
+  "dateLabel_en": "Friday, June 26, 2026",
+  "issue": 177
 }
