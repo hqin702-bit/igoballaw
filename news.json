@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟修订《反胁迫工具法案》实施细则，新增反制清单触发条件",
-    "summary": "欧盟委员会于2026年6月24日发布《反胁迫工具法案》（ACI）实施细则，明确当第三国采取“经济胁迫”措施（如限制贸易、投资或技术转让）时，欧盟可对其实施反制措施，包括加征关税、暂停知识产权保护或限制服务贸易。新规将“胁迫”定义扩展至数字服务与数据流动限制，并建立快速响应机制。中国出海企业需关注欧盟对华贸易政策风险，尤其是新能源、半导体及跨境电商领域。",
-    "source": "来源：欧盟委员会官网 · 2026.06.26",
-    "title_en": "EU Revises Enforcement Rules for Anti-Coercion Instrument, Adds New Trigger Conditions for Countermeasures",
-    "summary_en": "On June 24, 2026, the European Commission published implementing rules for the Anti-Coercion Instrument (ACI), specifying that when a third country takes 'economic coercion' measures (e.g., restricting trade, investment, or technology transfer), the EU may impose countermeasures including tariffs, suspension of IP protection, or restrictions on service trade. The new rules expand the definition of coercion to cover digital services and data flow restrictions and establish a rapid response mechanism. Chinese overseas-bound enterprises should monitor EU trade policy risks, especially in new energy, semiconductors, and cross-border e-commerce.",
-    "source_en": "Source: European Commission Official Website · 2026.06.26"
+    "title": "欧盟拟对中国电动汽车加征临时反补贴关税，税率最高达38.1%",
+    "summary": "欧盟委员会于6月12日宣布，拟对进口自中国的电动汽车加征最高38.1%的临时反补贴关税，其中比亚迪17.4%、吉利20%、上汽38.1%。该措施将于7月4日起实施，除非欧盟成员国多数反对。受影响企业可申请听证或提交价格承诺。建议中国车企立即评估供应链调整方案，并启动欧盟法院诉讼准备。",
+    "source": "来源：欧盟委员会公告 · 2026.06.12",
+    "title_en": "EU Proposes Provisional Anti-Subsidy Tariffs of Up to 38.1% on Chinese EVs",
+    "summary_en": "On June 12, the European Commission announced provisional anti-subsidy tariffs of up to 38.1% on imported Chinese EVs, with BYD at 17.4%, Geely at 20%, and SAIC at 38.1%. The measures take effect July 4 unless a qualified majority of EU member states opposes. Affected companies may request hearings or offer price undertakings. Chinese automakers should immediately assess supply chain adjustments and prepare for EU court challenges.",
+    "source_en": "Source: European Commission Announcement · 2026.06.12"
   },
   "case": {
-    "title": "新加坡国际仲裁庭裁决：中国承包商因不可抗力条款约定不明致索赔失败",
-    "summary": "在SIAC仲裁案（SIAC Case No. 2025-089）中，一家中国建筑企业因某东南亚国家政府项目延期，援引不可抗力条款要求免除违约金并索赔额外费用。仲裁庭认定，合同中的不可抗力条款未明确列举疫情、供应链中断等情形，且企业未及时履行通知义务，故驳回其主张。该案提示中国企业：涉外合同中的不可抗力条款应具体化，并严格遵循程序性要求。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）2026年6月裁决",
-    "title_en": "SIAC Rules Against Chinese Contractor for Vague Force Majeure Clause in Dispute over Government Project Delay",
-    "summary_en": "In SIAC Case No. 2025-089, a Chinese construction firm invoked a force majeure clause to seek exemption from liquidated damages and additional costs for a delay in a Southeast Asian government project. The tribunal held that the clause did not explicitly cover pandemics or supply chain disruptions, and the contractor failed to give timely notice, thus rejecting the claim. This case highlights that force majeure clauses in cross-border contracts should be specific, and procedural requirements must be strictly followed.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) Award, June 2026"
+    "title": "最高法发布跨境贸易典型案：跨境电商未明示退货地址被判欺诈",
+    "summary": "最高人民法院6月15日发布涉外商事海事典型案例。其中，跨境电商A公司未在平台显著位置披露退货实体地址，导致消费者无法退货，被认定构成欺诈，判决三倍赔偿。该案明确：跨境电商经营者应遵守消费者权益保护法，须提供真实、有效退货地址，否则可能承担惩罚性赔偿。建议出海企业自查平台合规。",
+    "source": "来源：最高人民法院 · 2026.06.15",
+    "title_en": "Supreme Court: Cross-Border E-Commerce Platform's Failure to Disclose Return Address Constitutes Fraud",
+    "summary_en": "On June 15, the Supreme People's Court released typical foreign-related commercial and maritime cases. In one case, cross-border e-commerce company A failed to prominently display a physical return address on its platform, preventing consumers from returning goods. The court ruled this constituted fraud, awarding triple damages. The case clarifies that cross-border e-commerce operators must comply with consumer protection laws and provide valid return addresses, or face punitive damages. Outbound businesses should review platform compliance.",
+    "source_en": "Source: Supreme People's Court · 2026.06.15"
   },
   "policy": {
-    "title": "粤港澳大湾区发布《跨境数据流动安全评估指引（2026版）》，简化合规流程",
-    "summary": "广东省互联网信息办公室联合香港、澳门相关部门于2026年6月20日发布新版指引，对粤港澳大湾区内的跨境数据流动实行“白名单”管理。对列入白名单的常见商业数据（如物流、支付、供应链信息）免予安全评估，仅需备案；对敏感个人信息和重要数据仍保留评估要求。该指引旨在促进大湾区数字贸易便利化，企业可据此优化数据出境合规方案。",
-    "source": "来源：广东省互联网信息办公室 · 2026.06.26",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues 2026 Guidelines on Cross-Border Data Flow Security Assessment, Streamlining Compliance",
-    "summary_en": "On June 20, 2026, the Cyberspace Administration of Guangdong, together with Hong Kong and Macao authorities, released new guidelines adopting a 'whitelist' approach for cross-border data flows within the Greater Bay Area. Common business data (e.g., logistics, payment, supply chain information) on the whitelist are exempt from security assessment and require only filing; assessment remains for sensitive personal information and important data. The guidelines aim to facilitate digital trade in the region, and enterprises can optimize their data export compliance strategies accordingly.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.26"
+    "title": "粤港澳大湾区出台数据跨境流动新规，简化个人信息出境合规流程",
+    "summary": "广东省网信办6月20日发布《粤港澳大湾区数据跨境流动便利化措施（试行）》，明确区内企业通过订立标准合同即可实现个人信息跨境传输，无需单独通过安全评估。新规适用于大湾区内地九市与港澳之间的数据流动，涵盖金融、医疗、电商等领域。企业需在30日内向网信部门备案。此举将大幅降低合规成本。",
+    "source": "来源：广东省网信办 · 2026.06.20",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues New Rules to Simplify Cross-Border Data Flow Compliance",
+    "summary_en": "On June 20, the Cyberspace Administration of Guangdong Province issued the 'Pilot Measures on Facilitating Cross-Border Data Flow in the Greater Bay Area,' allowing enterprises to transfer personal data abroad by signing standard contracts without separate security assessments. The rules apply to data flows between nine mainland cities and Hong Kong/Macau, covering finance, healthcare, and e-commerce. Companies must file with the cyberspace authority within 30 days. This significantly reduces compliance costs.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.20"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：中国企业应警惕美国对华半导体设备出口管制“长臂管辖”新动向",
-    "summary": "秦林蒿律师研判：美国商务部工业安全局（BIS）近期拟修订《出口管理条例》（EAR），将“外国直接产品规则”扩展至更多半导体制造设备，并加强对“最终用户”的审查。建议中国半导体企业：（1）全面审查供应链中美国原产技术占比；（2）对涉及美国技术的高风险交易申请许可证；（3）建立内部合规体系，区分EAR与非EAR技术。同时关注中国反制措施的动态，如不可靠实体清单。",
-    "source": "来源：秦林蒿律师 · 2026.06.26",
-    "title_en": "Attorney Qin's View: Chinese Companies Should Watch New Developments in US 'Long-Arm Jurisdiction' over Semiconductor Equipment Export Controls",
-    "summary_en": "Attorney Qin's view: The US Bureau of Industry and Security (BIS) is proposing to amend the Export Administration Regulations (EAR) to extend the 'foreign direct product rule' to more semiconductor manufacturing equipment and tighten end-user screening. Chinese semiconductor companies are advised to: (1) comprehensively review the proportion of US-origin technology in their supply chains; (2) apply for licenses for high-risk transactions involving US technology; (3) establish internal compliance systems to distinguish EAR from non-EAR technologies. Also monitor China's countermeasures, such as the Unreliable Entity List.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.06.26"
+    "title": "秦林蒿律师研判：中企应对欧盟反补贴调查应主动提交价格承诺并准备司法挑战",
+    "summary": "秦林蒿律师研判：欧盟对华电动汽车反补贴调查已进入关键阶段，企业应主动利用价格承诺机制争取豁免，同时同步准备向欧盟普通法院提起诉讼，挑战调查程序与实体认定的合法性。建议企业聘请专业律师团队，在7月4日前提交书面意见，并保留完整出口数据以应对后续复审。",
+    "source": "来源：秦林蒿律师 · 2026.06.29",
+    "title_en": "Attorney Qin's View: Chinese Companies Should Proactively Offer Price Undertakings and Prepare Legal Challenges in EU Anti-Subsidy Probe",
+    "summary_en": "Attorney Qin's view: As the EU anti-subsidy investigation into Chinese EVs enters a critical phase, enterprises should proactively use the price undertaking mechanism to seek exemptions while simultaneously preparing to challenge the investigation's procedural and substantive legality before the General Court of the EU. It is recommended to hire a professional legal team, submit written comments before July 4, and retain complete export data for subsequent reviews.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.06.29"
   },
-  "dateLabel": "2026年6月26日 · 星期五",
-  "dateLabel_en": "Friday, June 26, 2026",
-  "issue": 177
+  "dateLabel": "2026年6月29日 · 星期一",
+  "dateLabel_en": "Monday, June 29, 2026",
+  "issue": 180
 }
