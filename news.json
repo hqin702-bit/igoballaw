@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对中国电动汽车加征临时反补贴关税，税率最高达38.1%",
-    "summary": "欧盟委员会于6月12日宣布，拟对进口自中国的电动汽车加征最高38.1%的临时反补贴关税，其中比亚迪17.4%、吉利20%、上汽38.1%。该措施将于7月4日起实施，除非欧盟成员国多数反对。受影响企业可申请听证或提交价格承诺。建议中国车企立即评估供应链调整方案，并启动欧盟法院诉讼准备。",
-    "source": "来源：欧盟委员会公告 · 2026.06.12",
-    "title_en": "EU Proposes Provisional Anti-Subsidy Tariffs of Up to 38.1% on Chinese EVs",
-    "summary_en": "On June 12, the European Commission announced provisional anti-subsidy tariffs of up to 38.1% on imported Chinese EVs, with BYD at 17.4%, Geely at 20%, and SAIC at 38.1%. The measures take effect July 4 unless a qualified majority of EU member states opposes. Affected companies may request hearings or offer price undertakings. Chinese automakers should immediately assess supply chain adjustments and prepare for EU court challenges.",
-    "source_en": "Source: European Commission Announcement · 2026.06.12"
+    "title": "欧盟正式通过《外国补贴条例》实施细则，中企投标与并购面临更严审查",
+    "summary": "欧盟理事会于2026年6月29日正式通过《外国补贴条例》实施细则，明确要求非欧盟企业在参与欧盟公共采购或大型并购时，须主动申报过去三年内获得的外国财政资助，否则将面临最高10%年营业额的罚款。该细则将于2026年9月1日生效，覆盖金额超过5亿欧元的交易。中国企业需提前梳理内部补贴台账，评估合规风险。",
+    "source": "来源：欧盟官方公报 · 2026.06.29",
+    "title_en": "EU Adopts Implementing Rules for Foreign Subsidies Regulation: Tighter Scrutiny for Chinese Bidders and Acquirers",
+    "summary_en": "On June 29, 2026, the Council of the EU formally adopted implementing rules for the Foreign Subsidies Regulation, requiring non-EU companies to proactively declare any foreign financial contributions received in the past three years when participating in large public procurement or M&A deals. Non-compliance may result in fines up to 10% of annual turnover. The rules take effect on September 1, 2026, covering transactions exceeding €500 million. Chinese enterprises should audit subsidy records and assess compliance risks in advance.",
+    "source_en": "Source: Official Journal of the EU · 2026.06.29"
   },
   "case": {
-    "title": "最高法发布跨境贸易典型案：跨境电商未明示退货地址被判欺诈",
-    "summary": "最高人民法院6月15日发布涉外商事海事典型案例。其中，跨境电商A公司未在平台显著位置披露退货实体地址，导致消费者无法退货，被认定构成欺诈，判决三倍赔偿。该案明确：跨境电商经营者应遵守消费者权益保护法，须提供真实、有效退货地址，否则可能承担惩罚性赔偿。建议出海企业自查平台合规。",
-    "source": "来源：最高人民法院 · 2026.06.15",
-    "title_en": "Supreme Court: Cross-Border E-Commerce Platform's Failure to Disclose Return Address Constitutes Fraud",
-    "summary_en": "On June 15, the Supreme People's Court released typical foreign-related commercial and maritime cases. In one case, cross-border e-commerce company A failed to prominently display a physical return address on its platform, preventing consumers from returning goods. The court ruled this constituted fraud, awarding triple damages. The case clarifies that cross-border e-commerce operators must comply with consumer protection laws and provide valid return addresses, or face punitive damages. Outbound businesses should review platform compliance.",
-    "source_en": "Source: Supreme People's Court · 2026.06.15"
+    "title": "英国高等法院裁定：跨境特许权协议中“最惠国”条款不自动适用新法规优惠",
+    "summary": "2026年6月，英国高等法院对一起中英企业间的特许权使用费纠纷作出判决，认定特许权协议中的“最惠国”（MFN）条款仅适用于签约时已存在的法规优惠，不涵盖后续新出台的税收或监管减免。法院强调，除非协议明确约定“动态最惠国”，否则被许可方不得援引MFN条款主张适用后续更优惠的法规。此案提醒中国企业在谈判跨境IP协议时，应明确MFN条款的适用范围和时间节点。",
+    "source": "来源：英国高等法院判例 · 2026.06",
+    "title_en": "UK High Court Rules: MFN Clause in Cross-Border Licensing Agreement Does Not Automatically Extend to New Regulatory Benefits",
+    "summary_en": "In June 2026, the UK High Court ruled in a royalty dispute between a Chinese and a UK company that a 'most-favored-nation' (MFN) clause in a licensing agreement applies only to regulatory benefits existing at the time of signing, not to subsequent tax or regulatory relief. The court emphasized that unless the agreement explicitly provides for a 'dynamic MFN,' the licensee cannot claim later-enacted favorable rules. This case reminds Chinese enterprises to clearly define the scope and timing of MFN clauses when negotiating cross-border IP agreements.",
+    "source_en": "Source: UK High Court judgment · 2026.06"
   },
   "policy": {
-    "title": "粤港澳大湾区出台数据跨境流动新规，简化个人信息出境合规流程",
-    "summary": "广东省网信办6月20日发布《粤港澳大湾区数据跨境流动便利化措施（试行）》，明确区内企业通过订立标准合同即可实现个人信息跨境传输，无需单独通过安全评估。新规适用于大湾区内地九市与港澳之间的数据流动，涵盖金融、医疗、电商等领域。企业需在30日内向网信部门备案。此举将大幅降低合规成本。",
-    "source": "来源：广东省网信办 · 2026.06.20",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues New Rules to Simplify Cross-Border Data Flow Compliance",
-    "summary_en": "On June 20, the Cyberspace Administration of Guangdong Province issued the 'Pilot Measures on Facilitating Cross-Border Data Flow in the Greater Bay Area,' allowing enterprises to transfer personal data abroad by signing standard contracts without separate security assessments. The rules apply to data flows between nine mainland cities and Hong Kong/Macau, covering finance, healthcare, and e-commerce. Companies must file with the cyberspace authority within 30 days. This significantly reduces compliance costs.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.20"
+    "title": "粤港澳大湾区试点“跨境数据流动白名单”机制，首批企业数据出境简化审批",
+    "summary": "广东省网信办于2026年6月28日发布《粤港澳大湾区数据跨境流动便利化试点方案》，对纳入“白名单”的企业，其向港澳地区传输非敏感个人数据及重要数据以外的商业数据，可免于安全评估，仅需备案。首批名单涵盖金融、医疗、跨境电商等领域的30家企业。此举旨在降低合规成本，促进大湾区数据要素流动。",
+    "source": "来源：广东省互联网信息办公室 · 2026.06.28",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Pilots 'White List' for Cross-Border Data Flows: Simplified Approval for First Batch of Enterprises",
+    "summary_en": "On June 28, 2026, the Cyberspace Administration of Guangdong Province released the 'Pilot Plan for Facilitating Cross-Border Data Flows in the Greater Bay Area,' under which enterprises on the 'white list' may transfer non-sensitive personal data and commercial data (excluding important data) to Hong Kong and Macao without a security assessment, requiring only filing. The first batch covers 30 enterprises in finance, healthcare, cross-border e-commerce, etc. This move aims to reduce compliance costs and promote data flow in the GBA.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.28"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：中企应对欧盟反补贴调查应主动提交价格承诺并准备司法挑战",
-    "summary": "秦林蒿律师研判：欧盟对华电动汽车反补贴调查已进入关键阶段，企业应主动利用价格承诺机制争取豁免，同时同步准备向欧盟普通法院提起诉讼，挑战调查程序与实体认定的合法性。建议企业聘请专业律师团队，在7月4日前提交书面意见，并保留完整出口数据以应对后续复审。",
-    "source": "来源：秦林蒿律师 · 2026.06.29",
-    "title_en": "Attorney Qin's View: Chinese Companies Should Proactively Offer Price Undertakings and Prepare Legal Challenges in EU Anti-Subsidy Probe",
-    "summary_en": "Attorney Qin's view: As the EU anti-subsidy investigation into Chinese EVs enters a critical phase, enterprises should proactively use the price undertaking mechanism to seek exemptions while simultaneously preparing to challenge the investigation's procedural and substantive legality before the General Court of the EU. It is recommended to hire a professional legal team, submit written comments before July 4, and retain complete export data for subsequent reviews.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.06.29"
+    "title": "秦林蒿律师研判：欧盟《外国补贴条例》下，中企应建立内部补贴台账与交易前筛查机制",
+    "summary": "秦林蒿律师研判：随着欧盟《外国补贴条例》实施细则即将生效，中国企业参与欧盟公共采购或并购前，必须建立全面的内部补贴台账，覆盖过去三年内获得的各类财政资助（包括税收减免、低息贷款、政府注资等）。建议在交易初期即进行补贴合规筛查，评估申报义务；必要时可聘请欧盟本地律师进行模拟申报。此外，协议中应明确约定补贴申报责任的分配与赔偿条款，以防范交易风险。",
+    "source": "来源：秦林蒿律师 · 2026.06.30",
+    "title_en": "Attorney Qin's view: Under EU Foreign Subsidies Regulation, Chinese Enterprises Should Establish Internal Subsidy Ledgers and Pre-Transaction Screening Mechanisms",
+    "summary_en": "Attorney Qin's view: With the implementing rules of the EU Foreign Subsidies Regulation soon to take effect, Chinese enterprises participating in EU public procurement or M&A must establish comprehensive internal subsidy ledgers covering all financial contributions received in the past three years (including tax breaks, low-interest loans, government capital injections, etc.). It is advisable to conduct subsidy compliance screening at the early stage of a transaction to assess filing obligations; engaging EU local counsel for mock filings may be necessary. Moreover, contracts should clearly allocate subsidy filing responsibilities and include indemnification clauses to mitigate transactional risks.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.06.30"
   },
-  "dateLabel": "2026年6月29日 · 星期一",
-  "dateLabel_en": "Monday, June 29, 2026",
-  "issue": 180
+  "dateLabel": "2026年6月30日 · 星期二",
+  "dateLabel_en": "Tuesday, June 30, 2026",
+  "issue": 181
 }
