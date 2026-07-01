@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟正式通过《外国补贴条例》实施细则，中企投标与并购面临更严审查",
-    "summary": "欧盟理事会于2026年6月29日正式通过《外国补贴条例》实施细则，明确要求非欧盟企业在参与欧盟公共采购或大型并购时，须主动申报过去三年内获得的外国财政资助，否则将面临最高10%年营业额的罚款。该细则将于2026年9月1日生效，覆盖金额超过5亿欧元的交易。中国企业需提前梳理内部补贴台账，评估合规风险。",
-    "source": "来源：欧盟官方公报 · 2026.06.29",
-    "title_en": "EU Adopts Implementing Rules for Foreign Subsidies Regulation: Tighter Scrutiny for Chinese Bidders and Acquirers",
-    "summary_en": "On June 29, 2026, the Council of the EU formally adopted implementing rules for the Foreign Subsidies Regulation, requiring non-EU companies to proactively declare any foreign financial contributions received in the past three years when participating in large public procurement or M&A deals. Non-compliance may result in fines up to 10% of annual turnover. The rules take effect on September 1, 2026, covering transactions exceeding €500 million. Chinese enterprises should audit subsidy records and assess compliance risks in advance.",
-    "source_en": "Source: Official Journal of the EU · 2026.06.29"
+    "title": "欧盟拟对华电动汽车加征惩罚性关税，中国车企面临出口合规新挑战",
+    "summary": "欧盟委员会于6月30日公布临时反补贴调查结果，计划对进口自中国的纯电动汽车加征17%至36%的额外关税。此举将显著抬高中国车企出口欧洲的成本，影响比亚迪、上汽等企业的市场布局。建议企业提前调整供应链，评估原产地规则并考虑在欧盟境内设厂以规避风险。",
+    "source": "来源：欧盟委员会官方公报 · 2026.07.01",
+    "title_en": "EU Plans Punitive Tariffs on Chinese EVs, New Compliance Challenges for Exporters",
+    "summary_en": "On June 30, the European Commission released preliminary anti-subsidy findings, proposing additional tariffs of 17% to 36% on battery electric vehicles imported from China. This will significantly raise export costs for Chinese automakers like BYD and SAIC, impacting their market strategies. Companies are advised to adjust supply chains, assess rules of origin, and consider EU-based production to mitigate risks.",
+    "source_en": "Source: Official Journal of the European Union · 2026.07.01"
   },
   "case": {
-    "title": "英国高等法院裁定：跨境特许权协议中“最惠国”条款不自动适用新法规优惠",
-    "summary": "2026年6月，英国高等法院对一起中英企业间的特许权使用费纠纷作出判决，认定特许权协议中的“最惠国”（MFN）条款仅适用于签约时已存在的法规优惠，不涵盖后续新出台的税收或监管减免。法院强调，除非协议明确约定“动态最惠国”，否则被许可方不得援引MFN条款主张适用后续更优惠的法规。此案提醒中国企业在谈判跨境IP协议时，应明确MFN条款的适用范围和时间节点。",
-    "source": "来源：英国高等法院判例 · 2026.06",
-    "title_en": "UK High Court Rules: MFN Clause in Cross-Border Licensing Agreement Does Not Automatically Extend to New Regulatory Benefits",
-    "summary_en": "In June 2026, the UK High Court ruled in a royalty dispute between a Chinese and a UK company that a 'most-favored-nation' (MFN) clause in a licensing agreement applies only to regulatory benefits existing at the time of signing, not to subsequent tax or regulatory relief. The court emphasized that unless the agreement explicitly provides for a 'dynamic MFN,' the licensee cannot claim later-enacted favorable rules. This case reminds Chinese enterprises to clearly define the scope and timing of MFN clauses when negotiating cross-border IP agreements.",
-    "source_en": "Source: UK High Court judgment · 2026.06"
+    "title": "新加坡国际仲裁中心裁定：跨境投资中“最惠国待遇”条款不自动适用于争议解决",
+    "summary": "在2026年6月的一起涉中资企业与东南亚国家的投资仲裁案中，SIAC仲裁庭明确：双边投资协定中的最惠国待遇条款原则上不延及争议解决程序，除非协定另有明确约定。该裁决提示中国投资者在谈判投资协定时需单独约定争端解决条款，避免依赖MFN条款自动获取更优程序权利。",
+    "source": "来源：新加坡国际仲裁中心 · 2026年6月裁决",
+    "title_en": "SIAC Rules: MFN Clause in BIT Does Not Automatically Extend to Dispute Resolution",
+    "summary_en": "In a June 2026 investment arbitration involving a Chinese enterprise and a Southeast Asian state, the SIAC tribunal held that the most-favored-nation clause in a bilateral investment treaty does not, in principle, apply to dispute resolution procedures unless explicitly stated. The ruling advises Chinese investors to separately negotiate dispute resolution clauses in investment treaties, rather than relying on MFN treatment for procedural advantages.",
+    "source_en": "Source: Singapore International Arbitration Centre · June 2026 Award"
   },
   "policy": {
-    "title": "粤港澳大湾区试点“跨境数据流动白名单”机制，首批企业数据出境简化审批",
-    "summary": "广东省网信办于2026年6月28日发布《粤港澳大湾区数据跨境流动便利化试点方案》，对纳入“白名单”的企业，其向港澳地区传输非敏感个人数据及重要数据以外的商业数据，可免于安全评估，仅需备案。首批名单涵盖金融、医疗、跨境电商等领域的30家企业。此举旨在降低合规成本，促进大湾区数据要素流动。",
-    "source": "来源：广东省互联网信息办公室 · 2026.06.28",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Pilots 'White List' for Cross-Border Data Flows: Simplified Approval for First Batch of Enterprises",
-    "summary_en": "On June 28, 2026, the Cyberspace Administration of Guangdong Province released the 'Pilot Plan for Facilitating Cross-Border Data Flows in the Greater Bay Area,' under which enterprises on the 'white list' may transfer non-sensitive personal data and commercial data (excluding important data) to Hong Kong and Macao without a security assessment, requiring only filing. The first batch covers 30 enterprises in finance, healthcare, cross-border e-commerce, etc. This move aims to reduce compliance costs and promote data flow in the GBA.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.06.28"
+    "title": "深圳前海发布跨境数据流动“白名单”管理细则，简化企业数据出境合规流程",
+    "summary": "深圳市前海管理局于6月30日发布《前海深港现代服务业合作区跨境数据流动“白名单”管理试行办法》，对经认定的企业，在跨境支付、供应链管理、国际营销等场景下的数据出境实施简化程序，免于逐次安全评估。企业需建立内部数据分类分级制度并申请纳入白名单，有效期两年。",
+    "source": "来源：深圳市前海管理局 · 2026.06.30",
+    "title_en": "Qianhai Issues Whitelist Rules for Cross-Border Data Flow, Streamlining Compliance for Enterprises",
+    "summary_en": "On June 30, the Shenzhen Qianhai Authority released the 'Pilot Measures for the Management of Cross-Border Data Flow Whitelist in Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone.' Certified enterprises will enjoy simplified procedures for data export in scenarios like cross-border payments, supply chain management, and international marketing, exempting them from case-by-case security assessments. Companies must establish internal data classification systems and apply for whitelist status, valid for two years.",
+    "source_en": "Source: Shenzhen Qianhai Authority · 2026.06.30"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟《外国补贴条例》下，中企应建立内部补贴台账与交易前筛查机制",
-    "summary": "秦林蒿律师研判：随着欧盟《外国补贴条例》实施细则即将生效，中国企业参与欧盟公共采购或并购前，必须建立全面的内部补贴台账，覆盖过去三年内获得的各类财政资助（包括税收减免、低息贷款、政府注资等）。建议在交易初期即进行补贴合规筛查，评估申报义务；必要时可聘请欧盟本地律师进行模拟申报。此外，协议中应明确约定补贴申报责任的分配与赔偿条款，以防范交易风险。",
-    "source": "来源：秦林蒿律师 · 2026.06.30",
-    "title_en": "Attorney Qin's view: Under EU Foreign Subsidies Regulation, Chinese Enterprises Should Establish Internal Subsidy Ledgers and Pre-Transaction Screening Mechanisms",
-    "summary_en": "Attorney Qin's view: With the implementing rules of the EU Foreign Subsidies Regulation soon to take effect, Chinese enterprises participating in EU public procurement or M&A must establish comprehensive internal subsidy ledgers covering all financial contributions received in the past three years (including tax breaks, low-interest loans, government capital injections, etc.). It is advisable to conduct subsidy compliance screening at the early stage of a transaction to assess filing obligations; engaging EU local counsel for mock filings may be necessary. Moreover, contracts should clearly allocate subsidy filing responsibilities and include indemnification clauses to mitigate transactional risks.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.06.30"
+    "title": "秦林蒿律师研判：美国对俄次级制裁风险扩大，中国企业应审查涉俄交易链条",
+    "summary": "秦林蒿律师研判：近期美国财政部OFAC加大对“涉俄”第三国企业的次级制裁执行力度，尤其关注电子元器件、机床、润滑油等转口贸易。建议中国企业立即审查客户与供应链中是否存在涉及俄罗斯受制裁实体或个人，避免因间接交易触发制裁风险。建立内部制裁筛查清单，对高敏感产品实施逐单合规审查。",
+    "source": "来源：美国财政部外国资产控制办公室（OFAC）近期执法趋势 · 2026.07.01",
+    "title_en": "Attorney Qin's View: Expanding US Secondary Sanctions on Russia – Chinese Enterprises Must Scrutinize Transaction Chains",
+    "summary_en": "Attorney Qin's view: The US Treasury OFAC has intensified enforcement of secondary sanctions against third-country firms linked to Russia, particularly targeting transshipment of electronic components, machine tools, and lubricants. Chinese enterprises are advised to immediately review customer and supply chains for any connection to sanctioned Russian entities or individuals, to avoid triggering sanctions through indirect transactions. Establish internal sanctions screening lists and conduct compliance reviews for high-risk products on a per-transaction basis.",
+    "source_en": "Source: Recent enforcement trends of the US Treasury OFAC · 2026.07.01"
   },
-  "dateLabel": "2026年6月30日 · 星期二",
-  "dateLabel_en": "Tuesday, June 30, 2026",
-  "issue": 181
+  "dateLabel": "2026年7月1日 · 星期三",
+  "dateLabel_en": "Wednesday, July 1, 2026",
+  "issue": 182
 }
