@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征惩罚性关税，中国车企面临出口合规新挑战",
-    "summary": "欧盟委员会于6月30日公布临时反补贴调查结果，计划对进口自中国的纯电动汽车加征17%至36%的额外关税。此举将显著抬高中国车企出口欧洲的成本，影响比亚迪、上汽等企业的市场布局。建议企业提前调整供应链，评估原产地规则并考虑在欧盟境内设厂以规避风险。",
-    "source": "来源：欧盟委员会官方公报 · 2026.07.01",
-    "title_en": "EU Plans Punitive Tariffs on Chinese EVs, New Compliance Challenges for Exporters",
-    "summary_en": "On June 30, the European Commission released preliminary anti-subsidy findings, proposing additional tariffs of 17% to 36% on battery electric vehicles imported from China. This will significantly raise export costs for Chinese automakers like BYD and SAIC, impacting their market strategies. Companies are advised to adjust supply chains, assess rules of origin, and consider EU-based production to mitigate risks.",
-    "source_en": "Source: Official Journal of the European Union · 2026.07.01"
+    "title": "美国拟对东南亚光伏产品加征反倾销税，中企出口策略面临调整",
+    "summary": "美国商务部初步裁定，对来自马来西亚、泰国、越南和柬埔寨的光伏电池及组件加征反倾销税，税率最高达271.28%。该调查起源于美国本土制造商对中国企业通过东南亚转口规避关税的指控。中国光伏企业需评估供应链布局，考虑在美建厂或转向其他市场以降低风险。",
+    "source": "来源：美国商务部 · 2026.07.02",
+    "title_en": "US Proposes Anti-Dumping Duties on Solar Products from Southeast Asia, Forcing Chinese Exporters to Adjust Strategies",
+    "summary_en": "The US Department of Commerce preliminarily ruled to impose anti-dumping duties on solar cells and modules from Malaysia, Thailand, Vietnam, and Cambodia, with rates up to 271.28%. The investigation stems from allegations by US manufacturers that Chinese firms circumvent tariffs via Southeast Asia. Chinese solar enterprises should reassess supply chains, consider building factories in the US, or explore alternative markets.",
+    "source_en": "Source: US Department of Commerce · 2026.07.02"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁定：跨境投资中“最惠国待遇”条款不自动适用于争议解决",
-    "summary": "在2026年6月的一起涉中资企业与东南亚国家的投资仲裁案中，SIAC仲裁庭明确：双边投资协定中的最惠国待遇条款原则上不延及争议解决程序，除非协定另有明确约定。该裁决提示中国投资者在谈判投资协定时需单独约定争端解决条款，避免依赖MFN条款自动获取更优程序权利。",
-    "source": "来源：新加坡国际仲裁中心 · 2026年6月裁决",
-    "title_en": "SIAC Rules: MFN Clause in BIT Does Not Automatically Extend to Dispute Resolution",
-    "summary_en": "In a June 2026 investment arbitration involving a Chinese enterprise and a Southeast Asian state, the SIAC tribunal held that the most-favored-nation clause in a bilateral investment treaty does not, in principle, apply to dispute resolution procedures unless explicitly stated. The ruling advises Chinese investors to separately negotiate dispute resolution clauses in investment treaties, rather than relying on MFN treatment for procedural advantages.",
-    "source_en": "Source: Singapore International Arbitration Centre · June 2026 Award"
+    "title": "英国法院认定中国仲裁裁决违反公共政策，中企跨境执行需强化程序合规",
+    "summary": "英国高等法院以仲裁庭未给予当事人充分陈述机会为由，拒绝执行一份中国国际经济贸易仲裁委员会（CIETAC）作出的裁决。法院认为该仲裁程序存在严重不公，违反英国公共政策。此案警示中企在涉外仲裁中应确保程序正义，包括通知送达、证据交换及听证安排，以保障裁决在国际间的可执行性。",
+    "source": "来源：英国高等法院 · 2026年6月",
+    "title_en": "UK Court Refuses Enforcement of Chinese Arbitral Award on Public Policy Grounds, Highlighting Need for Procedural Compliance",
+    "summary_en": "The High Court of England and Wales refused to enforce a CIETAC award, finding that the tribunal failed to provide the party with adequate opportunity to present its case, constituting a serious procedural irregularity contrary to UK public policy. This case underscores the importance of ensuring procedural fairness—including proper service, evidence exchange, and hearing arrangements—in international arbitration to facilitate cross-border enforcement.",
+    "source_en": "Source: High Court of England and Wales · June 2026"
   },
   "policy": {
-    "title": "深圳前海发布跨境数据流动“白名单”管理细则，简化企业数据出境合规流程",
-    "summary": "深圳市前海管理局于6月30日发布《前海深港现代服务业合作区跨境数据流动“白名单”管理试行办法》，对经认定的企业，在跨境支付、供应链管理、国际营销等场景下的数据出境实施简化程序，免于逐次安全评估。企业需建立内部数据分类分级制度并申请纳入白名单，有效期两年。",
-    "source": "来源：深圳市前海管理局 · 2026.06.30",
-    "title_en": "Qianhai Issues Whitelist Rules for Cross-Border Data Flow, Streamlining Compliance for Enterprises",
-    "summary_en": "On June 30, the Shenzhen Qianhai Authority released the 'Pilot Measures for the Management of Cross-Border Data Flow Whitelist in Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone.' Certified enterprises will enjoy simplified procedures for data export in scenarios like cross-border payments, supply chain management, and international marketing, exempting them from case-by-case security assessments. Companies must establish internal data classification systems and apply for whitelist status, valid for two years.",
-    "source_en": "Source: Shenzhen Qianhai Authority · 2026.06.30"
+    "title": "粤港澳大湾区跨境数据流动新规出台，简化企业数据出境安全评估流程",
+    "summary": "广东省互联网信息办公室发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，对区内企业向香港、澳门传输非敏感个人信息和重要数据实施负面清单管理，清单外数据可免于安全评估。该政策旨在促进大湾区数字贸易与金融科技发展，企业需及时梳理数据资产，判断是否落入负面清单范畴。",
+    "source": "来源：广东省互联网信息办公室 · 2026年7月",
+    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area Simplify Security Assessment for Enterprises",
+    "summary_en": "The Cyberspace Administration of Guangdong Province issued the 'Provisions on the Management of Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', introducing a negative list approach for transferring non-sensitive personal information and important data to Hong Kong and Macao. Data not on the list is exempt from security assessment. This policy aims to boost digital trade and fintech in the region; enterprises should promptly map their data assets to determine if they fall under the negative list.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · July 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对俄次级制裁风险扩大，中国企业应审查涉俄交易链条",
-    "summary": "秦林蒿律师研判：近期美国财政部OFAC加大对“涉俄”第三国企业的次级制裁执行力度，尤其关注电子元器件、机床、润滑油等转口贸易。建议中国企业立即审查客户与供应链中是否存在涉及俄罗斯受制裁实体或个人，避免因间接交易触发制裁风险。建立内部制裁筛查清单，对高敏感产品实施逐单合规审查。",
-    "source": "来源：美国财政部外国资产控制办公室（OFAC）近期执法趋势 · 2026.07.01",
-    "title_en": "Attorney Qin's View: Expanding US Secondary Sanctions on Russia – Chinese Enterprises Must Scrutinize Transaction Chains",
-    "summary_en": "Attorney Qin's view: The US Treasury OFAC has intensified enforcement of secondary sanctions against third-country firms linked to Russia, particularly targeting transshipment of electronic components, machine tools, and lubricants. Chinese enterprises are advised to immediately review customer and supply chains for any connection to sanctioned Russian entities or individuals, to avoid triggering sanctions through indirect transactions. Establish internal sanctions screening lists and conduct compliance reviews for high-risk products on a per-transaction basis.",
-    "source_en": "Source: Recent enforcement trends of the US Treasury OFAC · 2026.07.01"
+    "title": "美国对华投资限制令扩展至半导体和AI领域，中企需建立合规审查机制",
+    "summary": "秦林蒿律师研判：美国财政部宣布扩大对华投资限制范围，新增半导体制造、先进人工智能和量子计算领域，禁止或限制美国主体对中国相关实体进行股权投资。中国出海企业应建立双向投资合规审查机制，在引入美元基金或与美国企业合作前，评估交易是否触发限制，并考虑替代融资渠道。",
+    "source": "来源：秦林蒿律师 · 2026.07.02",
+    "title_en": "US Expands Investment Restrictions to Semiconductors and AI, Chinese Companies Urged to Establish Compliance Screening",
+    "summary_en": "Attorney Qin's view: The US Treasury expanded investment restrictions on China, adding semiconductor manufacturing, advanced AI, and quantum computing, prohibiting or limiting US persons from equity investments in Chinese entities in these sectors. Chinese companies going global should set up a two-way compliance screening mechanism to assess whether transactions with US funds or partners trigger restrictions, and consider alternative financing channels.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.02"
   },
-  "dateLabel": "2026年7月1日 · 星期三",
-  "dateLabel_en": "Wednesday, July 1, 2026",
-  "issue": 182
+  "dateLabel": "2026年7月2日 · 星期四",
+  "dateLabel_en": "Thursday, July 2, 2026",
+  "issue": 183
 }
