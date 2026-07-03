@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚光伏产品加征反倾销税，中企出口策略面临调整",
-    "summary": "美国商务部初步裁定，对来自马来西亚、泰国、越南和柬埔寨的光伏电池及组件加征反倾销税，税率最高达271.28%。该调查起源于美国本土制造商对中国企业通过东南亚转口规避关税的指控。中国光伏企业需评估供应链布局，考虑在美建厂或转向其他市场以降低风险。",
-    "source": "来源：美国商务部 · 2026.07.02",
-    "title_en": "US Proposes Anti-Dumping Duties on Solar Products from Southeast Asia, Forcing Chinese Exporters to Adjust Strategies",
-    "summary_en": "The US Department of Commerce preliminarily ruled to impose anti-dumping duties on solar cells and modules from Malaysia, Thailand, Vietnam, and Cambodia, with rates up to 271.28%. The investigation stems from allegations by US manufacturers that Chinese firms circumvent tariffs via Southeast Asia. Chinese solar enterprises should reassess supply chains, consider building factories in the US, or explore alternative markets.",
-    "source_en": "Source: US Department of Commerce · 2026.07.02"
+    "title": "美国拟对东南亚四国光伏产品加征反倾销税，中国企业需审慎评估供应链布局",
+    "summary": "美国商务部初步裁定，对来自越南、泰国、马来西亚和柬埔寨的光伏产品征收反倾销税，税率在10%至125%不等。此举旨在遏制中国光伏企业通过东南亚转口规避关税的行为。相关企业应立即审查原产地规则与供应链合规性，考虑调整生产基地或申请税率排除。",
+    "source": "来源：美国商务部 · 2026.07.03",
+    "title_en": "U.S. Proposes Anti-Dumping Duties on Solar Products from Four Southeast Asian Countries, Chinese Enterprises Urged to Reassess Supply Chains",
+    "summary_en": "The U.S. Department of Commerce preliminarily ruled to impose anti-dumping duties on solar products from Vietnam, Thailand, Malaysia, and Cambodia, with rates ranging from 10% to 125%. The move aims to curb Chinese solar firms circumventing tariffs via Southeast Asia. Companies should review rules of origin and supply chain compliance, and consider adjusting production bases or seeking duty exclusions.",
+    "source_en": "Source: U.S. Department of Commerce · 2026.07.03"
   },
   "case": {
-    "title": "英国法院认定中国仲裁裁决违反公共政策，中企跨境执行需强化程序合规",
-    "summary": "英国高等法院以仲裁庭未给予当事人充分陈述机会为由，拒绝执行一份中国国际经济贸易仲裁委员会（CIETAC）作出的裁决。法院认为该仲裁程序存在严重不公，违反英国公共政策。此案警示中企在涉外仲裁中应确保程序正义，包括通知送达、证据交换及听证安排，以保障裁决在国际间的可执行性。",
-    "source": "来源：英国高等法院 · 2026年6月",
-    "title_en": "UK Court Refuses Enforcement of Chinese Arbitral Award on Public Policy Grounds, Highlighting Need for Procedural Compliance",
-    "summary_en": "The High Court of England and Wales refused to enforce a CIETAC award, finding that the tribunal failed to provide the party with adequate opportunity to present its case, constituting a serious procedural irregularity contrary to UK public policy. This case underscores the importance of ensuring procedural fairness—including proper service, evidence exchange, and hearing arrangements—in international arbitration to facilitate cross-border enforcement.",
-    "source_en": "Source: High Court of England and Wales · June 2026"
+    "title": "香港仲裁庭认定“一带一路”项目适用英国法，中国承包方因工期延误索赔获部分支持",
+    "summary": "香港国际仲裁中心就一起中资企业在巴基斯坦的公路建设项目争议作出裁决，认定合同适用英国法，中国承包方因业主方征地延迟导致工期延误的索赔请求部分成立，获赔约320万美元。此案提示中国企业：境外合同中应明确法律适用与不可抗力条款，并保留完整证据链。",
+    "source": "来源：香港国际仲裁中心 · 2026年6月",
+    "title_en": "Hong Kong Tribunal Applies English Law to Belt and Road Project, Awards Partial Compensation to Chinese Contractor for Delay",
+    "summary_en": "The HKIAC ruled on a dispute involving a Chinese contractor's highway project in Pakistan, applying English law. The tribunal partially upheld the contractor's claim for delay caused by the employer's land acquisition issues, awarding approximately USD 3.2 million. The case highlights the need for clear governing law and force majeure clauses in overseas contracts, and meticulous evidence preservation.",
+    "source_en": "Source: HKIAC · June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规出台，简化企业数据出境安全评估流程",
-    "summary": "广东省互联网信息办公室发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，对区内企业向香港、澳门传输非敏感个人信息和重要数据实施负面清单管理，清单外数据可免于安全评估。该政策旨在促进大湾区数字贸易与金融科技发展，企业需及时梳理数据资产，判断是否落入负面清单范畴。",
-    "source": "来源：广东省互联网信息办公室 · 2026年7月",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area Simplify Security Assessment for Enterprises",
-    "summary_en": "The Cyberspace Administration of Guangdong Province issued the 'Provisions on the Management of Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', introducing a negative list approach for transferring non-sensitive personal information and important data to Hong Kong and Macao. Data not on the list is exempt from security assessment. This policy aims to boost digital trade and fintech in the region; enterprises should promptly map their data assets to determine if they fall under the negative list.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · July 2026"
+    "title": "粤港澳大湾区跨境数据流动“白名单”扩围，新增医疗与金融领域试点",
+    "summary": "广东省网信办联合港澳相关部门发布通知，将大湾区数据跨境流动试点范围扩大至医疗健康与金融领域。纳入“白名单”的企业在履行安全评估后，可便利地跨境传输指定类型数据。此举将降低合规成本，促进跨境医疗服务与金融科技合作。",
+    "source": "来源：广东省互联网信息办公室 · 2026年6月30日",
+    "title_en": "Greater Bay Area Expands Cross-Border Data Flow 'White List' to Include Healthcare and Finance Pilots",
+    "summary_en": "The Cyberspace Administration of Guangdong, together with Hong Kong and Macau authorities, announced an expansion of the cross-border data flow pilot program to cover healthcare and financial sectors. Companies on the 'white list' can transfer designated data types across borders after security assessments, reducing compliance costs and facilitating cross-border medical services and fintech collaboration.",
+    "source_en": "Source: Cyberspace Administration of Guangdong · June 30, 2026"
   },
   "analysis": {
-    "title": "美国对华投资限制令扩展至半导体和AI领域，中企需建立合规审查机制",
-    "summary": "秦林蒿律师研判：美国财政部宣布扩大对华投资限制范围，新增半导体制造、先进人工智能和量子计算领域，禁止或限制美国主体对中国相关实体进行股权投资。中国出海企业应建立双向投资合规审查机制，在引入美元基金或与美国企业合作前，评估交易是否触发限制，并考虑替代融资渠道。",
-    "source": "来源：秦林蒿律师 · 2026.07.02",
-    "title_en": "US Expands Investment Restrictions to Semiconductors and AI, Chinese Companies Urged to Establish Compliance Screening",
-    "summary_en": "Attorney Qin's view: The US Treasury expanded investment restrictions on China, adding semiconductor manufacturing, advanced AI, and quantum computing, prohibiting or limiting US persons from equity investments in Chinese entities in these sectors. Chinese companies going global should set up a two-way compliance screening mechanism to assess whether transactions with US funds or partners trigger restrictions, and consider alternative financing channels.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.02"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期合规准备要点",
+    "summary": "秦林蒿律师研判：欧盟CBAM已进入过渡期，中国出口商需在2026年底前提交首批季度报告。建议企业：1) 建立产品碳足迹核算体系；2) 区分直接排放与间接排放；3) 保留第三方核查报告。未能合规将面临每吨二氧化碳当量100欧元的罚款。",
+    "source": "来源：秦林蒿律师 · 2026.07.03",
+    "title_en": "Attorney Qin's view: Key Compliance Steps for EU CBAM Transition Period",
+    "summary_en": "Attorney Qin's view: The EU CBAM is in its transitional phase, with the first quarterly reports due by end of 2026. Companies should: 1) establish product carbon footprint accounting; 2) distinguish direct and indirect emissions; 3) retain third-party verification reports. Non-compliance may result in penalties of €100 per tonne of CO2 equivalent.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.03"
   },
-  "dateLabel": "2026年7月2日 · 星期四",
-  "dateLabel_en": "Thursday, July 2, 2026",
-  "issue": 183
+  "dateLabel": "2026年7月3日 · 星期五",
+  "dateLabel_en": "Friday, July 3, 2026",
+  "issue": 184
 }
