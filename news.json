@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚四国光伏产品加征反倾销税，中国企业需审慎评估供应链布局",
-    "summary": "美国商务部初步裁定，对来自越南、泰国、马来西亚和柬埔寨的光伏产品征收反倾销税，税率在10%至125%不等。此举旨在遏制中国光伏企业通过东南亚转口规避关税的行为。相关企业应立即审查原产地规则与供应链合规性，考虑调整生产基地或申请税率排除。",
-    "source": "来源：美国商务部 · 2026.07.03",
-    "title_en": "U.S. Proposes Anti-Dumping Duties on Solar Products from Four Southeast Asian Countries, Chinese Enterprises Urged to Reassess Supply Chains",
-    "summary_en": "The U.S. Department of Commerce preliminarily ruled to impose anti-dumping duties on solar products from Vietnam, Thailand, Malaysia, and Cambodia, with rates ranging from 10% to 125%. The move aims to curb Chinese solar firms circumventing tariffs via Southeast Asia. Companies should review rules of origin and supply chain compliance, and consider adjusting production bases or seeking duty exclusions.",
-    "source_en": "Source: U.S. Department of Commerce · 2026.07.03"
+    "title": "美国BIS新增14家中国实体至实体清单，聚焦量子计算与半导体设备",
+    "summary": "美国商务部工业安全局（BIS）于2026年7月3日宣布将14家中国实体列入实体清单，主要涉及量子计算、半导体设备制造及先进材料领域。新增实体被指参与违反美国出口管制的活动，包括获取或试图获取美国原产设备用于军事用途。所有受EAR管辖的物项向这些实体出口、再出口或国内转移均需申请许可，且适用推定拒绝审查政策。企业需立即排查供应链与客户名单，评估合规风险。",
+    "source": "来源：美国联邦公报 · 2026.07.03",
+    "title_en": "BIS Adds 14 Chinese Entities to Entity List, Targeting Quantum Computing and Semiconductor Equipment",
+    "summary_en": "On July 3, 2026, the U.S. Bureau of Industry and Security (BIS) added 14 Chinese entities to the Entity List, primarily in quantum computing, semiconductor equipment manufacturing, and advanced materials. The entities are alleged to have engaged in activities contrary to U.S. export controls, including acquiring or attempting to acquire U.S.-origin equipment for military end-uses. All items subject to the EAR require a license for export, reexport, or in-country transfer to these entities, with a presumption of denial. Companies should immediately review supply chains and customer lists to assess compliance risks.",
+    "source_en": "Source: Federal Register · 2026.07.03"
   },
   "case": {
-    "title": "香港仲裁庭认定“一带一路”项目适用英国法，中国承包方因工期延误索赔获部分支持",
-    "summary": "香港国际仲裁中心就一起中资企业在巴基斯坦的公路建设项目争议作出裁决，认定合同适用英国法，中国承包方因业主方征地延迟导致工期延误的索赔请求部分成立，获赔约320万美元。此案提示中国企业：境外合同中应明确法律适用与不可抗力条款，并保留完整证据链。",
-    "source": "来源：香港国际仲裁中心 · 2026年6月",
-    "title_en": "Hong Kong Tribunal Applies English Law to Belt and Road Project, Awards Partial Compensation to Chinese Contractor for Delay",
-    "summary_en": "The HKIAC ruled on a dispute involving a Chinese contractor's highway project in Pakistan, applying English law. The tribunal partially upheld the contractor's claim for delay caused by the employer's land acquisition issues, awarding approximately USD 3.2 million. The case highlights the need for clear governing law and force majeure clauses in overseas contracts, and meticulous evidence preservation.",
-    "source_en": "Source: HKIAC · June 2026"
+    "title": "新加坡国际仲裁中心裁决：出口合同因不可抗力免责，但需证明因果关系",
+    "summary": "2026年6月，SIAC就一起中国卖方与新加坡买方之间的出口合同纠纷作出裁决。因目的港所在国突然实施进口禁令（非合同双方可控），卖方无法交货。仲裁庭认定该事件构成不可抗力，但强调卖方需提供充分证据证明禁令与履约不能之间的直接因果关系，且卖方已尽合理努力避免或克服障碍。最终裁决免除卖方违约责任，但驳回其损害赔偿请求。此案提示企业：不可抗力条款应明确列举具体事件，并保留相关证明文件。",
+    "source": "来源：新加坡国际仲裁中心 · 2026.06",
+    "title_en": "SIAC Award: Force Majeure Excuses Performance in Export Contract, but Causation Must Be Proven",
+    "summary_en": "In June 2026, the Singapore International Arbitration Centre (SIAC) ruled on a dispute between a Chinese seller and a Singapore buyer under an export contract. An import ban unexpectedly imposed by the destination country (uncontrollable by either party) prevented the seller from delivering goods. The tribunal found the event constituted force majeure but emphasized that the seller must provide sufficient evidence of a direct causal link between the ban and the inability to perform, and that the seller had made reasonable efforts to avoid or overcome the impediment. The seller was excused from liability but denied damages. This case highlights the need for clear force majeure clauses enumerating specific events and retention of supporting documentation.",
+    "source_en": "Source: Singapore International Arbitration Centre · 2026.06"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”扩围，新增医疗与金融领域试点",
-    "summary": "广东省网信办联合港澳相关部门发布通知，将大湾区数据跨境流动试点范围扩大至医疗健康与金融领域。纳入“白名单”的企业在履行安全评估后，可便利地跨境传输指定类型数据。此举将降低合规成本，促进跨境医疗服务与金融科技合作。",
-    "source": "来源：广东省互联网信息办公室 · 2026年6月30日",
-    "title_en": "Greater Bay Area Expands Cross-Border Data Flow 'White List' to Include Healthcare and Finance Pilots",
-    "summary_en": "The Cyberspace Administration of Guangdong, together with Hong Kong and Macau authorities, announced an expansion of the cross-border data flow pilot program to cover healthcare and financial sectors. Companies on the 'white list' can transfer designated data types across borders after security assessments, reducing compliance costs and facilitating cross-border medical services and fintech collaboration.",
-    "source_en": "Source: Cyberspace Administration of Guangdong · June 30, 2026"
+    "title": "粤港澳大湾区跨境纠纷在线调解平台正式上线，覆盖商事与知识产权争议",
+    "summary": "2026年7月1日，由广东省高级人民法院、香港司法机构及澳门终审法院联合推动的「粤港澳大湾区跨境纠纷在线调解平台」正式运行。该平台整合三地调解资源，支持中、英、葡三语，主要受理涉跨境商事合同、知识产权侵权及投资争议。调解协议经当事人申请可获内地、香港或澳门法院司法确认，具有强制执行效力。企业可借此平台低成本、高效率解决跨境纠纷。",
+    "source": "来源：广东省高级人民法院 · 2026.07.01",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Cross-border Online Mediation Platform Launched, Covering Commercial and IP Disputes",
+    "summary_en": "On July 1, 2026, the Cross-border Online Mediation Platform for the Guangdong-Hong Kong-Macao Greater Bay Area, jointly promoted by the Guangdong High People's Court, the Hong Kong Judiciary, and the Macao Court of Final Appeal, officially commenced operations. The platform integrates mediation resources from the three jurisdictions, supporting Chinese, English, and Portuguese. It primarily handles cross-border commercial contracts, IP infringement, and investment disputes. Mediation agreements may be judicially confirmed in the mainland, Hong Kong, or Macao upon application, rendering them enforceable. Enterprises can use this platform to resolve cross-border disputes cost-effectively and efficiently.",
+    "source_en": "Source: Guangdong High People's Court · 2026.07.01"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期合规准备要点",
-    "summary": "秦林蒿律师研判：欧盟CBAM已进入过渡期，中国出口商需在2026年底前提交首批季度报告。建议企业：1) 建立产品碳足迹核算体系；2) 区分直接排放与间接排放；3) 保留第三方核查报告。未能合规将面临每吨二氧化碳当量100欧元的罚款。",
-    "source": "来源：秦林蒿律师 · 2026.07.03",
-    "title_en": "Attorney Qin's view: Key Compliance Steps for EU CBAM Transition Period",
-    "summary_en": "Attorney Qin's view: The EU CBAM is in its transitional phase, with the first quarterly reports due by end of 2026. Companies should: 1) establish product carbon footprint accounting; 2) distinguish direct and indirect emissions; 3) retain third-party verification reports. Non-compliance may result in penalties of €100 per tonne of CO2 equivalent.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.03"
+    "title": "秦林蒿律师研判：欧盟《外国补贴条例》执法趋严，中企应提前评估并保留交易文件",
+    "summary": "秦林蒿律师研判：欧盟委员会依据《外国补贴条例》已启动多起针对中国企业的深度调查，涉及并购、公共采购及绿地投资。最新趋势是审查范围扩大至补贴的间接影响（如税收优惠、低价原材料供应）。建议中国出海企业：①在交易前进行外国补贴自查，识别来自中国各级政府的所有财务支持；②保留完整文件证明补贴系基于市场条件或符合WTO规则；③在欧盟并购或投标中，主动向欧委会进行自愿申报以降低风险。",
+    "source": "来源：秦林蒿律师 · 2026.07.06",
+    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Enforcement Intensifies, Chinese Companies Should Assess and Retain Transaction Documents",
+    "summary_en": "Attorney Qin's view: The European Commission has launched multiple in-depth investigations into Chinese companies under the Foreign Subsidies Regulation (FSR), covering M&A, public procurement, and greenfield investments. The latest trend is an expanded scope to include indirect effects of subsidies (e.g., tax incentives, below-market raw material supply). It is recommended that Chinese overseas companies: ① conduct a self-assessment of foreign subsidies before transactions, identifying all financial support from Chinese governments at all levels; ② retain complete documentation demonstrating that subsidies are on market terms or consistent with WTO rules; ③ voluntarily notify the Commission in EU M&A or bidding processes to mitigate risks.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.06"
   },
-  "dateLabel": "2026年7月3日 · 星期五",
-  "dateLabel_en": "Friday, July 3, 2026",
-  "issue": 184
+  "dateLabel": "2026年7月6日 · 星期一",
+  "dateLabel_en": "Monday, July 6, 2026",
+  "issue": 187
 }
