@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国BIS新增14家中国实体至实体清单，聚焦量子计算与半导体设备",
-    "summary": "美国商务部工业安全局（BIS）于2026年7月3日宣布将14家中国实体列入实体清单，主要涉及量子计算、半导体设备制造及先进材料领域。新增实体被指参与违反美国出口管制的活动，包括获取或试图获取美国原产设备用于军事用途。所有受EAR管辖的物项向这些实体出口、再出口或国内转移均需申请许可，且适用推定拒绝审查政策。企业需立即排查供应链与客户名单，评估合规风险。",
-    "source": "来源：美国联邦公报 · 2026.07.03",
-    "title_en": "BIS Adds 14 Chinese Entities to Entity List, Targeting Quantum Computing and Semiconductor Equipment",
-    "summary_en": "On July 3, 2026, the U.S. Bureau of Industry and Security (BIS) added 14 Chinese entities to the Entity List, primarily in quantum computing, semiconductor equipment manufacturing, and advanced materials. The entities are alleged to have engaged in activities contrary to U.S. export controls, including acquiring or attempting to acquire U.S.-origin equipment for military end-uses. All items subject to the EAR require a license for export, reexport, or in-country transfer to these entities, with a presumption of denial. Companies should immediately review supply chains and customer lists to assess compliance risks.",
-    "source_en": "Source: Federal Register · 2026.07.03"
+    "title": "美国拟对东南亚四国光伏产品加征反倾销税，中国转口企业面临合规风险",
+    "summary": "美国商务部初步裁定，对来自越南、泰国、马来西亚和柬埔寨的光伏电池及组件征收反倾销税，税率最高达271%。此举旨在堵截中国光伏企业通过东南亚转口规避关税的路径。出口企业需立即审查供应链原产地规则，调整出口路径，并评估反倾销应诉的必要性。",
+    "source": "来源：美国联邦公报 · 2026.07.07",
+    "title_en": "US Proposes Anti-Dumping Duties on Solar Products from Four Southeast Asian Countries, China Re-Exporters Face Compliance Risks",
+    "summary_en": "The US Department of Commerce preliminarily ruled to impose anti-dumping duties of up to 271% on solar cells and modules from Vietnam, Thailand, Malaysia, and Cambodia. The move aims to block Chinese solar companies from circumventing tariffs via Southeast Asia. Exporters must urgently review supply chain origin rules, adjust export routes, and evaluate the need for anti-dumping defense.",
+    "source_en": "Source: Federal Register · 2026.07.07"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：出口合同因不可抗力免责，但需证明因果关系",
-    "summary": "2026年6月，SIAC就一起中国卖方与新加坡买方之间的出口合同纠纷作出裁决。因目的港所在国突然实施进口禁令（非合同双方可控），卖方无法交货。仲裁庭认定该事件构成不可抗力，但强调卖方需提供充分证据证明禁令与履约不能之间的直接因果关系，且卖方已尽合理努力避免或克服障碍。最终裁决免除卖方违约责任，但驳回其损害赔偿请求。此案提示企业：不可抗力条款应明确列举具体事件，并保留相关证明文件。",
-    "source": "来源：新加坡国际仲裁中心 · 2026.06",
-    "title_en": "SIAC Award: Force Majeure Excuses Performance in Export Contract, but Causation Must Be Proven",
-    "summary_en": "In June 2026, the Singapore International Arbitration Centre (SIAC) ruled on a dispute between a Chinese seller and a Singapore buyer under an export contract. An import ban unexpectedly imposed by the destination country (uncontrollable by either party) prevented the seller from delivering goods. The tribunal found the event constituted force majeure but emphasized that the seller must provide sufficient evidence of a direct causal link between the ban and the inability to perform, and that the seller had made reasonable efforts to avoid or overcome the impediment. The seller was excused from liability but denied damages. This case highlights the need for clear force majeure clauses enumerating specific events and retention of supporting documentation.",
-    "source_en": "Source: Singapore International Arbitration Centre · 2026.06"
+    "title": "英国高等法院确认：跨境独家经销协议中的仲裁条款效力及于非签署方关联公司",
+    "summary": "在2026年6月的判决中，英国高等法院裁定，一份中英企业间的独家经销协议中的仲裁条款，可约束未签署协议的母公司及关联公司，因其实际参与了协议的履行与争议交易。该案提示中国企业：在签署跨境合同时，应明确约定仲裁条款的适用范围，避免关联方被意外纳入仲裁程序。",
+    "source": "来源：英国高等法院 · 2026年6月",
+    "title_en": "UK High Court Confirms: Arbitration Clause in Cross-Border Exclusive Distribution Agreement Extends to Non-Signatory Affiliates",
+    "summary_en": "In a June 2026 ruling, the UK High Court held that an arbitration clause in an exclusive distribution agreement between a Chinese and a UK company could bind the non-signatory parent and affiliates, as they were actively involved in performing the agreement and the disputed transactions. This case reminds Chinese enterprises to clearly define the scope of arbitration clauses in cross-border contracts to avoid unintended inclusion of affiliates.",
+    "source_en": "Source: UK High Court · June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷在线调解平台正式上线，覆盖商事与知识产权争议",
-    "summary": "2026年7月1日，由广东省高级人民法院、香港司法机构及澳门终审法院联合推动的「粤港澳大湾区跨境纠纷在线调解平台」正式运行。该平台整合三地调解资源，支持中、英、葡三语，主要受理涉跨境商事合同、知识产权侵权及投资争议。调解协议经当事人申请可获内地、香港或澳门法院司法确认，具有强制执行效力。企业可借此平台低成本、高效率解决跨境纠纷。",
-    "source": "来源：广东省高级人民法院 · 2026.07.01",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Cross-border Online Mediation Platform Launched, Covering Commercial and IP Disputes",
-    "summary_en": "On July 1, 2026, the Cross-border Online Mediation Platform for the Guangdong-Hong Kong-Macao Greater Bay Area, jointly promoted by the Guangdong High People's Court, the Hong Kong Judiciary, and the Macao Court of Final Appeal, officially commenced operations. The platform integrates mediation resources from the three jurisdictions, supporting Chinese, English, and Portuguese. It primarily handles cross-border commercial contracts, IP infringement, and investment disputes. Mediation agreements may be judicially confirmed in the mainland, Hong Kong, or Macao upon application, rendering them enforceable. Enterprises can use this platform to resolve cross-border disputes cost-effectively and efficiently.",
-    "source_en": "Source: Guangdong High People's Court · 2026.07.01"
+    "title": "粤港澳大湾区出台跨境数据流动“正面清单”，覆盖11个行业助力企业合规",
+    "summary": "广东省网信办于2026年7月发布《粤港澳大湾区数据跨境流动安全评估管理指引（试行）》，明确金融、医疗、跨境电商等11个行业的数据出境“正面清单”，简化安全评估程序。企业可对照清单进行数据分类分级，提前准备合规材料，降低跨境数据传输的法律风险。",
+    "source": "来源：广东省互联网信息办公室 · 2026年7月",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues 'Positive List' for Cross-Border Data Flows, Covering 11 Industries to Aid Compliance",
+    "summary_en": "In July 2026, the Cyberspace Administration of Guangdong Province released the 'Guidelines on Security Assessment for Cross-Border Data Flows in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', specifying a 'positive list' for data export in 11 industries including finance, healthcare, and cross-border e-commerce, streamlining security assessment procedures. Enterprises can classify data according to the list, prepare compliance materials in advance, and reduce legal risks in cross-border data transfers.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · July 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟《外国补贴条例》执法趋严，中企应提前评估并保留交易文件",
-    "summary": "秦林蒿律师研判：欧盟委员会依据《外国补贴条例》已启动多起针对中国企业的深度调查，涉及并购、公共采购及绿地投资。最新趋势是审查范围扩大至补贴的间接影响（如税收优惠、低价原材料供应）。建议中国出海企业：①在交易前进行外国补贴自查，识别来自中国各级政府的所有财务支持；②保留完整文件证明补贴系基于市场条件或符合WTO规则；③在欧盟并购或投标中，主动向欧委会进行自愿申报以降低风险。",
-    "source": "来源：秦林蒿律师 · 2026.07.06",
-    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Enforcement Intensifies, Chinese Companies Should Assess and Retain Transaction Documents",
-    "summary_en": "Attorney Qin's view: The European Commission has launched multiple in-depth investigations into Chinese companies under the Foreign Subsidies Regulation (FSR), covering M&A, public procurement, and greenfield investments. The latest trend is an expanded scope to include indirect effects of subsidies (e.g., tax incentives, below-market raw material supply). It is recommended that Chinese overseas companies: ① conduct a self-assessment of foreign subsidies before transactions, identifying all financial support from Chinese governments at all levels; ② retain complete documentation demonstrating that subsidies are on market terms or consistent with WTO rules; ③ voluntarily notify the Commission in EU M&A or bidding processes to mitigate risks.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.06"
+    "title": "秦林蒿律师研判：美国新增半导体对华出口管制，企业应建立“动态合规清单”",
+    "summary": "秦林蒿律师研判：美国商务部工业与安全局（BIS）近期扩大了对先进半导体设备及EDA软件的出口管制范围，新增受限物项清单。实务建议：企业应建立动态合规清单，定期比对BIS实体清单与ECCN编码变化；对涉及美国技术来源的产品，需进行全供应链溯源；建议设立内部出口管制合规官，并开展全员培训。 Attorney Qin's view: The BIS has expanded export controls on advanced semiconductor equipment and EDA software, adding new restricted items. Practical advice: Companies should establish a dynamic compliance list, regularly cross-check BIS entity list and ECCN code changes; conduct full supply chain tracing for products involving US-origin technology; consider appointing an internal export control compliance officer and conduct company-wide training.",
+    "source": "来源：秦林蒿律师 · 2026.07.07",
+    "title_en": "Attorney Qin's View: New US Semiconductor Export Controls on China – Companies Should Establish a 'Dynamic Compliance List'",
+    "summary_en": "Attorney Qin's view: The BIS has recently expanded export controls on advanced semiconductor equipment and EDA software, adding new restricted items. Practical advice: Companies should establish a dynamic compliance list, regularly cross-check BIS entity list and ECCN code changes; conduct full supply chain tracing for products involving US-origin technology; consider appointing an internal export control compliance officer and conduct company-wide training.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.07"
   },
-  "dateLabel": "2026年7月6日 · 星期一",
-  "dateLabel_en": "Monday, July 6, 2026",
-  "issue": 187
+  "dateLabel": "2026年7月7日 · 星期二",
+  "dateLabel_en": "Tuesday, July 7, 2026",
+  "issue": 188
 }
