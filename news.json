@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚四国光伏产品加征反倾销税，中国转口企业面临合规风险",
-    "summary": "美国商务部初步裁定，对来自越南、泰国、马来西亚和柬埔寨的光伏电池及组件征收反倾销税，税率最高达271%。此举旨在堵截中国光伏企业通过东南亚转口规避关税的路径。出口企业需立即审查供应链原产地规则，调整出口路径，并评估反倾销应诉的必要性。",
-    "source": "来源：美国联邦公报 · 2026.07.07",
-    "title_en": "US Proposes Anti-Dumping Duties on Solar Products from Four Southeast Asian Countries, China Re-Exporters Face Compliance Risks",
-    "summary_en": "The US Department of Commerce preliminarily ruled to impose anti-dumping duties of up to 271% on solar cells and modules from Vietnam, Thailand, Malaysia, and Cambodia. The move aims to block Chinese solar companies from circumventing tariffs via Southeast Asia. Exporters must urgently review supply chain origin rules, adjust export routes, and evaluate the need for anti-dumping defense.",
-    "source_en": "Source: Federal Register · 2026.07.07"
+    "title": "美国拟扩大对华半导体设备出口管制，涵盖成熟制程及EDA软件",
+    "summary": "据多家外媒报道，拜登政府计划于7月中旬发布新规，进一步限制向中国出口半导体制造设备、EDA软件及部分材料，即使用于成熟制程（28nm及以上）也将纳入许可要求。此举将影响中芯国际、华虹等企业扩产，并波及ASML、应用材料等设备商。中国商务部回应称将采取必要措施维护企业权益。建议相关企业提前评估供应链替代方案，并做好合规备案。",
+    "source": "来源：路透社、彭博社 · 2026.07.08",
+    "title_en": "U.S. to Expand Export Controls on Semiconductor Equipment to China, Covering Mature Nodes and EDA Software",
+    "summary_en": "According to multiple foreign media reports, the Biden administration plans to release new regulations in mid-July to further restrict exports of semiconductor manufacturing equipment, EDA software, and certain materials to China, even for mature nodes (28nm and above), requiring licenses. This will affect the expansion plans of SMIC, Hua Hong, and others, and impact equipment suppliers such as ASML and Applied Materials. China's Ministry of Commerce responded that it will take necessary measures to protect enterprises' rights. Companies are advised to assess alternative supply chains and prepare compliance filings in advance.",
+    "source_en": "Source: Reuters, Bloomberg · 2026.07.08"
   },
   "case": {
-    "title": "英国高等法院确认：跨境独家经销协议中的仲裁条款效力及于非签署方关联公司",
-    "summary": "在2026年6月的判决中，英国高等法院裁定，一份中英企业间的独家经销协议中的仲裁条款，可约束未签署协议的母公司及关联公司，因其实际参与了协议的履行与争议交易。该案提示中国企业：在签署跨境合同时，应明确约定仲裁条款的适用范围，避免关联方被意外纳入仲裁程序。",
-    "source": "来源：英国高等法院 · 2026年6月",
-    "title_en": "UK High Court Confirms: Arbitration Clause in Cross-Border Exclusive Distribution Agreement Extends to Non-Signatory Affiliates",
-    "summary_en": "In a June 2026 ruling, the UK High Court held that an arbitration clause in an exclusive distribution agreement between a Chinese and a UK company could bind the non-signatory parent and affiliates, as they were actively involved in performing the agreement and the disputed transactions. This case reminds Chinese enterprises to clearly define the scope of arbitration clauses in cross-border contracts to avoid unintended inclusion of affiliates.",
-    "source_en": "Source: UK High Court · June 2026"
+    "title": "新加坡国际仲裁中心裁定：跨境技术许可协议中“最惠被许可方”条款不因母公司变更而自动失效",
+    "summary": "新加坡国际仲裁中心（SIAC）于2026年6月就一起涉及中国B公司与新加坡C公司的技术许可纠纷作出裁决。B公司主张，因C公司被第三方收购，合同中的“最惠被许可方”条款（MFN）应自动终止。仲裁庭认为，MFN条款未明确约定控制权变更即失效，且C公司继续履行义务，故条款继续有效。该案提示中国企业：在谈判MFN条款时，应明确约定控制权变更的后果，避免被动。",
+    "source": "来源：SIAC官网 · 2026年6月",
+    "title_en": "SIAC Rules: 'Most Favored Licensee' Clause in Cross-Border Tech License Does Not Automatically Terminate Upon Parent Company Change",
+    "summary_en": "In June 2026, the Singapore International Arbitration Centre (SIAC) ruled on a technology licensing dispute between Chinese Company B and Singaporean Company C. Company B argued that the 'Most Favored Licensee' (MFN) clause should automatically terminate due to C's acquisition by a third party. The tribunal held that the MFN clause did not specify termination upon change of control, and since C continued to perform its obligations, the clause remained effective. This case reminds Chinese enterprises to explicitly stipulate the consequences of change of control when negotiating MFN clauses.",
+    "source_en": "Source: SIAC Official Website · June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区出台跨境数据流动“正面清单”，覆盖11个行业助力企业合规",
-    "summary": "广东省网信办于2026年7月发布《粤港澳大湾区数据跨境流动安全评估管理指引（试行）》，明确金融、医疗、跨境电商等11个行业的数据出境“正面清单”，简化安全评估程序。企业可对照清单进行数据分类分级，提前准备合规材料，降低跨境数据传输的法律风险。",
-    "source": "来源：广东省互联网信息办公室 · 2026年7月",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues 'Positive List' for Cross-Border Data Flows, Covering 11 Industries to Aid Compliance",
-    "summary_en": "In July 2026, the Cyberspace Administration of Guangdong Province released the 'Guidelines on Security Assessment for Cross-Border Data Flows in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', specifying a 'positive list' for data export in 11 industries including finance, healthcare, and cross-border e-commerce, streamlining security assessment procedures. Enterprises can classify data according to the list, prepare compliance materials in advance, and reduce legal risks in cross-border data transfers.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · July 2026"
+    "title": "广东省发布《粤港澳大湾区跨境争议调解示范规则》，推动三地调解互认",
+    "summary": "广东省司法厅于2026年7月6日发布《粤港澳大湾区跨境争议调解示范规则》，旨在统一三地调解程序标准，明确调解员资格、保密义务及调解协议的执行路径。该规则适用于大湾区内的跨境商事争议，调解协议经法院确认后可在大湾区内地九市及港澳申请强制执行。此举将降低企业跨境纠纷解决成本，建议出海企业优先考虑将调解条款纳入合同。",
+    "source": "来源：广东省司法厅 · 2026.07.06",
+    "title_en": "Guangdong Issues 'Model Rules for Cross-Border Mediation in the Greater Bay Area' to Facilitate Mutual Recognition of Mediation",
+    "summary_en": "On July 6, 2026, the Department of Justice of Guangdong Province released the 'Model Rules for Cross-Border Mediation in the Guangdong-Hong Kong-Macao Greater Bay Area,' aiming to unify mediation procedures across the three regions, clarify mediator qualifications, confidentiality obligations, and enforcement paths for mediation agreements. The rules apply to cross-border commercial disputes within the GBA. Mediation agreements can be enforced in the nine mainland cities of the GBA, Hong Kong, and Macao after court confirmation. This will reduce dispute resolution costs for enterprises; overseas-bound companies are advised to consider including mediation clauses in contracts.",
+    "source_en": "Source: Department of Justice of Guangdong Province · 2026.07.06"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国新增半导体对华出口管制，企业应建立“动态合规清单”",
-    "summary": "秦林蒿律师研判：美国商务部工业与安全局（BIS）近期扩大了对先进半导体设备及EDA软件的出口管制范围，新增受限物项清单。实务建议：企业应建立动态合规清单，定期比对BIS实体清单与ECCN编码变化；对涉及美国技术来源的产品，需进行全供应链溯源；建议设立内部出口管制合规官，并开展全员培训。 Attorney Qin's view: The BIS has expanded export controls on advanced semiconductor equipment and EDA software, adding new restricted items. Practical advice: Companies should establish a dynamic compliance list, regularly cross-check BIS entity list and ECCN code changes; conduct full supply chain tracing for products involving US-origin technology; consider appointing an internal export control compliance officer and conduct company-wide training.",
-    "source": "来源：秦林蒿律师 · 2026.07.07",
-    "title_en": "Attorney Qin's View: New US Semiconductor Export Controls on China – Companies Should Establish a 'Dynamic Compliance List'",
-    "summary_en": "Attorney Qin's view: The BIS has recently expanded export controls on advanced semiconductor equipment and EDA software, adding new restricted items. Practical advice: Companies should establish a dynamic compliance list, regularly cross-check BIS entity list and ECCN code changes; conduct full supply chain tracing for products involving US-origin technology; consider appointing an internal export control compliance officer and conduct company-wide training.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.07"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期合规要点——中国企业应提前建立碳排放数据核算体系",
+    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起正式征收碳关税。秦林蒿律师研判：中国出口欧盟的钢铁、铝、水泥、化肥、电力及氢产品企业，必须从2026年第三季度起完善产品级碳排放数据核算，并聘请第三方核查。建议企业：（1）对照欧盟CBAM报告模板，建立内部数据收集流程；（2）与欧盟进口商协同完成季度报告；（3）评估低碳技术升级的经济性。合规滞后可能导致2027年后出口成本骤增。",
+    "source": "来源：秦林蒿律师 · 2026.07.08",
+    "title_en": "Attorney Qin's View: Key Compliance Points During EU CBAM Transition Period – Chinese Enterprises Should Establish Carbon Emission Data Accounting Systems Early",
+    "summary_en": "The transition period of the EU Carbon Border Adjustment Mechanism (CBAM) will end in late 2026, with carbon tariffs officially imposed from 2027. Attorney Qin's view: Chinese exporters of steel, aluminum, cement, fertilizers, electricity, and hydrogen products to the EU must improve product-level carbon emission data accounting from Q3 2026 and engage third-party verification. Recommendations: (1) Establish internal data collection processes aligned with the EU CBAM reporting template; (2) Collaborate with EU importers to complete quarterly reports; (3) Assess the economics of low-carbon technology upgrades. Lagging compliance may lead to a sharp increase in export costs after 2027.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.08"
   },
-  "dateLabel": "2026年7月7日 · 星期二",
-  "dateLabel_en": "Tuesday, July 7, 2026",
-  "issue": 188
+  "dateLabel": "2026年7月8日 · 星期三",
+  "dateLabel_en": "Wednesday, July 8, 2026",
+  "issue": 189
 }
