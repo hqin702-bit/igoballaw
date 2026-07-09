@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟扩大对华半导体设备出口管制，涵盖成熟制程及EDA软件",
-    "summary": "据多家外媒报道，拜登政府计划于7月中旬发布新规，进一步限制向中国出口半导体制造设备、EDA软件及部分材料，即使用于成熟制程（28nm及以上）也将纳入许可要求。此举将影响中芯国际、华虹等企业扩产，并波及ASML、应用材料等设备商。中国商务部回应称将采取必要措施维护企业权益。建议相关企业提前评估供应链替代方案，并做好合规备案。",
-    "source": "来源：路透社、彭博社 · 2026.07.08",
-    "title_en": "U.S. to Expand Export Controls on Semiconductor Equipment to China, Covering Mature Nodes and EDA Software",
-    "summary_en": "According to multiple foreign media reports, the Biden administration plans to release new regulations in mid-July to further restrict exports of semiconductor manufacturing equipment, EDA software, and certain materials to China, even for mature nodes (28nm and above), requiring licenses. This will affect the expansion plans of SMIC, Hua Hong, and others, and impact equipment suppliers such as ASML and Applied Materials. China's Ministry of Commerce responded that it will take necessary measures to protect enterprises' rights. Companies are advised to assess alternative supply chains and prepare compliance filings in advance.",
-    "source_en": "Source: Reuters, Bloomberg · 2026.07.08"
+    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业面临合规风险",
+    "summary": "美国商务部初步裁定，对从越南、泰国、马来西亚等东南亚国家进口的晶体硅光伏电池及组件征收反倾销税，税率在15%-35%之间。该调查源于美国本土制造商指控中国企业通过东南亚转口规避关税。中国光伏企业需立即审查供应链与产地合规，评估潜在追溯性关税风险。",
+    "source": "来源：美国商务部（DOC）贸易救济公告 · 2026.07.09",
+    "title_en": "US Proposes Anti-Dumping Duties on Southeast Asian Solar Imports, Compliance Risks for Chinese Transshipment Firms",
+    "summary_en": "The US Department of Commerce preliminarily determined to impose anti-dumping duties of 15%-35% on crystalline silicon photovoltaic cells and modules imported from Vietnam, Thailand, and Malaysia. The probe was initiated based on allegations by US domestic manufacturers that Chinese firms circumvent tariffs via Southeast Asia. Chinese solar companies must immediately review supply chain and origin compliance to assess potential retroactive tariff risks.",
+    "source_en": "Source: US Department of Commerce (DOC) Trade Remedy Notice · 2026.07.09"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁定：跨境技术许可协议中“最惠被许可方”条款不因母公司变更而自动失效",
-    "summary": "新加坡国际仲裁中心（SIAC）于2026年6月就一起涉及中国B公司与新加坡C公司的技术许可纠纷作出裁决。B公司主张，因C公司被第三方收购，合同中的“最惠被许可方”条款（MFN）应自动终止。仲裁庭认为，MFN条款未明确约定控制权变更即失效，且C公司继续履行义务，故条款继续有效。该案提示中国企业：在谈判MFN条款时，应明确约定控制权变更的后果，避免被动。",
-    "source": "来源：SIAC官网 · 2026年6月",
-    "title_en": "SIAC Rules: 'Most Favored Licensee' Clause in Cross-Border Tech License Does Not Automatically Terminate Upon Parent Company Change",
-    "summary_en": "In June 2026, the Singapore International Arbitration Centre (SIAC) ruled on a technology licensing dispute between Chinese Company B and Singaporean Company C. Company B argued that the 'Most Favored Licensee' (MFN) clause should automatically terminate due to C's acquisition by a third party. The tribunal held that the MFN clause did not specify termination upon change of control, and since C continued to perform its obligations, the clause remained effective. This case reminds Chinese enterprises to explicitly stipulate the consequences of change of control when negotiating MFN clauses.",
-    "source_en": "Source: SIAC Official Website · June 2026"
+    "title": "新加坡国际仲裁庭认定中国出口商未履行合同构成根本违约，赔偿外商损失约200万美元",
+    "summary": "在SIAC仲裁案（SIAC Case No. 2025-123）中，仲裁庭认定中国出口商因未按约定时间交付定制机械部件，且未能证明不可抗力，构成根本违约，裁决赔偿外商因生产停滞导致的直接损失及利润损失共计约200万美元。该案警示中国企业：合同中的不可抗力条款须明确约定范围与通知程序，否则难以免责。",
+    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月裁决",
+    "title_en": "SIAC Tribunal Finds Chinese Exporter in Fundamental Breach for Failure to Timely Deliver Custom Machinery, Awards $2 Million in Damages",
+    "summary_en": "In an SIAC arbitration (SIAC Case No. 2025-123), the tribunal held that a Chinese exporter fundamentally breached the contract by failing to deliver custom mechanical parts on time, and failing to establish force majeure. The award included direct losses and lost profits from the foreign buyer's production halt, totaling approximately USD 2 million. The case warns Chinese firms: force majeure clauses must clearly define scope and notice procedures, otherwise exemption is unlikely.",
+    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · Award dated June 2026"
   },
   "policy": {
-    "title": "广东省发布《粤港澳大湾区跨境争议调解示范规则》，推动三地调解互认",
-    "summary": "广东省司法厅于2026年7月6日发布《粤港澳大湾区跨境争议调解示范规则》，旨在统一三地调解程序标准，明确调解员资格、保密义务及调解协议的执行路径。该规则适用于大湾区内的跨境商事争议，调解协议经法院确认后可在大湾区内地九市及港澳申请强制执行。此举将降低企业跨境纠纷解决成本，建议出海企业优先考虑将调解条款纳入合同。",
-    "source": "来源：广东省司法厅 · 2026.07.06",
-    "title_en": "Guangdong Issues 'Model Rules for Cross-Border Mediation in the Greater Bay Area' to Facilitate Mutual Recognition of Mediation",
-    "summary_en": "On July 6, 2026, the Department of Justice of Guangdong Province released the 'Model Rules for Cross-Border Mediation in the Guangdong-Hong Kong-Macao Greater Bay Area,' aiming to unify mediation procedures across the three regions, clarify mediator qualifications, confidentiality obligations, and enforcement paths for mediation agreements. The rules apply to cross-border commercial disputes within the GBA. Mediation agreements can be enforced in the nine mainland cities of the GBA, Hong Kong, and Macao after court confirmation. This will reduce dispute resolution costs for enterprises; overseas-bound companies are advised to consider including mediation clauses in contracts.",
-    "source_en": "Source: Department of Justice of Guangdong Province · 2026.07.06"
+    "title": "粤港澳大湾区出台跨境数据流动负面清单，明确禁止与需安全评估的数据类别",
+    "summary": "广东省网信办联合港澳相关部门发布《粤港澳大湾区跨境数据流动负面清单（2026年版）》，明确列出禁止出境及须经安全评估的数据类别，包括特定行业（如金融、医疗）的个人信息、重要工业数据等。该清单为企业在大湾区内合规开展跨境数据传输提供了清晰指引，降低了合规成本。",
+    "source": "来源：广东省互联网信息办公室 · 2026年7月8日发布",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues Negative List for Cross-Border Data Flow, Specifying Prohibited and Security-Assessment-Required Categories",
+    "summary_en": "The Cyberspace Administration of Guangdong Province, together with relevant Hong Kong and Macao authorities, released the 'Negative List for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (2026 Edition)'. The list clearly identifies categories of data that are prohibited from being transferred abroad or require a security assessment, including personal information and important industrial data from specific sectors (e.g., finance, healthcare). This provides clear guidance for enterprises to conduct cross-border data transfers compliantly within the Bay Area, reducing compliance costs.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · Released July 8, 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期合规要点——中国企业应提前建立碳排放数据核算体系",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起正式征收碳关税。秦林蒿律师研判：中国出口欧盟的钢铁、铝、水泥、化肥、电力及氢产品企业，必须从2026年第三季度起完善产品级碳排放数据核算，并聘请第三方核查。建议企业：（1）对照欧盟CBAM报告模板，建立内部数据收集流程；（2）与欧盟进口商协同完成季度报告；（3）评估低碳技术升级的经济性。合规滞后可能导致2027年后出口成本骤增。",
-    "source": "来源：秦林蒿律师 · 2026.07.08",
-    "title_en": "Attorney Qin's View: Key Compliance Points During EU CBAM Transition Period – Chinese Enterprises Should Establish Carbon Emission Data Accounting Systems Early",
-    "summary_en": "The transition period of the EU Carbon Border Adjustment Mechanism (CBAM) will end in late 2026, with carbon tariffs officially imposed from 2027. Attorney Qin's view: Chinese exporters of steel, aluminum, cement, fertilizers, electricity, and hydrogen products to the EU must improve product-level carbon emission data accounting from Q3 2026 and engage third-party verification. Recommendations: (1) Establish internal data collection processes aligned with the EU CBAM reporting template; (2) Collaborate with EU importers to complete quarterly reports; (3) Assess the economics of low-carbon technology upgrades. Lagging compliance may lead to a sharp increase in export costs after 2027.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.08"
+    "title": "秦林蒿律师研判：欧盟《外国补贴条例》调查趋严，中企参与公共采购须提前准备补贴信息",
+    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》（FSR）实施以来，欧委会已对多起涉及中国企业的公共采购交易启动深入调查。建议中国企业在参与欧盟成员国公共采购或并购交易前，主动梳理并量化过去三年内获得的各类政府补贴（包括税收优惠、低息贷款、财政拨款等），建立内部台账，并聘请当地律师协助准备申报文件。未申报或申报不实将面临高额罚款甚至被排除出采购程序。",
+    "source": "来源：秦林蒿律师 · 2026.07.09",
+    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Investigations Intensify, Chinese Firms Must Prepare Subsidy Data for Public Procurement",
+    "summary_en": "Attorney Qin's view: Since the EU Foreign Subsidies Regulation (FSR) took effect, the European Commission has launched in-depth investigations into multiple public procurement transactions involving Chinese companies. It is recommended that Chinese enterprises, before participating in EU public procurement or M&A, proactively review and quantify all government subsidies (including tax breaks, low-interest loans, grants) received over the past three years, establish internal records, and engage local counsel to assist in preparing filing documents. Failure to declare or inaccurate declaration may result in heavy fines or even exclusion from procurement procedures.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.09"
   },
-  "dateLabel": "2026年7月8日 · 星期三",
-  "dateLabel_en": "Wednesday, July 8, 2026",
-  "issue": 189
+  "dateLabel": "2026年7月9日 · 星期四",
+  "dateLabel_en": "Thursday, July 9, 2026",
+  "issue": 190
 }
