@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期规则细化，中国出口钢铁铝材合规成本上升",
-    "summary": "本周，欧盟委员会发布碳边境调节机制（CBAM）过渡期实施细则补充文件，明确2026年10月起进口商需提交产品嵌入式排放量报告，且2027年起需购买CBAM证书。该机制覆盖钢铁、铝、水泥、化肥等产品，中国作为主要出口国受影响显著。本周多家中国钢铁企业收到欧盟进口商要求提供碳排放数据，合规成本预计增加15%-20%。同时，美国对华301关税复审听证会结束，预计8月公布结果，可能维持或提高部分商品关税。全球贸易碎片化趋势加剧，企业需加速供应链碳核算与合规能力建设。",
-    "source": "来源：欧盟委员会官网 · 本周",
-    "title_en": "EU CBAM Transitional Rules Tightened, Compliance Costs for Chinese Steel and Aluminum Exports Rise",
-    "summary_en": "This week, the European Commission issued supplementary details for the transitional implementation of the Carbon Border Adjustment Mechanism (CBAM), requiring importers to submit product embedded emission reports from October 2026 and purchase CBAM certificates from 2027. The mechanism covers steel, aluminum, cement, and fertilizers, significantly impacting China as a major exporter. Multiple Chinese steel firms received requests from EU importers for carbon emission data this week, with compliance costs expected to increase by 15%-20%. Meanwhile, the U.S. Section 301 tariff review hearing concluded, with results expected in August, potentially maintaining or raising tariffs on some goods. The trend of global trade fragmentation is intensifying, urging companies to accelerate supply chain carbon accounting and compliance.",
-    "source_en": "Source: European Commission official website · this week"
+    "title": "美国扩大对华半导体设备出口管制，欧盟拟对中国电动汽车加征关税，全球供应链重构加速",
+    "summary": "本周，美国商务部工业安全局（BIS）进一步收紧对华半导体设备出口管制，新增数十家中国实体至“实体清单”，限制其获取美国技术及设备。同时，欧盟委员会公布对中国产电动汽车的反补贴调查初步裁定，拟加征17%至36%的临时关税，引发中欧经贸关系紧张。此外，日本与荷兰协同美国强化对华先进制程设备出口限制。上述动向表明，西方国家正加速构建“去风险”贸易壁垒，中国出海企业面临技术获取与市场准入双重挑战，需加快供应链多元化布局。",
+    "source": "来源：美国商务部BIS、欧盟委员会 · 本周",
+    "title_en": "US Expands Semiconductor Equipment Export Controls on China, EU Proposes Tariffs on Chinese EVs, Accelerating Global Supply Chain Restructuring",
+    "summary_en": "This week, the U.S. Bureau of Industry and Security (BIS) further tightened export controls on semiconductor equipment to China, adding dozens of Chinese entities to the Entity List, restricting their access to U.S. technology and equipment. Meanwhile, the European Commission announced preliminary findings of its anti-subsidy investigation into Chinese electric vehicles, proposing provisional tariffs ranging from 17% to 36%, escalating trade tensions. Japan and the Netherlands also coordinated with the U.S. to strengthen restrictions on advanced process equipment exports. These developments indicate that Western countries are accelerating the construction of 'de-risking' trade barriers, posing dual challenges of technology acquisition and market access for Chinese companies going global, necessitating accelerated supply chain diversification.",
+    "source_en": "Source: U.S. BIS, European Commission · this week"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境特许经营协议中“不竞争条款”因地域过广被认定无效",
-    "summary": "本周，新加坡国际仲裁中心（SIAC）就一起中国企业与东南亚被特许人之间的特许经营纠纷作出裁决，认定特许经营协议中约定的“在整个东南亚地区禁止竞争”的条款因地域范围过广、超出合理保护商业利益所需，构成不合理限制竞争，违反新加坡竞争法，故该条款无效。仲裁庭强调，不竞争条款的地域范围应与特许人的实质性投资和商业秘密保护需求相称。本案启示：出海企业在设计特许经营或独家分销协议时，应结合具体市场、品牌知名度及投资规模，合理限定不竞争的地域和期限，避免因条款过于宽泛而被认定为无效。",
-    "source": "来源：新加坡国际仲裁中心 · 2026年6月裁决",
-    "title_en": "SIAC Rules Non-Compete Clause in Cross-Border Franchise Agreement Invalid Due to Excessive Geographic Scope",
-    "summary_en": "This week, the Singapore International Arbitration Center (SIAC) ruled in a franchise dispute between a Chinese company and a Southeast Asian franchisee, holding that a non-compete clause covering the entire Southeast Asia region was invalid for being excessively broad and beyond what is reasonably necessary to protect legitimate business interests, violating Singapore's competition law. The tribunal emphasized that the geographic scope of non-compete clauses must be proportionate to the franchisor's substantial investments and trade secret protection needs. Key takeaway: When designing franchise or exclusive distribution agreements, companies going overseas should tailor non-compete geographic and duration limits based on specific markets, brand recognition, and investment scale to avoid being deemed invalid due to overbreadth.",
-    "source_en": "Source: Singapore International Arbitration Center · June 2026 ruling"
+    "title": "美国法院批准中国某科技公司就华为禁令提起的诉讼部分程序，凸显美国出口管制司法审查趋势",
+    "summary": "本周，美国哥伦比亚特区联邦地区法院裁定，允许中国某科技公司就美国联邦通信委员会（FCC）基于国家安全理由将其列入“受制裁设备清单”的决定提起部分诉讼程序。法院认为，原告有充分理由质疑该决定缺乏正当程序。该案被视为美国出口管制与国家安全措施司法审查的重要风向标，提示出海企业应重视利用美国国内司法程序挑战不合理的行政决定，并保留完整合规记录以支持诉讼。",
+    "source": "来源：美国哥伦比亚特区联邦地区法院 · 本周",
+    "title_en": "U.S. Court Allows Partial Lawsuit by Chinese Tech Company Over FCC Ban, Indicating Judicial Review Trend on Export Controls",
+    "summary_en": "This week, the U.S. District Court for the District of Columbia ruled to allow a Chinese technology company to proceed with partial litigation against the Federal Communications Commission's (FCC) decision to include it on the 'covered equipment list' based on national security concerns. The court found that the plaintiff had sufficiently challenged the lack of due process. This case is seen as a bellwether for judicial review of U.S. export controls and national security measures, reminding Chinese companies to utilize U.S. judicial procedures to challenge unreasonable administrative decisions and maintain comprehensive compliance records to support litigation.",
+    "source_en": "Source: U.S. District Court for the District of Columbia · this week"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制落地，首批涵盖金融、医疗等8个行业",
-    "summary": "本周，广东省互联网信息办公室联合香港、澳门相关部门正式发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，建立数据出境“白名单”机制。首批白名单涵盖金融、医疗、交通、电子商务等8个行业，列入白名单的企业在向港澳传输必要业务数据时，无需单独进行数据出境安全评估，仅需履行备案义务。此举预计将大幅降低大湾区企业跨境数据合规成本，促进区域数字贸易与金融科技合作。但企业需注意，白名单仅适用于“必要业务数据”，个人敏感信息及重要数据仍须遵守更高标准。建议企业尽快对照白名单条件进行自查，争取首批备案。",
+    "title": "粤港澳大湾区发布跨境数据流动“白名单”管理办法，简化企业数据出境合规流程",
+    "summary": "本周，广东省互联网信息办公室联合港澳相关部门发布《粤港澳大湾区数据跨境流动“白名单”管理办法（试行）》，明确将金融、医疗、交通等领域常见商业数据纳入“白名单”，企业向指定区域传输此类数据时无需逐案申报安全评估，仅需完成备案。该办法大幅降低企业数据出境合规成本，是内地与港澳规则衔接的重要突破。同时，深圳前海推出跨境法律合作新机制，允许港澳律师在前海特定律所提供中国法律咨询（非诉讼），进一步便利跨境法律服务。",
     "source": "来源：广东省互联网信息办公室 · 本周",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Cross-Border Data Flow 'Whitelist' Mechanism Launched, Initially Covering 8 Sectors Including Finance and Healthcare",
-    "summary_en": "This week, the Cyberspace Administration of Guangdong Province, together with relevant authorities in Hong Kong and Macao, officially released the 'Guangdong-Hong Kong-Macao Greater Bay Area Cross-Border Data Flow Security Management Regulations (Trial)', establishing a data exit 'whitelist' mechanism. The first batch covers 8 sectors including finance, healthcare, transportation, and e-commerce. Enterprises on the whitelist can transfer necessary business data to Hong Kong and Macao without separate data exit security assessments, only needing to fulfill filing obligations. This is expected to significantly reduce cross-border data compliance costs for enterprises in the Greater Bay Area and promote regional digital trade and fintech cooperation. However, companies should note that the whitelist only applies to 'necessary business data'; personal sensitive information and important data still require higher standards. It is recommended that companies promptly self-check against whitelist conditions and strive for early filing.",
+    "title_en": "Greater Bay Area Issues 'Whitelist' Measures for Cross-Border Data Flows, Simplifying Data Export Compliance",
+    "summary_en": "This week, the Cyberspace Administration of Guangdong Province, in coordination with Hong Kong and Macau authorities, released the 'Measures for the Administration of the Cross-Border Data Flow Whitelist in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', which includes common commercial data in sectors such as finance, healthcare, and transportation in a 'whitelist'. Enterprises transferring such data to designated regions are exempt from case-by-case security assessments and only need to complete filing. This significantly reduces compliance costs for data export and represents a key breakthrough in aligning rules between the mainland and Hong Kong/Macau. Additionally, Shenzhen Qianhai introduced a new mechanism for cross-border legal cooperation, allowing Hong Kong and Macau lawyers to provide Chinese legal advice (non-litigation) in designated Qianhai law firms, further facilitating cross-border legal services.",
     "source_en": "Source: Cyberspace Administration of Guangdong Province · this week"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：出海企业应建立“碳合规+数据合规”双轨机制，动态应对欧美监管分化",
-    "summary": "本周，欧盟CBAM细则与美国301关税听证会形成鲜明对比：欧盟以碳边境调节推动绿色贸易规则，美国则延续单边关税工具。秦林蒿律师研判认为，出海企业需建立“双轨合规机制”：一是碳合规，立即启动产品碳足迹核算，优先在钢铁、铝材、化工等高碳行业部署第三方认证，并关注欧盟CBAM证书交易市场动态；二是数据合规，利用粤港澳大湾区数据跨境白名单试点，优化内部数据分类与跨境传输架构，同时密切跟踪美国《数据隐私和保护法案》立法进程。下周关注：欧盟《外国补贴条例》首批调查结果可能公布，涉及中国光伏、风电企业；建议相关企业提前准备抗辩材料。",
-    "source": "来源：秦林蒿律师 · 本周研判",
-    "title_en": "Attorney Qin's weekly view: Outbound Enterprises Should Establish a 'Carbon Compliance + Data Compliance' Dual-Track Mechanism to Dynamically Respond to EU-US Regulatory Divergence",
-    "summary_en": "This week, the EU's CBAM details and the US Section 301 tariff hearing presented a stark contrast: the EU promotes green trade rules through carbon border adjustments, while the US continues unilateral tariff tools. Attorney Qin Linhao assesses that outbound enterprises need to establish a 'dual-track compliance mechanism': first, carbon compliance—immediately start product carbon footprint accounting, prioritize third-party certification in high-carbon sectors such as steel, aluminum, and chemicals, and monitor the CBAM certificate trading market; second, data compliance—leverage the Greater Bay Area cross-border data whitelist pilot to optimize internal data classification and cross-border transfer structures, while closely tracking the US Data Privacy and Protection Act legislative process. Next week's focus: The first batch of investigation results under the EU Foreign Subsidies Regulation may be released, involving Chinese photovoltaic and wind power companies; relevant enterprises are advised to prepare defense materials in advance.",
-    "source_en": "Source: Attorney Qin Linhao · weekly view"
+    "title": "秦林蒿律师周度研判：出海企业应建立“双循环”合规体系，动态应对制裁与关税风险",
+    "summary": "本周国际经贸环境呈现“多线承压”特征：美国出口管制实体清单持续扩容，欧盟反补贴关税箭在弦上，而中国则通过粤港澳大湾区数据流动白名单等政策释放开放信号。秦林蒿律师建议出海企业：第一，构建“中国法+目标国法”双合规体系，尤其在半导体、新能源等高敏感行业，需同步追踪中国出口管制合规要求及目标国制裁法规；第二，针对欧盟关税风险，提前完成原产地规则合规审查，考虑在欧盟境内设立组装厂或寻找替代供应商；第三，善用粤港澳大湾区政策红利，将数据跨境传输、法律争议解决等环节优先落地大湾区，降低合规成本。下周重点关注：美国对华半导体管制最终规则是否扩大至AI芯片，以及欧盟关税投票结果。",
+    "source": "来源：秦林蒿律师 · 本周",
+    "title_en": "Attorney Qin's weekly view: Build a 'Dual-Cycle' Compliance System to Dynamically Address Sanctions and Tariff Risks",
+    "summary_en": "This week's international trade environment features 'multi-front pressure': the U.S. export control entity list continues to expand, EU anti-subsidy tariffs are imminent, while China signals openness through the Greater Bay Area data flow whitelist. Attorney Qin Linhao recommends that companies going global: first, establish a 'dual-compliance' system covering both Chinese law and target country law, especially in high-sensitivity sectors like semiconductors and new energy, tracking both China's export control requirements and target countries' sanctions regulations; second, for EU tariff risks, conduct compliance reviews on rules of origin in advance and consider setting up assembly plants in the EU or seeking alternative suppliers; third, leverage the Greater Bay Area policy dividends by prioritizing data cross-border transfer and legal dispute resolution in the region to reduce compliance costs. Next week's focus: whether the final U.S. rule on semiconductor controls will expand to AI chips, and the outcome of the EU tariff vote.",
+    "source_en": "Source: Attorney Qin Linhao · this week"
   },
-  "weekLabel": "2026年6月29日 – 7月3日 · 本周周报",
-  "weekLabel_en": "Jun 29 – Jul 3, 2026 · Weekly Digest",
-  "issue": 27
+  "weekLabel": "2026年7月6日 – 7月10日 · 本周周报",
+  "weekLabel_en": "Jul 6 – Jul 10, 2026 · Weekly Digest",
+  "issue": 28
 }
