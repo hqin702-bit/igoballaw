@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业面临合规风险",
-    "summary": "美国商务部初步裁定，对从越南、泰国、马来西亚等东南亚国家进口的晶体硅光伏电池及组件征收反倾销税，税率在15%-35%之间。该调查源于美国本土制造商指控中国企业通过东南亚转口规避关税。中国光伏企业需立即审查供应链与产地合规，评估潜在追溯性关税风险。",
-    "source": "来源：美国商务部（DOC）贸易救济公告 · 2026.07.09",
-    "title_en": "US Proposes Anti-Dumping Duties on Southeast Asian Solar Imports, Compliance Risks for Chinese Transshipment Firms",
-    "summary_en": "The US Department of Commerce preliminarily determined to impose anti-dumping duties of 15%-35% on crystalline silicon photovoltaic cells and modules imported from Vietnam, Thailand, and Malaysia. The probe was initiated based on allegations by US domestic manufacturers that Chinese firms circumvent tariffs via Southeast Asia. Chinese solar companies must immediately review supply chain and origin compliance to assess potential retroactive tariff risks.",
-    "source_en": "Source: US Department of Commerce (DOC) Trade Remedy Notice · 2026.07.09"
+    "title": "欧盟拟对华电动汽车加征临时反补贴关税，中企应提前布局供应链合规",
+    "summary": "欧盟委员会于7月9日公布对华电动汽车反补贴调查初步裁定，拟对进口自中国的纯电动汽车加征17%至36%的临时关税，预计7月底前生效。此举将显著影响比亚迪、上汽等中国车企对欧出口。建议企业立即启动原产地规则审查，评估在欧盟设厂或与当地企业合资的可行性，同时关注WTO争端解决程序进展。",
+    "source": "来源：欧盟委员会公告 · 2026.07.10",
+    "title_en": "EU Proposes Provisional Countervailing Duties on Chinese EVs; Chinese Firms Advised to Prepare Supply Chain Compliance",
+    "summary_en": "On July 9, the European Commission announced preliminary findings in its anti-subsidy investigation into Chinese EVs, proposing provisional tariffs of 17% to 36% on imports of battery electric vehicles from China, expected to take effect by end of July. This significantly impacts Chinese automakers like BYD and SAIC. Companies are advised to immediately review rules of origin, assess feasibility of EU-based manufacturing or joint ventures, and monitor WTO dispute resolution developments.",
+    "source_en": "Source: European Commission Announcement · 2026.07.10"
   },
   "case": {
-    "title": "新加坡国际仲裁庭认定中国出口商未履行合同构成根本违约，赔偿外商损失约200万美元",
-    "summary": "在SIAC仲裁案（SIAC Case No. 2025-123）中，仲裁庭认定中国出口商因未按约定时间交付定制机械部件，且未能证明不可抗力，构成根本违约，裁决赔偿外商因生产停滞导致的直接损失及利润损失共计约200万美元。该案警示中国企业：合同中的不可抗力条款须明确约定范围与通知程序，否则难以免责。",
-    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月裁决",
-    "title_en": "SIAC Tribunal Finds Chinese Exporter in Fundamental Breach for Failure to Timely Deliver Custom Machinery, Awards $2 Million in Damages",
-    "summary_en": "In an SIAC arbitration (SIAC Case No. 2025-123), the tribunal held that a Chinese exporter fundamentally breached the contract by failing to deliver custom mechanical parts on time, and failing to establish force majeure. The award included direct losses and lost profits from the foreign buyer's production halt, totaling approximately USD 2 million. The case warns Chinese firms: force majeure clauses must clearly define scope and notice procedures, otherwise exemption is unlikely.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · Award dated June 2026"
+    "title": "新加坡国际仲裁院裁决：中资企业因不可抗力条款不完善被判违约，赔偿外方2300万美元",
+    "summary": "在SIAC仲裁案ARB-2025-089中，某中国工程公司因海外项目遭遇当地政局动荡，援引合同不可抗力条款主张免责，但仲裁庭认定其条款未明确列举政治事件且未及时通知，裁定公司违约并赔偿外方2300万美元。此案警示出海企业：不可抗力条款应具体化，并严格履行通知义务。",
+    "source": "来源：新加坡国际仲裁院 · 2026年6月裁决",
+    "title_en": "SIAC Ruling: Chinese Firm Found in Breach Due to Inadequate Force Majeure Clause, Ordered to Pay US$23 Million",
+    "summary_en": "In SIAC arbitration case ARB-2025-089, a Chinese engineering company invoked a force majeure clause to excuse performance after political unrest in the host country. The tribunal held the clause did not explicitly cover political events and the company failed to provide timely notice, ruling it in breach and awarding US$23 million in damages. This case underscores the need for specific force majeure clauses and strict compliance with notice requirements.",
+    "source_en": "Source: Singapore International Arbitration Centre · Award dated June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区出台跨境数据流动负面清单，明确禁止与需安全评估的数据类别",
-    "summary": "广东省网信办联合港澳相关部门发布《粤港澳大湾区跨境数据流动负面清单（2026年版）》，明确列出禁止出境及须经安全评估的数据类别，包括特定行业（如金融、医疗）的个人信息、重要工业数据等。该清单为企业在大湾区内合规开展跨境数据传输提供了清晰指引，降低了合规成本。",
-    "source": "来源：广东省互联网信息办公室 · 2026年7月8日发布",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Issues Negative List for Cross-Border Data Flow, Specifying Prohibited and Security-Assessment-Required Categories",
-    "summary_en": "The Cyberspace Administration of Guangdong Province, together with relevant Hong Kong and Macao authorities, released the 'Negative List for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (2026 Edition)'. The list clearly identifies categories of data that are prohibited from being transferred abroad or require a security assessment, including personal information and important industrial data from specific sectors (e.g., finance, healthcare). This provides clear guidance for enterprises to conduct cross-border data transfers compliantly within the Bay Area, reducing compliance costs.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · Released July 8, 2026"
+    "title": "粤港澳大湾区跨境数据流动新规出台，简化企业合规流程",
+    "summary": "广东省网信办联合港澳相关部门于7月8日发布《粤港澳大湾区数据跨境流动便利化管理办法》，对区内企业实施“白名单”管理，符合条件的企业在跨境传输个人及重要数据时，可免于单独安全评估，仅需备案。此举将降低企业合规成本，促进大湾区金融、医疗、科技等领域的跨境协作。",
+    "source": "来源：广东省互联网信息办公室 · 2026.07.08",
+    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area Simplify Compliance for Enterprises",
+    "summary_en": "On July 8, the Guangdong Cyberspace Administration, together with Hong Kong and Macau authorities, issued the 'Measures for Facilitating Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area,' introducing a 'white list' mechanism. Eligible enterprises can transfer personal and important data across borders without separate security assessments, only requiring filing. This reduces compliance burdens and promotes cross-border collaboration in finance, healthcare, and technology.",
+    "source_en": "Source: Guangdong Cyberspace Administration · 2026.07.08"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟《外国补贴条例》调查趋严，中企参与公共采购须提前准备补贴信息",
-    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》（FSR）实施以来，欧委会已对多起涉及中国企业的公共采购交易启动深入调查。建议中国企业在参与欧盟成员国公共采购或并购交易前，主动梳理并量化过去三年内获得的各类政府补贴（包括税收优惠、低息贷款、财政拨款等），建立内部台账，并聘请当地律师协助准备申报文件。未申报或申报不实将面临高额罚款甚至被排除出采购程序。",
-    "source": "来源：秦林蒿律师 · 2026.07.09",
-    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Investigations Intensify, Chinese Firms Must Prepare Subsidy Data for Public Procurement",
-    "summary_en": "Attorney Qin's view: Since the EU Foreign Subsidies Regulation (FSR) took effect, the European Commission has launched in-depth investigations into multiple public procurement transactions involving Chinese companies. It is recommended that Chinese enterprises, before participating in EU public procurement or M&A, proactively review and quantify all government subsidies (including tax breaks, low-interest loans, grants) received over the past three years, establish internal records, and engage local counsel to assist in preparing filing documents. Failure to declare or inaccurate declaration may result in heavy fines or even exclusion from procurement procedures.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.09"
+    "title": "秦林蒿律师研判：美国对华半导体出口管制再升级，中国企业应建立“双供应链”应对策略",
+    "summary": "美国商务部工业安全局（BIS）拟于7月底扩大对华半导体设备及EDA软件的出口管制，新增限制14nm以下制程相关物项。秦林蒿律师研判：建议中企立即梳理供应链中受EAR管辖的物项，加速国产替代验证，同时通过海外子公司申请许可证或寻求第三国转口路径，但需警惕“最小比例”规则和最终用户审查风险。",
+    "source": "来源：秦林蒿律师团队 · 2026.07.10",
+    "title_en": "Attorney Qin's View: US Semiconductor Export Controls Tighten; Chinese Firms Should Adopt 'Dual Supply Chain' Strategy",
+    "summary_en": "The US BIS plans to expand export controls on semiconductor equipment and EDA software to China by end of July, adding items related to sub-14nm processes. Attorney Qin advises: companies should immediately audit EAR-controlled items in their supply chains, accelerate domestic substitution validation, and consider applying for licenses through overseas subsidiaries or exploring third-country transshipment routes, while remaining vigilant against the 'de minimis' rule and end-user scrutiny.",
+    "source_en": "Source: Attorney Qin Linhao's Team · 2026.07.10"
   },
-  "dateLabel": "2026年7月9日 · 星期四",
-  "dateLabel_en": "Thursday, July 9, 2026",
-  "issue": 190
+  "dateLabel": "2026年7月10日 · 星期五",
+  "dateLabel_en": "Friday, July 10, 2026",
+  "issue": 191
 }
