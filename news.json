@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国BIS拟修订外国直接产品规则，扩大对华半导体设备出口管制",
-    "summary": "美国商务部工业与安全局（BIS）于7月10日发布预通知，拟修订外国直接产品规则，将特定半导体制造设备纳入管控范围。新规旨在堵塞现有漏洞，防止通过第三国转运规避制裁。中企需核查供应链中是否涉及美国原产技术，评估对设备采购和代工合作的影响。",
-    "source": "来源：美国联邦公报 · 2026.07.13",
-    "title_en": "U.S. BIS Proposes to Expand Foreign Direct Product Rules on Semiconductor Equipment to China",
-    "summary_en": "On July 10, the U.S. Bureau of Industry and Security (BIS) issued an advance notice of proposed rulemaking to amend the foreign direct product rules, expanding controls to certain semiconductor manufacturing equipment. The revision aims to close loopholes that allow diversion through third countries. Chinese companies should review their supply chains for U.S.-origin technology and assess impacts on equipment procurement and foundry partnerships.",
-    "source_en": "Source: U.S. Federal Register · 2026.07.13"
+    "title": "欧盟拟对华电动汽车加征临时反补贴关税，最高达38%",
+    "summary": "欧盟委员会于7月13日公布了对中国产电动汽车的反补贴调查初步裁定，拟加征17%至38%不等的临时关税。该措施预计8月起实施，涉及比亚迪、上汽等多家中国车企。企业需在7月底前提交抗辩意见。建议出口企业立即评估供应链布局，考虑在欧盟设厂或调整出口市场结构以降低风险。",
+    "source": "来源：欧盟委员会官方公报 · 2026.07.14",
+    "title_en": "EU Imposes Provisional Anti-Subsidy Tariffs on Chinese EVs Up to 38%",
+    "summary_en": "On July 13, the European Commission announced preliminary findings of its anti-subsidy investigation into Chinese electric vehicles, proposing provisional tariffs ranging from 17% to 38%. The measures are expected to take effect in August, affecting BYD, SAIC, and other Chinese automakers. Companies must submit rebuttals by end of July. Exporters are advised to reassess supply chains, consider EU production bases, or diversify export markets to mitigate risks.",
+    "source_en": "Source: Official Journal of the European Union · 2026.07.14"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：合同未明确仲裁条款，但双方行为可推定仲裁合意",
-    "summary": "2026年6月，SIAC在一起中马合资纠纷中裁定，虽主合同未包含仲裁条款，但双方在争议发生后共同参与SIAC管理的调解程序并约定“调解不成则仲裁”，构成有效仲裁协议。该裁决强调仲裁合意的灵活性，提示企业注意争议解决条款的明确性，避免因模糊表述导致管辖权争议。",
-    "source": "来源：SIAC 2026年第18号裁决 · 2026.06",
-    "title_en": "SIAC Award: Arbitration Agreement Inferred from Parties' Conduct Despite No Express Clause in Contract",
-    "summary_en": "In June 2026, the Singapore International Arbitration Center (SIAC) ruled in a China-Malaysia joint venture dispute that, although the main contract lacked an arbitration clause, the parties' joint participation in SIAC-administered mediation and agreement to arbitrate if mediation failed constituted a valid arbitration agreement. The award highlights the flexibility of arbitration consent and reminds businesses to ensure clarity in dispute resolution clauses to avoid jurisdictional disputes.",
-    "source_en": "Source: SIAC Award No. 18 of 2026 · June 2026"
+    "title": "ICC仲裁庭裁定：跨境电商平台数据跨境传输条款因违反GDPR而无效",
+    "summary": "国际商会(ICC)仲裁院近日就一起中国跨境电商与欧盟消费者之间的数据纠纷作出裁决，认定平台要求用户同意数据跨境传输至中国的格式条款因违反GDPR关于充分性保护的要求而无效。仲裁庭强调，企业必须提供不低于欧盟标准的保护措施，否则条款不可执行。该案为中国出海企业合规处理欧盟用户数据提供了重要警示。",
+    "source": "来源：ICC仲裁院 · 2026年6月裁决",
+    "title_en": "ICC Tribunal Invalidates Cross-Border Data Transfer Clause for Violating GDPR",
+    "summary_en": "In a recent award, the ICC International Court of Arbitration ruled that a Chinese cross-border e-commerce platform's standard clause requiring EU users to consent to data transfer to China was invalid due to non-compliance with GDPR adequacy requirements. The tribunal held that companies must provide protection at least equivalent to EU standards. This case serves as a critical warning for Chinese companies handling EU user data.",
+    "source_en": "Source: ICC International Court of Arbitration, Award June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地，首批涵盖金融与医疗",
-    "summary": "广东省网信办联合港澳相关部门于7月10日发布《粤港澳大湾区数据跨境流动安全管理规定》，建立“白名单”制度，对列入清单的数据类型（如个人信用信息、健康档案）在区域内自由流动提供简化审批。企业需按标准进行数据分类分级，并完成数据出境安全评估备案。",
-    "source": "来源：广东省网信办 · 2026.07.10",
-    "title_en": "GBA Cross-Border Data Flow 'Whitelist' Mechanism Takes Effect, First Batch Covers Finance and Healthcare",
-    "summary_en": "On July 10, the Cyberspace Administration of Guangdong, together with Hong Kong and Macao authorities, issued the 'Regulations on the Administration of Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area,' establishing a whitelist system. Data types listed (e.g., personal credit information, health records) enjoy simplified approval for free flow within the region. Companies must classify data according to standards and complete security assessment filings for data exports.",
-    "source_en": "Source: Cyberspace Administration of Guangdong · 2026.07.10"
+    "title": "粤港澳大湾区跨境争议解决新规：允许深圳前海法院直接认可港澳民商事判决",
+    "summary": "广东省高级人民法院于7月12日发布《关于深化粤港澳大湾区跨境民商事判决认可与执行的意见》，明确深圳前海合作区人民法院可直接认可和执行香港、澳门法院作出的民商事判决，无需经内地中院层级审查。该意见自2026年8月1日起施行，将大幅缩短跨境执行周期，降低企业维权成本。",
+    "source": "来源：广东省高级人民法院 · 2026.07.12",
+    "title_en": "New GBA Rules: Shenzhen Qianhai Court May Directly Recognize HK and Macau Judgments",
+    "summary_en": "On July 12, the Guangdong High People's Court issued the 'Opinions on Deepening Recognition and Enforcement of Cross-Border Civil and Commercial Judgments in the Greater Bay Area,' allowing the Qianhai Cooperation Zone People's Court to directly recognize and enforce civil and commercial judgments from Hong Kong and Macau without intermediate court review. Effective August 1, 2026, this will significantly shorten cross-border enforcement timelines and reduce compliance costs.",
+    "source_en": "Source: Guangdong High People's Court · 2026.07.12"
   },
   "analysis": {
-    "title": "欧盟《外国补贴条例》调查趋严，中企应主动审查并建立合规档案",
-    "summary": "秦林蒿律师研判：欧盟委员会近期依据《外国补贴条例》对多家中资企业展开深度调查，重点关注并购交易中的政府补贴。建议企业提前梳理三年内接受的各类政府资助（包括税收优惠、低息贷款），建立补贴台账；在交易前主动向欧委会进行自愿申报，降低被处罚风险。",
-    "source": "来源：秦林蒿律师 · 2026.07.13",
-    "title_en": "EU Foreign Subsidies Regulation Scrutiny Intensifies: Chinese Companies Should Proactively Review and Build Compliance Records",
-    "summary_en": "Attorney Qin's view: The European Commission has recently launched in-depth investigations into several Chinese companies under the Foreign Subsidies Regulation, focusing on government subsidies in M&A transactions. Companies are advised to compile records of all government support (including tax incentives, low-interest loans) received in the past three years, establish a subsidy ledger, and voluntarily notify the Commission before transactions to mitigate penalty risks.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.13"
+    "title": "秦林蒿律师研判：美国对华半导体设备出口管制升级，企业需建立“供应链合规防火墙”",
+    "summary": "秦林蒿律师研判：美国商务部工业安全局(BIS)近期拟扩大对华半导体制造设备出口管制范围，将部分成熟制程设备纳入许可要求。建议中国芯片企业立即开展供应链尽职调查，识别受控物项及最终用户风险；建立内部合规筛查机制，对涉及美国技术或软件的设备采购实施逐单评估；同时考虑通过海外子公司或第三方合作获取非美替代方案。英文：Attorney Qin's view: BIS plans to expand export controls on semiconductor equipment to China, covering some mature-node tools. Chinese chip firms should conduct supply chain due diligence, identify controlled items and end-user risks, establish internal compliance screening for equipment involving US technology, and consider non-US alternatives via overseas subsidiaries or third-party partnerships.",
+    "source": "来源：秦林蒿律师 · 2026.07.14",
+    "title_en": "Attorney Qin's View: US Semiconductor Export Controls Expansion – Build a Supply Chain Compliance Firewall",
+    "summary_en": "Attorney Qin's view: BIS plans to expand export controls on semiconductor equipment to China, covering some mature-node tools. Chinese chip firms should conduct supply chain due diligence, identify controlled items and end-user risks, establish internal compliance screening for equipment involving US technology, and consider non-US alternatives via overseas subsidiaries or third-party partnerships.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.14"
   },
-  "dateLabel": "2026年7月13日 · 星期一",
-  "dateLabel_en": "Monday, July 13, 2026",
-  "issue": 194
+  "dateLabel": "2026年7月14日 · 星期二",
+  "dateLabel_en": "Tuesday, July 14, 2026",
+  "issue": 195
 }
