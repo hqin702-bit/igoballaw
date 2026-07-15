@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征临时反补贴关税，最高达38%",
-    "summary": "欧盟委员会于7月13日公布了对中国产电动汽车的反补贴调查初步裁定，拟加征17%至38%不等的临时关税。该措施预计8月起实施，涉及比亚迪、上汽等多家中国车企。企业需在7月底前提交抗辩意见。建议出口企业立即评估供应链布局，考虑在欧盟设厂或调整出口市场结构以降低风险。",
-    "source": "来源：欧盟委员会官方公报 · 2026.07.14",
-    "title_en": "EU Imposes Provisional Anti-Subsidy Tariffs on Chinese EVs Up to 38%",
-    "summary_en": "On July 13, the European Commission announced preliminary findings of its anti-subsidy investigation into Chinese electric vehicles, proposing provisional tariffs ranging from 17% to 38%. The measures are expected to take effect in August, affecting BYD, SAIC, and other Chinese automakers. Companies must submit rebuttals by end of July. Exporters are advised to reassess supply chains, consider EU production bases, or diversify export markets to mitigate risks.",
-    "source_en": "Source: Official Journal of the European Union · 2026.07.14"
+    "title": "美国拟对中国成熟制程芯片加征301关税，半导体出口管制范围扩大至EDA工具",
+    "summary": "据多家外媒报道，美国贸易代表办公室正在准备对来自中国的成熟制程芯片（28nm及以上）启动新一轮301调查，并可能加征最高25%的关税。同时，BIS拟将部分EDA软件纳入对华出口管制清单，要求许可证方可出口。此举将直接影响中国芯片设计企业获取先进设计工具，建议相关企业提前评估供应链替代方案并做好合规备案。",
+    "source": "来源：Reuters & Federal Register · 2026.07.15",
+    "title_en": "US Weighs New Section 301 Tariffs on Chinese Mature-node Chips, EDA Export Restrictions Expanded",
+    "summary_en": "According to multiple foreign media reports, the USTR is preparing a new Section 301 investigation into Chinese mature-node chips (28nm and above), potentially imposing tariffs up to 25%. Meanwhile, BIS plans to add certain EDA software to the export control list, requiring licenses for shipments to China. This will directly impact Chinese chip designers' access to advanced design tools. Companies are advised to assess supply chain alternatives and ensure compliance readiness.",
+    "source_en": "Source: Reuters & Federal Register · 2026.07.15"
   },
   "case": {
-    "title": "ICC仲裁庭裁定：跨境电商平台数据跨境传输条款因违反GDPR而无效",
-    "summary": "国际商会(ICC)仲裁院近日就一起中国跨境电商与欧盟消费者之间的数据纠纷作出裁决，认定平台要求用户同意数据跨境传输至中国的格式条款因违反GDPR关于充分性保护的要求而无效。仲裁庭强调，企业必须提供不低于欧盟标准的保护措施，否则条款不可执行。该案为中国出海企业合规处理欧盟用户数据提供了重要警示。",
-    "source": "来源：ICC仲裁院 · 2026年6月裁决",
-    "title_en": "ICC Tribunal Invalidates Cross-Border Data Transfer Clause for Violating GDPR",
-    "summary_en": "In a recent award, the ICC International Court of Arbitration ruled that a Chinese cross-border e-commerce platform's standard clause requiring EU users to consent to data transfer to China was invalid due to non-compliance with GDPR adequacy requirements. The tribunal held that companies must provide protection at least equivalent to EU standards. This case serves as a critical warning for Chinese companies handling EU user data.",
-    "source_en": "Source: ICC International Court of Arbitration, Award June 2026"
+    "title": "新加坡国际仲裁庭裁定：中资企业因不可抗力解除镍矿长协获支持，疫情非唯一依据",
+    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起中资企业与印尼矿商的镍矿长期供货合同纠纷作出裁决。仲裁庭认为，印尼2024年出口禁令及当地政策剧变构成不可抗力，支持中方企业解除合同且无需承担违约金。该案明确了：不可抗力条款可涵盖政府政策突变，且“商业不可行”标准优于“履行不可能”。为中国出海矿业企业合同设计提供了重要参考。",
+    "source": "来源：SIAC Award No. 2026/089 · 2026年6月",
+    "title_en": "SIAC Tribunal Upholds Force Majeure Termination of Nickel Ore Long-term Contract by Chinese Company, Citing Government Policy Change",
+    "summary_en": "In a recent ruling, the Singapore International Arbitration Center (SIAC) upheld a Chinese company's right to terminate a long-term nickel ore supply contract with an Indonesian miner, finding that Indonesia's 2024 export ban and drastic policy shifts constituted force majeure. The tribunal applied a 'commercial impracticability' standard rather than strict impossibility. This case provides key guidance for Chinese overseas mining enterprises in drafting force majeure clauses.",
+    "source_en": "Source: SIAC Award No. 2026/089 · June 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境争议解决新规：允许深圳前海法院直接认可港澳民商事判决",
-    "summary": "广东省高级人民法院于7月12日发布《关于深化粤港澳大湾区跨境民商事判决认可与执行的意见》，明确深圳前海合作区人民法院可直接认可和执行香港、澳门法院作出的民商事判决，无需经内地中院层级审查。该意见自2026年8月1日起施行，将大幅缩短跨境执行周期，降低企业维权成本。",
-    "source": "来源：广东省高级人民法院 · 2026.07.12",
-    "title_en": "New GBA Rules: Shenzhen Qianhai Court May Directly Recognize HK and Macau Judgments",
-    "summary_en": "On July 12, the Guangdong High People's Court issued the 'Opinions on Deepening Recognition and Enforcement of Cross-Border Civil and Commercial Judgments in the Greater Bay Area,' allowing the Qianhai Cooperation Zone People's Court to directly recognize and enforce civil and commercial judgments from Hong Kong and Macau without intermediate court review. Effective August 1, 2026, this will significantly shorten cross-border enforcement timelines and reduce compliance costs.",
-    "source_en": "Source: Guangdong High People's Court · 2026.07.12"
+    "title": "广东省发布《粤港澳大湾区跨境数据流动合规指引》，建立数据出境“白名单”机制",
+    "summary": "广东省互联网信息办公室于7月14日正式发布《粤港澳大湾区跨境数据流动合规指引》，明确在“数据安全有序流动”原则下，对医疗、金融、物流等7个行业试点数据出境“白名单”机制。列入白名单的企业，经备案后可免于单独开展数据出境安全评估。该指引将于2026年9月1日起施行，建议相关企业尽快对照白名单条件完成内部数据分类分级与合规整改。",
+    "source": "来源：广东省互联网信息办公室 · 2026.07.14",
+    "title_en": "Guangdong Issues Cross-border Data Flow Guidelines for GBA, Introduces 'Whitelist' Mechanism for Data Exports",
+    "summary_en": "On July 14, the Guangdong Provincial Cyberspace Administration released the 'Compliance Guidelines for Cross-border Data Flow in the Greater Bay Area', establishing a pilot whitelist mechanism for data exports in seven industries including healthcare, finance, and logistics. Whitelisted enterprises, after filing, will be exempt from separate security assessments. The guidelines take effect on September 1, 2026. Companies are advised to promptly classify data and complete compliance upgrades to qualify for the whitelist.",
+    "source_en": "Source: Guangdong Provincial Cyberspace Administration · 2026.07.14"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华半导体设备出口管制升级，企业需建立“供应链合规防火墙”",
-    "summary": "秦林蒿律师研判：美国商务部工业安全局(BIS)近期拟扩大对华半导体制造设备出口管制范围，将部分成熟制程设备纳入许可要求。建议中国芯片企业立即开展供应链尽职调查，识别受控物项及最终用户风险；建立内部合规筛查机制，对涉及美国技术或软件的设备采购实施逐单评估；同时考虑通过海外子公司或第三方合作获取非美替代方案。英文：Attorney Qin's view: BIS plans to expand export controls on semiconductor equipment to China, covering some mature-node tools. Chinese chip firms should conduct supply chain due diligence, identify controlled items and end-user risks, establish internal compliance screening for equipment involving US technology, and consider non-US alternatives via overseas subsidiaries or third-party partnerships.",
-    "source": "来源：秦林蒿律师 · 2026.07.14",
-    "title_en": "Attorney Qin's View: US Semiconductor Export Controls Expansion – Build a Supply Chain Compliance Firewall",
-    "summary_en": "Attorney Qin's view: BIS plans to expand export controls on semiconductor equipment to China, covering some mature-node tools. Chinese chip firms should conduct supply chain due diligence, identify controlled items and end-user risks, establish internal compliance screening for equipment involving US technology, and consider non-US alternatives via overseas subsidiaries or third-party partnerships.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.14"
+    "title": "秦林蒿律师研判：美国对华投资审查新规下，中资应避免通过第三国转投美国敏感技术",
+    "summary": "秦林蒿律师研判：美国财政部近期依据第14105号行政令发布了最终规则，扩大对华投资审查范围至半导体、AI、量子计算等领域的“绿地投资”及少数股权收购。实务中，中方通过新加坡、开曼等第三国实体迂回投资亦被纳入审查。建议出海企业：1）在交易结构设计阶段即引入美国律师进行反向CFIUS筛查；2）避免以“被动投资”名义规避审查；3）在合资协议中嵌入合规退出条款。",
+    "source": "来源：秦林蒿律师团队 · 2026.07.15",
+    "title_en": "Attorney Qin's View: Under New US Outbound Investment Rules, Chinese Firms Should Avoid Routing Sensitive Tech Investments via Third Countries",
+    "summary_en": "Attorney Qin's view: The US Treasury's final rule under Executive Order 14105 expands review of Chinese investments in semiconductors, AI, and quantum computing to include greenfield investments and minority acquisitions. Indirect investments via Singapore, Cayman Islands, etc. are also covered. Practical advice: (1) engage US counsel for reverse CFIUS screening at deal structuring stage; (2) avoid using 'passive investment' labels to circumvent review; (3) include compliance exit clauses in joint venture agreements.",
+    "source_en": "Source: Attorney Qin Linhao's Team · 2026.07.15"
   },
-  "dateLabel": "2026年7月14日 · 星期二",
-  "dateLabel_en": "Tuesday, July 14, 2026",
-  "issue": 195
+  "dateLabel": "2026年7月15日 · 星期三",
+  "dateLabel_en": "Wednesday, July 15, 2026",
+  "issue": 196
 }
