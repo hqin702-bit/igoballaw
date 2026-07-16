@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对中国成熟制程芯片加征301关税，半导体出口管制范围扩大至EDA工具",
-    "summary": "据多家外媒报道，美国贸易代表办公室正在准备对来自中国的成熟制程芯片（28nm及以上）启动新一轮301调查，并可能加征最高25%的关税。同时，BIS拟将部分EDA软件纳入对华出口管制清单，要求许可证方可出口。此举将直接影响中国芯片设计企业获取先进设计工具，建议相关企业提前评估供应链替代方案并做好合规备案。",
-    "source": "来源：Reuters & Federal Register · 2026.07.15",
-    "title_en": "US Weighs New Section 301 Tariffs on Chinese Mature-node Chips, EDA Export Restrictions Expanded",
-    "summary_en": "According to multiple foreign media reports, the USTR is preparing a new Section 301 investigation into Chinese mature-node chips (28nm and above), potentially imposing tariffs up to 25%. Meanwhile, BIS plans to add certain EDA software to the export control list, requiring licenses for shipments to China. This will directly impact Chinese chip designers' access to advanced design tools. Companies are advised to assess supply chain alternatives and ensure compliance readiness.",
-    "source_en": "Source: Reuters & Federal Register · 2026.07.15"
+    "title": "欧盟拟对华电动汽车加征临时反补贴关税，中企需评估供应链影响",
+    "summary": "欧盟委员会于7月15日公布对进口自中国的纯电动汽车（BEV）反补贴调查初裁结果，拟加征17.4%至36.3%的临时关税。该措施预计于2026年11月正式实施，涉及比亚迪、上汽等主要出口车企。受影响企业应尽快启动原产地筹划、调整欧洲定价策略，并考虑在欧盟境内设立组装工厂以规避关税。",
+    "source": "来源：欧盟委员会公告 · 2026.07.15",
+    "title_en": "EU Plans Provisional Countervailing Duties on Chinese EVs, Firms Urged to Assess Supply Chain Impact",
+    "summary_en": "On July 15, the European Commission published its preliminary findings in the anti-subsidy investigation into battery electric vehicles (BEVs) imported from China, proposing provisional duties ranging from 17.4% to 36.3%. The measures are expected to take effect in November 2026, affecting major exporters such as BYD and SAIC. Affected companies should promptly conduct origin planning, adjust European pricing strategies, and consider establishing assembly plants within the EU to circumvent the tariffs.",
+    "source_en": "Source: European Commission announcement · 2026.07.15"
   },
   "case": {
-    "title": "新加坡国际仲裁庭裁定：中资企业因不可抗力解除镍矿长协获支持，疫情非唯一依据",
-    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起中资企业与印尼矿商的镍矿长期供货合同纠纷作出裁决。仲裁庭认为，印尼2024年出口禁令及当地政策剧变构成不可抗力，支持中方企业解除合同且无需承担违约金。该案明确了：不可抗力条款可涵盖政府政策突变，且“商业不可行”标准优于“履行不可能”。为中国出海矿业企业合同设计提供了重要参考。",
-    "source": "来源：SIAC Award No. 2026/089 · 2026年6月",
-    "title_en": "SIAC Tribunal Upholds Force Majeure Termination of Nickel Ore Long-term Contract by Chinese Company, Citing Government Policy Change",
-    "summary_en": "In a recent ruling, the Singapore International Arbitration Center (SIAC) upheld a Chinese company's right to terminate a long-term nickel ore supply contract with an Indonesian miner, finding that Indonesia's 2024 export ban and drastic policy shifts constituted force majeure. The tribunal applied a 'commercial impracticability' standard rather than strict impossibility. This case provides key guidance for Chinese overseas mining enterprises in drafting force majeure clauses.",
-    "source_en": "Source: SIAC Award No. 2026/089 · June 2026"
+    "title": "新加坡国际仲裁中心裁定：中国卖方因未提供合格质量证书被判违约赔偿",
+    "summary": "新加坡国际仲裁中心（SIAC）近日就一起中国机械出口企业与东南亚买方之间的合同纠纷作出裁决。因中方未能按合同约定随货提供第三方质量检测证书，仲裁庭认定卖方构成根本违约，裁决中方赔偿买方约120万美元的重新采购及停工损失。此案提示出口企业：单据条款与货物质量同等重要，应严格履行合同项下所有附随义务。",
+    "source": "来源：SIAC 仲裁裁决（案件号不公开） · 2026年7月",
+    "title_en": "SIAC Rules Chinese Seller Liable for Breach Due to Failure to Provide Quality Certificate",
+    "summary_en": "The Singapore International Arbitration Centre (SIAC) recently ruled in a contract dispute between a Chinese machinery exporter and a Southeast Asian buyer. Because the Chinese seller failed to deliver a third-party quality inspection certificate as contractually required, the tribunal found the seller in fundamental breach and awarded the buyer approximately USD 1.2 million in damages for replacement procurement and downtime losses. The case reminds exporters that documentary compliance is as critical as product quality; all ancillary obligations under the contract must be strictly fulfilled.",
+    "source_en": "Source: SIAC arbitral award (case number confidential) · July 2026"
   },
   "policy": {
-    "title": "广东省发布《粤港澳大湾区跨境数据流动合规指引》，建立数据出境“白名单”机制",
-    "summary": "广东省互联网信息办公室于7月14日正式发布《粤港澳大湾区跨境数据流动合规指引》，明确在“数据安全有序流动”原则下，对医疗、金融、物流等7个行业试点数据出境“白名单”机制。列入白名单的企业，经备案后可免于单独开展数据出境安全评估。该指引将于2026年9月1日起施行，建议相关企业尽快对照白名单条件完成内部数据分类分级与合规整改。",
+    "title": "粤港澳大湾区跨境数据流动“白名单”机制扩展至医疗与金融领域",
+    "summary": "广东省互联网信息办公室7月14日发布通知，将大湾区个人信息跨境流动“白名单”试点范围从原有的跨境电商、供应链管理扩展至医疗健康与金融服务领域。符合条件的企业在向港澳传输必要个人信息时，可免于单独开展数据出境安全评估。企业需注意：仍需进行个人信息保护影响评估（PIA），并向网信办备案。",
     "source": "来源：广东省互联网信息办公室 · 2026.07.14",
-    "title_en": "Guangdong Issues Cross-border Data Flow Guidelines for GBA, Introduces 'Whitelist' Mechanism for Data Exports",
-    "summary_en": "On July 14, the Guangdong Provincial Cyberspace Administration released the 'Compliance Guidelines for Cross-border Data Flow in the Greater Bay Area', establishing a pilot whitelist mechanism for data exports in seven industries including healthcare, finance, and logistics. Whitelisted enterprises, after filing, will be exempt from separate security assessments. The guidelines take effect on September 1, 2026. Companies are advised to promptly classify data and complete compliance upgrades to qualify for the whitelist.",
-    "source_en": "Source: Guangdong Provincial Cyberspace Administration · 2026.07.14"
+    "title_en": "Greater Bay Area Cross-Border Data Flow 'White List' Expanded to Healthcare and Finance",
+    "summary_en": "On July 14, the Cyberspace Administration of Guangdong Province announced the expansion of the 'white list' pilot for cross-border personal information flows in the Greater Bay Area from the original e-commerce and supply chain management sectors to healthcare and financial services. Eligible enterprises transferring necessary personal data to Hong Kong and Macau may be exempt from separate data export security assessments. Companies should note that a Personal Information Protection Impact Assessment (PIA) is still required and must be filed with the Cyberspace Administration.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.07.14"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华投资审查新规下，中资应避免通过第三国转投美国敏感技术",
-    "summary": "秦林蒿律师研判：美国财政部近期依据第14105号行政令发布了最终规则，扩大对华投资审查范围至半导体、AI、量子计算等领域的“绿地投资”及少数股权收购。实务中，中方通过新加坡、开曼等第三国实体迂回投资亦被纳入审查。建议出海企业：1）在交易结构设计阶段即引入美国律师进行反向CFIUS筛查；2）避免以“被动投资”名义规避审查；3）在合资协议中嵌入合规退出条款。",
-    "source": "来源：秦林蒿律师团队 · 2026.07.15",
-    "title_en": "Attorney Qin's View: Under New US Outbound Investment Rules, Chinese Firms Should Avoid Routing Sensitive Tech Investments via Third Countries",
-    "summary_en": "Attorney Qin's view: The US Treasury's final rule under Executive Order 14105 expands review of Chinese investments in semiconductors, AI, and quantum computing to include greenfield investments and minority acquisitions. Indirect investments via Singapore, Cayman Islands, etc. are also covered. Practical advice: (1) engage US counsel for reverse CFIUS screening at deal structuring stage; (2) avoid using 'passive investment' labels to circumvent review; (3) include compliance exit clauses in joint venture agreements.",
-    "source_en": "Source: Attorney Qin Linhao's Team · 2026.07.15"
+    "title": "秦林蒿律师研判：美国对华半导体出口管制持续加码，企业应建立“合规防火墙”",
+    "summary": "秦林蒿律师研判：美国商务部工业安全局（BIS）近期更新实体清单及外国直接产品规则，将更多中国芯片设计公司列入管制。建议出海半导体企业：1）立即审查供应链中涉及美国原产技术或软件的比例；2）对最终用户和最终用途进行穿透式尽职调查；3）在海外子公司与母公司之间设置信息隔离墙，避免触发“视同出口”管制。Attorney Qin's view: The U.S. BIS has recently expanded the Entity List and tightened the Foreign Direct Product Rule, adding more Chinese chip design firms to the restrictions. I recommend that semiconductor companies going global: 1) immediately audit the proportion of U.S.-origin technology or software in their supply chains; 2) conduct look-through due diligence on end users and end uses; and 3) establish information barriers between overseas subsidiaries and the parent company to avoid triggering 'deemed export' controls.",
+    "source": "来源：美国BIS联邦公报 · 2026.07.16",
+    "title_en": "Attorney Qin's View: U.S. Semiconductor Export Controls Tighten; Firms Should Build 'Compliance Firewalls'",
+    "summary_en": "Attorney Qin's view: The U.S. BIS has recently expanded the Entity List and tightened the Foreign Direct Product Rule, adding more Chinese chip design firms to the restrictions. I recommend that semiconductor companies going global: 1) immediately audit the proportion of U.S.-origin technology or software in their supply chains; 2) conduct look-through due diligence on end users and end uses; and 3) establish information barriers between overseas subsidiaries and the parent company to avoid triggering 'deemed export' controls.",
+    "source_en": "Source: U.S. BIS Federal Register · 2026.07.16"
   },
-  "dateLabel": "2026年7月15日 · 星期三",
-  "dateLabel_en": "Wednesday, July 15, 2026",
-  "issue": 196
+  "dateLabel": "2026年7月16日 · 星期四",
+  "dateLabel_en": "Thursday, July 16, 2026",
+  "issue": 197
 }
