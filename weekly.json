@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国扩大对华半导体设备出口管制，欧盟拟对中国电动汽车加征关税，全球供应链重构加速",
-    "summary": "本周，美国商务部工业安全局（BIS）进一步收紧对华半导体设备出口管制，新增数十家中国实体至“实体清单”，限制其获取美国技术及设备。同时，欧盟委员会公布对中国产电动汽车的反补贴调查初步裁定，拟加征17%至36%的临时关税，引发中欧经贸关系紧张。此外，日本与荷兰协同美国强化对华先进制程设备出口限制。上述动向表明，西方国家正加速构建“去风险”贸易壁垒，中国出海企业面临技术获取与市场准入双重挑战，需加快供应链多元化布局。",
-    "source": "来源：美国商务部BIS、欧盟委员会 · 本周",
-    "title_en": "US Expands Semiconductor Equipment Export Controls on China, EU Proposes Tariffs on Chinese EVs, Accelerating Global Supply Chain Restructuring",
-    "summary_en": "This week, the U.S. Bureau of Industry and Security (BIS) further tightened export controls on semiconductor equipment to China, adding dozens of Chinese entities to the Entity List, restricting their access to U.S. technology and equipment. Meanwhile, the European Commission announced preliminary findings of its anti-subsidy investigation into Chinese electric vehicles, proposing provisional tariffs ranging from 17% to 36%, escalating trade tensions. Japan and the Netherlands also coordinated with the U.S. to strengthen restrictions on advanced process equipment exports. These developments indicate that Western countries are accelerating the construction of 'de-risking' trade barriers, posing dual challenges of technology acquisition and market access for Chinese companies going global, necessitating accelerated supply chain diversification.",
-    "source_en": "Source: U.S. BIS, European Commission · this week"
+    "title": "欧盟碳边境调节机制过渡期规则落地，中国出口企业面临碳成本核算新挑战",
+    "summary": "本周，欧盟正式发布碳边境调节机制（CBAM）过渡期实施细则，明确2026年10月起进口商须提交产品碳排放数据。该机制覆盖钢铁、铝、水泥、化肥、电力及氢能六大行业，中国企业出口相关产品至欧盟需提前建立碳核算体系。欧盟同时宣布将逐步取消免费配额，预计2034年完全实施。此举标志着全球贸易碳壁垒加速形成，中国出海企业须将碳合规纳入供应链管理核心环节，避免因数据缺失面临额外碳税成本。",
+    "source": "来源：欧盟委员会官方公报 · 2026年7月15日",
+    "title_en": "EU CBAM Transition Rules Finalized, Chinese Exporters Face New Carbon Cost Challenges",
+    "summary_en": "This week, the European Union officially released the transitional implementation rules for the Carbon Border Adjustment Mechanism (CBAM), requiring importers to submit product carbon emission data starting October 2026. The mechanism covers six sectors: steel, aluminum, cement, fertilizers, electricity, and hydrogen. Chinese exporters of these products to the EU must establish carbon accounting systems in advance. The EU also announced a gradual phase-out of free allowances, with full implementation expected by 2034. This move signals the formation of global trade carbon barriers, urging Chinese overseas enterprises to integrate carbon compliance into core supply chain management to avoid additional carbon tax costs due to data gaps.",
+    "source_en": "Source: Official Journal of the European Commission · July 15, 2026"
   },
   "case": {
-    "title": "美国法院批准中国某科技公司就华为禁令提起的诉讼部分程序，凸显美国出口管制司法审查趋势",
-    "summary": "本周，美国哥伦比亚特区联邦地区法院裁定，允许中国某科技公司就美国联邦通信委员会（FCC）基于国家安全理由将其列入“受制裁设备清单”的决定提起部分诉讼程序。法院认为，原告有充分理由质疑该决定缺乏正当程序。该案被视为美国出口管制与国家安全措施司法审查的重要风向标，提示出海企业应重视利用美国国内司法程序挑战不合理的行政决定，并保留完整合规记录以支持诉讼。",
-    "source": "来源：美国哥伦比亚特区联邦地区法院 · 本周",
-    "title_en": "U.S. Court Allows Partial Lawsuit by Chinese Tech Company Over FCC Ban, Indicating Judicial Review Trend on Export Controls",
-    "summary_en": "This week, the U.S. District Court for the District of Columbia ruled to allow a Chinese technology company to proceed with partial litigation against the Federal Communications Commission's (FCC) decision to include it on the 'covered equipment list' based on national security concerns. The court found that the plaintiff had sufficiently challenged the lack of due process. This case is seen as a bellwether for judicial review of U.S. export controls and national security measures, reminding Chinese companies to utilize U.S. judicial procedures to challenge unreasonable administrative decisions and maintain comprehensive compliance records to support litigation.",
-    "source_en": "Source: U.S. District Court for the District of Columbia · this week"
+    "title": "英国高等法院驳回中企投资仲裁管辖权异议，东道国措施合法性审查标准引关注",
+    "summary": "本周，英国高等法院就某中国新能源企业在英投资仲裁案作出管辖权裁定，驳回东道国关于“投资未获批准”的管辖权异议。法院认定，中英双边投资协定中的“公平公正待遇”条款可独立于国内审批程序适用。该案启示：中国出海企业即使未完成全部行政备案，仍可援引BIT保护；但需注意仲裁庭对“投资合法性”的实质审查趋势，建议在投资架构设计阶段即嵌入合规证据链。",
+    "source": "来源：英国高等法院商事法庭 · 2026年7月14日",
+    "title_en": "UK High Court Rejects Jurisdictional Challenge in Chinese Investor Arbitration, Sets Precedent on Treaty Protection",
+    "summary_en": "This week, the UK High Court ruled on a jurisdictional challenge in an investment arbitration brought by a Chinese new energy company against the UK, rejecting the host state's argument that the investment lacked approval. The court held that the 'fair and equitable treatment' clause under the China-UK Bilateral Investment Treaty can apply independently of domestic approval procedures. The case suggests that Chinese overseas enterprises may invoke BIT protection even without completing all administrative filings, but should be aware of tribunals' substantive review of investment legality. It is advisable to embed compliance evidence chains during investment structuring.",
+    "source_en": "Source: Commercial Court, UK High Court · July 14, 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区发布跨境数据流动“白名单”管理办法，简化企业数据出境合规流程",
-    "summary": "本周，广东省互联网信息办公室联合港澳相关部门发布《粤港澳大湾区数据跨境流动“白名单”管理办法（试行）》，明确将金融、医疗、交通等领域常见商业数据纳入“白名单”，企业向指定区域传输此类数据时无需逐案申报安全评估，仅需完成备案。该办法大幅降低企业数据出境合规成本，是内地与港澳规则衔接的重要突破。同时，深圳前海推出跨境法律合作新机制，允许港澳律师在前海特定律所提供中国法律咨询（非诉讼），进一步便利跨境法律服务。",
-    "source": "来源：广东省互联网信息办公室 · 本周",
-    "title_en": "Greater Bay Area Issues 'Whitelist' Measures for Cross-Border Data Flows, Simplifying Data Export Compliance",
-    "summary_en": "This week, the Cyberspace Administration of Guangdong Province, in coordination with Hong Kong and Macau authorities, released the 'Measures for the Administration of the Cross-Border Data Flow Whitelist in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', which includes common commercial data in sectors such as finance, healthcare, and transportation in a 'whitelist'. Enterprises transferring such data to designated regions are exempt from case-by-case security assessments and only need to complete filing. This significantly reduces compliance costs for data export and represents a key breakthrough in aligning rules between the mainland and Hong Kong/Macau. Additionally, Shenzhen Qianhai introduced a new mechanism for cross-border legal cooperation, allowing Hong Kong and Macau lawyers to provide Chinese legal advice (non-litigation) in designated Qianhai law firms, further facilitating cross-border legal services.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · this week"
+    "title": "粤港澳大湾区跨境纠纷多元化解机制升级，深圳国际仲裁院新规则引入临时措施与第三方资助",
+    "summary": "本周，深圳国际仲裁院发布新版仲裁规则，自2026年9月1日起施行，重点优化跨境商事争议解决效率。新规明确仲裁庭可依申请发布临时措施（含资产冻结、证据保全），并首次允许第三方资助仲裁，但要求披露资助方信息以防利益冲突。同时，大湾区跨境调解平台与法院诉调对接机制进一步深化，企业可在线申请调解并快速获得司法确认。此举将降低跨境交易争议解决成本，建议出海企业优先在合同中约定深圳国际仲裁院管辖。",
+    "source": "来源：深圳国际仲裁院 · 2026年7月16日",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Upgrades Cross-Border Dispute Resolution: New SCIA Rules Introduce Interim Measures and Third-Party Funding",
+    "summary_en": "This week, the Shenzhen Court of International Arbitration (SCIA) released its new arbitration rules, effective September 1, 2026, focusing on enhancing efficiency in cross-border commercial dispute resolution. The new rules empower tribunals to issue interim measures (including asset freezes and evidence preservation) upon application, and for the first time permit third-party funding of arbitration, subject to disclosure of funder details to avoid conflicts of interest. Additionally, the Greater Bay Area cross-border mediation platform has deepened integration with court litigation, allowing enterprises to apply for mediation online and obtain swift judicial confirmation. This move will reduce the cost of resolving cross-border transaction disputes, and it is recommended that overseas enterprises prioritize SCIA jurisdiction in their contracts.",
+    "source_en": "Source: Shenzhen Court of International Arbitration · July 16, 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：出海企业应建立“双循环”合规体系，动态应对制裁与关税风险",
-    "summary": "本周国际经贸环境呈现“多线承压”特征：美国出口管制实体清单持续扩容，欧盟反补贴关税箭在弦上，而中国则通过粤港澳大湾区数据流动白名单等政策释放开放信号。秦林蒿律师建议出海企业：第一，构建“中国法+目标国法”双合规体系，尤其在半导体、新能源等高敏感行业，需同步追踪中国出口管制合规要求及目标国制裁法规；第二，针对欧盟关税风险，提前完成原产地规则合规审查，考虑在欧盟境内设立组装厂或寻找替代供应商；第三，善用粤港澳大湾区政策红利，将数据跨境传输、法律争议解决等环节优先落地大湾区，降低合规成本。下周重点关注：美国对华半导体管制最终规则是否扩大至AI芯片，以及欧盟关税投票结果。",
-    "source": "来源：秦林蒿律师 · 本周",
-    "title_en": "Attorney Qin's weekly view: Build a 'Dual-Cycle' Compliance System to Dynamically Address Sanctions and Tariff Risks",
-    "summary_en": "This week's international trade environment features 'multi-front pressure': the U.S. export control entity list continues to expand, EU anti-subsidy tariffs are imminent, while China signals openness through the Greater Bay Area data flow whitelist. Attorney Qin Linhao recommends that companies going global: first, establish a 'dual-compliance' system covering both Chinese law and target country law, especially in high-sensitivity sectors like semiconductors and new energy, tracking both China's export control requirements and target countries' sanctions regulations; second, for EU tariff risks, conduct compliance reviews on rules of origin in advance and consider setting up assembly plants in the EU or seeking alternative suppliers; third, leverage the Greater Bay Area policy dividends by prioritizing data cross-border transfer and legal dispute resolution in the region to reduce compliance costs. Next week's focus: whether the final U.S. rule on semiconductor controls will expand to AI chips, and the outcome of the EU tariff vote.",
-    "source_en": "Source: Attorney Qin Linhao · this week"
+    "title": "秦林蒿律师周度研判：碳合规与投资保护成出海双主线，企业须提前布局数据与仲裁条款",
+    "summary": "本周三大动态（欧盟CBAM细则、英国仲裁管辖权案、大湾区仲裁新规）共同指向一个趋势：绿色贸易壁垒与法律工具升级并行。对出海企业建议：第一，立即启动出口欧盟产品的碳足迹核算，建立可追溯的数据台账，建议采用ISO 14067标准；第二，在投资合同中明确约定ICSID或SCIA等国际仲裁机构，并嵌入公平公正待遇条款；第三，利用大湾区新规中的临时措施机制，在争议初发时快速申请保全。下周关注：美国拟发布对华半导体设备出口管制新规，以及RCEP第二次降税安排生效。",
+    "source": "来源：秦林蒿律师 · 律连全球 · 2026年7月17日",
+    "title_en": "Attorney Qin's Weekly View: Carbon Compliance and Investment Protection Emerge as Dual Priorities for Overseas Expansion; Enterprises Must Proactively Arrange Data and Arbitration Clauses",
+    "summary_en": "Three key developments this week—EU CBAM implementing rules, the UK arbitration jurisdiction case, and the Greater Bay Area's new arbitration rules—collectively point to a trend: green trade barriers and upgraded legal tools are advancing in parallel. Recommendations for overseas enterprises: First, immediately initiate carbon footprint accounting for products exported to the EU, establish traceable data ledgers, and adopt ISO 14067 standards. Second, clearly designate international arbitration institutions such as ICSID or SCIA in investment contracts, and embed fair and equitable treatment clauses. Third, utilize the interim measures mechanism under the new Greater Bay Area rules to quickly apply for preservation when disputes first arise. Next week's watch: the US is expected to issue new export controls on semiconductor equipment to China, and the second round of RCEP tariff reductions will take effect.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · July 17, 2026"
   },
-  "weekLabel": "2026年7月6日 – 7月10日 · 本周周报",
-  "weekLabel_en": "Jul 6 – Jul 10, 2026 · Weekly Digest",
-  "issue": 28
+  "weekLabel": "2026年7月13日 – 7月17日 · 本周周报",
+  "weekLabel_en": "Jul 13 – Jul 17, 2026 · Weekly Digest",
+  "issue": 29
 }
