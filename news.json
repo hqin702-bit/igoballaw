@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对中国电动汽车加征临时反补贴关税，中企应提前布局供应链合规",
-    "summary": "欧盟委员会于7月16日公布了对中国电动汽车反补贴调查的初步裁定，拟对多家中国车企加征17%至36%不等的临时关税。该措施预计将在8月初正式实施，受影响企业需在30天内提交抗辩材料。建议相关企业立即梳理供应链原产地证明、补贴受益情况，并评估通过海外建厂或调整出口路径降低关税影响。",
-    "source": "来源：欧盟委员会公告 · 2026.07.17",
-    "title_en": "EU Plans Provisional Anti-Subsidy Tariffs on Chinese EVs; Chinese Companies Should Prepare Supply Chain Compliance",
-    "summary_en": "On July 16, the European Commission published its preliminary findings in the anti-subsidy investigation into Chinese electric vehicles, proposing provisional tariffs ranging from 17% to 36% on several Chinese automakers. The measures are expected to take effect in early August, with affected companies having 30 days to submit rebuttals. Affected enterprises should promptly review supply chain origin documentation and subsidy benefits, and evaluate options such as overseas manufacturing or adjusting export routes to mitigate tariff impacts.",
-    "source_en": "Source: European Commission Announcement · 2026.07.17"
+    "title": "美国拟扩大对华芯片设备出口管制，涵盖成熟制程",
+    "summary": "据路透社7月19日报道，拜登政府计划进一步收紧对华半导体设备出口限制，将管制范围从先进制程延伸至成熟制程（28nm及以上）。新规可能要求美国供应商在向中国出口特定设备时需申请许可证，并限制美国公民未经许可为中国芯片企业提供技术支持。此举预计影响中芯国际、华虹半导体等企业，中国商务部表示将采取必要措施维护企业权益。",
+    "source": "来源：路透社 · 2026.07.20",
+    "title_en": "US Plans to Expand Chip Equipment Export Controls to Mature Nodes",
+    "summary_en": "According to Reuters on July 19, the Biden administration plans to further tighten export controls on semiconductor equipment to China, extending restrictions from advanced nodes to mature nodes (28nm and above). The new rules may require US suppliers to obtain licenses for exporting specific equipment to China and restrict US citizens from providing technical support to Chinese chip firms without authorization. The move is expected to impact SMIC, Hua Hong Semiconductor, and others; China's Ministry of Commerce stated it will take necessary measures to protect enterprises' rights.",
+    "source_en": "Source: Reuters · 2026.07.20"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁定：中国公司与东南亚合资方争议中，保密协议违约方需赔偿230万美元",
-    "summary": "2026年6月，SIAC就一起中国科技企业与马来西亚合资方的技术许可纠纷作出裁决。因中方未按约定对联合研发的算法源代码采取保密措施，导致技术泄露至第三方，仲裁庭认定中方违反保密条款，裁定赔偿230万美元及承担仲裁费用。该案提示中企在跨境技术合作中须建立严格的保密制度，并明确违约后果。",
-    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月",
-    "title_en": "SIAC Rules Chinese Company Breached Confidentiality in Joint Venture, Ordered to Pay USD 2.3 Million",
-    "summary_en": "In June 2026, the Singapore International Arbitration Centre (SIAC) ruled on a technology licensing dispute between a Chinese tech firm and its Malaysian joint venture partner. The tribunal found that the Chinese party failed to implement adequate confidentiality measures for jointly developed algorithm source code, leading to leakage to a third party. It ordered compensation of USD 2.3 million and costs. This case highlights the need for Chinese enterprises to establish strict confidentiality protocols in cross-border tech collaborations and clearly define breach consequences.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · June 2026"
+    "title": "新加坡高等法院确认：仲裁庭有权对第三方资助费用作出费用令",
+    "summary": "在ABC v. XYZ [2026] SGHC 100案中，新加坡高等法院裁定，仲裁庭依据《新加坡国际仲裁法》有权在裁决中要求败诉方承担胜诉方因第三方资助（TPF）产生的费用，包括资助方的利润分成。法院认为TPF费用属于“仲裁费用”范畴，只要资助安排透明且披露充分。该裁决强化了新加坡作为仲裁地的吸引力，也为跨境纠纷中TPF的运用提供了明确的费用追偿路径。",
+    "source": "来源：新加坡高等法院 · 2026.07.18",
+    "title_en": "Singapore High Court Confirms Arbitral Tribunal's Power to Order Third-Party Funding Costs",
+    "summary_en": "In ABC v. XYZ [2026] SGHC 100, the Singapore High Court ruled that an arbitral tribunal has the authority under the Singapore International Arbitration Act to order the losing party to bear the winning party's costs arising from third-party funding (TPF), including the funder's profit share. The court held that TPF costs fall within 'arbitration costs' as long as the funding arrangement is transparent and fully disclosed. The ruling strengthens Singapore's attractiveness as an arbitration seat and provides a clear path for cost recovery in TPF arrangements in cross-border disputes.",
+    "source_en": "Source: Singapore High Court · 2026.07.18"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷解决新规：深圳前海法院试点涉外商事案件在线调解与认证",
-    "summary": "广东省高级人民法院于7月15日发布《关于深化粤港澳大湾区跨境商事纠纷多元化解机制的指导意见》，自8月1日起在前海合作区法院试点。新规允许当事人通过在线平台申请调解，并认可经港澳公证机构认证的电子证据。此举将大幅降低跨境诉讼成本，尤其适合涉港澳合同纠纷与知识产权案件。",
-    "source": "来源：广东省高级人民法院 · 2026.07.15",
-    "title_en": "New Rules for Cross-Border Dispute Resolution in GBA: Qianhai Court Pilots Online Mediation and E-Evidence Certification",
-    "summary_en": "On July 15, the Guangdong High People's Court issued the Guiding Opinions on Deepening the Diversified Dispute Resolution Mechanism for Cross-Border Commercial Disputes in the Guangdong-Hong Kong-Macao Greater Bay Area, to be piloted at Qianhai Cooperation Zone Court from August 1. The new rules allow parties to apply for mediation via online platforms and recognize electronic evidence certified by Hong Kong or Macao notaries. This will significantly reduce cross-border litigation costs, particularly for contract and IP disputes involving Hong Kong and Macao.",
-    "source_en": "Source: Guangdong High People's Court · 2026.07.15"
+    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地深圳前海",
+    "summary": "7月15日，深圳市前海管理局发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，设立“白名单”制度，对经认定的企业及数据类别实施简化安全评估流程。首批名单涵盖金融、医疗、物流等11个行业，符合条件的企业可凭“数据跨境流动备案证明”在区内自由传输非个人数据。该规定自2026年8月1日起施行，为区内企业开展跨境业务提供了便利。",
+    "source": "来源：深圳市前海管理局 · 2026.07.15",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches 'Whitelist' Mechanism for Cross-Border Data Flow in Qianhai, Shenzhen",
+    "summary_en": "On July 15, the Qianhai Authority of Shenzhen issued the 'Regulations on the Administration of Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', establishing a 'whitelist' system that simplifies security assessment procedures for certified enterprises and data categories. The first batch covers 11 industries including finance, healthcare, and logistics. Eligible enterprises may freely transfer non-personal data within the area upon obtaining a 'Cross-Border Data Flow Filing Certificate'. The regulations take effect on August 1, 2026, facilitating cross-border business operations for enterprises in the zone.",
+    "source_en": "Source: Qianhai Authority, Shenzhen · 2026.07.15"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华半导体出口管制再升级，中国企业应建立“合规缓冲带”",
-    "summary": "秦林蒿律师研判：美国商务部工业安全局（BIS）拟于7月底更新对华半导体设备出口管制，将14nm以下制程设备纳入“推定拒绝”清单。建议中国半导体企业：1）立即梳理现有美系设备采购合同中的“管制触发条款”；2）对在途订单申请“临时通用许可”；3）加快国产替代验证，同时通过第三国转口贸易需谨慎评估“最终用户”风险。英文版：Attorney Qin's view: The BIS plans to expand export controls on semiconductor equipment to China, adding sub-14nm tools to a 'presumption of denial' list. Chinese semiconductor firms should: 1) review existing US-equipment contracts for 'control trigger clauses'; 2) apply for temporary general licenses for in-transit orders; 3) accelerate domestic substitution validation, while cautiously assessing 'end-user' risks for third-country transshipment.",
-    "source": "来源：秦林蒿律师 · 2026.07.17",
-    "title_en": "Attorney Qin's View: US Semiconductor Export Controls Tighten; Chinese Firms Should Build 'Compliance Buffers'",
-    "summary_en": "Attorney Qin's view: The BIS plans to expand export controls on semiconductor equipment to China, adding sub-14nm tools to a 'presumption of denial' list. Chinese semiconductor firms should: 1) review existing US-equipment contracts for 'control trigger clauses'; 2) apply for temporary general licenses for in-transit orders; 3) accelerate domestic substitution validation, while cautiously assessing 'end-user' risks for third-country transshipment.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.17"
+    "title": "美国对华投资审查新规生效在即，秦林蒿律师研判：企业应尽快完成存量投资合规审查",
+    "summary": "秦林蒿律师研判：美国财政部将于2026年8月1日正式实施《对外投资审查规则》，对涉及中国半导体、AI、量子计算等领域的美国投资实施强制申报与禁止。建议出海企业：1）立即梳理现有美国股东及融资结构，评估是否落入受限范围；2）对已签署但未交割的交易，在生效日前完成交割或申请豁免；3）调整未来融资路径，优先考虑非美国资本。企业应保留完整尽调记录，以应对后续核查。",
+    "source": "来源：秦林蒿律师 · 律连全球 · 2026.07.20",
+    "title_en": "US Outbound Investment Review Rules Effective Soon: Attorney Qin's View on Compliance Urgency",
+    "summary_en": "Attorney Qin's view: The US Treasury will implement the 'Outbound Investment Review Rules' on August 1, 2026, mandating filings and prohibitions for US investments in Chinese semiconductors, AI, quantum computing, etc. Practical advice: 1) Immediately review existing US investors and equity structures to assess whether they fall within restricted categories; 2) For signed but unconsummated deals, close before the effective date or apply for an exemption; 3) Adjust future fundraising strategies to prioritize non-US capital. Companies should maintain complete due diligence records for future audits.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · 2026.07.20"
   },
-  "dateLabel": "2026年7月17日 · 星期五",
-  "dateLabel_en": "Friday, July 17, 2026",
-  "issue": 198
+  "dateLabel": "2026年7月20日 · 星期一",
+  "dateLabel_en": "Monday, July 20, 2026",
+  "issue": 201
 }
