@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟扩大对华芯片设备出口管制，涵盖成熟制程",
-    "summary": "据路透社7月19日报道，拜登政府计划进一步收紧对华半导体设备出口限制，将管制范围从先进制程延伸至成熟制程（28nm及以上）。新规可能要求美国供应商在向中国出口特定设备时需申请许可证，并限制美国公民未经许可为中国芯片企业提供技术支持。此举预计影响中芯国际、华虹半导体等企业，中国商务部表示将采取必要措施维护企业权益。",
-    "source": "来源：路透社 · 2026.07.20",
-    "title_en": "US Plans to Expand Chip Equipment Export Controls to Mature Nodes",
-    "summary_en": "According to Reuters on July 19, the Biden administration plans to further tighten export controls on semiconductor equipment to China, extending restrictions from advanced nodes to mature nodes (28nm and above). The new rules may require US suppliers to obtain licenses for exporting specific equipment to China and restrict US citizens from providing technical support to Chinese chip firms without authorization. The move is expected to impact SMIC, Hua Hong Semiconductor, and others; China's Ministry of Commerce stated it will take necessary measures to protect enterprises' rights.",
-    "source_en": "Source: Reuters · 2026.07.20"
+    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业需警惕溯源风险",
+    "summary": "美国商务部初步裁定，对来自越南、泰国、马来西亚和柬埔寨的光伏电池及组件加征反倾销税，税率最高达271%。这是继2022年反规避调查后的进一步行动，重点打击中国企业通过东南亚转口规避关税的行为。涉案企业需在30天内提交成本及供应链证明文件，否则将适用惩罚性税率。建议相关企业立即审查原产地合规性，评估供应链调整方案。",
+    "source": "来源：美国联邦公报 · 2026.07.21",
+    "title_en": "US Proposes Anti-Dumping Duties on Southeast Asian Solar Products; Chinese Re-Exporters Face Traceability Risks",
+    "summary_en": "The U.S. Department of Commerce preliminarily determined to impose anti-dumping duties of up to 271% on solar cells and modules from Vietnam, Thailand, Malaysia, and Cambodia. This follows the 2022 circumvention investigation, targeting Chinese companies circumventing tariffs via Southeast Asia. Affected firms must submit cost and supply chain documentation within 30 days or face penalty rates. Companies should immediately review origin compliance and evaluate supply chain adjustments.",
+    "source_en": "Source: U.S. Federal Register · 2026.07.21"
   },
   "case": {
-    "title": "新加坡高等法院确认：仲裁庭有权对第三方资助费用作出费用令",
-    "summary": "在ABC v. XYZ [2026] SGHC 100案中，新加坡高等法院裁定，仲裁庭依据《新加坡国际仲裁法》有权在裁决中要求败诉方承担胜诉方因第三方资助（TPF）产生的费用，包括资助方的利润分成。法院认为TPF费用属于“仲裁费用”范畴，只要资助安排透明且披露充分。该裁决强化了新加坡作为仲裁地的吸引力，也为跨境纠纷中TPF的运用提供了明确的费用追偿路径。",
-    "source": "来源：新加坡高等法院 · 2026.07.18",
-    "title_en": "Singapore High Court Confirms Arbitral Tribunal's Power to Order Third-Party Funding Costs",
-    "summary_en": "In ABC v. XYZ [2026] SGHC 100, the Singapore High Court ruled that an arbitral tribunal has the authority under the Singapore International Arbitration Act to order the losing party to bear the winning party's costs arising from third-party funding (TPF), including the funder's profit share. The court held that TPF costs fall within 'arbitration costs' as long as the funding arrangement is transparent and fully disclosed. The ruling strengthens Singapore's attractiveness as an arbitration seat and provides a clear path for cost recovery in TPF arrangements in cross-border disputes.",
-    "source_en": "Source: Singapore High Court · 2026.07.18"
+    "title": "新加坡国际仲裁中心裁决：跨境特许经营协议中“最惠国条款”的适用边界",
+    "summary": "SIAC在一起中马企业特许经营纠纷案中裁定，特许人给予第三方更优惠的续约条件时，被特许人可援引“最惠国条款”要求同等对待，但该条款不自动适用于新设加盟店。仲裁庭强调，条款的适用范围须明确约定，否则仅限相同业务模式。该裁决提示中国企业起草或谈判跨境合同时，需细化最惠国条款的触发条件与覆盖范围。",
+    "source": "来源：新加坡国际仲裁中心 · 2026年7月",
+    "title_en": "SIAC Ruling: Scope of Most-Favored-Nation Clause in Cross-Border Franchise Agreements",
+    "summary_en": "In a franchise dispute between Chinese and Malaysian enterprises, the Singapore International Arbitration Center (SIAC) ruled that a franchisee may invoke the most-favored-nation (MFN) clause to demand equivalent terms when the franchisor offers more favorable renewal conditions to a third party. However, the clause does not automatically apply to new franchise outlets. The tribunal emphasized that the scope of the clause must be explicitly defined, otherwise limited to the same business model. This ruling advises Chinese companies to specify trigger conditions and coverage when drafting or negotiating cross-border contracts.",
+    "source_en": "Source: Singapore International Arbitration Center · July 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地深圳前海",
-    "summary": "7月15日，深圳市前海管理局发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，设立“白名单”制度，对经认定的企业及数据类别实施简化安全评估流程。首批名单涵盖金融、医疗、物流等11个行业，符合条件的企业可凭“数据跨境流动备案证明”在区内自由传输非个人数据。该规定自2026年8月1日起施行，为区内企业开展跨境业务提供了便利。",
-    "source": "来源：深圳市前海管理局 · 2026.07.15",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches 'Whitelist' Mechanism for Cross-Border Data Flow in Qianhai, Shenzhen",
-    "summary_en": "On July 15, the Qianhai Authority of Shenzhen issued the 'Regulations on the Administration of Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', establishing a 'whitelist' system that simplifies security assessment procedures for certified enterprises and data categories. The first batch covers 11 industries including finance, healthcare, and logistics. Eligible enterprises may freely transfer non-personal data within the area upon obtaining a 'Cross-Border Data Flow Filing Certificate'. The regulations take effect on August 1, 2026, facilitating cross-border business operations for enterprises in the zone.",
-    "source_en": "Source: Qianhai Authority, Shenzhen · 2026.07.15"
+    "title": "粤港澳大湾区跨境纠纷在线调解平台正式启用，首日受理12宗涉港商事案",
+    "summary": "由广东省司法厅、香港律政司及澳门法务局联合搭建的“粤港澳大湾区跨境纠纷在线调解平台”于7月20日上线。平台整合三地调解员名册，支持中英文及粤语调解，首日即受理12宗涉港商事纠纷，涵盖货物买卖、股权转让等领域。该平台旨在降低跨境争议解决成本，调解协议可申请三地法院司法确认。企业可在线提交申请，平均响应时间缩短至48小时。",
+    "source": "来源：广东省司法厅 · 2026.07.21",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Cross-Border Online Mediation Platform Launches, Handles 12 Hong Kong-Related Commercial Cases on First Day",
+    "summary_en": "The 'Guangdong-Hong Kong-Macao Greater Bay Area Cross-Border Online Mediation Platform', jointly established by the Guangdong Provincial Department of Justice, the Hong Kong Department of Justice, and the Macao Legal Affairs Bureau, went online on July 20. The platform integrates mediator rosters from the three regions, supports mediation in Chinese, English, and Cantonese, and received 12 Hong Kong-related commercial disputes on its first day, covering goods sales, equity transfers, etc. It aims to reduce cross-border dispute resolution costs, and mediation agreements can be judicially confirmed by courts in all three regions. Enterprises can submit applications online, with average response time shortened to 48 hours.",
+    "source_en": "Source: Guangdong Provincial Department of Justice · 2026.07.21"
   },
   "analysis": {
-    "title": "美国对华投资审查新规生效在即，秦林蒿律师研判：企业应尽快完成存量投资合规审查",
-    "summary": "秦林蒿律师研判：美国财政部将于2026年8月1日正式实施《对外投资审查规则》，对涉及中国半导体、AI、量子计算等领域的美国投资实施强制申报与禁止。建议出海企业：1）立即梳理现有美国股东及融资结构，评估是否落入受限范围；2）对已签署但未交割的交易，在生效日前完成交割或申请豁免；3）调整未来融资路径，优先考虑非美国资本。企业应保留完整尽调记录，以应对后续核查。",
-    "source": "来源：秦林蒿律师 · 律连全球 · 2026.07.20",
-    "title_en": "US Outbound Investment Review Rules Effective Soon: Attorney Qin's View on Compliance Urgency",
-    "summary_en": "Attorney Qin's view: The US Treasury will implement the 'Outbound Investment Review Rules' on August 1, 2026, mandating filings and prohibitions for US investments in Chinese semiconductors, AI, quantum computing, etc. Practical advice: 1) Immediately review existing US investors and equity structures to assess whether they fall within restricted categories; 2) For signed but unconsummated deals, close before the effective date or apply for an exemption; 3) Adjust future fundraising strategies to prioritize non-US capital. Companies should maintain complete due diligence records for future audits.",
-    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · 2026.07.20"
+    "title": "美国《生物安全法案》推进对中国药企的合规挑战及应对",
+    "summary": "秦林蒿律师研判：美国《生物安全法案》若通过，将限制联邦机构与受关注外国生物技术公司合作。中国CXO企业需立即建立供应链溯源体系，隔离美国客户数据，并考虑在第三国设立合规隔离实体。同时建议将合同中的“合规保证条款”升级，明确因法律变更导致的终止责任。短期内可申请豁免，但长期需调整全球布局。",
+    "source": "来源：秦林蒿律师 · 2026.07.21",
+    "title_en": "Compliance Challenges for Chinese Pharma Under U.S. BIOSECURE Act and Countermeasures",
+    "summary_en": "Attorney Qin's view: If the U.S. BIOSECURE Act is passed, it will restrict federal agencies from contracting with foreign biotechnology companies of concern. Chinese CRO/CDMOs should immediately establish supply chain traceability systems, isolate U.S. client data, and consider setting up compliant offshore entities in third countries. It is also advisable to upgrade 'compliance assurance clauses' in contracts to clarify termination liabilities due to legal changes. Short-term exemptions may be available, but long-term global restructuring is necessary.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.21"
   },
-  "dateLabel": "2026年7月20日 · 星期一",
-  "dateLabel_en": "Monday, July 20, 2026",
-  "issue": 201
+  "dateLabel": "2026年7月21日 · 星期二",
+  "dateLabel_en": "Tuesday, July 21, 2026",
+  "issue": 202
 }
