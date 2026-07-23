@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对中国芯片制造设备出口实施额外许可要求，涉及成熟制程及维修服务",
-    "summary": "据多家媒体报道，美国商务部工业安全局（BIS）预计将于近期发布一项临时最终规则，将对中国半导体制造设备的出口管制扩大至部分成熟制程（28nm及以上）设备，并要求对在华晶圆厂的设备维修服务申请额外许可。该规则可能影响已在华布局的美资、日资及荷兰设备商。建议涉及半导体设备采购、维护的中国企业立即审查供应链合同中的不可抗力与合规条款，并评估替代备件来源。",
-    "source": "来源：Reuters · 2026.07.22",
-    "title_en": "U.S. to Impose Additional Export License Requirements on Chipmaking Equipment to China, Covering Mature Nodes and Repair Services",
-    "summary_en": "Multiple media reports indicate that the U.S. Bureau of Industry and Security (BIS) is expected to soon issue an interim final rule expanding export controls on semiconductor manufacturing equipment to China to include certain mature nodes (28nm and above) and requiring additional licenses for equipment repair services at Chinese fabs. The rule may affect U.S., Japanese, and Dutch equipment suppliers with operations in China. Chinese companies involved in semiconductor equipment procurement and maintenance are advised to immediately review force majeure and compliance clauses in supply contracts and evaluate alternative spare parts sources.",
-    "source_en": "Source: Reuters · 2026.07.22"
+    "title": "美国升级对华半导体设备出口管制，新增14nm以下制程限制",
+    "summary": "美国商务部工业安全局（BIS）于7月22日发布最终规则，进一步扩大对华半导体制造设备的出口管制范围，将14nm及以下制程的刻蚀、沉积、清洗等设备纳入许可证要求。该规则还扩大了外国直接产品规则（FDPR）的适用，限制美国技术含量超过0%的海外设备对华出口。企业需立即审查供应链中涉及美系技术的设备采购合同，评估合规风险。",
+    "source": "来源：美国商务部BIS · 2026.07.23",
+    "title_en": "US Tightens Export Controls on Semiconductor Equipment, Adding 14nm and Below Restrictions",
+    "summary_en": "On July 22, the U.S. Bureau of Industry and Security (BIS) issued a final rule expanding export controls on semiconductor manufacturing equipment to China, requiring licenses for equipment used in 14nm and below processes, including etching, deposition, and cleaning tools. The rule also extends the Foreign Direct Product Rule (FDPR) to cover overseas equipment with more than 0% U.S. technology content. Companies should immediately review supply chain contracts involving U.S.-origin technology to assess compliance risks.",
+    "source_en": "Source: U.S. BIS · 2026.07.23"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：中国企业与东南亚合作方因疫情不可抗力条款争议获支持",
-    "summary": "SIAC（新加坡国际仲裁中心）近期就一起中国企业与东南亚合作方的合同纠纷作出裁决，确认因疫情导致的供应链中断构成合同约定的不可抗力事件，中方企业无需承担延迟交货的违约责任。该案明确了不可抗力条款中“政府措施”与“客观障碍”的举证标准，对出海企业起草合同中的不可抗力条款具有重要参考价值。仲裁庭强调，当事人应及时通知并提供充分证据。",
-    "source": "来源：SIAC 2026年第7期案例简报 · 2026.07.22",
-    "title_en": "SIAC Award: Chinese Company's Force Majeure Defense Upheld in Dispute with Southeast Asian Partner Over COVID-19 Delays",
-    "summary_en": "The Singapore International Arbitration Centre (SIAC) recently ruled in a contract dispute between a Chinese company and its Southeast Asian partner, confirming that supply chain disruptions caused by the pandemic constituted a force majeure event under the contract, relieving the Chinese company from liability for delayed delivery. The case clarifies the evidentiary standards for 'government measures' and 'objective impediments' under force majeure clauses, offering valuable guidance for Chinese enterprises drafting such clauses in cross-border contracts. The tribunal emphasized timely notice and sufficient evidence.",
-    "source_en": "Source: SIAC Case Brief, Issue 7, 2026 · 2026.07.22"
+    "title": "新加坡国际仲裁中心裁决：中国企业与外方合资协议中“僵局条款”的有效性获确认",
+    "summary": "在一起涉及中国科技公司与新加坡合作伙伴的合资纠纷中，SIAC仲裁庭确认了协议中“僵局条款”的效力，认定一方在僵局期间单方出售资产的行为违反合同。仲裁庭裁定违约方赔偿另一方实际损失及预期利益共约1200万美元。该案提示中国企业：合资协议中应明确僵局解决机制（如买/卖期权、强制解散），避免单方行动引发违约。",
+    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年7月",
+    "title_en": "SIAC Upholds 'Deadlock Clause' in Joint Venture Agreement Between Chinese Company and Foreign Partner",
+    "summary_en": "In a dispute involving a Chinese tech company and its Singaporean partner, the SIAC tribunal upheld the validity of a 'deadlock clause' in the joint venture agreement, finding that the unilateral sale of assets by one party during a deadlock period constituted a breach. The tribunal awarded the aggrieved party approximately USD 12 million in actual losses and lost profits. This case reminds Chinese enterprises to clearly define deadlock resolution mechanisms (e.g., buy/sell options, forced dissolution) in JV agreements to avoid breach claims.",
+    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · July 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区商事调解规则互认试点正式启动，跨境纠纷解决效率有望提升",
-    "summary": "广东省司法厅与香港、澳门法律部门联合宣布，自2026年7月15日起在大湾区内地九市及港澳地区试行商事调解规则互认。试点允许经内地认可的调解机构与港澳调解机构相互认可调解协议，并可直接申请法院执行，无需重复公证或转递。此举旨在降低跨境商事纠纷解决成本，尤其利好中小型出海企业。建议企业将调解条款纳入跨境合同，并选择互认名录内的调解机构。",
-    "source": "来源：广东省司法厅公告 · 2026.07.22",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches Pilot for Mutual Recognition of Commercial Mediation Rules, Boosting Cross-Border Dispute Resolution Efficiency",
-    "summary_en": "The Department of Justice of Guangdong Province, together with legal authorities in Hong Kong and Macao, announced that from July 15, 2026, a pilot program for mutual recognition of commercial mediation rules will be implemented in the nine mainland cities of the Greater Bay Area and the two SARs. The pilot allows mediation agreements reached by recognized mediation institutions in the mainland and the SARs to be mutually recognized and directly enforceable by courts without the need for repeated notarization or transmission. This initiative aims to reduce the cost of resolving cross-border commercial disputes, particularly benefiting small and medium-sized enterprises. Companies are advised to include mediation clauses in cross-border contracts and choose mediation institutions from the mutual recognition list.",
-    "source_en": "Source: Announcement of the Department of Justice of Guangdong Province · 2026.07.22"
+    "title": "粤港澳大湾区跨境数据流动“白名单”管理试点扩围，新增医疗与金融领域",
+    "summary": "国家网信办与广东省政府联合发布公告，将大湾区跨境数据流动“白名单”管理试点从原有的电子商务、制造业扩展至医疗健康、金融服务领域。符合条件的机构可免于数据出境安全评估，仅需履行备案义务。此举旨在促进大湾区生物医药研发、跨境支付等业务的数据合规流动，企业应尽快评估自身数据类别并申请纳入白名单。",
+    "source": "来源：国家互联网信息办公室 · 2026.07.23",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Expands Cross-Border Data Flow 'White List' Pilot to Healthcare and Finance",
+    "summary_en": "The Cyberspace Administration of China and the Guangdong provincial government jointly announced the expansion of the cross-border data flow 'white list' pilot in the Greater Bay Area from e-commerce and manufacturing to healthcare and financial services. Eligible entities are exempt from data export security assessments and only need to fulfill filing obligations. This move aims to facilitate compliant data flow for biomedical R&D and cross-border payments. Companies should promptly assess their data categories and apply for white list inclusion.",
+    "source_en": "Source: Cyberspace Administration of China · 2026.07.23"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期合规准备要点",
-    "summary": "秦林蒿律师研判：欧盟CBAM过渡期将于2026年底结束，2027年起正式征收碳关税。建议对欧出口钢铁、铝、水泥、化肥、电力及氢产品的中国企业在过渡期内完成三项准备：1. 建立产品级碳排放数据核算体系，按欧盟方法学报告直接与间接排放；2. 核查供应链上游供应商的碳排放数据，防范数据不一致风险；3. 评估碳价抵扣机制，了解中国碳市场与EU ETS的对接可能性。未及时合规的企业将在正式实施后面临额外成本及市场准入障碍。",
-    "source": "来源：秦林蒿律师团队 · 2026.07.22",
-    "title_en": "Attorney Qin's view: Key Compliance Preparations for EU CBAM Transition Period",
-    "summary_en": "Attorney Qin's view: The EU CBAM transitional period ends in late 2026, with full carbon tariff implementation starting in 2027. Chinese exporters of steel, aluminum, cement, fertilizers, electricity, and hydrogen to the EU are advised to complete three preparations during the transition: (1) establish product-level carbon emission accounting systems, reporting direct and indirect emissions per EU methodology; (2) verify upstream suppliers' carbon data to avoid inconsistencies; and (3) assess carbon price offset mechanisms and the potential linkage between China's carbon market and the EU ETS. Companies failing to comply in time will face additional costs and market access barriers upon full implementation.",
-    "source_en": "Source: Attorney Qin Linhao's Team · 2026.07.22"
+    "title": "中企应对欧盟碳边境调节机制（CBAM）的合规准备与成本测算",
+    "summary": "秦林蒿律师研判：欧盟CBAM过渡期将于2026年底结束，2027年起进口商需购买CBAM证书。中国企业向欧盟出口钢铁、铝、水泥、化肥、电力及氢产品，应尽快完成产品碳足迹核算、建立碳排放数据管理体系，并与欧盟进口商协同填报季度报告。建议提前通过第三方认证机构进行碳核查，避免因数据不实导致高额罚款。预计每吨碳排放成本约60-80欧元，企业需纳入出口定价模型。",
+    "source": "来源：秦林蒿律师 · 2026.07.23",
+    "title_en": "Attorney Qin's View: Compliance Preparation and Cost Estimation for Chinese Enterprises under EU CBAM",
+    "summary_en": "Attorney Qin's view: The EU CBAM transitional period ends in late 2026, and from 2027 importers must purchase CBAM certificates. Chinese exporters of steel, aluminum, cement, fertilizers, electricity, and hydrogen to the EU should promptly calculate product carbon footprints, establish carbon emission data management systems, and collaborate with EU importers to submit quarterly reports. It is advisable to obtain carbon verification from accredited third-party bodies to avoid hefty penalties for inaccurate data. Estimated carbon cost is around €60-80 per ton, which should be factored into export pricing models.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.23"
   },
-  "dateLabel": "2026年7月22日 · 星期三",
-  "dateLabel_en": "Wednesday, July 22, 2026",
-  "issue": 203
+  "dateLabel": "2026年7月23日 · 星期四",
+  "dateLabel_en": "Thursday, July 23, 2026",
+  "issue": 204
 }
