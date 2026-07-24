@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期规则落地，中国出口企业面临碳成本核算新挑战",
-    "summary": "本周，欧盟正式发布碳边境调节机制（CBAM）过渡期实施细则，明确2026年10月起进口商须提交产品碳排放数据。该机制覆盖钢铁、铝、水泥、化肥、电力及氢能六大行业，中国企业出口相关产品至欧盟需提前建立碳核算体系。欧盟同时宣布将逐步取消免费配额，预计2034年完全实施。此举标志着全球贸易碳壁垒加速形成，中国出海企业须将碳合规纳入供应链管理核心环节，避免因数据缺失面临额外碳税成本。",
-    "source": "来源：欧盟委员会官方公报 · 2026年7月15日",
-    "title_en": "EU CBAM Transition Rules Finalized, Chinese Exporters Face New Carbon Cost Challenges",
-    "summary_en": "This week, the European Union officially released the transitional implementation rules for the Carbon Border Adjustment Mechanism (CBAM), requiring importers to submit product carbon emission data starting October 2026. The mechanism covers six sectors: steel, aluminum, cement, fertilizers, electricity, and hydrogen. Chinese exporters of these products to the EU must establish carbon accounting systems in advance. The EU also announced a gradual phase-out of free allowances, with full implementation expected by 2034. This move signals the formation of global trade carbon barriers, urging Chinese overseas enterprises to integrate carbon compliance into core supply chain management to avoid additional carbon tax costs due to data gaps.",
-    "source_en": "Source: Official Journal of the European Commission · July 15, 2026"
+    "title": "美欧对华半导体与AI出口管制趋严，中国企业加速供应链多元化布局",
+    "summary": "本周，美国商务部工业与安全局（BIS）宣布将扩大对华先进计算芯片、半导体制造设备及AI模型的出口管制范围，新增数十家中国实体进入实体清单。欧盟委员会同步发布《欧洲经济安全战略》修订版，拟对涉及半导体、量子计算、AI等关键技术的对华投资与出口实施更严格审查。动向显示，美欧正试图构建协同技术封锁体系，中国出海企业需加速本土化研发与非美欧供应链备选方案，以降低合规风险与断供冲击。",
+    "source": "来源：美国商务部BIS公告、欧盟委员会文件 · 2026年7月",
+    "title_en": "US and EU Tighten Export Controls on Semiconductors and AI to China, Chinese Firms Accelerate Supply Chain Diversification",
+    "summary_en": "This week, the U.S. Bureau of Industry and Security (BIS) expanded export controls on advanced computing chips, semiconductor manufacturing equipment, and AI models to China, adding dozens of Chinese entities to the Entity List. The European Commission concurrently released a revised European Economic Security Strategy, proposing stricter scrutiny of investments and exports to China in semiconductors, quantum computing, and AI. The trend indicates a coordinated US-EU effort to build a technology blockade. Chinese overseas enterprises should accelerate localized R&D and alternative non-US/EU supply chains to mitigate compliance risks and supply disruptions.",
+    "source_en": "Source: U.S. BIS announcement, European Commission documents · July 2026"
   },
   "case": {
-    "title": "英国高等法院驳回中企投资仲裁管辖权异议，东道国措施合法性审查标准引关注",
-    "summary": "本周，英国高等法院就某中国新能源企业在英投资仲裁案作出管辖权裁定，驳回东道国关于“投资未获批准”的管辖权异议。法院认定，中英双边投资协定中的“公平公正待遇”条款可独立于国内审批程序适用。该案启示：中国出海企业即使未完成全部行政备案，仍可援引BIT保护；但需注意仲裁庭对“投资合法性”的实质审查趋势，建议在投资架构设计阶段即嵌入合规证据链。",
-    "source": "来源：英国高等法院商事法庭 · 2026年7月14日",
-    "title_en": "UK High Court Rejects Jurisdictional Challenge in Chinese Investor Arbitration, Sets Precedent on Treaty Protection",
-    "summary_en": "This week, the UK High Court ruled on a jurisdictional challenge in an investment arbitration brought by a Chinese new energy company against the UK, rejecting the host state's argument that the investment lacked approval. The court held that the 'fair and equitable treatment' clause under the China-UK Bilateral Investment Treaty can apply independently of domestic approval procedures. The case suggests that Chinese overseas enterprises may invoke BIT protection even without completing all administrative filings, but should be aware of tribunals' substantive review of investment legality. It is advisable to embed compliance evidence chains during investment structuring.",
-    "source_en": "Source: Commercial Court, UK High Court · July 14, 2026"
+    "title": "新加坡国际仲裁中心裁决确认中企在印尼镍矿投资争议中获赔，强调东道国环保合规不得构成间接征收",
+    "summary": "本周，新加坡国际仲裁中心（SIAC）就一起中国矿业企业诉印度尼西亚政府的投资仲裁案作出部分裁决，认定印尼地方政府以环境违规为由吊销采矿许可证的行为超出合理监管范围，构成间接征收，裁定印尼方赔偿中企约1.2亿美元损失。仲裁庭强调，东道国环保措施若违反国际投资协定中的公平公正待遇及非歧视原则，且未给予充分补偿，仍可能被认定为征收。本案启示：出海企业应确保投资前环保合规审查到位，并在合同中明确约定东道国监管行为触发补偿的条款。",
+    "source": "来源：新加坡国际仲裁中心 · 2026年7月",
+    "title_en": "SIAC Awards Chinese Company $120 Million in Indonesia Mining Dispute, Rules Environmental Compliance Cannot Be Used as Indirect Expropriation",
+    "summary_en": "This week, the Singapore International Arbitration Centre (SIAC) issued a partial award in an investment arbitration case brought by a Chinese mining company against the Indonesian government, ruling that the revocation of mining licenses by local authorities on environmental grounds exceeded reasonable regulatory scope and constituted indirect expropriation. The tribunal ordered Indonesia to pay approximately $120 million in damages. The tribunal emphasized that environmental measures violating fair and equitable treatment and non-discrimination principles under international investment treaties, without adequate compensation, may still be deemed expropriation. Key takeaway: overseas enterprises should ensure pre-investment environmental compliance and include contractual clauses triggering compensation for host state regulatory actions.",
+    "source_en": "Source: Singapore International Arbitration Centre · July 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷多元化解机制升级，深圳国际仲裁院新规则引入临时措施与第三方资助",
-    "summary": "本周，深圳国际仲裁院发布新版仲裁规则，自2026年9月1日起施行，重点优化跨境商事争议解决效率。新规明确仲裁庭可依申请发布临时措施（含资产冻结、证据保全），并首次允许第三方资助仲裁，但要求披露资助方信息以防利益冲突。同时，大湾区跨境调解平台与法院诉调对接机制进一步深化，企业可在线申请调解并快速获得司法确认。此举将降低跨境交易争议解决成本，建议出海企业优先在合同中约定深圳国际仲裁院管辖。",
-    "source": "来源：深圳国际仲裁院 · 2026年7月16日",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Upgrades Cross-Border Dispute Resolution: New SCIA Rules Introduce Interim Measures and Third-Party Funding",
-    "summary_en": "This week, the Shenzhen Court of International Arbitration (SCIA) released its new arbitration rules, effective September 1, 2026, focusing on enhancing efficiency in cross-border commercial dispute resolution. The new rules empower tribunals to issue interim measures (including asset freezes and evidence preservation) upon application, and for the first time permit third-party funding of arbitration, subject to disclosure of funder details to avoid conflicts of interest. Additionally, the Greater Bay Area cross-border mediation platform has deepened integration with court litigation, allowing enterprises to apply for mediation online and obtain swift judicial confirmation. This move will reduce the cost of resolving cross-border transaction disputes, and it is recommended that overseas enterprises prioritize SCIA jurisdiction in their contracts.",
-    "source_en": "Source: Shenzhen Court of International Arbitration · July 16, 2026"
+    "title": "粤港澳大湾区跨境数据流动与数字贸易规则试点落地，简化合规流程",
+    "summary": "本周，广东省政府联合香港、澳门特别行政区发布《粤港澳大湾区跨境数据流动与数字贸易规则试点方案》，明确在金融、医疗、航运等八大领域推行数据分类分级管理，对非敏感数据实行“白名单”便利化出境，并探索建立三地统一的数字贸易争端解决机制。同时，深圳前海、广州南沙、珠海横琴被列为首批试点区域，企业可申请“数据跨境流通企业认证”以简化合规流程。该政策将显著降低大湾区企业数据出境的合规成本，为跨境业务提供制度保障。",
+    "source": "来源：广东省人民政府、香港特区政府、澳门特区政府 · 2026年7月",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Pilots Cross-Border Data Flow and Digital Trade Rules, Streamlining Compliance",
+    "summary_en": "This week, the Guangdong Provincial Government, together with the Hong Kong and Macao SARs, released the Pilot Plan for Cross-Border Data Flow and Digital Trade Rules in the Greater Bay Area, specifying data classification and hierarchical management in eight sectors including finance, healthcare, and shipping. Non-sensitive data will enjoy facilitated outbound transfer via a whitelist mechanism, and a unified digital trade dispute resolution mechanism will be explored. Qianhai (Shenzhen), Nansha (Guangzhou), and Hengqin (Zhuhai) were designated as first-phase pilot zones, where enterprises can apply for 'Cross-Border Data Flow Enterprise Certification' to simplify compliance. This policy will significantly reduce compliance costs for data export and provide institutional support for cross-border businesses.",
+    "source_en": "Source: Guangdong Provincial Government, Hong Kong SAR Government, Macao SAR Government · July 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：碳合规与投资保护成出海双主线，企业须提前布局数据与仲裁条款",
-    "summary": "本周三大动态（欧盟CBAM细则、英国仲裁管辖权案、大湾区仲裁新规）共同指向一个趋势：绿色贸易壁垒与法律工具升级并行。对出海企业建议：第一，立即启动出口欧盟产品的碳足迹核算，建立可追溯的数据台账，建议采用ISO 14067标准；第二，在投资合同中明确约定ICSID或SCIA等国际仲裁机构，并嵌入公平公正待遇条款；第三，利用大湾区新规中的临时措施机制，在争议初发时快速申请保全。下周关注：美国拟发布对华半导体设备出口管制新规，以及RCEP第二次降税安排生效。",
-    "source": "来源：秦林蒿律师 · 律连全球 · 2026年7月17日",
-    "title_en": "Attorney Qin's Weekly View: Carbon Compliance and Investment Protection Emerge as Dual Priorities for Overseas Expansion; Enterprises Must Proactively Arrange Data and Arbitration Clauses",
-    "summary_en": "Three key developments this week—EU CBAM implementing rules, the UK arbitration jurisdiction case, and the Greater Bay Area's new arbitration rules—collectively point to a trend: green trade barriers and upgraded legal tools are advancing in parallel. Recommendations for overseas enterprises: First, immediately initiate carbon footprint accounting for products exported to the EU, establish traceable data ledgers, and adopt ISO 14067 standards. Second, clearly designate international arbitration institutions such as ICSID or SCIA in investment contracts, and embed fair and equitable treatment clauses. Third, utilize the interim measures mechanism under the new Greater Bay Area rules to quickly apply for preservation when disputes first arise. Next week's watch: the US is expected to issue new export controls on semiconductor equipment to China, and the second round of RCEP tariff reductions will take effect.",
-    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · July 17, 2026"
+    "title": "秦林蒿律师周度研判：美欧技术封锁常态化，建议出海企业构建“双轨”合规体系与弹性供应链",
+    "summary": "本周美欧出口管制升级与印尼仲裁案共同揭示：地缘政治与东道国监管风险已从“黑天鹅”演变为“灰犀牛”。建议出海企业：一、建立覆盖美国、欧盟、中国三方法规的“双轨”合规体系，实时追踪实体清单、SDN清单及技术分类变动；二、对海外投资实施分层式国别风险评估，尤其关注资源国环保、劳工及反腐败执法趋势；三、在跨境合同中嵌入“监管变更条款”与“投资仲裁索赔权利保留”，为可能的征收或制裁提供救济路径。下周关注：美国国会可能通过《对外投资审查法案》扩大对华技术投资限制，以及印尼新《矿产法》对矿业外资的本地化要求。",
+    "source": "来源：秦林蒿律师 · 律连全球 iGlobal Law · 2026年7月24日",
+    "title_en": "Attorney Qin's weekly view: US-EU Tech Blockade Becomes Normative; Advise Overseas Enterprises to Build 'Dual-Track' Compliance System and Resilient Supply Chains",
+    "summary_en": "This week's US-EU export control escalation and the Indonesia arbitration case highlight that geopolitical and host country regulatory risks have shifted from 'black swan' to 'grey rhino'. Recommendations for overseas enterprises: 1) Establish a 'dual-track' compliance system covering US, EU, and Chinese regulations, monitoring Entity List, SDN List, and technology classification changes in real time; 2) Conduct tiered country-specific risk assessments for overseas investments, focusing on environmental, labor, and anti-corruption enforcement trends in resource-rich countries; 3) Embed 'regulatory change clauses' and 'investment arbitration claim reservation' in cross-border contracts to provide remedies for potential expropriation or sanctions. Next week watch: possible US congressional passage of the Outbound Investment Review Act expanding tech investment restrictions on China, and Indonesia's new Mining Law's local content requirements for foreign mining investors.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · July 24, 2026"
   },
-  "weekLabel": "2026年7月13日 – 7月17日 · 本周周报",
-  "weekLabel_en": "Jul 13 – Jul 17, 2026 · Weekly Digest",
-  "issue": 29
+  "weekLabel": "2026年7月20日 – 7月24日 · 本周周报",
+  "weekLabel_en": "Jul 20 – Jul 24, 2026 · Weekly Digest",
+  "issue": 30
 }
