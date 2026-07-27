@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征临时反补贴关税，中企需加速供应链合规布局",
-    "summary": "欧盟委员会于2026年7月23日公布对华电动汽车反补贴调查初步裁定，拟对进口自中国的纯电动汽车加征17%至36%的临时反补贴税。该措施预计于8月生效，为期四个月。受影响企业可申请听证并提出价格承诺。建议中国车企立即审查出口产品补贴构成，调整欧洲定价策略，并考虑在欧盟境内设立组装线以降低税负。",
-    "source": "来源：欧盟委员会官网 · 2026.07.23",
-    "title_en": "EU Proposes Provisional Countervailing Duties on Chinese EVs; Chinese Firms Urged to Accelerate Compliance",
-    "summary_en": "On July 23, 2026, the European Commission published its preliminary countervailing duty determination on Chinese electric vehicles, proposing a 17% to 36% provisional tariff on BEVs imported from China. The measure is expected to take effect in August for four months. Affected companies may request hearings and offer price undertakings. Chinese EV makers should immediately review subsidy components in export products, adjust EU pricing strategies, and consider setting up assembly lines within the EU to mitigate duties.",
-    "source_en": "Source: European Commission Official Website · 2026.07.23"
+    "title": "美国财政部更新涉俄制裁清单，新增多家中国实体及个人",
+    "summary": "美国财政部海外资产控制办公室于7月24日更新特别指定国民清单，新增十余家中国实体及个人，理由为涉嫌参与向俄罗斯出口受控电子元件及无人机零部件。企业应紧急排查交易对手方是否在列，评估存量订单风险，并更新合规筛查清单。",
+    "source": "来源：美国财政部OFAC · 2026.07.27",
+    "title_en": "U.S. Treasury Updates Russia-Related Sanctions List, Adds Multiple Chinese Entities and Individuals",
+    "summary_en": "On July 24, OFAC updated the Specially Designated Nationals and Blocked Persons List, adding over ten Chinese entities and individuals for allegedly exporting controlled electronics and drone components to Russia. Companies should urgently screen counterparties, assess risks of existing orders, and update compliance screening lists.",
+    "source_en": "Source: U.S. Treasury OFAC · 2026.07.27"
   },
   "case": {
-    "title": "英国高等法院认定中国仲裁条款有效，驳回当事人以“仲裁员国籍”为由的撤裁申请",
-    "summary": "2026年7月，英国高等法院在审理一起中英合资企业纠纷案时，驳回一方当事人以“仲裁员均为中国籍，无法保证中立性”为由提出的撤销仲裁裁决申请。法院强调，当事人自愿选择中国仲裁机构（CIETAC）即应受其规则约束，仲裁员国籍本身不构成偏见。该案警示中国企业：在跨境合同中选择仲裁地及仲裁员国籍时，应充分评估其法律后果，避免事后挑战。",
-    "source": "来源：英国高等法院判例 · 2026年7月",
-    "title_en": "UK High Court Upholds Chinese Arbitration Clause, Rejects Challenge Based on Arbitrator Nationality",
-    "summary_en": "In July 2026, the UK High Court dismissed an application to set aside a CIETAC award in a Sino-British joint venture dispute, rejecting the argument that all-Chinese arbitrators could not guarantee neutrality. The court held that parties voluntarily choosing a Chinese arbitral institution are bound by its rules, and arbitrator nationality alone does not establish bias. This case warns Chinese enterprises to carefully assess the legal implications of arbitration seat and arbitrator nationality in cross-border contracts to avoid post-award challenges.",
-    "source_en": "Source: UK High Court Judgment · July 2026"
+    "title": "新加坡国际仲裁中心就中企与东南亚买方口罩货款纠纷裁定：不可抗力不当然免责",
+    "summary": "SIAC近期裁决一起中国口罩出口商诉东南亚买方拒收案。买方以本国疫情政策变化主张不可抗力，仲裁庭认为买方未能证明履约障碍与政策变化的直接因果关系，且未及时通知，裁定买方支付货款及利息。提示企业主张不可抗力需严格举证并履行通知义务。",
+    "source": "来源：SIAC裁决摘要 · 2026年7月",
+    "title_en": "SIAC Rules in Mask Payment Dispute: Force Majeure Not Automatic Exemption",
+    "summary_en": "In a recent SIAC award, a Chinese mask exporter sued a Southeast Asian buyer for refusal. The buyer claimed force majeure due to domestic policy changes. The tribunal found no direct causation and lack of timely notice, ordering the buyer to pay the price plus interest. Companies must strictly prove causation and give prompt notice when invoking force majeure.",
+    "source_en": "Source: SIAC Award Summary · July 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制扩围，新增医疗与金融行业试点",
-    "summary": "2026年7月，广东省网信办联合港澳相关部门发布通知，将大湾区数据跨境流动“白名单”试点扩展至医疗健康与金融服务领域。符合条件的企业在申报个人信息出境时，可适用简化安全评估程序。企业需建立数据分类分级制度，并指定数据保护官。此举将显著降低合规成本，但企业仍需确保数据接收方具备同等保护水平。",
-    "source": "来源：广东省互联网信息办公室 · 2026年7月",
-    "title_en": "GBA Cross-Border Data Flow 'White List' Expanded to Include Healthcare and Finance Sectors",
-    "summary_en": "In July 2026, the Guangdong Cyberspace Administration, together with Hong Kong and Macao authorities, expanded the Greater Bay Area data cross-border 'white list' pilot to healthcare and financial services. Eligible enterprises may apply for simplified security assessments when transferring personal information abroad. Companies must establish data classification and grading systems and appoint a data protection officer. This move significantly reduces compliance costs, but enterprises must ensure that data recipients maintain equivalent protection levels.",
-    "source_en": "Source: Guangdong Cyberspace Administration · July 2026"
+    "title": "粤港澳大湾区涉外法律服务中心在深圳前海启用，提供一站式跨境争议解决服务",
+    "summary": "该中心于7月26日正式启用，整合仲裁、调解、公证及域外法查明功能，旨在降低企业跨境纠纷解决成本。中心首批入驻包括香港国际仲裁中心、深圳国际仲裁院等机构，并开通中英葡三语线上咨询平台。",
+    "source": "来源：深圳市司法局 · 2026.07.27",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Foreign-Related Legal Service Center Opens in Qianhai, Offering One-Stop Cross-Border Dispute Resolution",
+    "summary_en": "Launched on July 26, the center integrates arbitration, mediation, notarization, and foreign law ascertainment to reduce costs for cross-border disputes. Initial occupants include HKIAC and SCIA, with a trilingual (Chinese, English, Portuguese) online consultation platform now active.",
+    "source_en": "Source: Shenzhen Municipal Bureau of Justice · 2026.07.27"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期合规要点——中国企业应尽快建立产品碳足迹核算体系",
-    "summary": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）已于2026年1月进入正式征收阶段，但过渡期报告义务仍持续至2026年底。中国出口企业（尤其钢铁、铝、水泥、化肥、电力行业）须在2026年12月31日前提交第三季度及年度碳排放报告。建议企业立即启动产品级碳足迹核算，对接欧盟认可的第三方核查机构，并关注CBAM证书价格走势。未按时报告将面临每吨碳排放50-100欧元的罚款，且可能被列入进口商黑名单。",
-    "source": "来源：秦林蒿律师 · 律连全球 · 2026.07.24",
-    "title_en": "Attorney Qin's view: CBAM Transition Compliance – Chinese Exporters Must Establish Product Carbon Footprint Accounting Systems",
-    "summary_en": "Attorney Qin's view: The EU Carbon Border Adjustment Mechanism (CBAM) entered its definitive phase in January 2026, but transitional reporting obligations continue until end-2026. Chinese exporters (especially in steel, aluminum, cement, fertilizers, and electricity) must submit Q3 and annual carbon emission reports by December 31, 2026. Companies should immediately initiate product-level carbon footprint accounting, engage EU-recognized third-party verifiers, and monitor CBAM certificate prices. Failure to report on time may result in fines of €50-100 per tonne of embedded emissions and potential blacklisting by importers.",
-    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · 2026.07.24"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期应尽快建立内部数据采集体系",
+    "summary": "秦林蒿律师研判：CBAM过渡期至2026年底，但中国出口企业普遍缺乏产品级碳排放数据。建议立即建立内部碳核算团队，或委托第三方进行产品碳足迹预评估，并关注欧盟委员会预计2026年第四季度发布的默认值调整细则，以降低2027年正式实施后的合规成本。",
+    "source": "来源：秦林蒿律师 · 2026.07.27",
+    "title_en": "Attorney Qin's View: EU CBAM Transition Period Calls for Urgent Internal Data Collection Systems",
+    "summary_en": "Attorney Qin's view: The CBAM transitional period ends in 2026, but most Chinese exporters lack product-level carbon emission data. Companies should immediately set up internal carbon accounting teams or engage third parties for pre-assessment of product carbon footprints, and monitor the EC's expected Q4 2026 adjustment of default values to reduce compliance costs after full implementation in 2027.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.27"
   },
-  "dateLabel": "2026年7月24日 · 星期五",
-  "dateLabel_en": "Friday, July 24, 2026",
-  "issue": 205
+  "dateLabel": "2026年7月27日 · 星期一",
+  "dateLabel_en": "Monday, July 27, 2026",
+  "issue": 208
 }
