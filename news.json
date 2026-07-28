@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国财政部更新涉俄制裁清单，新增多家中国实体及个人",
-    "summary": "美国财政部海外资产控制办公室于7月24日更新特别指定国民清单，新增十余家中国实体及个人，理由为涉嫌参与向俄罗斯出口受控电子元件及无人机零部件。企业应紧急排查交易对手方是否在列，评估存量订单风险，并更新合规筛查清单。",
-    "source": "来源：美国财政部OFAC · 2026.07.27",
-    "title_en": "U.S. Treasury Updates Russia-Related Sanctions List, Adds Multiple Chinese Entities and Individuals",
-    "summary_en": "On July 24, OFAC updated the Specially Designated Nationals and Blocked Persons List, adding over ten Chinese entities and individuals for allegedly exporting controlled electronics and drone components to Russia. Companies should urgently screen counterparties, assess risks of existing orders, and update compliance screening lists.",
-    "source_en": "Source: U.S. Treasury OFAC · 2026.07.27"
+    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业面临合规风险",
+    "summary": "美国商务部初步裁定，部分从越南、泰国、马来西亚进口的光伏电池存在倾销行为，拟加征6%至271%不等的反倾销税。此举旨在堵截中国光伏企业经由东南亚转口至美国的避税路径。中国出海企业需立即审查供应链安排，评估关税影响及原产地规则合规性。",
+    "source": "来源：美国商务部公告 · 2026.07.28",
+    "title_en": "US Proposes Anti-Dumping Duties on Solar Imports from Southeast Asia, China's Transshipment Firms Face Compliance Risks",
+    "summary_en": "The U.S. Department of Commerce preliminarily ruled that certain solar cells imported from Vietnam, Thailand, and Malaysia were dumped, proposing anti-dumping duties ranging from 6% to 271%. This move aims to block Chinese solar companies' tax avoidance via Southeast Asian transshipment. Chinese overseas enterprises should immediately review supply chains and assess tariff impacts and origin rule compliance.",
+    "source_en": "Source: U.S. Department of Commerce announcement · 2026.07.28"
   },
   "case": {
-    "title": "新加坡国际仲裁中心就中企与东南亚买方口罩货款纠纷裁定：不可抗力不当然免责",
-    "summary": "SIAC近期裁决一起中国口罩出口商诉东南亚买方拒收案。买方以本国疫情政策变化主张不可抗力，仲裁庭认为买方未能证明履约障碍与政策变化的直接因果关系，且未及时通知，裁定买方支付货款及利息。提示企业主张不可抗力需严格举证并履行通知义务。",
-    "source": "来源：SIAC裁决摘要 · 2026年7月",
-    "title_en": "SIAC Rules in Mask Payment Dispute: Force Majeure Not Automatic Exemption",
-    "summary_en": "In a recent SIAC award, a Chinese mask exporter sued a Southeast Asian buyer for refusal. The buyer claimed force majeure due to domestic policy changes. The tribunal found no direct causation and lack of timely notice, ordering the buyer to pay the price plus interest. Companies must strictly prove causation and give prompt notice when invoking force majeure.",
-    "source_en": "Source: SIAC Award Summary · July 2026"
+    "title": "新加坡ICC仲裁裁决获中国法院承认与执行：仲裁条款效力认定成关键",
+    "summary": "最高人民法院近期裁定承认并执行新加坡国际仲裁中心（SIAC）的一项仲裁裁决。争议焦点在于仲裁条款的书面形式是否符合《纽约公约》要求。法院最终认定双方通过电子邮件确认的仲裁协议有效，驳回了被申请人以缺乏签字为由的抗辩。此案为中国企业参与国际仲裁提供了重要参考，强调电子通讯方式仲裁条款的效力。",
+    "source": "来源：最高人民法院典型案例 · 2026年7月",
+    "title_en": "Singapore ICC Arbitral Award Recognized and Enforced by Chinese Court: Validity of Arbitration Clause Key",
+    "summary_en": "The Supreme People's Court recently ruled to recognize and enforce an arbitral award from the Singapore International Arbitration Centre (SIAC). The dispute centered on whether the written form of the arbitration clause complied with the New York Convention. The court held that the arbitration agreement confirmed via email was valid, rejecting the argument of lack of signature. This case provides important guidance for Chinese enterprises in international arbitration, affirming the validity of arbitration clauses in electronic communications.",
+    "source_en": "Source: Supreme People's Court typical case · July 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区涉外法律服务中心在深圳前海启用，提供一站式跨境争议解决服务",
-    "summary": "该中心于7月26日正式启用，整合仲裁、调解、公证及域外法查明功能，旨在降低企业跨境纠纷解决成本。中心首批入驻包括香港国际仲裁中心、深圳国际仲裁院等机构，并开通中英葡三语线上咨询平台。",
-    "source": "来源：深圳市司法局 · 2026.07.27",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Foreign-Related Legal Service Center Opens in Qianhai, Offering One-Stop Cross-Border Dispute Resolution",
-    "summary_en": "Launched on July 26, the center integrates arbitration, mediation, notarization, and foreign law ascertainment to reduce costs for cross-border disputes. Initial occupants include HKIAC and SCIA, with a trilingual (Chinese, English, Portuguese) online consultation platform now active.",
-    "source_en": "Source: Shenzhen Municipal Bureau of Justice · 2026.07.27"
+    "title": "粤港澳大湾区跨境数据流动新规落地，企业需建立数据出境安全评估机制",
+    "summary": "广东省互联网信息办公室发布《粤港澳大湾区（内地、香港、澳门）个人信息和重要数据出境安全评估办法》，要求向港澳提供重要数据的企业进行安全评估。新规明确了评估流程、时限及禁止出境的场景。企业应在三个月内完成自查，建立数据分类分级与出境安全评估制度。",
+    "source": "来源：广东省互联网信息办公室 · 2026.07.28",
+    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area: Enterprises Must Establish Data Exit Security Assessment Mechanism",
+    "summary_en": "The Guangdong Provincial Cyberspace Administration issued the \"Security Assessment Measures for the Cross-Border Transfer of Personal Information and Important Data in the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong, Macao)\", requiring enterprises providing important data to Hong Kong and Macao to undergo security assessment. The rules specify assessment procedures, timelines, and prohibited scenarios. Enterprises should complete self-inspection within three months and establish data classification and cross-border security assessment systems.",
+    "source_en": "Source: Guangdong Provincial Cyberspace Administration · 2026.07.28"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期应尽快建立内部数据采集体系",
-    "summary": "秦林蒿律师研判：CBAM过渡期至2026年底，但中国出口企业普遍缺乏产品级碳排放数据。建议立即建立内部碳核算团队，或委托第三方进行产品碳足迹预评估，并关注欧盟委员会预计2026年第四季度发布的默认值调整细则，以降低2027年正式实施后的合规成本。",
-    "source": "来源：秦林蒿律师 · 2026.07.27",
-    "title_en": "Attorney Qin's View: EU CBAM Transition Period Calls for Urgent Internal Data Collection Systems",
-    "summary_en": "Attorney Qin's view: The CBAM transitional period ends in 2026, but most Chinese exporters lack product-level carbon emission data. Companies should immediately set up internal carbon accounting teams or engage third parties for pre-assessment of product carbon footprints, and monitor the EC's expected Q4 2026 adjustment of default values to reduce compliance costs after full implementation in 2027.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.27"
+    "title": "中企海外投资应重视反腐败合规体系建设：从FCPA执法趋势看实务要点",
+    "summary": "秦林蒿律师研判：美国《反海外腐败法》（FCPA）2026年上半年执法力度显著加强，针对中国企业及第三国中间人的调查增多。建议出海企业在投资前对合资方、代理商进行反腐败尽职调查，建立内部举报机制与合规培训体系。尤其应关注礼品、招待、第三方付款等高风险环节，避免因中间人行为引发连带责任。",
+    "source": "来源：秦林蒿律师 · 2026.07.28",
+    "title_en": "Chinese Overseas Investors Should Prioritize Anti-Corruption Compliance: Practical Insights from FCPA Enforcement Trends",
+    "summary_en": "Attorney Qin's view: The U.S. Foreign Corrupt Practices Act (FCPA) enforcement has significantly intensified in the first half of 2026, with increased investigations targeting Chinese enterprises and third-country intermediaries. It is recommended that overseas enterprises conduct anti-corruption due diligence on joint venture partners and agents, establish internal reporting mechanisms, and compliance training programs. Particular attention should be paid to high-risk areas such as gifts, hospitality, and third-party payments to avoid vicarious liability from intermediary misconduct.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.28"
   },
-  "dateLabel": "2026年7月27日 · 星期一",
-  "dateLabel_en": "Monday, July 27, 2026",
-  "issue": 208
+  "dateLabel": "2026年7月28日 · 星期二",
+  "dateLabel_en": "Tuesday, July 28, 2026",
+  "issue": 209
 }
