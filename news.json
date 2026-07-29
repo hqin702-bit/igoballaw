@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚光伏产品加征反倾销税，中国转口企业面临合规风险",
-    "summary": "美国商务部初步裁定，部分从越南、泰国、马来西亚进口的光伏电池存在倾销行为，拟加征6%至271%不等的反倾销税。此举旨在堵截中国光伏企业经由东南亚转口至美国的避税路径。中国出海企业需立即审查供应链安排，评估关税影响及原产地规则合规性。",
-    "source": "来源：美国商务部公告 · 2026.07.28",
-    "title_en": "US Proposes Anti-Dumping Duties on Solar Imports from Southeast Asia, China's Transshipment Firms Face Compliance Risks",
-    "summary_en": "The U.S. Department of Commerce preliminarily ruled that certain solar cells imported from Vietnam, Thailand, and Malaysia were dumped, proposing anti-dumping duties ranging from 6% to 271%. This move aims to block Chinese solar companies' tax avoidance via Southeast Asian transshipment. Chinese overseas enterprises should immediately review supply chains and assess tariff impacts and origin rule compliance.",
-    "source_en": "Source: U.S. Department of Commerce announcement · 2026.07.28"
+    "title": "美国拟扩大对华半导体设备出口管制，涵盖深紫外光刻机维护服务",
+    "summary": "据多家外媒报道，拜登政府计划于2026年8月前发布新规，将深紫外（DUV）光刻机的维护、修理及备件供应纳入对华出口管制范围，旨在进一步限制中国成熟制程芯片产能扩张。此举将影响ASML、尼康等设备供应商对华服务协议，预计涉及约12亿美元存量设备维护市场。中芯国际、华虹半导体等企业需评估现有服务合同连续性，并加速国产替代备件验证。",
+    "source": "来源：路透社、彭博社 · 2026.07.28",
+    "title_en": "U.S. to Expand Chip Equipment Export Restrictions to Include DUV Lithography Maintenance Services",
+    "summary_en": "According to multiple foreign media reports, the Biden administration plans to issue new rules by August 2026, extending export controls to cover maintenance, repair, and spare parts supply for deep ultraviolet (DUV) lithography equipment in China, aiming to further restrict China's mature node chip capacity expansion. This will impact service agreements of suppliers like ASML and Nikon with China, involving an estimated $1.2 billion in maintenance services for installed equipment. Companies such as SMIC and Hua Hong Semiconductor need to assess continuity of existing service contracts and accelerate validation of domestic spare part alternatives.",
+    "source_en": "Source: Reuters, Bloomberg · 2026.07.28"
   },
   "case": {
-    "title": "新加坡ICC仲裁裁决获中国法院承认与执行：仲裁条款效力认定成关键",
-    "summary": "最高人民法院近期裁定承认并执行新加坡国际仲裁中心（SIAC）的一项仲裁裁决。争议焦点在于仲裁条款的书面形式是否符合《纽约公约》要求。法院最终认定双方通过电子邮件确认的仲裁协议有效，驳回了被申请人以缺乏签字为由的抗辩。此案为中国企业参与国际仲裁提供了重要参考，强调电子通讯方式仲裁条款的效力。",
-    "source": "来源：最高人民法院典型案例 · 2026年7月",
-    "title_en": "Singapore ICC Arbitral Award Recognized and Enforced by Chinese Court: Validity of Arbitration Clause Key",
-    "summary_en": "The Supreme People's Court recently ruled to recognize and enforce an arbitral award from the Singapore International Arbitration Centre (SIAC). The dispute centered on whether the written form of the arbitration clause complied with the New York Convention. The court held that the arbitration agreement confirmed via email was valid, rejecting the argument of lack of signature. This case provides important guidance for Chinese enterprises in international arbitration, affirming the validity of arbitration clauses in electronic communications.",
-    "source_en": "Source: Supreme People's Court typical case · July 2026"
+    "title": "新加坡国际仲裁庭认定：跨境数据存储协议中“合理安全措施”标准应参照国际公认加密准则",
+    "summary": "在SIAC仲裁案2025-089号中，仲裁庭就一家中国跨境电商企业与新加坡云服务商之间的数据泄露责任纠纷作出裁决。仲裁庭认为，合同约定的“合理安全措施”应按国际标准化组织（ISO）27001及通用数据保护条例（GDPR）技术标准解释，而非仅依据服务商所在国国内法。因服务商未采用AES-256加密且未定期进行渗透测试，构成违约。该案提示中国企业：在签订境外数据服务合同时，应明确定义安全标准并约定独立的第三方审计权。",
+    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月裁决",
+    "title_en": "SIAC Tribunal Rules 'Reasonable Security Measures' in Cross-Border Data Storage Contracts Must Follow International Encryption Standards",
+    "summary_en": "In SIAC arbitration case No. 2025-089, the tribunal ruled on a data breach liability dispute between a Chinese cross-border e-commerce company and a Singapore cloud service provider. The tribunal held that the contractual term 'reasonable security measures' should be interpreted by reference to ISO 27001 and GDPR technical standards, not merely the service provider's domestic law. The provider's failure to use AES-256 encryption and conduct regular penetration testing constituted a breach. This case reminds Chinese enterprises to clearly define security standards and stipulate independent third-party audit rights when signing overseas data service contracts.",
+    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · June 2026 Award"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，企业需建立数据出境安全评估机制",
-    "summary": "广东省互联网信息办公室发布《粤港澳大湾区（内地、香港、澳门）个人信息和重要数据出境安全评估办法》，要求向港澳提供重要数据的企业进行安全评估。新规明确了评估流程、时限及禁止出境的场景。企业应在三个月内完成自查，建立数据分类分级与出境安全评估制度。",
-    "source": "来源：广东省互联网信息办公室 · 2026.07.28",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area: Enterprises Must Establish Data Exit Security Assessment Mechanism",
-    "summary_en": "The Guangdong Provincial Cyberspace Administration issued the \"Security Assessment Measures for the Cross-Border Transfer of Personal Information and Important Data in the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong, Macao)\", requiring enterprises providing important data to Hong Kong and Macao to undergo security assessment. The rules specify assessment procedures, timelines, and prohibited scenarios. Enterprises should complete self-inspection within three months and establish data classification and cross-border security assessment systems.",
-    "source_en": "Source: Guangdong Provincial Cyberspace Administration · 2026.07.28"
+    "title": "深圳前海发布《跨境数据流动合规指引》，明确金融、医疗等领域数据出境安全评估豁免情形",
+    "summary": "深圳市前海深港现代服务业合作区管理局于7月28日发布《跨境数据流动合规指引（试行）》，对在区内注册的企业开展跨境数据流动提供操作细则。指引明确：在取得数据主体单独同意且完成个人信息保护影响评估（PIA）的前提下，涉及跨境支付、跨境保险理赔、临床试验数据共享等场景可申请豁免安全评估。同时要求企业建立数据出境台账并每半年向监管部门报送。该指引自2026年9月1日起实施，为粤港澳大湾区数据跨境提供先行先试经验。",
+    "source": "来源：深圳市前海管理局 · 2026.07.28",
+    "title_en": "Qianhai Releases Cross-Border Data Flow Compliance Guidelines, Exempting Certain Financial and Medical Data Transfers from Security Assessment",
+    "summary_en": "The Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone Authority issued the 'Cross-Border Data Flow Compliance Guidelines (Trial)' on July 28, providing operational rules for enterprises registered in the zone. The guidelines clarify that, subject to obtaining separate data subject consent and completing a Personal Information Protection Impact Assessment (PIA), scenarios such as cross-border payments, cross-border insurance claims, and clinical trial data sharing may apply for exemption from security assessment. Enterprises are required to maintain a data transfer ledger and report to regulators every six months. The guidelines take effect on September 1, 2026, offering a pilot experience for cross-border data flows in the Greater Bay Area.",
+    "source_en": "Source: Qianhai Authority, Shenzhen · 2026.07.28"
   },
   "analysis": {
-    "title": "中企海外投资应重视反腐败合规体系建设：从FCPA执法趋势看实务要点",
-    "summary": "秦林蒿律师研判：美国《反海外腐败法》（FCPA）2026年上半年执法力度显著加强，针对中国企业及第三国中间人的调查增多。建议出海企业在投资前对合资方、代理商进行反腐败尽职调查，建立内部举报机制与合规培训体系。尤其应关注礼品、招待、第三方付款等高风险环节，避免因中间人行为引发连带责任。",
-    "source": "来源：秦林蒿律师 · 2026.07.28",
-    "title_en": "Chinese Overseas Investors Should Prioritize Anti-Corruption Compliance: Practical Insights from FCPA Enforcement Trends",
-    "summary_en": "Attorney Qin's view: The U.S. Foreign Corrupt Practices Act (FCPA) enforcement has significantly intensified in the first half of 2026, with increased investigations targeting Chinese enterprises and third-country intermediaries. It is recommended that overseas enterprises conduct anti-corruption due diligence on joint venture partners and agents, establish internal reporting mechanisms, and compliance training programs. Particular attention should be paid to high-risk areas such as gifts, hospitality, and third-party payments to avoid vicarious liability from intermediary misconduct.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.28"
+    "title": "秦林蒿律师研判：美国对华投资审查规则将扩至生物技术和人工智能，出海企业应提前搭建合规架构",
+    "summary": "秦林蒿律师研判：美国财政部拟于2026年第四季度将生物技术（基因测序、合成生物学）和人工智能（大模型训练、自动驾驶算法）纳入对华投资审查范围。建议中国出海企业：（1）在引入美元基金或与美国关联实体合作前，进行反向CFIUS审查评估；（2）搭建VIE或合资架构时，确保核心技术资产由境内实体持有，并设置“防火墙”条款限制美方投资者获取敏感技术数据；（3）关注《2026年对外投资透明法案》草案动向，该法案可能要求披露中国投资方信息。Attorney Qin's view: As the U.S. Treasury plans to expand outbound investment review to biotech (gene sequencing, synthetic biology) and AI (large model training, autonomous driving algorithms) by Q4 2026, Chinese overseas-bound companies should (1) conduct reverse CFIUS assessments before introducing USD funds or partnering with U.S.-affiliated entities; (2) ensure core technology assets are held by onshore entities when setting up VIE or JV structures, with firewall clauses limiting U.S. investors' access to sensitive tech data; (3) monitor the draft 'Outbound Investment Transparency Act of 2026', which may require disclosure of Chinese investor information.",
+    "source": "来源：秦林蒿律师 · 律连全球 · 2026.07.29",
+    "title_en": "Attorney Qin's View: U.S. Outbound Investment Review Expansion to Biotech and AI Calls for Preemptive Compliance Structuring",
+    "summary_en": "Attorney Qin's view: As the U.S. Treasury plans to expand outbound investment review to biotech (gene sequencing, synthetic biology) and AI (large model training, autonomous driving algorithms) by Q4 2026, Chinese overseas-bound companies should (1) conduct reverse CFIUS assessments before introducing USD funds or partnering with U.S.-affiliated entities; (2) ensure core technology assets are held by onshore entities when setting up VIE or JV structures, with firewall clauses limiting U.S. investors' access to sensitive tech data; (3) monitor the draft 'Outbound Investment Transparency Act of 2026', which may require disclosure of Chinese investor information.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · 2026.07.29"
   },
-  "dateLabel": "2026年7月28日 · 星期二",
-  "dateLabel_en": "Tuesday, July 28, 2026",
-  "issue": 209
+  "dateLabel": "2026年7月29日 · 星期三",
+  "dateLabel_en": "Wednesday, July 29, 2026",
+  "issue": 210
 }
