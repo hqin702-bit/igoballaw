@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟扩大对华半导体设备出口管制，涵盖深紫外光刻机维护服务",
-    "summary": "据多家外媒报道，拜登政府计划于2026年8月前发布新规，将深紫外（DUV）光刻机的维护、修理及备件供应纳入对华出口管制范围，旨在进一步限制中国成熟制程芯片产能扩张。此举将影响ASML、尼康等设备供应商对华服务协议，预计涉及约12亿美元存量设备维护市场。中芯国际、华虹半导体等企业需评估现有服务合同连续性，并加速国产替代备件验证。",
-    "source": "来源：路透社、彭博社 · 2026.07.28",
-    "title_en": "U.S. to Expand Chip Equipment Export Restrictions to Include DUV Lithography Maintenance Services",
-    "summary_en": "According to multiple foreign media reports, the Biden administration plans to issue new rules by August 2026, extending export controls to cover maintenance, repair, and spare parts supply for deep ultraviolet (DUV) lithography equipment in China, aiming to further restrict China's mature node chip capacity expansion. This will impact service agreements of suppliers like ASML and Nikon with China, involving an estimated $1.2 billion in maintenance services for installed equipment. Companies such as SMIC and Hua Hong Semiconductor need to assess continuity of existing service contracts and accelerate validation of domestic spare part alternatives.",
-    "source_en": "Source: Reuters, Bloomberg · 2026.07.28"
+    "title": "美国商务部新增13家中国实体至实体清单，涉量子计算与半导体设备",
+    "summary": "2026年7月29日，美国商务部工业安全局（BIS）宣布将13家中国实体列入实体清单，理由涉及国家安全与外交政策利益。新增实体主要集中于量子计算、半导体制造设备及人工智能领域，被限制获取美国原产及受EAR管辖的物项。此举是拜登政府任内对华技术出口管制的又一次加码，预计将对中国相关产业链的进口替代与合规体系产生直接冲击。建议涉足上述领域的企业立即排查供应链中美国物项占比，并评估海外子公司或合资项目的合规风险。",
+    "source": "来源：美国联邦公报 · 2026.07.29",
+    "title_en": "BIS Adds 13 Chinese Entities to Entity List, Targeting Quantum Computing and Semiconductor Equipment",
+    "summary_en": "On July 29, 2026, the U.S. Bureau of Industry and Security (BIS) added 13 Chinese entities to the Entity List for alleged national security and foreign policy concerns. The new entries focus on quantum computing, semiconductor manufacturing equipment, and AI, restricting their access to U.S.-origin items and items subject to the Export Administration Regulations (EAR). This marks another escalation of the Biden administration's technology export controls against China. Companies in these sectors should immediately audit U.S.-origin content in their supply chains and assess compliance risks for overseas subsidiaries or joint ventures.",
+    "source_en": "Source: U.S. Federal Register · 2026.07.29"
   },
   "case": {
-    "title": "新加坡国际仲裁庭认定：跨境数据存储协议中“合理安全措施”标准应参照国际公认加密准则",
-    "summary": "在SIAC仲裁案2025-089号中，仲裁庭就一家中国跨境电商企业与新加坡云服务商之间的数据泄露责任纠纷作出裁决。仲裁庭认为，合同约定的“合理安全措施”应按国际标准化组织（ISO）27001及通用数据保护条例（GDPR）技术标准解释，而非仅依据服务商所在国国内法。因服务商未采用AES-256加密且未定期进行渗透测试，构成违约。该案提示中国企业：在签订境外数据服务合同时，应明确定义安全标准并约定独立的第三方审计权。",
-    "source": "来源：新加坡国际仲裁中心（SIAC） · 2026年6月裁决",
-    "title_en": "SIAC Tribunal Rules 'Reasonable Security Measures' in Cross-Border Data Storage Contracts Must Follow International Encryption Standards",
-    "summary_en": "In SIAC arbitration case No. 2025-089, the tribunal ruled on a data breach liability dispute between a Chinese cross-border e-commerce company and a Singapore cloud service provider. The tribunal held that the contractual term 'reasonable security measures' should be interpreted by reference to ISO 27001 and GDPR technical standards, not merely the service provider's domestic law. The provider's failure to use AES-256 encryption and conduct regular penetration testing constituted a breach. This case reminds Chinese enterprises to clearly define security standards and stipulate independent third-party audit rights when signing overseas data service contracts.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) · June 2026 Award"
+    "title": "ICC仲裁庭认定：跨境供应链中的“不可抗力”条款不适用于因制裁导致的履约障碍",
+    "summary": "国际商会（ICC）仲裁庭近日就一起中欧企业间的设备采购合同纠纷作出裁决。中国卖方以美国次级制裁导致其无法从欧洲供应商处采购关键零部件为由，主张不可抗力免责。仲裁庭认为，制裁风险属于商业主体在签约时可合理预见的政治风险，且合同未明确将制裁纳入不可抗力范围，故不支持卖方免责请求。该案例提示中国企业：在涉美或涉欧合同中，应主动谈判写入“制裁条款”或“合规条款”，明确制裁事件下的合同中止、变更或解除权，避免依赖一般不可抗力条款。",
+    "source": "来源：ICC国际仲裁院 · 2026年7月",
+    "title_en": "ICC Tribunal: Force Majeure Does Not Cover Sanction-Induced Performance Hurdles in Cross-Border Supply Chains",
+    "summary_en": "In a recent ICC arbitration case involving a Sino-European equipment procurement contract, the Chinese seller invoked force majeure after U.S. secondary sanctions prevented it from sourcing key components from a European supplier. The tribunal held that sanctions risk was a foreseeable political risk at the time of contracting and that the contract did not explicitly list sanctions as a force majeure event. The ruling underscores the importance for Chinese companies to negotiate specific 'sanctions clauses' or 'compliance clauses' in contracts with U.S. or European exposure, clearly defining rights to suspend, modify, or terminate the agreement upon the occurrence of sanctions events, rather than relying on general force majeure provisions.",
+    "source_en": "Source: ICC International Court of Arbitration · July 2026"
   },
   "policy": {
-    "title": "深圳前海发布《跨境数据流动合规指引》，明确金融、医疗等领域数据出境安全评估豁免情形",
-    "summary": "深圳市前海深港现代服务业合作区管理局于7月28日发布《跨境数据流动合规指引（试行）》，对在区内注册的企业开展跨境数据流动提供操作细则。指引明确：在取得数据主体单独同意且完成个人信息保护影响评估（PIA）的前提下，涉及跨境支付、跨境保险理赔、临床试验数据共享等场景可申请豁免安全评估。同时要求企业建立数据出境台账并每半年向监管部门报送。该指引自2026年9月1日起实施，为粤港澳大湾区数据跨境提供先行先试经验。",
-    "source": "来源：深圳市前海管理局 · 2026.07.28",
-    "title_en": "Qianhai Releases Cross-Border Data Flow Compliance Guidelines, Exempting Certain Financial and Medical Data Transfers from Security Assessment",
-    "summary_en": "The Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone Authority issued the 'Cross-Border Data Flow Compliance Guidelines (Trial)' on July 28, providing operational rules for enterprises registered in the zone. The guidelines clarify that, subject to obtaining separate data subject consent and completing a Personal Information Protection Impact Assessment (PIA), scenarios such as cross-border payments, cross-border insurance claims, and clinical trial data sharing may apply for exemption from security assessment. Enterprises are required to maintain a data transfer ledger and report to regulators every six months. The guidelines take effect on September 1, 2026, offering a pilot experience for cross-border data flows in the Greater Bay Area.",
-    "source_en": "Source: Qianhai Authority, Shenzhen · 2026.07.28"
+    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地深圳前海",
+    "summary": "2026年7月28日，广东省互联网信息办公室发布《粤港澳大湾区（深圳前海）跨境数据流动管理暂行办法》，正式实施跨境数据分类分级管理及“白名单”机制。根据该办法，金融、医疗、交通等领域的数据处理者，在履行安全评估、签订标准合同及备案后，可向港澳有序跨境传输必要数据。此举旨在平衡数据安全与经贸便利，为区内企业合规开展跨境业务提供明确路径。企业应尽快对照《办法》完成数据分类与安全评估，并关注后续配套标准合同文本的出台。",
+    "source": "来源：广东省互联网信息办公室 · 2026.07.28",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches 'Whitelist' Mechanism for Cross-Border Data Flows in Qianhai, Shenzhen",
+    "summary_en": "On July 28, 2026, the Cyberspace Administration of Guangdong Province issued the 'Interim Measures for the Management of Cross-Border Data Flows in the Guangdong-Hong Kong-Macao Greater Bay Area (Shenzhen Qianhai),' implementing a classified and tiered management system with a 'whitelist' mechanism. Under the Measures, data processors in sectors such as finance, healthcare, and transportation may transfer necessary data to and from Hong Kong and Macao on an orderly basis after completing security assessments, signing standard contracts, and filing. This initiative aims to balance data security with economic and trade facilitation, providing clear compliance pathways for enterprises in the GBA. Companies should promptly classify their data, conduct security assessments, and monitor the release of supporting standard contract templates.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.07.28"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华投资审查规则将扩至生物技术和人工智能，出海企业应提前搭建合规架构",
-    "summary": "秦林蒿律师研判：美国财政部拟于2026年第四季度将生物技术（基因测序、合成生物学）和人工智能（大模型训练、自动驾驶算法）纳入对华投资审查范围。建议中国出海企业：（1）在引入美元基金或与美国关联实体合作前，进行反向CFIUS审查评估；（2）搭建VIE或合资架构时，确保核心技术资产由境内实体持有，并设置“防火墙”条款限制美方投资者获取敏感技术数据；（3）关注《2026年对外投资透明法案》草案动向，该法案可能要求披露中国投资方信息。Attorney Qin's view: As the U.S. Treasury plans to expand outbound investment review to biotech (gene sequencing, synthetic biology) and AI (large model training, autonomous driving algorithms) by Q4 2026, Chinese overseas-bound companies should (1) conduct reverse CFIUS assessments before introducing USD funds or partnering with U.S.-affiliated entities; (2) ensure core technology assets are held by onshore entities when setting up VIE or JV structures, with firewall clauses limiting U.S. investors' access to sensitive tech data; (3) monitor the draft 'Outbound Investment Transparency Act of 2026', which may require disclosure of Chinese investor information.",
-    "source": "来源：秦林蒿律师 · 律连全球 · 2026.07.29",
-    "title_en": "Attorney Qin's View: U.S. Outbound Investment Review Expansion to Biotech and AI Calls for Preemptive Compliance Structuring",
-    "summary_en": "Attorney Qin's view: As the U.S. Treasury plans to expand outbound investment review to biotech (gene sequencing, synthetic biology) and AI (large model training, autonomous driving algorithms) by Q4 2026, Chinese overseas-bound companies should (1) conduct reverse CFIUS assessments before introducing USD funds or partnering with U.S.-affiliated entities; (2) ensure core technology assets are held by onshore entities when setting up VIE or JV structures, with firewall clauses limiting U.S. investors' access to sensitive tech data; (3) monitor the draft 'Outbound Investment Transparency Act of 2026', which may require disclosure of Chinese investor information.",
-    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · 2026.07.29"
+    "title": "秦林蒿律师研判：美国对华投资审查新规生效在即，中企应提前剥离敏感资产或调整架构",
+    "summary": "秦林蒿律师研判：美国财政部即将于2026年8月4日生效的《关于美国在特定国家安全技术领域对华投资的最终规则》，将禁止美国主体对中国的半导体、AI、量子计算等领域进行直接投资，并要求对部分交易进行申报。该规则回溯性不强，但覆盖私募股权、风险投资及合资企业。建议中国出海企业：第一，排查现有外资股东中是否有美国投资者，评估是否需要回购或调整股权结构；第二，对于未来融资计划，优先考虑非美资本或人民币基金；第三，在合资协议中增加触发条款，约定若一方因制裁或投资限制无法继续履行，另一方的退出路径。英文：Attorney Qin's view: The U.S. Treasury's final rule on outbound investment in China, effective August 4, 2026, prohibits U.S. persons from direct investments in China's semiconductors, AI, and quantum computing sectors, with a notification requirement for certain transactions. While not retroactive, the rule covers PE, VC, and JVs. I recommend Chinese companies: (1) audit existing foreign shareholders for U.S. investors and consider buybacks or restructuring; (2) prioritize non-U.S. capital or RMB funds for future financing; (3) include trigger clauses in JV agreements providing exit paths if a party cannot perform due to sanctions or investment restrictions.",
+    "source": "来源：美国财政部 · 2026.07.30",
+    "title_en": "Attorney Qin's View: U.S. Outbound Investment Review Rules Take Effect Soon – Chinese Companies Should Divest Sensitive Assets or Restructure in Advance",
+    "summary_en": "Attorney Qin's view: The U.S. Treasury's final rule on outbound investment in China, effective August 4, 2026, prohibits U.S. persons from direct investments in China's semiconductors, AI, and quantum computing sectors, with a notification requirement for certain transactions. While not retroactive, the rule covers PE, VC, and JVs. I recommend Chinese companies: (1) audit existing foreign shareholders for U.S. investors and consider buybacks or restructuring; (2) prioritize non-U.S. capital or RMB funds for future financing; (3) include trigger clauses in JV agreements providing exit paths if a party cannot perform due to sanctions or investment restrictions.",
+    "source_en": "Source: U.S. Department of the Treasury · 2026.07.30"
   },
-  "dateLabel": "2026年7月29日 · 星期三",
-  "dateLabel_en": "Wednesday, July 29, 2026",
-  "issue": 210
+  "dateLabel": "2026年7月30日 · 星期四",
+  "dateLabel_en": "Thursday, July 30, 2026",
+  "issue": 211
 }
