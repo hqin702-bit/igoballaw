@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国商务部新增13家中国实体至实体清单，涉量子计算与半导体设备",
-    "summary": "2026年7月29日，美国商务部工业安全局（BIS）宣布将13家中国实体列入实体清单，理由涉及国家安全与外交政策利益。新增实体主要集中于量子计算、半导体制造设备及人工智能领域，被限制获取美国原产及受EAR管辖的物项。此举是拜登政府任内对华技术出口管制的又一次加码，预计将对中国相关产业链的进口替代与合规体系产生直接冲击。建议涉足上述领域的企业立即排查供应链中美国物项占比，并评估海外子公司或合资项目的合规风险。",
-    "source": "来源：美国联邦公报 · 2026.07.29",
-    "title_en": "BIS Adds 13 Chinese Entities to Entity List, Targeting Quantum Computing and Semiconductor Equipment",
-    "summary_en": "On July 29, 2026, the U.S. Bureau of Industry and Security (BIS) added 13 Chinese entities to the Entity List for alleged national security and foreign policy concerns. The new entries focus on quantum computing, semiconductor manufacturing equipment, and AI, restricting their access to U.S.-origin items and items subject to the Export Administration Regulations (EAR). This marks another escalation of the Biden administration's technology export controls against China. Companies in these sectors should immediately audit U.S.-origin content in their supply chains and assess compliance risks for overseas subsidiaries or joint ventures.",
-    "source_en": "Source: U.S. Federal Register · 2026.07.29"
+    "title": "欧盟拟对华电动汽车加征反补贴关税，中企供应链需提前布局",
+    "summary": "欧盟委员会于7月30日公布拟对中国产电动汽车加征17%至36%反补贴关税的初步裁定，涉及比亚迪、上汽等多家车企及电池供应商。该措施若通过，将于11月正式实施。建议出口企业立即启动原产地规则审查、调整欧洲本地化生产比例，并考虑通过第三国转口或与欧盟车企合资等合规路径降低关税影响。",
+    "source": "来源：欧盟委员会官方公报 · 2026.07.31",
+    "title_en": "EU Plans Anti-Subsidy Tariffs on Chinese EVs, Supply Chain Adjustments Urgent",
+    "summary_en": "On July 30, the European Commission announced preliminary anti-subsidy tariffs of 17% to 36% on Chinese EVs, targeting BYD, SAIC, and battery suppliers. If adopted, the measures will take effect in November. Exporters should immediately review rules of origin, increase local production in Europe, and explore third-country transshipment or joint ventures with EU automakers to mitigate tariff risks.",
+    "source_en": "Source: European Commission Official Journal · 2026.07.31"
   },
   "case": {
-    "title": "ICC仲裁庭认定：跨境供应链中的“不可抗力”条款不适用于因制裁导致的履约障碍",
-    "summary": "国际商会（ICC）仲裁庭近日就一起中欧企业间的设备采购合同纠纷作出裁决。中国卖方以美国次级制裁导致其无法从欧洲供应商处采购关键零部件为由，主张不可抗力免责。仲裁庭认为，制裁风险属于商业主体在签约时可合理预见的政治风险，且合同未明确将制裁纳入不可抗力范围，故不支持卖方免责请求。该案例提示中国企业：在涉美或涉欧合同中，应主动谈判写入“制裁条款”或“合规条款”，明确制裁事件下的合同中止、变更或解除权，避免依赖一般不可抗力条款。",
-    "source": "来源：ICC国际仲裁院 · 2026年7月",
-    "title_en": "ICC Tribunal: Force Majeure Does Not Cover Sanction-Induced Performance Hurdles in Cross-Border Supply Chains",
-    "summary_en": "In a recent ICC arbitration case involving a Sino-European equipment procurement contract, the Chinese seller invoked force majeure after U.S. secondary sanctions prevented it from sourcing key components from a European supplier. The tribunal held that sanctions risk was a foreseeable political risk at the time of contracting and that the contract did not explicitly list sanctions as a force majeure event. The ruling underscores the importance for Chinese companies to negotiate specific 'sanctions clauses' or 'compliance clauses' in contracts with U.S. or European exposure, clearly defining rights to suspend, modify, or terminate the agreement upon the occurrence of sanctions events, rather than relying on general force majeure provisions.",
-    "source_en": "Source: ICC International Court of Arbitration · July 2026"
+    "title": "新加坡国际仲裁中心裁决：跨境数据合规条款缺失导致企业赔偿200万美元",
+    "summary": "在SIAC仲裁案ARB-2025-089中，中国某跨境电商平台因未在服务协议中明确约定数据跨境传输的合规标准，被新加坡合作方索赔。仲裁庭认定平台违反GDPR第44条，判令赔偿200万美元并承担仲裁费用。此案警示：涉欧数据业务必须嵌入GDPR合规条款，明确数据控制者与处理者责任。",
+    "source": "来源：新加坡国际仲裁中心案件摘要 · 2026.07",
+    "title_en": "SIAC Award: Missing Cross-Border Data Compliance Clause Costs Chinese E-Commerce Firm USD 2 Million",
+    "summary_en": "In SIAC case ARB-2025-089, a Chinese cross-border e-commerce platform was ordered to pay USD 2 million in damages and arbitration costs for failing to include data transfer compliance standards in its service agreement, violating GDPR Article 44. The case highlights the necessity of embedding GDPR clauses and defining controller/processor responsibilities in EU-related data contracts.",
+    "source_en": "Source: SIAC Case Summary · 2026.07"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”机制正式落地深圳前海",
-    "summary": "2026年7月28日，广东省互联网信息办公室发布《粤港澳大湾区（深圳前海）跨境数据流动管理暂行办法》，正式实施跨境数据分类分级管理及“白名单”机制。根据该办法，金融、医疗、交通等领域的数据处理者，在履行安全评估、签订标准合同及备案后，可向港澳有序跨境传输必要数据。此举旨在平衡数据安全与经贸便利，为区内企业合规开展跨境业务提供明确路径。企业应尽快对照《办法》完成数据分类与安全评估，并关注后续配套标准合同文本的出台。",
-    "source": "来源：广东省互联网信息办公室 · 2026.07.28",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Launches 'Whitelist' Mechanism for Cross-Border Data Flows in Qianhai, Shenzhen",
-    "summary_en": "On July 28, 2026, the Cyberspace Administration of Guangdong Province issued the 'Interim Measures for the Management of Cross-Border Data Flows in the Guangdong-Hong Kong-Macao Greater Bay Area (Shenzhen Qianhai),' implementing a classified and tiered management system with a 'whitelist' mechanism. Under the Measures, data processors in sectors such as finance, healthcare, and transportation may transfer necessary data to and from Hong Kong and Macao on an orderly basis after completing security assessments, signing standard contracts, and filing. This initiative aims to balance data security with economic and trade facilitation, providing clear compliance pathways for enterprises in the GBA. Companies should promptly classify their data, conduct security assessments, and monitor the release of supporting standard contract templates.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.07.28"
+    "title": "粤港澳大湾区跨境数据流动“白名单”试点扩至深圳前海，企业备案即可传输",
+    "summary": "广东省网信办7月30日发布通知，将大湾区数据跨境流动“白名单”试点从珠海横琴扩展至深圳前海。符合条件的金融、医疗、物流企业可通过备案制实现日常经营数据向港澳自由传输，无需逐笔审批。该政策大幅降低合规成本，但企业仍需建立内部数据分类分级制度。",
+    "source": "来源：广东省互联网信息办公室 · 2026.07.30",
+    "title_en": "GBA Cross-Border Data Flow 'White List' Pilot Expanded to Qianhai, Shenzhen – Filing-Based Transfer Now Available",
+    "summary_en": "On July 30, the Guangdong Cyberspace Administration expanded the GBA cross-border data flow 'white list' pilot from Hengqin, Zhuhai to Qianhai, Shenzhen. Qualified financial, healthcare, and logistics companies can now freely transfer routine operational data to Hong Kong and Macau via a filing system, eliminating case-by-case approval. This policy significantly reduces compliance costs, though firms must still establish internal data classification systems.",
+    "source_en": "Source: Guangdong Cyberspace Administration · 2026.07.30"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华投资审查新规生效在即，中企应提前剥离敏感资产或调整架构",
-    "summary": "秦林蒿律师研判：美国财政部即将于2026年8月4日生效的《关于美国在特定国家安全技术领域对华投资的最终规则》，将禁止美国主体对中国的半导体、AI、量子计算等领域进行直接投资，并要求对部分交易进行申报。该规则回溯性不强，但覆盖私募股权、风险投资及合资企业。建议中国出海企业：第一，排查现有外资股东中是否有美国投资者，评估是否需要回购或调整股权结构；第二，对于未来融资计划，优先考虑非美资本或人民币基金；第三，在合资协议中增加触发条款，约定若一方因制裁或投资限制无法继续履行，另一方的退出路径。英文：Attorney Qin's view: The U.S. Treasury's final rule on outbound investment in China, effective August 4, 2026, prohibits U.S. persons from direct investments in China's semiconductors, AI, and quantum computing sectors, with a notification requirement for certain transactions. While not retroactive, the rule covers PE, VC, and JVs. I recommend Chinese companies: (1) audit existing foreign shareholders for U.S. investors and consider buybacks or restructuring; (2) prioritize non-U.S. capital or RMB funds for future financing; (3) include trigger clauses in JV agreements providing exit paths if a party cannot perform due to sanctions or investment restrictions.",
-    "source": "来源：美国财政部 · 2026.07.30",
-    "title_en": "Attorney Qin's View: U.S. Outbound Investment Review Rules Take Effect Soon – Chinese Companies Should Divest Sensitive Assets or Restructure in Advance",
-    "summary_en": "Attorney Qin's view: The U.S. Treasury's final rule on outbound investment in China, effective August 4, 2026, prohibits U.S. persons from direct investments in China's semiconductors, AI, and quantum computing sectors, with a notification requirement for certain transactions. While not retroactive, the rule covers PE, VC, and JVs. I recommend Chinese companies: (1) audit existing foreign shareholders for U.S. investors and consider buybacks or restructuring; (2) prioritize non-U.S. capital or RMB funds for future financing; (3) include trigger clauses in JV agreements providing exit paths if a party cannot perform due to sanctions or investment restrictions.",
-    "source_en": "Source: U.S. Department of the Treasury · 2026.07.30"
+    "title": "秦林蒿律师研判：美国对华半导体设备管制升级，中企应启动“合规审计+供应链备份”双预案",
+    "summary": "美国商务部工业安全局（BIS）近期拟修订《出口管理条例》，扩大对华半导体制造设备的最终用户管控范围。秦林蒿律师研判：此举将导致更多中国晶圆厂面临设备供应中断风险。建议相关企业立即开展内部合规审计，梳理受管制物项清单；同时加速国产设备验证与替代供应商开发，并考虑通过海外子公司申请许可证。",
+    "source": "来源：秦林蒿律师 · 2026.07.31",
+    "title_en": "Attorney Qin's view: US Semiconductor Equipment Controls Tightened – Chinese Firms Should Launch 'Compliance Audit + Supply Chain Backup'",
+    "summary_en": "The US BIS is proposing to expand end-user controls on semiconductor manufacturing equipment to China. Attorney Qin advises: this will increase supply disruption risks for Chinese fabs. Companies should promptly conduct internal compliance audits to identify controlled items, accelerate domestic equipment qualification and alternative supplier development, and consider applying for licenses through overseas subsidiaries.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.07.31"
   },
-  "dateLabel": "2026年7月30日 · 星期四",
-  "dateLabel_en": "Thursday, July 30, 2026",
-  "issue": 211
+  "dateLabel": "2026年7月31日 · 星期五",
+  "dateLabel_en": "Friday, July 31, 2026",
+  "issue": 212
 }
