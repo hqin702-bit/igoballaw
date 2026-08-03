@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征反补贴关税，中企供应链需提前布局",
-    "summary": "欧盟委员会于7月30日公布拟对中国产电动汽车加征17%至36%反补贴关税的初步裁定，涉及比亚迪、上汽等多家车企及电池供应商。该措施若通过，将于11月正式实施。建议出口企业立即启动原产地规则审查、调整欧洲本地化生产比例，并考虑通过第三国转口或与欧盟车企合资等合规路径降低关税影响。",
-    "source": "来源：欧盟委员会官方公报 · 2026.07.31",
-    "title_en": "EU Plans Anti-Subsidy Tariffs on Chinese EVs, Supply Chain Adjustments Urgent",
-    "summary_en": "On July 30, the European Commission announced preliminary anti-subsidy tariffs of 17% to 36% on Chinese EVs, targeting BYD, SAIC, and battery suppliers. If adopted, the measures will take effect in November. Exporters should immediately review rules of origin, increase local production in Europe, and explore third-country transshipment or joint ventures with EU automakers to mitigate tariff risks.",
-    "source_en": "Source: European Commission Official Journal · 2026.07.31"
+    "title": "美国拟收紧对华半导体设备出口管制，聚焦成熟制程与AI芯片",
+    "summary": "据多方消息，美国商务部正在酝酿新一轮对华半导体出口管制措施，预计将重点限制成熟制程芯片制造设备及用于AI训练的高性能芯片的对华出口。此举旨在遏制中国在成熟制程领域的产能扩张，同时防止先进AI技术外流。业内律师提醒，相关企业应密切关注最终规则文本，提前评估供应链影响，并考虑申请许可证的替代方案。",
+    "source": "来源：路透社、彭博社报道综合 · 2026.08.03",
+    "title_en": "US Mulls Tightened Export Controls on Semiconductor Equipment to China, Targeting Mature Nodes and AI Chips",
+    "summary_en": "According to multiple sources, the U.S. Department of Commerce is preparing a new round of export control measures on semiconductor equipment to China, likely focusing on restricting exports of equipment for mature-node chip manufacturing and high-performance AI training chips. The move aims to curb China's capacity expansion in mature nodes and prevent leakage of advanced AI technology. Lawyers advise affected companies to closely monitor the final rule, assess supply chain impacts early, and consider alternative licensing strategies.",
+    "source_en": "Source: Reuters, Bloomberg reports · 2026.08.03"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境数据合规条款缺失导致企业赔偿200万美元",
-    "summary": "在SIAC仲裁案ARB-2025-089中，中国某跨境电商平台因未在服务协议中明确约定数据跨境传输的合规标准，被新加坡合作方索赔。仲裁庭认定平台违反GDPR第44条，判令赔偿200万美元并承担仲裁费用。此案警示：涉欧数据业务必须嵌入GDPR合规条款，明确数据控制者与处理者责任。",
-    "source": "来源：新加坡国际仲裁中心案件摘要 · 2026.07",
-    "title_en": "SIAC Award: Missing Cross-Border Data Compliance Clause Costs Chinese E-Commerce Firm USD 2 Million",
-    "summary_en": "In SIAC case ARB-2025-089, a Chinese cross-border e-commerce platform was ordered to pay USD 2 million in damages and arbitration costs for failing to include data transfer compliance standards in its service agreement, violating GDPR Article 44. The case highlights the necessity of embedding GDPR clauses and defining controller/processor responsibilities in EU-related data contracts.",
-    "source_en": "Source: SIAC Case Summary · 2026.07"
+    "title": "最高法发布涉外商事典型案例：明确提单仲裁条款对收货人的效力认定规则",
+    "summary": "最高人民法院近日发布一批涉外商事海事典型案例，其中一则涉及提单背面仲裁条款的效力问题。法院认定，在提单合法转让后，仲裁条款对受让提单的收货人具有约束力，除非收货人明确表示反对。该案例明确了《最高人民法院关于适用〈中华人民共和国仲裁法〉若干问题的解释》相关规定的适用，为跨境贸易中提单纠纷的解决提供了指引，提示企业在接受提单时注意审查仲裁条款。",
+    "source": "来源：最高人民法院官网 · 2026.07",
+    "title_en": "SPC Publishes Typical Foreign-Related Commercial Cases: Clarifies Validity of Arbitration Clauses in Bills of Lading Against Consignees",
+    "summary_en": "The Supreme People's Court recently released a batch of typical foreign-related commercial and maritime cases, one of which concerns the validity of an arbitration clause printed on the back of a bill of lading. The court held that after lawful transfer of the bill, the arbitration clause binds the consignee who receives the bill, unless the consignee explicitly objects. This case clarifies the application of relevant judicial interpretations, providing guidance for dispute resolution in cross-border trade and reminding enterprises to carefully review arbitration clauses when accepting bills of lading.",
+    "source_en": "Source: SPC official website · 2026.07"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动“白名单”试点扩至深圳前海，企业备案即可传输",
-    "summary": "广东省网信办7月30日发布通知，将大湾区数据跨境流动“白名单”试点从珠海横琴扩展至深圳前海。符合条件的金融、医疗、物流企业可通过备案制实现日常经营数据向港澳自由传输，无需逐笔审批。该政策大幅降低合规成本，但企业仍需建立内部数据分类分级制度。",
-    "source": "来源：广东省互联网信息办公室 · 2026.07.30",
-    "title_en": "GBA Cross-Border Data Flow 'White List' Pilot Expanded to Qianhai, Shenzhen – Filing-Based Transfer Now Available",
-    "summary_en": "On July 30, the Guangdong Cyberspace Administration expanded the GBA cross-border data flow 'white list' pilot from Hengqin, Zhuhai to Qianhai, Shenzhen. Qualified financial, healthcare, and logistics companies can now freely transfer routine operational data to Hong Kong and Macau via a filing system, eliminating case-by-case approval. This policy significantly reduces compliance costs, though firms must still establish internal data classification systems.",
-    "source_en": "Source: Guangdong Cyberspace Administration · 2026.07.30"
+    "title": "粤港澳大湾区跨境纠纷替代解决机制建设提速，前海将设国际商事调解中心",
+    "summary": "为深化粤港澳大湾区法治协同，深圳前海拟设立国际商事调解中心，提供多语言、跨法域的调解服务，并探索与港澳调解机构的互认机制。该中心将重点服务跨境贸易、投资及知识产权纠纷，旨在降低企业解决争议的成本和时间。此举是落实《粤港澳大湾区发展规划纲要》的重要举措，有望为出海企业提供更便捷的争议解决途径。",
+    "source": "来源：深圳市司法局、前海管理局 · 2026.08",
+    "title_en": "GBA Accelerates Alternative Dispute Resolution: Qianhai to Establish International Commercial Mediation Center",
+    "summary_en": "To deepen legal cooperation in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), Shenzhen's Qianhai plans to establish an international commercial mediation center offering multilingual, cross-jurisdictional mediation services, and exploring mutual recognition mechanisms with Hong Kong and Macao mediation institutions. The center will focus on cross-border trade, investment, and IP disputes, aiming to reduce costs and time for enterprises. This initiative implements the GBA Development Plan and promises more accessible dispute resolution for overseas-bound companies.",
+    "source_en": "Source: Shenzhen Municipal Justice Bureau, Qianhai Authority · 2026.08"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华半导体设备管制升级，中企应启动“合规审计+供应链备份”双预案",
-    "summary": "美国商务部工业安全局（BIS）近期拟修订《出口管理条例》，扩大对华半导体制造设备的最终用户管控范围。秦林蒿律师研判：此举将导致更多中国晶圆厂面临设备供应中断风险。建议相关企业立即开展内部合规审计，梳理受管制物项清单；同时加速国产设备验证与替代供应商开发，并考虑通过海外子公司申请许可证。",
-    "source": "来源：秦林蒿律师 · 2026.07.31",
-    "title_en": "Attorney Qin's view: US Semiconductor Equipment Controls Tightened – Chinese Firms Should Launch 'Compliance Audit + Supply Chain Backup'",
-    "summary_en": "The US BIS is proposing to expand end-user controls on semiconductor manufacturing equipment to China. Attorney Qin advises: this will increase supply disruption risks for Chinese fabs. Companies should promptly conduct internal compliance audits to identify controlled items, accelerate domestic equipment qualification and alternative supplier development, and consider applying for licenses through overseas subsidiaries.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.07.31"
+    "title": "美国芯片管制升级下的供应链合规应对策略",
+    "summary": "秦林蒿律师研判：面对美国可能升级的芯片出口管制，中国出海企业应建立动态合规机制：一是梳理供应链中的受控物项，识别是否涉及美国原产技术或软件；二是评估现有许可证的覆盖范围，及时申请新许可证或寻求替代供应商；三是关注盟友国家的协同管制，避免转口贸易风险；四是利用合规审计和内部培训，提升全员合规意识。同时，建议企业通过行业协会或法律顾问参与规则制定的意见反馈。",
+    "source": "来源：律连全球研究部 · 2026.08.03",
+    "title_en": "Compliance Strategies for Supply Chains Amid Escalating US Chip Controls",
+    "summary_en": "Attorney Qin's view: In light of potentially stricter US chip export controls, Chinese companies going global should establish dynamic compliance mechanisms: first, map controlled items in their supply chains to identify any involvement of US-origin technology or software; second, assess the scope of existing licenses and promptly apply for new ones or seek alternative suppliers; third, monitor allied countries' coordinated controls to avoid transshipment risks; fourth, enhance compliance awareness through audits and training. Additionally, companies are advised to participate in rule-making feedback via industry associations or legal counsel.",
+    "source_en": "Source: iGlobal Law Research Department · 2026.08.03"
   },
-  "dateLabel": "2026年7月31日 · 星期五",
-  "dateLabel_en": "Friday, July 31, 2026",
-  "issue": 212
+  "dateLabel": "2026年8月3日 · 星期一",
+  "dateLabel_en": "Monday, August 3, 2026",
+  "issue": 215
 }
