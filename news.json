@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟收紧对华半导体设备出口管制，聚焦成熟制程与AI芯片",
-    "summary": "据多方消息，美国商务部正在酝酿新一轮对华半导体出口管制措施，预计将重点限制成熟制程芯片制造设备及用于AI训练的高性能芯片的对华出口。此举旨在遏制中国在成熟制程领域的产能扩张，同时防止先进AI技术外流。业内律师提醒，相关企业应密切关注最终规则文本，提前评估供应链影响，并考虑申请许可证的替代方案。",
-    "source": "来源：路透社、彭博社报道综合 · 2026.08.03",
-    "title_en": "US Mulls Tightened Export Controls on Semiconductor Equipment to China, Targeting Mature Nodes and AI Chips",
-    "summary_en": "According to multiple sources, the U.S. Department of Commerce is preparing a new round of export control measures on semiconductor equipment to China, likely focusing on restricting exports of equipment for mature-node chip manufacturing and high-performance AI training chips. The move aims to curb China's capacity expansion in mature nodes and prevent leakage of advanced AI technology. Lawyers advise affected companies to closely monitor the final rule, assess supply chain impacts early, and consider alternative licensing strategies.",
-    "source_en": "Source: Reuters, Bloomberg reports · 2026.08.03"
+    "title": "美国拟对东南亚四国光伏产品加征反倾销税，出海企业需重估供应链布局",
+    "summary": "美国商务部初步裁定，自柬埔寨、马来西亚、泰国和越南进口的光伏电池及组件存在倾销行为，拟加征反倾销税，税率因企业而异，最高或达70%以上。此举将直接影响中国光伏企业在东南亚的转口产能，并可能引发对规避关税的进一步调查。建议相关出海企业立即审查原产地规则、供应链溯源文件，并考虑多元化布局（如中东、拉美），同时评估美国海关针对规避行为的执法风险。",
+    "source": "来源：美国商务部（DOC）公告 · 2026.08.04",
+    "title_en": "US Preliminary Anti-Dumping Duties on Solar Imports from Four Southeast Asian Countries",
+    "summary_en": "The US Department of Commerce preliminarily determined that solar cells and modules from Cambodia, Malaysia, Thailand, and Vietnam were sold at less than fair value, proposing anti-dumping duties with rates up to over 70% for certain firms. This move directly impacts Chinese solar manufacturers' transshipment capacity in Southeast Asia and may trigger further circumvention investigations. Export-oriented companies should promptly review rules of origin, supply chain traceability documents, and consider diversifying production to the Middle East or Latin America, while assessing US Customs enforcement risks.",
+    "source_en": "Source: US Department of Commerce (DOC) announcement · 2026.08.04"
   },
   "case": {
-    "title": "最高法发布涉外商事典型案例：明确提单仲裁条款对收货人的效力认定规则",
-    "summary": "最高人民法院近日发布一批涉外商事海事典型案例，其中一则涉及提单背面仲裁条款的效力问题。法院认定，在提单合法转让后，仲裁条款对受让提单的收货人具有约束力，除非收货人明确表示反对。该案例明确了《最高人民法院关于适用〈中华人民共和国仲裁法〉若干问题的解释》相关规定的适用，为跨境贸易中提单纠纷的解决提供了指引，提示企业在接受提单时注意审查仲裁条款。",
-    "source": "来源：最高人民法院官网 · 2026.07",
-    "title_en": "SPC Publishes Typical Foreign-Related Commercial Cases: Clarifies Validity of Arbitration Clauses in Bills of Lading Against Consignees",
-    "summary_en": "The Supreme People's Court recently released a batch of typical foreign-related commercial and maritime cases, one of which concerns the validity of an arbitration clause printed on the back of a bill of lading. The court held that after lawful transfer of the bill, the arbitration clause binds the consignee who receives the bill, unless the consignee explicitly objects. This case clarifies the application of relevant judicial interpretations, providing guidance for dispute resolution in cross-border trade and reminding enterprises to carefully review arbitration clauses when accepting bills of lading.",
-    "source_en": "Source: SPC official website · 2026.07"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认，跨境执行路径更清晰",
+    "summary": "近日，上海海事法院依据《纽约公约》承认并执行新加坡国际仲裁中心（SIAC）一项涉及中英双方当事人的租船合同仲裁裁决。该案中，被申请人以仲裁庭未充分给予陈述机会为由抗辩，但法院认定仲裁程序符合当事人约定及新加坡法律，未违反中国公共政策，故裁定执行。此案提示出海企业，在约定SIAC等境外仲裁时，应确保程序合规，并注意中国法院对公共政策保留的适用尺度，以增强裁决可执行性。",
+    "source": "来源：上海海事法院 · 2026.07",
+    "title_en": "Singapore International Arbitration Centre (SIAC) Award Recognized by Chinese Court, Enhancing Cross-Border Enforcement",
+    "summary_en": "The Shanghai Maritime Court recently recognized and enforced a SIAC arbitral award in a charter party dispute between Chinese and British parties, under the New York Convention. The respondent's defense that the tribunal failed to provide adequate opportunity to present its case was rejected, as the court found the procedure complied with party agreement and Singapore law, and did not violate Chinese public policy. This case highlights that Chinese enterprises opting for foreign arbitration venues like SIAC should ensure procedural compliance and be mindful of China's narrow public policy exception to improve enforceability.",
+    "source_en": "Source: Shanghai Maritime Court · 2026.07"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷替代解决机制建设提速，前海将设国际商事调解中心",
-    "summary": "为深化粤港澳大湾区法治协同，深圳前海拟设立国际商事调解中心，提供多语言、跨法域的调解服务，并探索与港澳调解机构的互认机制。该中心将重点服务跨境贸易、投资及知识产权纠纷，旨在降低企业解决争议的成本和时间。此举是落实《粤港澳大湾区发展规划纲要》的重要举措，有望为出海企业提供更便捷的争议解决途径。",
-    "source": "来源：深圳市司法局、前海管理局 · 2026.08",
-    "title_en": "GBA Accelerates Alternative Dispute Resolution: Qianhai to Establish International Commercial Mediation Center",
-    "summary_en": "To deepen legal cooperation in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), Shenzhen's Qianhai plans to establish an international commercial mediation center offering multilingual, cross-jurisdictional mediation services, and exploring mutual recognition mechanisms with Hong Kong and Macao mediation institutions. The center will focus on cross-border trade, investment, and IP disputes, aiming to reduce costs and time for enterprises. This initiative implements the GBA Development Plan and promises more accessible dispute resolution for overseas-bound companies.",
-    "source_en": "Source: Shenzhen Municipal Justice Bureau, Qianhai Authority · 2026.08"
+    "title": "粤港澳大湾区跨境纠纷调解平台上线，为涉外企业提供高效解纷新通道",
+    "summary": "广东省司法厅联合香港、澳门法律部门于8月1日正式上线“粤港澳大湾区跨境纠纷调解平台”，整合三地调解资源，提供线上申请、跨境视频调解、电子签署等服务，覆盖商事、金融、知识产权等领域。该平台首期对接三地共120名专业调解员，并建立调解协议互认与执行衔接机制。此举旨在降低跨境解纷成本，提升大湾区法治化营商环境，建议涉外企业将其纳入争议解决选项。",
+    "source": "来源：广东省司法厅 · 2026.08.01",
+    "title_en": "Cross-Border Mediation Platform Launched in the Greater Bay Area, Offering New Efficient Dispute Resolution Channel",
+    "summary_en": "On August 1, the Guangdong Provincial Department of Justice, together with Hong Kong and Macao legal authorities, officially launched the 'Greater Bay Area Cross-Border Dispute Resolution Mediation Platform'. The platform integrates mediation resources from the three regions, providing online applications, cross-border video mediation, and e-signature services, covering commercial, financial, and IP disputes. It initially connects 120 professional mediators and establishes a mechanism for mutual recognition and enforcement of mediation agreements. This initiative aims to reduce cross-border dispute resolution costs and improve the business environment, and overseas-oriented enterprises are advised to consider this option.",
+    "source_en": "Source: Department of Justice of Guangdong Province · 2026.08.01"
   },
   "analysis": {
-    "title": "美国芯片管制升级下的供应链合规应对策略",
-    "summary": "秦林蒿律师研判：面对美国可能升级的芯片出口管制，中国出海企业应建立动态合规机制：一是梳理供应链中的受控物项，识别是否涉及美国原产技术或软件；二是评估现有许可证的覆盖范围，及时申请新许可证或寻求替代供应商；三是关注盟友国家的协同管制，避免转口贸易风险；四是利用合规审计和内部培训，提升全员合规意识。同时，建议企业通过行业协会或法律顾问参与规则制定的意见反馈。",
-    "source": "来源：律连全球研究部 · 2026.08.03",
-    "title_en": "Compliance Strategies for Supply Chains Amid Escalating US Chip Controls",
-    "summary_en": "Attorney Qin's view: In light of potentially stricter US chip export controls, Chinese companies going global should establish dynamic compliance mechanisms: first, map controlled items in their supply chains to identify any involvement of US-origin technology or software; second, assess the scope of existing licenses and promptly apply for new ones or seek alternative suppliers; third, monitor allied countries' coordinated controls to avoid transshipment risks; fourth, enhance compliance awareness through audits and training. Additionally, companies are advised to participate in rule-making feedback via industry associations or legal counsel.",
-    "source_en": "Source: iGlobal Law Research Department · 2026.08.03"
+    "title": "秦林蒿律师研判：欧盟《外国补贴条例》调查常态化，中企应建立全流程合规档案",
+    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》（FSR）实施已逾一年，欧委会对涉及中国企业的调查呈常态化趋势，尤其集中在公共采购和并购领域。企业若在投标或交易前未充分评估外国补贴风险，可能面临高额罚款或失去投标资格。建议出海企业建立全流程合规档案，包括逐笔记录政府补贴、税收优惠、低息贷款等，并制定内部申报指引。同时，在交易文件中加入FSR风险分配条款，以应对可能的调查。",
+    "source": "来源：律连全球研究部 · 2026.08.04",
+    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Investigations Becoming Norm, Chinese Companies Should Establish Full-Chain Compliance Files",
+    "summary_en": "Attorney Qin's view: Over a year since the EU Foreign Subsidies Regulation (FSR) took effect, the European Commission has shown a trend of regular investigations into Chinese companies, particularly in public procurement and M&A. Without adequate pre-bid or pre-transaction assessment of foreign subsidy risks, companies may face hefty fines or disqualification. It is advisable for overseas-oriented companies to establish comprehensive compliance files, including recording government subsidies, tax incentives, and low-interest loans, and to develop internal reporting guidelines. Additionally, include FSR risk allocation clauses in transaction documents to prepare for potential investigations.",
+    "source_en": "Source: iGlobal Law Research Department · 2026.08.04"
   },
-  "dateLabel": "2026年8月3日 · 星期一",
-  "dateLabel_en": "Monday, August 3, 2026",
-  "issue": 215
+  "dateLabel": "2026年8月4日 · 星期二",
+  "dateLabel_en": "Tuesday, August 4, 2026",
+  "issue": 216
 }
