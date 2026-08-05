@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚四国光伏产品加征反倾销税，出海企业需重估供应链布局",
-    "summary": "美国商务部初步裁定，自柬埔寨、马来西亚、泰国和越南进口的光伏电池及组件存在倾销行为，拟加征反倾销税，税率因企业而异，最高或达70%以上。此举将直接影响中国光伏企业在东南亚的转口产能，并可能引发对规避关税的进一步调查。建议相关出海企业立即审查原产地规则、供应链溯源文件，并考虑多元化布局（如中东、拉美），同时评估美国海关针对规避行为的执法风险。",
-    "source": "来源：美国商务部（DOC）公告 · 2026.08.04",
-    "title_en": "US Preliminary Anti-Dumping Duties on Solar Imports from Four Southeast Asian Countries",
-    "summary_en": "The US Department of Commerce preliminarily determined that solar cells and modules from Cambodia, Malaysia, Thailand, and Vietnam were sold at less than fair value, proposing anti-dumping duties with rates up to over 70% for certain firms. This move directly impacts Chinese solar manufacturers' transshipment capacity in Southeast Asia and may trigger further circumvention investigations. Export-oriented companies should promptly review rules of origin, supply chain traceability documents, and consider diversifying production to the Middle East or Latin America, while assessing US Customs enforcement risks.",
-    "source_en": "Source: US Department of Commerce (DOC) announcement · 2026.08.04"
+    "title": "美国升级对华半导体设备出口管制，中国企业需加速供应链合规调整",
+    "summary": "2026年8月初，美国商务部工业与安全局（BIS）宣布进一步收紧对华半导体制造设备出口许可政策，将部分成熟制程设备纳入管制范围，并强化最终用户审查。此举将影响中国晶圆厂及设备采购方，企业需重新评估供应链风险，及时申请许可或调整采购策略。建议出海企业密切关注BIS实体清单更新，并建立动态合规机制，确保贸易合规。",
+    "source": "来源：美国商务部工业与安全局公告 · 2026.08.05",
+    "title_en": "US Tightens Export Controls on Semiconductor Equipment to China, Urging Supply Chain Compliance Adjustments",
+    "summary_en": "In early August 2026, the US Bureau of Industry and Security (BIS) announced further restrictions on export licenses for semiconductor manufacturing equipment to China, expanding controls to some mature-node tools and strengthening end-user reviews. This move will impact Chinese wafer fabs and equipment buyers, requiring them to reassess supply chain risks, apply for licenses promptly, or adjust procurement strategies. Companies going global are advised to closely monitor BIS entity list updates and establish dynamic compliance mechanisms to ensure trade compliance.",
+    "source_en": "Source: US BIS Announcement · 2026.08.05"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决获中国法院承认，跨境执行路径更清晰",
-    "summary": "近日，上海海事法院依据《纽约公约》承认并执行新加坡国际仲裁中心（SIAC）一项涉及中英双方当事人的租船合同仲裁裁决。该案中，被申请人以仲裁庭未充分给予陈述机会为由抗辩，但法院认定仲裁程序符合当事人约定及新加坡法律，未违反中国公共政策，故裁定执行。此案提示出海企业，在约定SIAC等境外仲裁时，应确保程序合规，并注意中国法院对公共政策保留的适用尺度，以增强裁决可执行性。",
-    "source": "来源：上海海事法院 · 2026.07",
-    "title_en": "Singapore International Arbitration Centre (SIAC) Award Recognized by Chinese Court, Enhancing Cross-Border Enforcement",
-    "summary_en": "The Shanghai Maritime Court recently recognized and enforced a SIAC arbitral award in a charter party dispute between Chinese and British parties, under the New York Convention. The respondent's defense that the tribunal failed to provide adequate opportunity to present its case was rejected, as the court found the procedure complied with party agreement and Singapore law, and did not violate Chinese public policy. This case highlights that Chinese enterprises opting for foreign arbitration venues like SIAC should ensure procedural compliance and be mindful of China's narrow public policy exception to improve enforceability.",
-    "source_en": "Source: Shanghai Maritime Court · 2026.07"
+    "title": "新加坡国际仲裁中心裁决：跨境股权回购争议中，情势变更原则的适用边界",
+    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起中资企业跨境股权回购纠纷作出裁决。因目标公司所在国政策突变，回购条件未能成就，一方主张情势变更免责，但仲裁庭认为，商业风险应由当事人自行承担，合同未约定不可抗力条款，故驳回该抗辩。此案提示中国企业，在跨境投资中应明确约定不可抗力及情势变更条款，并留存政策变化证据，以降低履约风险。",
+    "source": "来源：新加坡国际仲裁中心案例摘要 · 2026.07",
+    "title_en": "SIAC Ruling Clarifies Scope of Changed Circumstances in Cross-Border Share Buyback Disputes",
+    "summary_en": "In a recent Singapore International Arbitration Centre (SIAC) ruling concerning a cross-border share buyback dispute involving Chinese investors, the tribunal rejected a party's defense based on changed circumstances, holding that commercial risks should be borne by the parties and that the contract lacked a force majeure clause. The case underscores the importance for Chinese enterprises to explicitly stipulate force majeure and hardship clauses in cross-border investment contracts and to preserve evidence of policy changes to mitigate performance risks.",
+    "source_en": "Source: SIAC Case Summary · 2026.07"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷调解平台上线，为涉外企业提供高效解纷新通道",
-    "summary": "广东省司法厅联合香港、澳门法律部门于8月1日正式上线“粤港澳大湾区跨境纠纷调解平台”，整合三地调解资源，提供线上申请、跨境视频调解、电子签署等服务，覆盖商事、金融、知识产权等领域。该平台首期对接三地共120名专业调解员，并建立调解协议互认与执行衔接机制。此举旨在降低跨境解纷成本，提升大湾区法治化营商环境，建议涉外企业将其纳入争议解决选项。",
-    "source": "来源：广东省司法厅 · 2026.08.01",
-    "title_en": "Cross-Border Mediation Platform Launched in the Greater Bay Area, Offering New Efficient Dispute Resolution Channel",
-    "summary_en": "On August 1, the Guangdong Provincial Department of Justice, together with Hong Kong and Macao legal authorities, officially launched the 'Greater Bay Area Cross-Border Dispute Resolution Mediation Platform'. The platform integrates mediation resources from the three regions, providing online applications, cross-border video mediation, and e-signature services, covering commercial, financial, and IP disputes. It initially connects 120 professional mediators and establishes a mechanism for mutual recognition and enforcement of mediation agreements. This initiative aims to reduce cross-border dispute resolution costs and improve the business environment, and overseas-oriented enterprises are advised to consider this option.",
-    "source_en": "Source: Department of Justice of Guangdong Province · 2026.08.01"
+    "title": "粤港澳大湾区跨境数据流动新规落地，企业需建立数据出境合规清单",
+    "summary": "2026年7月，广东省网信办发布《粤港澳大湾区个人信息跨境流动便利化措施（试行）》，在自贸区范围内简化个人信息出境安全评估流程，但要求企业建立数据出境合规清单并备案。该政策旨在促进大湾区数据要素流通，同时强化监管。企业应梳理数据出境场景，开展个人信息保护影响评估，并利用便利化通道，降低合规成本。",
+    "source": "来源：广东省互联网信息办公室 · 2026.07",
+    "title_en": "New Rules on Cross-Border Data Flows in the Greater Bay Area Take Effect, Requiring Compliance Inventories",
+    "summary_en": "In July 2026, the Cyberspace Administration of Guangdong Province issued the 'Measures for Facilitating Cross-Border Personal Information Flows in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', which simplify the security assessment process for personal information exports within free trade zones, but require enterprises to establish and file compliance inventories for data exports. The policy aims to promote data flow in the GBA while strengthening supervision. Companies should map data export scenarios, conduct personal information protection impact assessments, and leverage the facilitated channels to reduce compliance costs.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.07"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟《外国补贴条例》调查常态化，中企应建立全流程合规档案",
-    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》（FSR）实施已逾一年，欧委会对涉及中国企业的调查呈常态化趋势，尤其集中在公共采购和并购领域。企业若在投标或交易前未充分评估外国补贴风险，可能面临高额罚款或失去投标资格。建议出海企业建立全流程合规档案，包括逐笔记录政府补贴、税收优惠、低息贷款等，并制定内部申报指引。同时，在交易文件中加入FSR风险分配条款，以应对可能的调查。",
-    "source": "来源：律连全球研究部 · 2026.08.04",
-    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Investigations Becoming Norm, Chinese Companies Should Establish Full-Chain Compliance Files",
-    "summary_en": "Attorney Qin's view: Over a year since the EU Foreign Subsidies Regulation (FSR) took effect, the European Commission has shown a trend of regular investigations into Chinese companies, particularly in public procurement and M&A. Without adequate pre-bid or pre-transaction assessment of foreign subsidy risks, companies may face hefty fines or disqualification. It is advisable for overseas-oriented companies to establish comprehensive compliance files, including recording government subsidies, tax incentives, and low-interest loans, and to develop internal reporting guidelines. Additionally, include FSR risk allocation clauses in transaction documents to prepare for potential investigations.",
-    "source_en": "Source: iGlobal Law Research Department · 2026.08.04"
+    "title": "欧盟《外国补贴条例》执法趋严，中企投标欧盟公共采购需提前自我评估",
+    "summary": "秦林蒿律师研判：近期欧盟委员会依据《外国补贴条例》对多起中资企业参与的公共采购项目启动深入调查，重点审查补贴是否扭曲内部市场。建议中国企业在参与欧盟公共采购或收购欧盟企业前，主动进行补贴申报和内部合规审查，评估可能被认定为外国补贴的政府支持措施，并准备抗辩材料，以降低交易受阻风险。",
+    "source": "来源：律连全球研究团队 · 2026.08.05",
+    "title_en": "EU's Foreign Subsidies Regulation Enforcement Intensifies: Chinese Firms Need Pre-Bid Self-Assessment",
+    "summary_en": "Attorney Qin's view: The European Commission has recently launched in-depth investigations into several public procurement projects involving Chinese companies under the Foreign Subsidies Regulation, focusing on whether subsidies distort the internal market. It is advisable for Chinese enterprises to proactively conduct subsidy notifications and internal compliance reviews before bidding on EU public procurement or acquiring EU targets, assess government support measures that could be deemed foreign subsidies, and prepare defense materials to reduce the risk of transaction disruption.",
+    "source_en": "Source: iGlobal Law Research Team · 2026.08.05"
   },
-  "dateLabel": "2026年8月4日 · 星期二",
-  "dateLabel_en": "Tuesday, August 4, 2026",
-  "issue": 216
+  "dateLabel": "2026年8月5日 · 星期三",
+  "dateLabel_en": "Wednesday, August 5, 2026",
+  "issue": 217
 }
