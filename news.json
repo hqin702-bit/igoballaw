@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国升级对华半导体设备出口管制，中国企业需加速供应链合规调整",
-    "summary": "2026年8月初，美国商务部工业与安全局（BIS）宣布进一步收紧对华半导体制造设备出口许可政策，将部分成熟制程设备纳入管制范围，并强化最终用户审查。此举将影响中国晶圆厂及设备采购方，企业需重新评估供应链风险，及时申请许可或调整采购策略。建议出海企业密切关注BIS实体清单更新，并建立动态合规机制，确保贸易合规。",
-    "source": "来源：美国商务部工业与安全局公告 · 2026.08.05",
-    "title_en": "US Tightens Export Controls on Semiconductor Equipment to China, Urging Supply Chain Compliance Adjustments",
-    "summary_en": "In early August 2026, the US Bureau of Industry and Security (BIS) announced further restrictions on export licenses for semiconductor manufacturing equipment to China, expanding controls to some mature-node tools and strengthening end-user reviews. This move will impact Chinese wafer fabs and equipment buyers, requiring them to reassess supply chain risks, apply for licenses promptly, or adjust procurement strategies. Companies going global are advised to closely monitor BIS entity list updates and establish dynamic compliance mechanisms to ensure trade compliance.",
-    "source_en": "Source: US BIS Announcement · 2026.08.05"
+    "title": "美国拟将东南亚四国太阳能产品关税恢复至2012年水平，中国厂商需评估供应链调整",
+    "summary": "据美国贸易代表办公室近期公告，美方拟于2026年8月底前结束对柬埔寨、马来西亚、泰国、越南四国太阳能电池及组件的关税豁免，恢复至2012年反倾销/反补贴税率水平。此举将直接影响中国企业在上述地区的产能布局。建议相关企业尽快核查原产地规则与供应链安排，评估关税成本上升幅度，并考虑将部分产能转移至美国本土或享受免税待遇的国家，同时关注美国海关针对规避行为的执法动向，做好合规预案。",
+    "source": "来源：美国贸易代表办公室（USTR）公告 · 2026.08.06",
+    "title_en": "U.S. Plans to Reinstate 2012-Level Tariffs on Solar Products from Four Southeast Asian Countries; Chinese Manufacturers Should Assess Supply Chain Adjustments",
+    "summary_en": "According to a recent announcement by the U.S. Trade Representative (USTR), the United States intends to end, by the end of August 2026, the tariff exemptions on solar cells and modules from Cambodia, Malaysia, Thailand, and Vietnam, reverting to the anti-dumping/countervailing duty rates from 2012. This move will directly impact the production capacity Chinese enterprises have established in these regions. Companies are advised to promptly review rules of origin and supply chain arrangements, assess the magnitude of tariff cost increases, consider relocating some capacity to the U.S. or tariff-free countries, and monitor U.S. Customs enforcement against circumvention, with compliance contingency plans in place.",
+    "source_en": "Source: Office of the U.S. Trade Representative (USTR) announcement · 2026.08.06"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境股权回购争议中，情势变更原则的适用边界",
-    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起中资企业跨境股权回购纠纷作出裁决。因目标公司所在国政策突变，回购条件未能成就，一方主张情势变更免责，但仲裁庭认为，商业风险应由当事人自行承担，合同未约定不可抗力条款，故驳回该抗辩。此案提示中国企业，在跨境投资中应明确约定不可抗力及情势变更条款，并留存政策变化证据，以降低履约风险。",
-    "source": "来源：新加坡国际仲裁中心案例摘要 · 2026.07",
-    "title_en": "SIAC Ruling Clarifies Scope of Changed Circumstances in Cross-Border Share Buyback Disputes",
-    "summary_en": "In a recent Singapore International Arbitration Centre (SIAC) ruling concerning a cross-border share buyback dispute involving Chinese investors, the tribunal rejected a party's defense based on changed circumstances, holding that commercial risks should be borne by the parties and that the contract lacked a force majeure clause. The case underscores the importance for Chinese enterprises to explicitly stipulate force majeure and hardship clauses in cross-border investment contracts and to preserve evidence of policy changes to mitigate performance risks.",
-    "source_en": "Source: SIAC Case Summary · 2026.07"
+    "title": "新加坡国际仲裁中心裁决：跨境股权代持协议因违反中国外资准入规定被认定无效",
+    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起涉及中国境内企业的股权代持争议作出裁决，认定代持协议因违反中国《外商投资准入特别管理措施（负面稿）》中的禁止性规定而无效。仲裁庭认为，尽管协议约定适用新加坡法律，但根据中国法律强制性规定，该代持行为规避外资准入审批，损害公共利益，故裁决代持关系不成立，并驳回实际出资人要求确认股权的请求。该案提示跨境投资者在采用代持结构前，必须严格审查目标行业的外资准入限制，避免因违反中国强制性法律导致协议无效。",
+    "source": "来源：新加坡国际仲裁中心（SIAC）裁决摘要 · 2026.08.06",
+    "title_en": "SIAC Award: Cross-Border Shareholding Nominee Agreement Rendered Void for Violating China's Foreign Investment Access Rules",
+    "summary_en": "In a recent award, the Singapore International Arbitration Centre (SIAC) ruled that a shareholding nominee agreement involving a China-based company was void for violating the prohibitive provisions of China's 'Special Administrative Measures for Foreign Investment Access (Negative List)'. The tribunal held that despite the agreement's choice of Singapore law, the arrangement circumvented foreign investment access approval and harmed public interest under Chinese mandatory law, thus the nominee relationship was not established, and the claim of the actual investor to confirm shareholding was dismissed. The case reminds cross-border investors to carefully review industry-specific foreign investment restrictions before adopting nominee structures, to avoid invalidity due to contravening Chinese mandatory laws.",
+    "source_en": "Source: SIAC Award Summary · 2026.08.06"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，企业需建立数据出境合规清单",
-    "summary": "2026年7月，广东省网信办发布《粤港澳大湾区个人信息跨境流动便利化措施（试行）》，在自贸区范围内简化个人信息出境安全评估流程，但要求企业建立数据出境合规清单并备案。该政策旨在促进大湾区数据要素流通，同时强化监管。企业应梳理数据出境场景，开展个人信息保护影响评估，并利用便利化通道，降低合规成本。",
-    "source": "来源：广东省互联网信息办公室 · 2026.07",
-    "title_en": "New Rules on Cross-Border Data Flows in the Greater Bay Area Take Effect, Requiring Compliance Inventories",
-    "summary_en": "In July 2026, the Cyberspace Administration of Guangdong Province issued the 'Measures for Facilitating Cross-Border Personal Information Flows in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', which simplify the security assessment process for personal information exports within free trade zones, but require enterprises to establish and file compliance inventories for data exports. The policy aims to promote data flow in the GBA while strengthening supervision. Companies should map data export scenarios, conduct personal information protection impact assessments, and leverage the facilitated channels to reduce compliance costs.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.07"
+    "title": "粤港澳大湾区跨境数据流动新规：内地与港澳间重要数据出境实行负面清单管理",
+    "summary": "为促进粤港澳大湾区数据跨境安全有序流动，国家网信办等三部门于2026年8月5日联合发布《粤港澳大湾区（内地、香港、澳门）数据跨境流动便利化管理办法（试行）》，自2026年9月1日起施行。办法明确，对于重要数据出境，实行负面清单管理，清单外的一般数据可自由流动；同时简化个人信息出境标准合同备案流程，并设立大湾区数据跨境流动安全评估绿色通道。企业需对照负面清单识别自身数据是否属于重要数据，并完善数据分类分级与合规机制。",
+    "source": "来源：国家互联网信息办公室等三部门联合发布 · 2026.08.06",
+    "title_en": "New Cross-Border Data Flow Rules for the Greater Bay Area: Negative List Management for Important Data Outbound between Mainland, Hong Kong and Macao",
+    "summary_en": "To facilitate secure and orderly cross-border data flow in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), the Cyberspace Administration of China and two other departments jointly issued on August 5, 2026 the 'Measures for Facilitating Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong, Macao) (Trial)', effective from September 1, 2026. The Measures adopt a negative list management for outbound transfer of important data, allowing free flow of general data outside the list; they also streamline the filing process for standard contracts for personal information transfer, and establish a green channel for security assessment of cross-border data flow within the GBA. Enterprises should compare against the negative list to identify whether their data constitutes important data, and improve data classification and compliance mechanisms.",
+    "source_en": "Source: Joint issuance by the Cyberspace Administration of China and two other departments · 2026.08.06"
   },
   "analysis": {
-    "title": "欧盟《外国补贴条例》执法趋严，中企投标欧盟公共采购需提前自我评估",
-    "summary": "秦林蒿律师研判：近期欧盟委员会依据《外国补贴条例》对多起中资企业参与的公共采购项目启动深入调查，重点审查补贴是否扭曲内部市场。建议中国企业在参与欧盟公共采购或收购欧盟企业前，主动进行补贴申报和内部合规审查，评估可能被认定为外国补贴的政府支持措施，并准备抗辩材料，以降低交易受阻风险。",
-    "source": "来源：律连全球研究团队 · 2026.08.05",
-    "title_en": "EU's Foreign Subsidies Regulation Enforcement Intensifies: Chinese Firms Need Pre-Bid Self-Assessment",
-    "summary_en": "Attorney Qin's view: The European Commission has recently launched in-depth investigations into several public procurement projects involving Chinese companies under the Foreign Subsidies Regulation, focusing on whether subsidies distort the internal market. It is advisable for Chinese enterprises to proactively conduct subsidy notifications and internal compliance reviews before bidding on EU public procurement or acquiring EU targets, assess government support measures that could be deemed foreign subsidies, and prepare defense materials to reduce the risk of transaction disruption.",
-    "source_en": "Source: iGlobal Law Research Team · 2026.08.05"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期将尽，中国企业需抓紧完成CBAM申报准备",
+    "summary": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收期。目前，出口钢铁、铝、水泥、化肥、电力、氢能等产品的中国企业，须在2026年10月31日前提交第四季度过渡期报告，并持续完善排放数据核算。建议企业尽快建立产品级碳足迹核算体系，对接欧盟认可的第三方核查机构，同时评估供应链中的间接排放影响。若未按期申报，将面临每吨未申报排放20-50欧元的罚款。此外，可考虑通过优化生产工艺、采用绿色电力等方式降低碳成本，并关注欧盟后续公布的默认值调整。",
+    "source": "来源：律连全球 · 涉外法律团队分析 · 2026.08.06",
+    "title_en": "Attorney Qin's View: As EU CBAM Transition Period Nears End, Chinese Enterprises Must Expedite CBAM Compliance Preparation",
+    "summary_en": "Attorney Qin's view: The transitional period of the EU Carbon Border Adjustment Mechanism (CBAM) will end by the end of 2026, with the definitive regime commencing in 2027. Chinese exporters of steel, aluminum, cement, fertilizers, electricity, and hydrogen must submit the Q4 transitional report by October 31, 2026, and continuously improve emission data accounting. Companies are advised to promptly establish product-level carbon footprint accounting systems, engage EU-recognized third-party verifiers, and assess indirect emission impacts in the supply chain. Failure to report on time may result in fines of €20-50 per tonne of unreported emissions. Additionally, consider reducing carbon costs through process optimization or green electricity procurement, and monitor future adjustments to default values announced by the EU.",
+    "source_en": "Source: iGlobal Law · Cross-border legal team analysis · 2026.08.06"
   },
-  "dateLabel": "2026年8月5日 · 星期三",
-  "dateLabel_en": "Wednesday, August 5, 2026",
-  "issue": 217
+  "dateLabel": "2026年8月6日 · 星期四",
+  "dateLabel_en": "Thursday, August 6, 2026",
+  "issue": 218
 }
