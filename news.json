@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟将东南亚四国太阳能产品关税恢复至2012年水平，中国厂商需评估供应链调整",
-    "summary": "据美国贸易代表办公室近期公告，美方拟于2026年8月底前结束对柬埔寨、马来西亚、泰国、越南四国太阳能电池及组件的关税豁免，恢复至2012年反倾销/反补贴税率水平。此举将直接影响中国企业在上述地区的产能布局。建议相关企业尽快核查原产地规则与供应链安排，评估关税成本上升幅度，并考虑将部分产能转移至美国本土或享受免税待遇的国家，同时关注美国海关针对规避行为的执法动向，做好合规预案。",
-    "source": "来源：美国贸易代表办公室（USTR）公告 · 2026.08.06",
-    "title_en": "U.S. Plans to Reinstate 2012-Level Tariffs on Solar Products from Four Southeast Asian Countries; Chinese Manufacturers Should Assess Supply Chain Adjustments",
-    "summary_en": "According to a recent announcement by the U.S. Trade Representative (USTR), the United States intends to end, by the end of August 2026, the tariff exemptions on solar cells and modules from Cambodia, Malaysia, Thailand, and Vietnam, reverting to the anti-dumping/countervailing duty rates from 2012. This move will directly impact the production capacity Chinese enterprises have established in these regions. Companies are advised to promptly review rules of origin and supply chain arrangements, assess the magnitude of tariff cost increases, consider relocating some capacity to the U.S. or tariff-free countries, and monitor U.S. Customs enforcement against circumvention, with compliance contingency plans in place.",
-    "source_en": "Source: Office of the U.S. Trade Representative (USTR) announcement · 2026.08.06"
+    "title": "美国拟对东南亚四国光伏产品加征反倾销税，中国组件企业面临转口合规新考验",
+    "summary": "美国商务部初步裁定，来自泰国、越南、马来西亚、柬埔寨的晶体硅光伏电池及组件存在倾销行为，拟征收17%至271%不等的反倾销税，并将追溯适用。此举将直接冲击中国企业在东南亚的转口产能布局。相关企业需在终裁前完成供应链合规审查，评估原产地规则及反规避风险，调整出口路径，并考虑通过美国建厂或技术授权等方式重构海外产能。",
+    "source": "来源：美国商务部（DOC） · 2026.08.07",
+    "title_en": "US Preliminary AD Duties on Solar Imports from Four Southeast Asian Countries to Reshape Chinese Firms' Transshipment Strategies",
+    "summary_en": "The US Department of Commerce has preliminarily determined that crystalline silicon photovoltaic cells and modules from Thailand, Vietnam, Malaysia, and Cambodia were sold at less than fair value, proposing anti-dumping duties ranging from 17% to 271%, with retroactive application. This move directly impacts Chinese companies' transshipment production bases in Southeast Asia. Affected firms should conduct supply chain compliance reviews before the final determination, assess rules of origin and anti-circumvention risks, adjust export routes, and consider restructuring overseas capacity through US-based manufacturing or technology licensing.",
+    "source_en": "Source: US Department of Commerce (DOC) · 2026.08.07"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境股权代持协议因违反中国外资准入规定被认定无效",
-    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起涉及中国境内企业的股权代持争议作出裁决，认定代持协议因违反中国《外商投资准入特别管理措施（负面稿）》中的禁止性规定而无效。仲裁庭认为，尽管协议约定适用新加坡法律，但根据中国法律强制性规定，该代持行为规避外资准入审批，损害公共利益，故裁决代持关系不成立，并驳回实际出资人要求确认股权的请求。该案提示跨境投资者在采用代持结构前，必须严格审查目标行业的外资准入限制，避免因违反中国强制性法律导致协议无效。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）裁决摘要 · 2026.08.06",
-    "title_en": "SIAC Award: Cross-Border Shareholding Nominee Agreement Rendered Void for Violating China's Foreign Investment Access Rules",
-    "summary_en": "In a recent award, the Singapore International Arbitration Centre (SIAC) ruled that a shareholding nominee agreement involving a China-based company was void for violating the prohibitive provisions of China's 'Special Administrative Measures for Foreign Investment Access (Negative List)'. The tribunal held that despite the agreement's choice of Singapore law, the arrangement circumvented foreign investment access approval and harmed public interest under Chinese mandatory law, thus the nominee relationship was not established, and the claim of the actual investor to confirm shareholding was dismissed. The case reminds cross-border investors to carefully review industry-specific foreign investment restrictions before adopting nominee structures, to avoid invalidity due to contravening Chinese mandatory laws.",
-    "source_en": "Source: SIAC Award Summary · 2026.08.06"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认与执行，仲裁协议效力审查成关键",
+    "summary": "某中国企业与新加坡公司因货物买卖合同纠纷，在新加坡国际仲裁中心（SIAC）进行仲裁。裁决作出后，新加坡公司向中国法院申请承认与执行。中国法院依据《纽约公约》审查后，认定双方仲裁协议有效，裁决不违反中国公共政策，遂裁定承认与执行。该案提示，跨境合同中仲裁条款的明确性、独立性及争议事项的可仲裁性，是裁决能否在中国获得执行的关键；企业应确保仲裁条款符合中国法律及《纽约公约》要求。",
+    "source": "来源：中国法院网 · 2026.07",
+    "title_en": "Chinese Court Recognizes and Enforces SIAC Award, Highlighting Key Role of Arbitration Agreement Validity",
+    "summary_en": "In a dispute over a goods sale contract between a Chinese enterprise and a Singapore company, arbitration was conducted at the Singapore International Arbitration Centre (SIAC). After the award was rendered, the Singapore company sought recognition and enforcement in Chinese courts. The Chinese court, reviewing under the New York Convention, found the arbitration agreement valid and the award not contrary to Chinese public policy, thus granting recognition and enforcement. This case underscores that the clarity, independence, and arbitrability of the arbitration clause in cross-border contracts are crucial for enforcement in China; enterprises should ensure arbitration clauses comply with Chinese law and the New York Convention.",
+    "source_en": "Source: China Court Online · 2026.07"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规：内地与港澳间重要数据出境实行负面清单管理",
-    "summary": "为促进粤港澳大湾区数据跨境安全有序流动，国家网信办等三部门于2026年8月5日联合发布《粤港澳大湾区（内地、香港、澳门）数据跨境流动便利化管理办法（试行）》，自2026年9月1日起施行。办法明确，对于重要数据出境，实行负面清单管理，清单外的一般数据可自由流动；同时简化个人信息出境标准合同备案流程，并设立大湾区数据跨境流动安全评估绿色通道。企业需对照负面清单识别自身数据是否属于重要数据，并完善数据分类分级与合规机制。",
-    "source": "来源：国家互联网信息办公室等三部门联合发布 · 2026.08.06",
-    "title_en": "New Cross-Border Data Flow Rules for the Greater Bay Area: Negative List Management for Important Data Outbound between Mainland, Hong Kong and Macao",
-    "summary_en": "To facilitate secure and orderly cross-border data flow in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), the Cyberspace Administration of China and two other departments jointly issued on August 5, 2026 the 'Measures for Facilitating Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong, Macao) (Trial)', effective from September 1, 2026. The Measures adopt a negative list management for outbound transfer of important data, allowing free flow of general data outside the list; they also streamline the filing process for standard contracts for personal information transfer, and establish a green channel for security assessment of cross-border data flow within the GBA. Enterprises should compare against the negative list to identify whether their data constitutes important data, and improve data classification and compliance mechanisms.",
-    "source_en": "Source: Joint issuance by the Cyberspace Administration of China and two other departments · 2026.08.06"
+    "title": "粤港澳大湾区跨境数据流动新规落地，企业数据出境安全评估流程简化",
+    "summary": "国家网信办联合粤港澳三地发布大湾区数据跨境流动便利化措施，对符合条件的一般个人信息和重要数据出境实行负面清单管理，简化安全评估程序，并设立绿色通道。此举旨在促进大湾区科研、金融、医疗等领域数据融合。相关企业应尽快梳理数据资产，对照负面清单判断是否适用便利化措施，完善数据分类分级及合规制度，并利用新规提升跨境业务效率。",
+    "source": "来源：国家互联网信息办公室 · 2026.08.01",
+    "title_en": "New GBA Cross-Border Data Flow Rules Simplify Security Assessment for Enterprises",
+    "summary_en": "The Cyberspace Administration of China, together with Guangdong, Hong Kong, and Macau authorities, has issued facilitation measures for cross-border data flows in the Greater Bay Area, adopting negative list management for eligible general personal information and important data outbound transfers, simplifying security assessment procedures, and establishing a green channel. This aims to promote data integration in research, finance, healthcare, and other sectors. Enterprises should promptly map their data assets, check against the negative list to determine eligibility, improve data classification and compliance systems, and leverage the new rules to enhance cross-border business efficiency.",
+    "source_en": "Source: Cyberspace Administration of China · 2026.08.01"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期将尽，中国企业需抓紧完成CBAM申报准备",
-    "summary": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收期。目前，出口钢铁、铝、水泥、化肥、电力、氢能等产品的中国企业，须在2026年10月31日前提交第四季度过渡期报告，并持续完善排放数据核算。建议企业尽快建立产品级碳足迹核算体系，对接欧盟认可的第三方核查机构，同时评估供应链中的间接排放影响。若未按期申报，将面临每吨未申报排放20-50欧元的罚款。此外，可考虑通过优化生产工艺、采用绿色电力等方式降低碳成本，并关注欧盟后续公布的默认值调整。",
-    "source": "来源：律连全球 · 涉外法律团队分析 · 2026.08.06",
-    "title_en": "Attorney Qin's View: As EU CBAM Transition Period Nears End, Chinese Enterprises Must Expedite CBAM Compliance Preparation",
-    "summary_en": "Attorney Qin's view: The transitional period of the EU Carbon Border Adjustment Mechanism (CBAM) will end by the end of 2026, with the definitive regime commencing in 2027. Chinese exporters of steel, aluminum, cement, fertilizers, electricity, and hydrogen must submit the Q4 transitional report by October 31, 2026, and continuously improve emission data accounting. Companies are advised to promptly establish product-level carbon footprint accounting systems, engage EU-recognized third-party verifiers, and assess indirect emission impacts in the supply chain. Failure to report on time may result in fines of €20-50 per tonne of unreported emissions. Additionally, consider reducing carbon costs through process optimization or green electricity procurement, and monitor future adjustments to default values announced by the EU.",
-    "source_en": "Source: iGlobal Law · Cross-border legal team analysis · 2026.08.06"
+    "title": "美国《反外国勒索法》生效在即，中国企业需警惕跨境合规风险",
+    "summary": "秦林蒿律师研判：美国《反外国勒索法》（FEPA）即将生效，旨在打击外国政府通过贸易限制、关税等手段强迫美国企业从事特定行为。中国企业若参与此类行为，可能面临美国民事索赔。建议企业：一是全面审查对美业务中的政府压力来源，避免被动卷入；二是建立内部合规培训，确保员工理解FEPA风险；三是在合同中加入反腐败与合规条款，并寻求专业法律意见。",
+    "source": "来源：美国国会 · 2026.08.07",
+    "title_en": "Attorney Qin's view: US Anti-Foreign Extortion Act Imminent, Chinese Enterprises Should Prepare for Compliance Risks",
+    "summary_en": "Attorney Qin's view: The US Foreign Extortion Prevention Act (FEPA) is about to take effect, targeting foreign governments that use trade restrictions, tariffs, or other means to coerce US companies into specific actions. Chinese enterprises involved in such practices may face civil claims in the US. It is recommended that companies: first, thoroughly review sources of government pressure in US-related business to avoid passive involvement; second, establish internal compliance training to ensure employees understand FEPA risks; third, include anti-corruption and compliance clauses in contracts, and seek professional legal advice.",
+    "source_en": "Source: US Congress · 2026.08.07"
   },
-  "dateLabel": "2026年8月6日 · 星期四",
-  "dateLabel_en": "Thursday, August 6, 2026",
-  "issue": 218
+  "dateLabel": "2026年8月7日 · 星期五",
+  "dateLabel_en": "Friday, August 7, 2026",
+  "issue": 219
 }
