@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美欧对华关税与出口管制再升级，中企供应链合规面临新考验",
-    "summary": "本周，美国商务部工业与安全局（BIS）宣布将多家中国实体列入出口管制实体清单，涉及半导体、人工智能及高性能计算领域；欧盟委员会同步推进碳边境调节机制（CBAM）过渡期实施细则，并拟对中国电动汽车加征反补贴关税。同时，美欧在七国集团（G7）贸易部长会议后发表联合声明，强调将协调对华经贸政策，重点审查关键矿产供应链依赖。分析指出，这标志着西方对华“去风险”策略从关税层面向技术、绿色贸易规则延伸，中国出海企业需加速供应链多元化与合规体系升级，以应对跨法规叠加风险。",
-    "source": "来源：美国商务部BIS、欧盟委员会、G7贸易部长会议 · 本周",
-    "title_en": "US-EU Escalate Tariffs and Export Controls on China, Testing Supply Chain Compliance",
-    "summary_en": "This week, the U.S. Department of Commerce's Bureau of Industry and Security (BIS) added multiple Chinese entities to the Entity List, targeting semiconductors, AI, and high-performance computing. Concurrently, the European Commission advanced implementing rules for the CBAM transitional period and proposed additional countervailing duties on Chinese EVs. Following the G7 trade ministers' meeting, the US and EU issued a joint statement pledging to coordinate policies toward China, with a focus on critical minerals supply chains. Analysts note that the Western 'de-risking' strategy is expanding from tariffs to technology and green trade rules, urging Chinese exporters to accelerate supply chain diversification and compliance upgrades to address overlapping regulations.",
-    "source_en": "Source: U.S. BIS, European Commission, G7 Trade Ministers' Meeting · this week"
+    "title": "本周国际经贸主线：美欧对华关税与出口管制持续加码，全球供应链重构加速",
+    "summary": "本周，美国商务部工业与安全局（BIS）宣布将多家中国实体列入出口管制实体清单，涉及半导体、人工智能及量子计算领域；欧盟委员会同步推进对华电动汽车反补贴调查的终裁程序，拟将关税税率上调至最高35%。同时，美国贸易代表办公室（USTR）表示将启动对华301条款关税的四年期复审，可能进一步调整对华商品税率。分析认为，美欧在关键科技领域的对华限制正形成“协同效应”，叠加全球供应链“去风险化”趋势，中国出海企业面临更复杂的合规环境，需加快供应链多元化布局，并强化出口管制合规体系建设。",
+    "source": "综合美国商务部BIS、欧盟委员会、USTR公告 · 本周",
+    "title_en": "This Week's Global Trade Focus: US-EU Escalate Tariffs and Export Controls on China, Accelerating Supply Chain Restructuring",
+    "summary_en": "This week, the U.S. Bureau of Industry and Security (BIS) added several Chinese entities to the Entity List, targeting semiconductors, AI, and quantum computing. Meanwhile, the European Commission advanced its anti-subsidy probe into Chinese EVs, proposing tariffs up to 35%. The USTR also signaled a four-year review of Section 301 tariffs on China, potentially adjusting rates. These coordinated restrictions reflect a 'de-risking' trend, urging Chinese companies to diversify supply chains and strengthen export compliance.",
+    "source_en": "Source: U.S. BIS, European Commission, USTR announcements · this week"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决明确：跨境股权代持协议适用香港法，内地企业维权获支持",
-    "summary": "本周，新加坡国际仲裁中心（SIAC）公布一项裁决，就一起涉及中国内地企业、香港投资者及新加坡目标公司的股权代持纠纷作出认定。仲裁庭认为，各方虽未明确约定适用法律，但根据最密切联系原则及合同履行地特征，应适用香港法律；同时指出，代持协议中关于分红及回购的条款符合香港《公司条例》及普通法原则，不构成非法目的。裁决支持了内地企业的回购请求，并裁定香港投资者返还分红差额。该案启示：跨境投资中应明确约定准据法及仲裁地，善用香港法对股东协议的灵活保护，同时注意保留履行证据以支持法律适用主张。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）裁决 · 2026年7月",
-    "title_en": "SIAC Ruling Clarifies Hong Kong Law Applies to Cross-Border Equity Nominee Agreement, Supporting Mainland Company Claim",
-    "summary_en": "This week, the Singapore International Arbitration Centre (SIAC) issued an award in a dispute involving a mainland Chinese company, a Hong Kong investor, and a Singapore target company over a nominee shareholding arrangement. The tribunal held that, absent an express choice of law, Hong Kong law applied based on closest connection and characteristic performance. It found the dividend and buyback clauses valid under Hong Kong's Companies Ordinance and common law, rejecting illegality claims. The award favored the mainland company's buyback request and ordered the investor to return dividend differences. Key takeaway: cross-border investments should explicitly designate governing law and seat of arbitration, leverage Hong Kong law's flexibility for shareholder agreements, and preserve performance evidence to support choice-of-law arguments.",
-    "source_en": "Source: SIAC Award · July 2026"
+    "title": "最高法发布跨境数据纠纷典型案例：明确企业数据出境合规边界",
+    "summary": "本周，最高人民法院发布一批涉外商事海事典型案例，其中一起涉及跨境数据流动的合同纠纷案引发关注。案情为：某中国科技公司与境外合作方签订数据处理协议，因未按约定完成数据出境安全评估，导致合同履行受阻，境外方索赔违约损失。法院认定，数据出境合规义务属于合同项下法定义务，企业未履行导致合同目的不能实现的，应承担违约责任。该案例明确，中国企业在跨境业务中必须将数据出境安全评估、个人信息保护影响评估等作为合同履行的前置条件，否则将面临商业与法律双重风险。",
+    "source": "来源：最高人民法院典型案例发布 · 2026年8月",
+    "title_en": "SPC Publishes Typical Cross-Border Data Dispute Case: Clarifying Compliance Boundaries for Data Exports",
+    "summary_en": "This week, the Supreme People's Court (SPC) released typical foreign-related commercial cases, including a dispute over cross-border data flows. A Chinese tech company failed to conduct required security assessments for data exports, leading to contract breach and damages claimed by an overseas partner. The court held that data export compliance is a statutory obligation under the contract; failure to fulfill it constitutes breach. This case underscores that Chinese enterprises must treat data export security assessments and privacy impact assessments as prerequisites for cross-border contracts to avoid legal and commercial risks.",
+    "source_en": "Source: SPC typical case release · August 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境规则衔接提速：新一批“湾区标准”发布，跨境数据流动试点扩围",
-    "summary": "本周，广东省市场监督管理局联合港澳相关部门发布新一批“湾区标准”，涵盖食品、中医药、养老服务、建筑工程等领域的30项标准，推动三地规则衔接。同时，国家网信办宣布扩大跨境数据流动“白名单”试点范围，新增广州南沙、深圳前海、珠海横琴为数据出境安全评估便捷通道，符合条件的企业可简化申报流程。此外，深圳前海法院发布《跨境商事纠纷调解指引》，鼓励采用调解、仲裁等替代性争议解决方式。这些举措旨在降低制度性交易成本，为湾区企业“引进来”“走出去”提供更便利的法治化、国际化营商环境。",
-    "source": "来源：广东省市场监督管理局、国家网信办、深圳前海法院 · 本周",
-    "title_en": "Greater Bay Area Accelerates Cross-Border Rules Alignment: New 'Bay Area Standards' and Expanded Data Flow Pilot Zones",
-    "summary_en": "This week, the Guangdong Provincial Administration for Market Regulation, together with Hong Kong and Macau authorities, released a new batch of 'Bay Area Standards' covering 30 items in food, traditional Chinese medicine, elderly care, and construction, advancing regulatory harmonization. Concurrently, the Cyberspace Administration of China (CAC) expanded the 'whitelist' pilot for cross-border data flows, adding Guangzhou Nansha, Shenzhen Qianhai, and Zhuhai Hengqin as fast-track channels for data export security assessments, simplifying procedures for eligible companies. Additionally, Shenzhen Qianhai Court issued the 'Guidelines for Cross-Border Commercial Dispute Mediation', encouraging ADR methods. These measures aim to reduce institutional transaction costs and foster a more law-based, international business environment for GBA enterprises.",
-    "source_en": "Source: Guangdong Administration for Market Regulation, CAC, Shenzhen Qianhai Court · this week"
+    "title": "粤港澳大湾区跨境规则衔接再提速：数据跨境流动与商事调解新规落地",
+    "summary": "本周，广东省政府联合港澳方面发布《粤港澳大湾区数据跨境流动便利化指引》，在“一国两制”框架下，简化数据出境安全评估程序，对符合条件的企业实行“白名单”管理，促进科研、金融、医疗等领域数据有序流动。同时，粤港澳三地司法机构签署《商事调解合作备忘录》，推动建立统一的商事调解员资格互认与调解协议司法确认机制，为跨境商事纠纷提供高效、低成本的解决渠道。这些举措体现大湾区在规则衔接、机制对接上的实质性突破，为中国企业依托大湾区“走出去”提供制度保障。",
+    "source": "来源：广东省人民政府、粤港澳大湾区门户网 · 本周",
+    "title_en": "GBA Cross-Border Rules Alignment Accelerates: New Measures on Data Flows and Commercial Mediation",
+    "summary_en": "This week, Guangdong Province and Hong Kong/Macau authorities issued the 'Guidelines on Facilitating Cross-Border Data Flows in the Guangdong-Hong Kong-Macau Greater Bay Area,' simplifying security assessments and introducing a 'whitelist' mechanism for qualified enterprises to enable orderly data movement in research, finance, and healthcare. Meanwhile, the three jurisdictions signed a 'Commercial Mediation Cooperation Memorandum' to mutually recognize mediator qualifications and judicial confirmation of mediation agreements, offering efficient and cost-effective dispute resolution. These measures mark substantial progress in rule alignment, providing institutional support for Chinese enterprises expanding globally via the GBA.",
+    "source_en": "Source: Guangdong Provincial Government, GBA Portal · this week"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：出口管制与数据合规双重压力下，出海企业应构建“预防性合规”体系",
-    "summary": "秦林蒿律师周度研判：本周美欧政策动向显示，中国出海企业面临出口管制、关税、数据跨境流动等多重合规压力，且呈现“法律工具化”趋势。建议企业：一、建立出口管制与制裁合规内控机制，对交易对手、最终用户进行穿透筛查，并定期更新受控物项清单；二、关注欧盟CBAM及电池法案等绿色规则，提前布局碳核算与供应链溯源；三、善用粤港澳大湾区“湾区标准”及数据跨境便利政策，优化集团数据架构，降低合规成本；四、在跨境合同中明确准据法与争议解决机制，善用香港法及国际仲裁。下周关注：美国国会可能推进《2026年对外投资审查法案》、欧盟拟发布《关键原材料法案》授权法案，以及中国数据出境新规实施细则。",
-    "source": "来源：秦林蒿律师团队 · 本周研判",
-    "title_en": "Attorney Qin's Weekly View: Under Dual Pressures of Export Controls and Data Compliance, Outbound Enterprises Should Build 'Preventive Compliance' Systems",
-    "summary_en": "Attorney Qin's weekly view: This week's US-EU moves show Chinese outbound enterprises face overlapping compliance pressures—export controls, tariffs, and cross-border data flows—with a trend toward 'weaponizing' legal tools. Recommendations: 1) Establish internal export control and sanctions compliance mechanisms, conduct thorough screening of counterparties and end-users, and regularly update controlled item lists; 2) Monitor EU CBAM and Battery Regulation, preparing carbon accounting and supply chain traceability; 3) Leverage GBA 'Bay Area Standards' and data flow facilitation policies to optimize group data architecture and reduce compliance costs; 4) Clearly stipulate governing law and dispute resolution mechanisms in cross-border contracts, utilizing Hong Kong law and international arbitration. Next week, watch for: potential U.S. congressional advancement of the Outbound Investment Review Act 2026, EU delegated acts under the Critical Raw Materials Act, and implementing rules for China's new data export regulations.",
-    "source_en": "Source: Attorney Qin Linhao's Team · weekly analysis"
+    "title": "秦林蒿律师周度研判：出海企业应构建“合规韧性”，关注美欧规则动态与供应链调整窗口",
+    "summary": "本周美欧对华限制措施呈现“技术封锁+关税施压+供应链审查”三位一体态势，中国出海企业面临合规成本上升与市场准入不确定性。秦林蒿律师建议：一、立即梳理出口管制与制裁清单适用情况，建立动态筛查机制，避免因关联交易或最终用户问题触发违规；二、针对欧盟关税终裁，评估供应链替代方案，考虑在东南亚、中东欧等地布局产能，同时利用RCEP等自贸协定优化原产地安排；三、密切关注美国301条款复审结果，提前调整对美出口策略，并利用法律救济渠道参与听证。下周关注：美国国会可能推进《2026年竞争与创新法案》对华技术限制条款，以及欧盟碳边境调节机制（CBAM）实施细则的进一步明确。",
+    "source": "来源：律连全球法律研究部 · 2026年8月7日",
+    "title_en": "Attorney Qin's Weekly View: Build 'Compliance Resilience' for Overseas Expansion, Monitor US-EU Rule Changes and Supply Chain Adjustment Windows",
+    "summary_en": "This week's US-EU measures reflect a trio of technology curbs, tariff pressures, and supply chain reviews, raising compliance costs and market uncertainties for Chinese companies. Attorney Qin recommends: (1) promptly map applicable export control and sanctions lists, establish dynamic screening mechanisms, and avoid violations through related-party or end-user issues; (2) assess supply chain alternatives in light of EU tariff finalization, consider capacity in Southeast Asia or CEE, and leverage FTAs like RCEP for origin optimization; (3) closely track the USTR Section 301 review, adjust US export strategies, and participate in hearings. Next week, watch for US Congress's potential passage of the 'America COMPETES Act 2026' tech restrictions and further CBAM implementation details.",
+    "source_en": "Source: iGlobal Law Research Department · August 7, 2026"
   },
-  "weekLabel": "2026年7月27日 – 7月31日 · 本周周报",
-  "weekLabel_en": "Jul 27 – Jul 31, 2026 · Weekly Digest",
-  "issue": 31
+  "weekLabel": "2026年8月3日 – 8月7日 · 本周周报",
+  "weekLabel_en": "Aug 3 – Aug 7, 2026 · Weekly Digest",
+  "issue": 32
 }
