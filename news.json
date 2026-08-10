@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征临时反补贴税，中欧磋商进入关键期",
-    "summary": "欧盟委员会于2026年8月上旬公布了对中国产电动汽车反补贴调查的初步裁定，拟在现行10%关税基础上加征17%至36%的临时反补贴税，涉及比亚迪、吉利、上汽等主要出口企业。该裁定尚需成员国投票及最终调查确认，预计10月底前生效。中欧技术团队正就价格承诺方案进行密集磋商，若谈判破裂，中国车企对欧出口成本将显著上升。建议相关企业立即评估供应链溯源、价格承诺可行性，并考虑通过欧盟本地化生产或转口贸易降低风险。",
-    "source": "来源：欧盟委员会贸易总局公告 · 2026.08.10",
-    "title_en": "EU Proposes Provisional Countervailing Duties on Chinese EVs; China-EU Talks Enter Critical Stage",
-    "summary_en": "In early August 2026, the European Commission published its preliminary determination in the anti-subsidy investigation into electric vehicles imported from China, proposing additional provisional countervailing duties ranging from 17% to 36% on top of the existing 10% tariff, affecting major exporters such as BYD, Geely, and SAIC. The decision is subject to member state voting and final confirmation, expected to take effect by the end of October. Chinese and EU technical teams are in intensive consultations on a price undertaking scheme. Should negotiations fail, Chinese automakers' export costs to Europe will rise significantly. Companies are advised to immediately assess supply chain traceability, feasibility of price undertakings, and consider localizing production in the EU or using transshipment to mitigate risks.",
-    "source_en": "Source: European Commission Trade DG announcement · 2026.08.10"
+    "title": "美国拟对华半导体设备出口实施新限制，中企需提前评估供应链影响",
+    "summary": "据多家国际媒体报道，美国商务部工业与安全局（BIS）正酝酿新一轮对华半导体设备出口管制措施，可能将部分成熟制程设备纳入管控清单，并扩大对第三方国家的限制。此举预计将影响中国半导体制造企业的设备采购与维护。建议相关企业立即梳理供应链，评估合规风险，并制定备选方案，同时关注最终规则文本及过渡期安排。",
+    "source": "来源：综合路透社、彭博社报道 · 2026.08.11",
+    "title_en": "US Mulls New Export Curbs on Semiconductor Equipment to China; Firms Urged to Assess Supply Chain Impact",
+    "summary_en": "According to multiple international media reports, the US Commerce Department's Bureau of Industry and Security (BIS) is considering a new round of export controls on semiconductor manufacturing equipment to China, potentially adding certain mature-node tools to the Entity List and expanding restrictions on third countries. This is expected to impact procurement and maintenance for Chinese chipmakers. Companies are advised to promptly review their supply chains, evaluate compliance risks, and develop contingency plans while monitoring the final rule and transition periods.",
+    "source_en": "Source: Compiled from Reuters, Bloomberg reports · 2026.08.11"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决获中国法院承认，明确仲裁协议效力认定标准",
-    "summary": "2026年7月，广东省深圳市中级人民法院依据《纽约公约》裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项涉外商事仲裁裁决。该案中，一方当事人主张仲裁协议因未经其母公司批准而无效，但法院认为，根据仲裁地法（新加坡法）及当事人约定，仲裁协议效力应适用当事人选择的法律，且该当事人已实际参与仲裁程序，构成对仲裁协议的默示接受。此案重申了中国法院对国际仲裁的友好态度，并明确了仲裁协议效力认定应遵循'当事人意思自治'原则，对跨境交易中仲裁条款的设计具有指导意义。",
-    "source": "来源：广东省深圳市中级人民法院裁定 · 2026.07",
-    "title_en": "Chinese Court Recognizes SIAC Award, Clarifies Standard for Validity of Arbitration Agreements",
-    "summary_en": "In July 2026, the Shenzhen Intermediate People's Court in Guangdong Province ruled to recognize and enforce an arbitral award rendered by the Singapore International Arbitration Centre (SIAC) under the New York Convention. In this case, one party argued that the arbitration agreement was invalid due to lack of approval from its parent company. However, the court held that, according to the law of the seat of arbitration (Singapore law) and the parties' choice, the validity of the arbitration agreement should be determined by the law chosen by the parties, and that the party had participated in the arbitration proceedings, constituting implied acceptance of the agreement. This ruling reaffirms the Chinese courts' pro-arbitration stance and clarifies that the validity of arbitration agreements should respect party autonomy, providing guidance for drafting arbitration clauses in cross-border transactions.",
-    "source_en": "Source: Ruling of Shenzhen Intermediate People's Court · 2026.07"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认与执行：仲裁条款独立性原则再获确认",
+    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项仲裁裁决。该案中，被申请人主张主合同因欺诈无效，仲裁条款随之失效。法院援引《纽约公约》及中国仲裁法，强调仲裁条款独立性原则，认定主合同效力不影响仲裁条款效力，且仲裁程序符合正当程序要求，故予以承认。此案为跨境商事争议解决提供参考，凸显仲裁条款起草时明确独立性的重要性。",
+    "source": "来源：中国裁判文书网公开案例 · 2026.08",
+    "title_en": "Chinese Court Recognizes and Enforces SIAC Award; Principle of Arbitration Clause Autonomy Reaffirmed",
+    "summary_en": "In a recent ruling, an intermediate people's court in China recognized and enforced an arbitral award rendered by the Singapore International Arbitration Centre (SIAC). The respondent argued that the arbitration clause was invalid because the main contract was procured by fraud. The court, citing the New York Convention and Chinese arbitration law, emphasized the principle of separability of arbitration clauses, holding that the validity of the main contract does not affect the arbitration agreement, and that due process was observed. This case provides guidance for cross-border dispute resolution and underscores the importance of expressly providing for the autonomy of arbitration clauses.",
+    "source_en": "Source: Public case from China Judgements Online · 2026.08"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，便利企业合规申报",
-    "summary": "广东省互联网信息办公室于2026年8月发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，自2026年9月1日起实施。新规简化了数据出境安全评估程序，对纳入'白名单'的常见商业数据（如供应链管理、市场营销等）实行备案制，无需逐案申报；同时明确了个人信息保护影响评估的简化流程。此举将显著降低大湾区企业跨境数据传输的合规成本，但涉及重要数据和个人敏感信息的传输仍需严格评估。建议企业对照新规梳理数据资产，及时完成备案，并建立内部数据分类分级制度。",
-    "source": "来源：广东省互联网信息办公室 · 2026.08",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area Facilitate Compliance for Enterprises",
-    "summary_en": "In August 2026, the Cyberspace Administration of Guangdong Province issued the 'Administrative Norms for Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', effective from September 1, 2026. The new rules simplify the security assessment procedures for data exports, adopting a filing system for common commercial data (e.g., supply chain management, marketing) included in a 'whitelist', without requiring case-by-case approval. They also streamline the process for personal information protection impact assessments. This will significantly reduce compliance costs for cross-border data transfers for enterprises in the GBA. However, transfers involving important data and sensitive personal information still require rigorous assessment. Enterprises are advised to review their data assets against the new rules, complete filings promptly, and establish internal data classification systems.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.08"
+    "title": "粤港澳大湾区跨境执业新规落地：港澳律师内地执业范围进一步扩大",
+    "summary": "为深化粤港澳大湾区法治协同，国务院办公厅近日发布通知，进一步放宽港澳律师在大湾区内地九市执业限制，允许其从事更多类型的民商事法律事务，并简化执业申请流程。新规还明确将探索建立大湾区律师执业资格互认机制。此举将吸引更多港澳法律人才服务内地企业，助力大湾区企业“走出去”。相关企业可借此获得更便捷的跨境法律服务。",
+    "source": "来源：国务院办公厅通知 · 2026.08",
+    "title_en": "New Rules Expand Practice Scope for Hong Kong and Macau Lawyers in the Greater Bay Area",
+    "summary_en": "To deepen legal collaboration in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), the General Office of the State Council has issued a notice further relaxing restrictions on Hong Kong and Macau lawyers practicing in nine mainland GBA cities, allowing them to handle a broader range of civil and commercial matters and simplifying application procedures. The notice also proposes exploring mutual recognition of legal qualifications within the GBA. This is expected to attract more legal talent to serve mainland enterprises and facilitate their global expansion. Companies may benefit from more accessible cross-border legal services.",
+    "source_en": "Source: Notice of the General Office of the State Council · 2026.08"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国出口管制实体清单扩容，中国企业应建立动态合规机制",
-    "summary": "秦林蒿律师研判：近期美国商务部工业与安全局（BIS）再次将多家中国高科技企业列入实体清单，限制其获取美国原产软件、技术及设备。此类清单更新频繁，且可能附带'假定拒绝'的许可政策，对供应链稳定性构成重大威胁。建议中国企业：一是建立涵盖全供应链的出口管制筛查机制，定期更新受限方名单；二是对现有美国技术依赖点进行审计，制定替代方案；三是在合同中嵌入出口管制条款，明确风险分担；四是若被列入清单，应积极利用'移除程序'，并在必要时寻求专业律师协助进行行政或司法救济。动态合规不仅是法律要求，更是企业韧性的体现。",
-    "source": "来源：律连全球研究部 · 2026.08.10",
-    "title_en": "Attorney Qin's view: US Entity List Expansion Calls for Dynamic Compliance Mechanisms in Chinese Companies",
-    "summary_en": "Attorney Qin's view: The recent addition of several Chinese high-tech firms to the U.S. Entity List by the Bureau of Industry and Security (BIS) restricts their access to U.S.-origin software, technology, and equipment. Such list updates are frequent and may come with a 'presumption of denial' licensing policy, posing significant threats to supply chain stability. Chinese companies are advised to: first, establish an export control screening mechanism covering the entire supply chain and regularly update the restricted party lists; second, audit existing dependencies on U.S. technology and develop alternatives; third, incorporate export control clauses into contracts to clearly allocate risks; fourth, if listed, actively utilize the removal procedures and seek professional legal assistance for administrative or judicial remedies when necessary. Dynamic compliance is not only a legal requirement but also a reflection of corporate resilience.",
-    "source_en": "Source: iGlobal Law Research Department · 2026.08.10"
+    "title": "欧盟《外国补贴条例》实施一年：中企投标欧盟公共采购须提前布局补贴梳理",
+    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》已实施一年，执法力度持续加强。近期多起针对中资企业的调查显示，欧委会对投标前补贴申报要求极为严格，未申报或申报不实可能导致高额罚款及排除出采购程序。建议中国出海企业建立内部补贴台账，对历年获得的各级政府补贴、优惠贷款等进行系统梳理，并在投标前完成合规评估。同时，关注欧委会对“扭曲性补贴”的认定标准，调整商业策略以降低风险。",
+    "source": "来源：欧盟委员会执法动态 · 2026.08",
+    "title_en": "One Year of EU Foreign Subsidies Regulation: Chinese Firms Bidding in EU Public Tenders Should Prepare Subsidy Mapping",
+    "summary_en": "Attorney Qin's view: The EU Foreign Subsidies Regulation has been in force for one year, with enforcement intensifying. Recent investigations into Chinese enterprises show that the Commission requires rigorous pre-bid subsidy declarations; failure to declare or inaccurate declarations can lead to hefty fines and exclusion from procurement procedures. Chinese companies are advised to establish internal subsidy ledgers, systematically document subsidies, preferential loans, etc., from various government levels over the years, and conduct compliance assessments before bidding. Additionally, monitor the Commission's criteria for identifying 'distortive subsidies' and adjust business strategies to mitigate risks.",
+    "source_en": "Source: European Commission enforcement updates · 2026.08"
   },
-  "dateLabel": "2026年8月10日 · 星期一",
-  "dateLabel_en": "Monday, August 10, 2026",
-  "issue": 222
+  "dateLabel": "2026年8月11日 · 星期二",
+  "dateLabel_en": "Tuesday, August 11, 2026",
+  "issue": 223
 }
