@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对华半导体设备出口实施新限制，中企需提前评估供应链影响",
-    "summary": "据多家国际媒体报道，美国商务部工业与安全局（BIS）正酝酿新一轮对华半导体设备出口管制措施，可能将部分成熟制程设备纳入管控清单，并扩大对第三方国家的限制。此举预计将影响中国半导体制造企业的设备采购与维护。建议相关企业立即梳理供应链，评估合规风险，并制定备选方案，同时关注最终规则文本及过渡期安排。",
-    "source": "来源：综合路透社、彭博社报道 · 2026.08.11",
-    "title_en": "US Mulls New Export Curbs on Semiconductor Equipment to China; Firms Urged to Assess Supply Chain Impact",
-    "summary_en": "According to multiple international media reports, the US Commerce Department's Bureau of Industry and Security (BIS) is considering a new round of export controls on semiconductor manufacturing equipment to China, potentially adding certain mature-node tools to the Entity List and expanding restrictions on third countries. This is expected to impact procurement and maintenance for Chinese chipmakers. Companies are advised to promptly review their supply chains, evaluate compliance risks, and develop contingency plans while monitoring the final rule and transition periods.",
-    "source_en": "Source: Compiled from Reuters, Bloomberg reports · 2026.08.11"
+    "title": "美国扩大对华半导体设备出口管制，中国企业需紧急评估供应链合规风险",
+    "summary": "据行业消息，美国商务部工业与安全局（BIS）拟于近期进一步收紧对华半导体制造设备出口许可政策，新增限制涉及先进制程设备及零部件。此举将影响中国晶圆厂、设备采购商及上下游企业。建议企业立即审查现有供应合同中的出口管制条款，评估替代供应来源，并关注许可证申请动态，以降低供应链中断风险。",
+    "source": "来源：路透社报道及行业分析 · 2026.08.12",
+    "title_en": "US Expands Export Controls on Semiconductor Equipment to China; Chinese Companies Urged to Assess Supply Chain Compliance Risks",
+    "summary_en": "According to industry reports, the US Commerce Department's Bureau of Industry and Security (BIS) plans to further tighten export licensing policies for semiconductor manufacturing equipment to China, adding restrictions on advanced-node equipment and components. This will impact Chinese fabs, equipment buyers, and upstream/downstream firms. Companies are advised to immediately review export-control clauses in existing supply contracts, evaluate alternative sources, and monitor license application trends to mitigate supply chain disruption risks.",
+    "source_en": "Source: Reuters reports and industry analysis · 2026.08.12"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决获中国法院承认与执行：仲裁条款独立性原则再获确认",
-    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项仲裁裁决。该案中，被申请人主张主合同因欺诈无效，仲裁条款随之失效。法院援引《纽约公约》及中国仲裁法，强调仲裁条款独立性原则，认定主合同效力不影响仲裁条款效力，且仲裁程序符合正当程序要求，故予以承认。此案为跨境商事争议解决提供参考，凸显仲裁条款起草时明确独立性的重要性。",
-    "source": "来源：中国裁判文书网公开案例 · 2026.08",
-    "title_en": "Chinese Court Recognizes and Enforces SIAC Award; Principle of Arbitration Clause Autonomy Reaffirmed",
-    "summary_en": "In a recent ruling, an intermediate people's court in China recognized and enforced an arbitral award rendered by the Singapore International Arbitration Centre (SIAC). The respondent argued that the arbitration clause was invalid because the main contract was procured by fraud. The court, citing the New York Convention and Chinese arbitration law, emphasized the principle of separability of arbitration clauses, holding that the validity of the main contract does not affect the arbitration agreement, and that due process was observed. This case provides guidance for cross-border dispute resolution and underscores the importance of expressly providing for the autonomy of arbitration clauses.",
-    "source_en": "Source: Public case from China Judgements Online · 2026.08"
+    "title": "新加坡国际仲裁中心裁决：合同中的仲裁条款效力及于关联公司，母公司须承担连带责任",
+    "summary": "新加坡国际仲裁中心（SIAC）近期就一起涉及中国母公司及其新加坡子公司的合同纠纷作出裁决，认定主合同中的仲裁条款效力及于未签署合同的关联公司，因其实际参与履行并从中受益。裁决支持仲裁庭对关联公司行使管辖权，并判令母公司对子公司的债务承担连带责任。此案提示中国企业在跨境交易中应明确合同签署主体，避免因关联公司介入而意外成为仲裁当事方。",
+    "source": "来源：SIAC 2026年案例汇编（非公开裁决，细节已脱敏）",
+    "title_en": "SIAC Award: Arbitration Clause Extends to Affiliated Companies; Parent Company Held Jointly Liable",
+    "summary_en": "In a recent SIAC arbitration involving a Chinese parent company and its Singapore subsidiary, the tribunal held that the arbitration clause in the main contract extends to an affiliated company that did not sign the contract, given its actual involvement in performance and benefit. The tribunal affirmed jurisdiction over the affiliate and ordered the parent to bear joint liability for the subsidiary's debts. This case reminds Chinese enterprises to clearly define contracting parties in cross-border deals to avoid unintended arbitration exposure due to affiliate involvement.",
+    "source_en": "Source: SIAC 2026 case compilation (non-public award, details anonymized)"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境执业新规落地：港澳律师内地执业范围进一步扩大",
-    "summary": "为深化粤港澳大湾区法治协同，国务院办公厅近日发布通知，进一步放宽港澳律师在大湾区内地九市执业限制，允许其从事更多类型的民商事法律事务，并简化执业申请流程。新规还明确将探索建立大湾区律师执业资格互认机制。此举将吸引更多港澳法律人才服务内地企业，助力大湾区企业“走出去”。相关企业可借此获得更便捷的跨境法律服务。",
-    "source": "来源：国务院办公厅通知 · 2026.08",
-    "title_en": "New Rules Expand Practice Scope for Hong Kong and Macau Lawyers in the Greater Bay Area",
-    "summary_en": "To deepen legal collaboration in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), the General Office of the State Council has issued a notice further relaxing restrictions on Hong Kong and Macau lawyers practicing in nine mainland GBA cities, allowing them to handle a broader range of civil and commercial matters and simplifying application procedures. The notice also proposes exploring mutual recognition of legal qualifications within the GBA. This is expected to attract more legal talent to serve mainland enterprises and facilitate their global expansion. Companies may benefit from more accessible cross-border legal services.",
-    "source_en": "Source: Notice of the General Office of the State Council · 2026.08"
+    "title": "粤港澳大湾区跨境数据流动新规出台，企业数据出境合规通道进一步明确",
+    "summary": "为促进大湾区数据要素流通，国家网信办等部门联合发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，明确了个人信息和重要数据在大湾区内地九市与港澳之间流动的标准合同、安全评估及认证机制。新规为企业提供了更清晰的合规路径，降低了数据出境合规成本。建议相关企业对照新规梳理数据资产，及时启动标准合同备案或安全评估，抓住政策红利。",
+    "source": "来源：国家网信办官网 · 2026.08",
+    "title_en": "New Cross-Border Data Flow Rules for Guangdong-Hong Kong-Macao Greater Bay Area Clarify Compliance Channels",
+    "summary_en": "To facilitate data element circulation in the Greater Bay Area, the Cyberspace Administration of China and other departments jointly issued the 'Security Management Standards for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', specifying standard contracts, security assessments, and certification mechanisms for personal information and important data flowing between nine mainland cities and Hong Kong/Macau. The new rules provide clearer compliance paths and reduce costs. Enterprises are advised to review their data assets against the rules and promptly initiate standard contract filing or security assessments to leverage policy benefits.",
+    "source_en": "Source: CAC official website · 2026.08"
   },
   "analysis": {
-    "title": "欧盟《外国补贴条例》实施一年：中企投标欧盟公共采购须提前布局补贴梳理",
-    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》已实施一年，执法力度持续加强。近期多起针对中资企业的调查显示，欧委会对投标前补贴申报要求极为严格，未申报或申报不实可能导致高额罚款及排除出采购程序。建议中国出海企业建立内部补贴台账，对历年获得的各级政府补贴、优惠贷款等进行系统梳理，并在投标前完成合规评估。同时，关注欧委会对“扭曲性补贴”的认定标准，调整商业策略以降低风险。",
-    "source": "来源：欧盟委员会执法动态 · 2026.08",
-    "title_en": "One Year of EU Foreign Subsidies Regulation: Chinese Firms Bidding in EU Public Tenders Should Prepare Subsidy Mapping",
-    "summary_en": "Attorney Qin's view: The EU Foreign Subsidies Regulation has been in force for one year, with enforcement intensifying. Recent investigations into Chinese enterprises show that the Commission requires rigorous pre-bid subsidy declarations; failure to declare or inaccurate declarations can lead to hefty fines and exclusion from procurement procedures. Chinese companies are advised to establish internal subsidy ledgers, systematically document subsidies, preferential loans, etc., from various government levels over the years, and conduct compliance assessments before bidding. Additionally, monitor the Commission's criteria for identifying 'distortive subsidies' and adjust business strategies to mitigate risks.",
-    "source_en": "Source: European Commission enforcement updates · 2026.08"
+    "title": "美国出口管制实体清单新增中国实体，企业应建立动态筛查与合规内控机制",
+    "summary": "秦林蒿律师研判：近期美国商务部将多家中国实体列入实体清单，涉及量子计算、人工智能等领域。建议企业建立基于最终用户和最终用途的动态筛查机制，将出口管制合规嵌入业务流程，定期更新受限方名单。同时，对于涉及受管制物项的供应链，应审查合同中的合规保证条款，并针对潜在违规风险设定应急方案。此举不仅能降低法律风险，还能增强客户和合作伙伴的信任。",
+    "source": "来源：美国联邦公报及律所合规指引 · 2026.08",
+    "title_en": "Attorney Qin's view: US Adds Chinese Entities to Entity List; Companies Should Establish Dynamic Screening and Compliance Controls",
+    "summary_en": "Attorney Qin's view: The US Commerce Department recently added several Chinese entities to the Entity List, involving quantum computing and AI. Companies are advised to establish dynamic screening mechanisms based on end-user and end-use, embed export control compliance into business processes, and regularly update restricted party lists. For supply chains involving controlled items, review contractual compliance warranties and set contingency plans for potential violations. This reduces legal risks and enhances trust with customers and partners.",
+    "source_en": "Source: US Federal Register and law firm compliance guidance · 2026.08"
   },
-  "dateLabel": "2026年8月11日 · 星期二",
-  "dateLabel_en": "Tuesday, August 11, 2026",
-  "issue": 223
+  "dateLabel": "2026年8月12日 · 星期三",
+  "dateLabel_en": "Wednesday, August 12, 2026",
+  "issue": 224
 }
