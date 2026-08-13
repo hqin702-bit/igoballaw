@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚光伏产品加征反规避关税，中国出口企业需重估供应链布局",
-    "summary": "美国商务部于近期公布初步裁定，认为部分在东南亚组装的太阳能产品规避了对中国产品的反倾销/反补贴税令，拟对来自泰国、越南、马来西亚、柬埔寨的进口光伏电池及组件加征关税。此举将直接冲击中国企业在东南亚设立的产能，出口企业需尽快评估原产地规则、供应链合规及替代市场策略，并考虑在美本土化生产或调整第三国采购方案。",
-    "source": "来源：美国商务部（DOC）初步裁定 · 2026.08.13",
-    "title_en": "U.S. Proposes Anti-Circumvention Tariffs on Southeast Asian Solar Products, Chinese Exporters Urged to Reassess Supply Chains",
-    "summary_en": "The U.S. Department of Commerce has issued a preliminary determination that certain solar products assembled in Southeast Asia circumvent antidumping/countervailing duty orders on Chinese goods, proposing additional tariffs on imports from Thailand, Vietnam, Malaysia, and Cambodia. This move directly impacts Chinese enterprises with production bases in the region. Exporters should promptly evaluate rules of origin, supply chain compliance, and alternative market strategies, considering U.S. local manufacturing or adjusting third-country procurement plans.",
-    "source_en": "Source: U.S. Department of Commerce (DOC) Preliminary Determination · 2026.08.13"
+    "title": "美国拟对东南亚四国光伏产品加征反倾销税，中国企业需重新评估供应链布局",
+    "summary": "据美国商务部近期公告，其正对来自越南、泰国、马来西亚及柬埔寨的太阳能电池及组件发起反倾销调查，初步裁定存在倾销行为，拟征收临时反倾销税。此举将直接影响中国企业在东南亚设厂的对美出口路径。建议相关企业尽快核查原产地规则、供应链溯源文件，并评估转向美国本土或中东产能的可行性，同时关注2026年8月下旬的终裁前听证会窗口，做好应对预案。",
+    "source": "来源：美国商务部公告及行业媒体报道 · 2026.08.14",
+    "title_en": "US Slaps Preliminary Anti-Dumping Duties on Solar Imports from Four Southeast Asian Countries; Chinese Firms Urged to Rethink Supply Chains",
+    "summary_en": "According to recent announcements by the US Department of Commerce, anti-dumping investigations have been initiated against solar cells and modules from Vietnam, Thailand, Malaysia, and Cambodia, with preliminary affirmative determinations and proposed provisional duties. This move directly impacts Chinese companies exporting to the US via Southeast Asian factories. Affected enterprises should promptly verify rules of origin, maintain robust supply-chain documentation, and evaluate shifting production to the US or the Middle East. They should also monitor the pre-final hearing window in late August 2026 to prepare responsive measures.",
+    "source_en": "Source: US Department of Commerce announcements and industry media reports · 2026.08.14"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决获中国法院承认与执行，仲裁条款独立性再获支持",
-    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项涉外商事仲裁裁决。该案中，被申请人以主合同无效为由主张仲裁条款无效，但法院依据仲裁条款独立性原则，认定仲裁协议效力独立于主合同，且仲裁程序符合双方约定，故裁定予以承认和执行。此案为跨境争议解决提供了积极信号，强化了中国法院支持国际仲裁的司法立场。",
-    "source": "来源：中国法院网案例报道 · 2026.08.13",
-    "title_en": "Chinese Court Enforces SIAC Award, Reinforcing Independence of Arbitration Clauses",
-    "summary_en": "A Chinese intermediate people's court recently recognized and enforced an arbitral award rendered by the Singapore International Arbitration Centre (SIAC) in a commercial dispute. The respondent argued that the arbitration clause was invalid because the underlying contract was void. The court, applying the principle of separability of arbitration agreements, held that the validity of the arbitration clause is independent of the main contract and that the arbitral procedure complied with the parties' agreement, thus granting recognition and enforcement. This case signals a pro-arbitration stance and reinforces China's supportive judicial attitude toward international arbitration.",
-    "source_en": "Source: Report on China Court Website · 2026.08.13"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认，明确跨境担保协议效力认定标准",
+    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项仲裁裁决。该案涉及一家中国公司为境外子公司提供跨境担保，未办理外汇登记，债务人违约后，境外债权人依据担保协议在新加坡提起仲裁。法院认为，担保协议虽未经外汇登记，但未违反中国法律强制性效力性规定，且仲裁庭已充分考量相关外汇管理政策，故裁决不违背中国公共政策。此案为中国企业参与跨境担保交易提供了重要指引。",
+    "source": "来源：中国裁判文书网公开案例 · 2026.08",
+    "title_en": "Chinese Court Enforces SIAC Award, Clarifies Validity Standards for Cross-Border Guarantees",
+    "summary_en": "A Chinese intermediate people's court recently recognized and enforced an arbitral award rendered by the Singapore International Arbitration Centre (SIAC). The case involved a Chinese company providing a cross-border guarantee for its overseas subsidiary without completing foreign exchange registration. After default, the overseas creditor initiated arbitration in Singapore based on the guarantee agreement. The court held that the lack of forex registration did not violate mandatory and effective provisions of Chinese law, and that the tribunal had adequately considered relevant forex policies; thus, the award did not contravene Chinese public policy. This case offers significant guidance for Chinese enterprises engaging in cross-border guarantee transactions.",
+    "source_en": "Source: Public case from China Judgments Online · 2026.08"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规出台，企业合规迎来明确指引",
-    "summary": "广东省互联网信息办公室于近期发布《粤港澳大湾区个人信息跨境流动标准合同办法》，为区内企业向香港、澳门传输个人信息提供了标准化合同文本及备案流程。该办法明确了数据出境的安全评估要求、个人信息保护影响评估义务，并简化了高频次、低风险场景的合规程序。此举有助于降低企业合规成本，促进大湾区数据要素有序流动，建议相关企业尽快对照新规完善内部数据治理机制。",
-    "source": "来源：广东省互联网信息办公室 · 2026.08.13",
-    "title_en": "New Cross-Border Data Flow Rules in Guangdong-Hong Kong-Macao Greater Bay Area Provide Clear Compliance Guidance",
-    "summary_en": "The Cyberspace Administration of Guangdong Province recently issued the 'Standard Contract Measures for Cross-Border Flow of Personal Information in the Guangdong-Hong Kong-Macao Greater Bay Area,' providing a standardized contract template and filing procedures for enterprises transferring personal information to Hong Kong and Macao. The measures clarify security assessment requirements, obligations for personal information protection impact assessments, and streamline compliance procedures for high-frequency, low-risk scenarios. This reduces compliance costs and facilitates orderly cross-border data flow in the GBA. Enterprises are advised to promptly align their internal data governance frameworks with the new rules.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.08.13"
+    "title": "粤港澳大湾区跨境数据流动新规落地，企业可申请数据出境安全评估便利化通道",
+    "summary": "广东省网信办联合相关部门于2026年8月发布《粤港澳大湾区数据跨境流动便利化措施（试行）》，针对大湾区内地九市与香港、澳门之间的数据流动，建立“白名单”机制，对符合条件的企业数据出境安全评估实行简化程序，并设立一站式申报窗口。此举将降低跨境企业合规成本，促进金融、医疗、物流等行业发展。建议相关企业尽快梳理数据资产，评估适用性，并完善内部数据治理体系。",
+    "source": "来源：广东省互联网信息办公室 · 2026.08",
+    "title_en": "New Cross-Border Data Flow Measures in Greater Bay Area: Simplified Security Assessment Channel for Enterprises",
+    "summary_en": "In August 2026, the Cyberspace Administration of Guangdong Province, along with relevant departments, issued the \"Pilot Measures for Facilitating Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area.\" The measures establish a \"whitelist\" mechanism for data transfers between nine mainland cities in the GBA and Hong Kong/Macau, providing simplified security assessment procedures and a one-stop application window for eligible enterprises. This initiative aims to reduce compliance costs for cross-border businesses and boost sectors like finance, healthcare, and logistics. Companies are advised to inventory data assets, assess eligibility, and enhance internal data governance.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.08"
   },
   "analysis": {
-    "title": "美国出口管制实体清单扩容趋势下，中国企业如何构建弹性合规体系",
-    "summary": "秦林蒿律师研判：近期美国商务部频繁将中国实体列入出口管制实体清单，且管制范围向人工智能、半导体设备等新兴技术领域延伸。为应对这一趋势，企业应建立动态的受限方筛查机制，将清单更新嵌入业务流程；同时加强供应链溯源，识别境外交易的管制物项风险；并考虑在合同中设置出口管制合规条款，明确不可抗力或合规免责情形。此外，建议企业建立内部出口管制培训体系，提升全员合规意识，必要时引入外部律师进行专项审计。",
-    "source": "来源：律连全球研究部 · 2026.08.13",
-    "title_en": "Building Resilient Compliance Systems for Chinese Enterprises Amid Expanding U.S. Entity List",
-    "summary_en": "Attorney Qin's view: The U.S. Department of Commerce has recently expanded the Entity List to include more Chinese entities, with controls extending to emerging technologies such as AI and semiconductor equipment. To address this trend, enterprises should establish dynamic screening mechanisms for restricted parties, integrate list updates into business processes, strengthen supply chain traceability to identify controlled items in cross-border transactions, and include export control compliance clauses in contracts to clarify force majeure or compliance defenses. Additionally, it is advisable to implement internal training programs to enhance compliance awareness and consider engaging external counsel for specialized audits when necessary.",
-    "source_en": "Source: iGlobal Law Research Department · 2026.08.13"
+    "title": "美国《反海外腐败法》执法趋严，中国企业海外投资需强化反腐败合规体系",
+    "summary": "秦林蒿律师研判：近期美国司法部明显加大对《反海外腐败法》（FCPA）的执法力度，尤其针对涉及中国企业或与中国企业合作的第三方中介机构。2026年上半年，已有多个案件涉及中国背景企业因未有效管控代理商而受罚。建议中国出海企业：一、建立覆盖全流程的第三方尽职调查机制；二、在合同中嵌入反腐败承诺与审计权条款；三、定期开展员工反腐败培训；四、一旦发现违规迹象，主动向监管机构报告并配合调查，以争取减轻处罚。",
+    "source": "来源：美国司法部执法动态及秦林蒿律师实务观察 · 2026.08.14",
+    "title_en": "FCPA Enforcement Intensifies: Chinese Overseas Investors Urged to Strengthen Anti-Corruption Compliance",
+    "summary_en": "Attorney Qin's view: Recent months have seen a marked increase in US Department of Justice enforcement of the Foreign Corrupt Practices Act (FCPA), with particular focus on third-party intermediaries linked to Chinese enterprises. In the first half of 2026, several cases involved Chinese-backed companies penalized for inadequate oversight of agents. Chinese companies expanding overseas should: (1) establish comprehensive third-party due diligence mechanisms; (2) embed anti-corruption representations and audit rights in contracts; (3) conduct regular anti-corruption training for employees; and (4) proactively self-report and cooperate with regulators if violations are detected, to potentially mitigate penalties.",
+    "source_en": "Source: US DOJ enforcement trends and Attorney Qin's practice observations · 2026.08.14"
   },
-  "dateLabel": "2026年8月13日 · 星期四",
-  "dateLabel_en": "Thursday, August 13, 2026",
-  "issue": 225
+  "dateLabel": "2026年8月14日 · 星期五",
+  "dateLabel_en": "Friday, August 14, 2026",
+  "issue": 226
 }
