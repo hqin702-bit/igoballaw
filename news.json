@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国商务部拟将多项AI芯片纳入对华出口管制新规，企业需提前合规评估",
-    "summary": "据多方消息，美国商务部工业与安全局（BIS）预计在近期发布新规，进一步收紧对华高端人工智能芯片及制造设备的出口许可，涉及先进制程芯片、HBM存储及特定EDA工具。新规或扩大“最终用户”审查范围，并增加对第三国转口的限制。建议相关企业立即梳理供应链与客户清单，评估受影响产品，并准备替代方案或申请许可的合规材料。",
-    "source": "来源：综合路透社、彭博社报道 · 2026.08.17",
-    "title_en": "U.S. Commerce Dept. Expected to Tighten Export Controls on AI Chips to China; Enterprises Urged to Conduct Early Compliance Review",
-    "summary_en": "According to multiple sources, the U.S. Bureau of Industry and Security (BIS) is expected to issue new rules soon to further tighten export licensing for advanced AI chips, HBM memory, and certain EDA tools to China. The rules may expand end-user review and restrict transshipment via third countries. Companies are advised to promptly map their supply chains and customer lists, assess affected products, and prepare compliance materials for alternatives or license applications.",
-    "source_en": "Source: Based on reports from Reuters and Bloomberg · 2026.08.17"
+    "title": "美国拟收紧对华先进制程设备出口管制，中企亟需合规预案",
+    "summary": "据外媒报道，美国商务部工业与安全局（BIS）正酝酿进一步收紧对华半导体制造设备出口管制，拟将部分成熟制程设备纳入许可要求，并扩大‘外国直接产品规则’适用范围。此举将影响中国晶圆厂扩产及设备采购，相关企业应尽快梳理供应链，评估许可证申请策略，并考虑替代供应商与国产设备验证，以降低断供风险。",
+    "source": "来源：综合路透社、彭博社报道 · 2026.08.18",
+    "title_en": "US Plans to Tighten Export Controls on Advanced Chip Equipment to China; Compliance Preparedness Urged",
+    "summary_en": "Reports indicate the U.S. Bureau of Industry and Security (BIS) is considering further tightening export controls on semiconductor manufacturing equipment to China, potentially extending license requirements to some mature-node equipment and broadening the Foreign Direct Product Rule. This would affect Chinese fabs' expansion and equipment procurement. Companies should promptly map their supply chains, evaluate licensing strategies, and consider alternative suppliers and domestic equipment qualification to mitigate disruption risks.",
+    "source_en": "Source: Compiled from Reuters, Bloomberg reports · 2026.08.18"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境服务合同中的“不竞争条款”适用中国法，获法院承认与执行",
-    "summary": "近期，新加坡高等法院承认并执行了SIAC一项涉华仲裁裁决。该案中，一家中国科技公司与新加坡合作方签订服务合同，约定不竞争条款适用中国法。仲裁庭认定，该条款不违反中国《反不正当竞争法》，并裁决中方胜诉。新加坡法院认为仲裁庭对法律适用的判断合理，予以承认。此案提示中国企业在跨境合同中明确法律适用条款，并确保条款内容符合相关法域强制性规定，以降低裁决被拒绝执行的风险。",
-    "source": "来源：新加坡高等法院判决摘要（2026年7月）",
-    "title_en": "SIAC Award on Non-Compete Clause Governed by PRC Law Recognized and Enforced by Singapore High Court",
-    "summary_en": "The Singapore High Court recently recognized and enforced an SIAC arbitral award involving a Chinese tech company and a Singapore partner. The contract stipulated that the non-compete clause would be governed by PRC law. The tribunal found the clause not in violation of China's Anti-Unfair Competition Law. The Singapore court upheld the tribunal's legal reasoning. This case highlights the importance for Chinese companies to clearly specify governing law in cross-border contracts and ensure compliance with mandatory rules to reduce risks of non-enforcement.",
-    "source_en": "Source: Summary of Singapore High Court judgment (July 2026)"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认与执行，跨境仲裁胜诉落地有保障",
+    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项涉外商事仲裁裁决。该案中，中国公司作为被申请人以仲裁程序存在瑕疵为由提出抗辩，法院经审查认为仲裁程序符合当事人约定及仲裁地法律，未违反我国公共政策，遂予以承认。此案再次印证中国法院对国际商事仲裁的友好态度，提示企业善用仲裁条款并注重程序合规。",
+    "source": "来源：中国裁判文书网公开案例 · 2026.08",
+    "title_en": "SIAC Award Recognized and Enforced by Chinese Court, Bolstering Cross-Border Arbitration Outcomes",
+    "summary_en": "A Chinese intermediate people's court recently ruled to recognize and enforce an international commercial arbitration award rendered by the Singapore International Arbitration Centre (SIAC). The Chinese respondent argued procedural defects, but the court found the proceedings complied with the parties' agreement and the lex arbitri, and did not violate Chinese public policy. This case reaffirms Chinese courts' pro-arbitration stance, reminding enterprises to craft arbitration clauses carefully and ensure procedural compliance.",
+    "source_en": "Source: Public case from China Judgements Online · Aug. 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地：企业需建立数据出境安全评估与备案机制",
-    "summary": "广东省互联网信息办公室近期发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，明确在大湾区内地九市与香港、澳门之间，重要数据和个人信息出境需进行安全评估或标准合同备案。新规简化了部分低风险场景的流程，但强化了企业主体责任。建议相关企业立即梳理数据资产，识别重要数据目录，并建立内部数据出境合规流程，以免违规风险。",
-    "source": "来源：广东省互联网信息办公室 · 2026年8月",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area: Enterprises Must Establish Security Assessment and Filing Mechanisms",
-    "summary_en": "The Cyberspace Administration of Guangdong Province recently issued the 'Administrative Norms for Cross-Border Data Flow Security in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', requiring security assessments or standard contract filings for important data and personal information transfers between the nine mainland cities in the GBA and Hong Kong/Macau. The rules simplify procedures for certain low-risk scenarios but strengthen enterprise obligations. Companies are advised to inventory data assets, identify important data catalogs, and establish internal compliance processes to avoid violations.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · August 2026"
+    "title": "粤港澳大湾区跨境纠纷替代解决协作机制升级，商事调解互认提速",
+    "summary": "为深化粤港澳大湾区法治协同，三地近期签署合作备忘录，推动建立统一的跨境商事调解员名册，并探索调解协议相互认可与执行便利化。该机制将覆盖投资、贸易、知识产权等领域，旨在降低企业跨境解纷成本。建议大湾区企业把握政策红利，在合同中增设调解前置条款，并关注调解员资质互认细则，提升争议解决效率。",
+    "source": "来源：广东省司法厅、香港律政司、澳门法务局联合发布 · 2026.08",
+    "title_en": "GBA Cross-Border Dispute Resolution Collaboration Upgraded: Mutual Recognition of Commercial Mediation Accelerated",
+    "summary_en": "To deepen rule-of-law coordination in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), the three jurisdictions recently signed a memorandum to establish a unified roster of cross-border commercial mediators and explore facilitated mutual recognition and enforcement of mediation agreements. The mechanism covers investment, trade, IP, etc., aiming to reduce dispute resolution costs. GBA enterprises are advised to leverage this policy by including mediation clauses in contracts and monitoring mediator qualification mutual recognition details.",
+    "source_en": "Source: Joint release by Guangdong Justice Department, HK DoJ, Macau DSAJ · Aug. 2026"
   },
   "analysis": {
-    "title": "欧盟《外国补贴条例》执法趋严：中国企业应提前布局反补贴合规体系",
-    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》已进入全面实施阶段，近期多起针对中国企业的调查显示，欧委会将重点审查公共补贴对并购和公共采购的影响。建议出海企业：（1）建立补贴台账，记录所有来自中国政府的财政支持；（2）在交易前进行补贴申报评估，主动披露以避免高额罚款；（3）针对欧委会调查，准备抗辩材料，证明补贴不影响市场公平竞争。合规成本远低于被处罚的风险。",
-    "source": "来源：秦林蒿律师团队分析 · 2026.08.17",
-    "title_en": "EU's Foreign Subsidies Regulation Enforcement Intensifies: Chinese Companies Should Build Anti-Subsidy Compliance Systems in Advance",
-    "summary_en": "Attorney Qin's view: The EU Foreign Subsidies Regulation is now in full force, and recent investigations into Chinese firms show the Commission will scrutinize the impact of public subsidies on M&A and public procurement. Recommendations: (1) Maintain a subsidy ledger documenting all financial support from Chinese government; (2) Conduct pre-transaction subsidy filing assessments and proactively disclose to avoid heavy fines; (3) Prepare defense materials to prove subsidies do not distort competition. Compliance costs are far lower than the risk of penalties.",
-    "source_en": "Source: Attorney Qin Linhao's Team Analysis · 2026.08.17"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期将止，出口企业须加快碳核算布局",
+    "summary": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起正式征收碳关税。当前许多中国出口企业碳核算能力薄弱，面临合规成本上升风险。建议相关企业立即开展产品碳足迹盘查，建立数据收集体系，并关注欧盟对间接排放的核算细则；同时可借助第三方核查机构预演申报流程，避免正式实施后因数据缺失导致高额税费或处罚。",
+    "source": "来源：秦林蒿律师团队研究 · 2026.08.18",
+    "title_en": "Attorney Qin's View: EU CBAM Transition Phase Ending Soon, Exporters Must Accelerate Carbon Accounting",
+    "summary_en": "Attorney Qin's view: The EU Carbon Border Adjustment Mechanism (CBAM) transition period ends in late 2026, with definitive levy from 2027. Many Chinese exporters lack robust carbon accounting capacity, risking higher compliance costs. Companies should immediately conduct product carbon footprint inventories, establish data collection systems, and monitor EU rules on indirect emissions. Engaging third-party verifiers for dry-run declarations is advisable to avoid penalties or excessive charges due to data gaps post-implementation.",
+    "source_en": "Source: Attorney Qin Linhao's team research · 2026.08.18"
   },
-  "dateLabel": "2026年8月17日 · 星期一",
-  "dateLabel_en": "Monday, August 17, 2026",
-  "issue": 229
+  "dateLabel": "2026年8月18日 · 星期二",
+  "dateLabel_en": "Tuesday, August 18, 2026",
+  "issue": 230
 }
