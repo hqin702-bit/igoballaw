@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟将中国跨境电商平台列入‘恶名市场’名单，涉知识产权与假冒商品",
-    "summary": "据多方消息，美国贸易代表办公室（USTR）正考虑在2026年度的《特别301报告》中，将部分中国跨境电商平台列入‘恶名市场’名单，理由是平台上存在大量知识产权侵权和假冒商品。此举可能引发更严格的审查和贸易限制。中国出海企业应加强知识产权布局，完善平台合规机制，并准备应对潜在的美国市场准入变化。",
-    "source": "来源：USTR年度报告草案及行业消息 · 2026.08.19",
-    "title_en": "USTR May Add Chinese Cross-Border E-Commerce Platforms to 'Notorious Markets' List over IP Concerns",
-    "summary_en": "According to multiple sources, the U.S. Trade Representative (USTR) is considering adding certain Chinese cross-border e-commerce platforms to its 'Notorious Markets' list in the 2026 Special 301 Report, citing widespread IP infringement and counterfeit goods. This could lead to stricter scrutiny and trade restrictions. Chinese companies going global should strengthen IP protection, enhance platform compliance, and prepare for potential changes in U.S. market access.",
-    "source_en": "Source: USTR Annual Report Draft & Industry Reports · 2026.08.19"
+    "title": "美国拟收紧对华半导体设备出口限制，中国企业需加快供应链合规评估",
+    "summary": "据多方消息，美国商务部近期拟进一步扩大对华半导体制造设备的出口管制范围，涉及先进制程芯片生产所需的关键设备与零部件。此举将影响中国芯片制造企业及为其提供服务的设备进口商、代理商。建议相关企业立即梳理现有设备采购合同中的出口管制条款，评估供应链依赖度，并制定备选采购方案与合规应急预案，以降低政策变动带来的运营风险。",
+    "source": "来源：综合路透社、彭博社报道 · 2026.08.20",
+    "title_en": "US Plans to Tighten Export Controls on Semiconductor Equipment to China, Urging Supply Chain Compliance Review",
+    "summary_en": "According to multiple reports, the U.S. Department of Commerce is considering expanding export controls on semiconductor manufacturing equipment to China, covering key equipment and parts for advanced chip production. This will impact Chinese chipmakers and their equipment importers and agents. Companies are advised to immediately review existing procurement contracts for export control clauses, assess supply chain dependencies, and formulate alternative sourcing plans and compliance contingency measures to mitigate operational risks from policy changes.",
+    "source_en": "Source: Compiled from Reuters and Bloomberg reports · 2026.08.20"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境股权回购协议中‘重大不利变化’条款的适用标准",
-    "summary": "新加坡国际仲裁中心近期审结一起涉中资企业跨境股权回购纠纷。仲裁庭认为，被申请人援引的‘重大不利变化’（MAC）条款不适用于因行业正常波动导致的业绩下滑，必须存在对目标公司价值的根本性、持续性损害。该裁决明确了MAC条款的严格适用标准，为中国企业起草跨境投资协议提供了参考：应细化MAC定义，避免模糊表述，并明确举证责任。",
-    "source": "来源：SIAC案例摘要（2026年第3季度）",
-    "title_en": "SIAC Award Clarifies 'Material Adverse Change' Clause in Cross-Border Share Repurchase Agreement",
-    "summary_en": "The Singapore International Arbitration Centre recently concluded a dispute involving a Chinese enterprise's cross-border share repurchase. The tribunal held that the 'Material Adverse Change' (MAC) clause invoked by the respondent did not apply to performance decline caused by normal industry fluctuations; there must be fundamental and lasting damage to the target company's value. The award clarifies the strict standard for MAC clauses, providing guidance for Chinese companies in drafting cross-border investment agreements: refine MAC definitions, avoid vague wording, and clarify burden of proof.",
-    "source_en": "Source: SIAC Case Summary (Q3 2026)"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认，跨境仲裁条款效力再获确认",
+    "summary": "近期，一起涉及中新企业的货物买卖合同纠纷中，新加坡国际仲裁中心作出的仲裁裁决获得中国某中级人民法院裁定承认与执行。该案中，双方合同约定争议提交SIAC仲裁，尽管被申请人以仲裁条款未经其签字为由抗辩，法院仍依据《纽约公约》及双方往来邮件中的仲裁合意，认定仲裁条款有效。此案提示中国企业在跨境合同中应明确仲裁机构及适用规则，并保留仲裁合意的书面证据。",
+    "source": "来源：中国法院网及公开裁判文书 · 2026年8月",
+    "title_en": "Singapore International Arbitration Center Award Recognized by Chinese Court, Reinforcing Validity of Cross-Border Arbitration Clauses",
+    "summary_en": "In a recent case involving a goods sales dispute between Chinese and Singaporean companies, a Chinese intermediate people's court ruled to recognize and enforce an arbitral award rendered by the Singapore International Arbitration Center (SIAC). Despite the respondent's defense that the arbitration clause was not signed, the court upheld the clause based on the New York Convention and evidence of arbitration agreement in email exchanges. This case reminds Chinese enterprises to clearly specify the arbitral institution and applicable rules in cross-border contracts and to retain written evidence of arbitration consent.",
+    "source_en": "Source: China Court website and published judgments · August 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规出台：明确‘白名单’机制与安全评估流程",
-    "summary": "广东省互联网信息办公室近期发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，首次在大湾区内地九市与香港、澳门之间建立数据跨境‘白名单’机制，对列入白名单的常见业务数据（如物流、支付、跨境电商）实行简化安全评估。企业需按照规范进行数据分类分级，并在规定时限内完成备案。此举将大幅提升大湾区跨境贸易效率，但企业需注意合规责任。",
-    "source": "来源：广东省网信办发布 · 2026.08.15",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area: 'Whitelist' Mechanism and Security Assessment Process",
-    "summary_en": "The Cyberspace Administration of Guangdong Province recently issued the 'Regulations on Security Management for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', establishing a 'whitelist' mechanism for cross-border data between nine mainland cities and Hong Kong/Macau, simplifying security assessments for common business data (e.g., logistics, payment, cross-border e-commerce). Enterprises must classify data and complete filing within specified deadlines. This will significantly enhance cross-border trade efficiency in the GBA, but enterprises must be aware of compliance obligations.",
-    "source_en": "Source: Guangdong Cyberspace Administration · 2026.08.15"
+    "title": "粤港澳大湾区跨境数据流动新规出台，便利合规企业数据出境",
+    "summary": "广东省互联网信息办公室近期发布《粤港澳大湾区个人信息跨境流动便利化措施》，允许符合条件的企业在签订标准合同并完成备案后，经简化程序向香港、澳门传输个人信息。该措施旨在降低企业合规成本，促进大湾区数据要素流通。适用企业需建立数据分类分级制度，确保个人信息保护水平达到国家相关标准，并履行必要的安全评估或认证义务。",
+    "source": "来源：广东省互联网信息办公室 · 2026年8月",
+    "title_en": "New Cross-Border Data Flow Rules in Guangdong-Hong Kong-Macao Greater Bay Area Facilitate Data Outbound Transfers",
+    "summary_en": "The Cyberspace Administration of Guangdong Province recently issued 'Facilitation Measures for Cross-Border Flow of Personal Information in the Guangdong-Hong Kong-Macao Greater Bay Area', allowing eligible enterprises to transfer personal information to Hong Kong and Macao through a simplified procedure after signing standard contracts and filing. This measure aims to reduce compliance costs and promote data element circulation in the Greater Bay Area. Eligible enterprises must establish data classification and grading systems, ensure personal information protection levels meet national standards, and fulfill necessary security assessment or certification obligations.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · August 2026"
   },
   "analysis": {
-    "title": "美国对华投资限制新规生效在即，企业应重构合规体系并关注‘例外’条款",
-    "summary": "秦林蒿律师研判：美国财政部关于对华投资限制的最终规则将于2026年9月1日生效，涉及半导体、AI、量子计算等领域。建议中国出海企业：一是梳理现有及未来投资架构，评估是否落入受限范围；二是关注‘例外’条款（如被动投资、公司内部交易等），合理规划交易路径；三是建立动态合规监测机制，与美方律师协同应对不确定性。英文以Attorney Qin's view开头。",
-    "source": "来源：美国财政部最终规则及律师实务分析 · 2026.08.19",
-    "title_en": "U.S. Outbound Investment Restrictions Take Effect Soon: Compliance Overhaul and 'Exception' Clauses",
-    "summary_en": "Attorney Qin's view: The U.S. Treasury's final rules on outbound investment restrictions will take effect on September 1, 2026, covering semiconductors, AI, quantum computing, etc. Chinese companies going global should: first, review existing and future investment structures to assess whether they fall within the restricted scope; second, pay attention to 'exception' clauses (e.g., passive investments, intra-company transactions) and plan transaction paths reasonably; third, establish a dynamic compliance monitoring mechanism and collaborate with U.S. counsel to address uncertainties.",
-    "source_en": "Source: U.S. Treasury Final Rules & Attorney Analysis · 2026.08.19"
+    "title": "跨境数据传输“标准合同”路径实务要点：从签署到备案的合规清单",
+    "summary": "秦林蒿律师研判：随着粤港澳大湾区数据流动便利化措施落地，企业选择“标准合同”路径出境个人信息时，应注意：一、准确界定传输性质，区分“个人信息的跨境提供”与“处理”，避免混同；二、开展个人信息保护影响评估，重点评估接收方所在法域的法律环境；三、标准合同需包括双方权利义务、争议解决等必备条款，并提交省级网信部门备案；四、建立持续监控机制，及时更新合同或重新备案。建议企业结合业务场景，提前规划合规流程，避免事后补救成本。",
+    "source": "来源：律连全球研究部 · 2026.08.20",
+    "title_en": "Practical Points for the 'Standard Contract' Route in Cross-Border Data Transfers: Compliance Checklist from Signing to Filing",
+    "summary_en": "Attorney Qin's view: With the implementation of the Greater Bay Area data flow facilitation measures, enterprises choosing the 'standard contract' route for outbound personal information transfers should note: 1. Accurately define the nature of the transfer, distinguishing 'cross-border provision' from 'processing'; 2. Conduct personal information protection impact assessments, focusing on the legal environment of the recipient's jurisdiction; 3. Standard contracts must include mandatory clauses such as rights and obligations of both parties and dispute resolution, and be filed with the provincial cyberspace administration; 4. Establish ongoing monitoring mechanisms to update contracts or re-file in a timely manner. It is advisable for enterprises to plan compliance processes in advance based on business scenarios to avoid remedial costs.",
+    "source_en": "Source: iGlobal Law Research Department · 2026.08.20"
   },
-  "dateLabel": "2026年8月19日 · 星期三",
-  "dateLabel_en": "Wednesday, August 19, 2026",
-  "issue": 231
+  "dateLabel": "2026年8月20日 · 星期四",
+  "dateLabel_en": "Thursday, August 20, 2026",
+  "issue": 232
 }
