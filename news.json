@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟升级对华芯片出口管制，聚焦AI算力芯片与半导体设备",
-    "summary": "据多家国际媒体报道，美国商务部计划于近期进一步收紧对华半导体出口管制，重点限制用于人工智能训练的高算力芯片及先进制程设备。新规可能将更多中国科技企业列入实体清单，并扩大对第三国转口芯片的审查。此举将直接影响中国AI产业供应链，建议相关企业提前评估合规风险，调整采购与研发策略。",
-    "source": "来源：路透社、彭博社 · 2026.08.24",
-    "title_en": "US to Tighten Chip Export Controls Targeting AI Chips and Equipment",
-    "summary_en": "According to reports from international media, the US Department of Commerce plans to further tighten semiconductor export controls on China, focusing on high-performance AI training chips and advanced manufacturing equipment. The new rules may add more Chinese tech companies to the Entity List and expand scrutiny of transshipment of chips via third countries. This will directly impact China's AI supply chain. Companies are advised to assess compliance risks and adjust procurement and R&D strategies.",
-    "source_en": "Source: Reuters, Bloomberg · 2026.08.24"
+    "title": "美欧拟对华电动汽车加征新关税，中企应提前布局供应链合规",
+    "summary": "据多方消息，美国与欧盟正酝酿于2026年第四季度对进口自中国的电动汽车及关键零部件加征新一轮关税，税率或分别升至35%和30%。此举将显著提高中国车企出口成本，并可能引发连锁反制。建议相关企业立即审查原产地规则与供应链布局，考虑在东南亚或墨西哥设立组装环节以规避关税，同时做好应对欧盟碳边境调节机制（CBAM）的合规准备。",
+    "source": "来源：综合路透社、彭博社报道 · 2026.08.25",
+    "title_en": "US and EU Plan New Tariffs on Chinese EVs; Chinese Firms Urged to Rethink Supply Chains",
+    "summary_en": "Multiple sources indicate that the US and EU are preparing to impose new tariffs of up to 35% and 30%, respectively, on Chinese-made electric vehicles and key components in Q4 2026. This will significantly raise export costs and may trigger retaliatory measures. Companies are advised to review rules of origin and supply chain strategies, consider assembly operations in Southeast Asia or Mexico, and prepare for the EU's Carbon Border Adjustment Mechanism (CBAM).",
+    "source_en": "Source: Compiled from Reuters and Bloomberg reports · 2026.08.25"
   },
   "case": {
-    "title": "香港法院承认内地判决，跨境执行再添新案例",
-    "summary": "香港高等法院近日就一起涉及内地公司的合同纠纷作出判决，依据《内地与香港特别行政区法院相互认可和执行民商事案件判决的安排》，承认并执行内地法院的生效判决。该案明确了香港法院在审查内地判决时对程序公正性的关注要点，为内地企业在港追讨债务提供了积极指引。实务中，建议企业注意判决的终局性及送达程序的合法性。",
-    "source": "来源：香港司法机构 · 2026.08",
-    "title_en": "Hong Kong Court Recognizes Mainland Judgment, Adding New Precedent for Cross-border Enforcement",
-    "summary_en": "The Hong Kong High Court recently ruled on a contract dispute involving a Mainland company, recognizing and enforcing a final judgment of a Mainland court under the Arrangement on Mutual Recognition and Enforcement of Judgments in Civil and Commercial Matters between the Mainland and Hong Kong. The case clarifies the court's focus on procedural fairness in reviewing Mainland judgments, providing positive guidance for Mainland enterprises seeking debt recovery in Hong Kong. In practice, companies should pay attention to the finality of judgments and the legality of service.",
-    "source_en": "Source: Judiciary of Hong Kong · Aug 2026"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认，明确仲裁条款独立性原则",
+    "summary": "2026年8月，广东省深圳市中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项涉外商事仲裁裁决。该案中，被申请人主张主合同无效导致仲裁条款失效，但法院依据《纽约公约》及中国仲裁法，强调仲裁条款独立于主合同，主合同效力争议不影响仲裁协议的效力，最终支持了申请人的执行请求。此案为中国企业参与国际仲裁提供了积极信号，提示企业在起草合同时应明确约定仲裁条款的独立性。",
+    "source": "来源：广东省高级人民法院官网案例发布 · 2026.08",
+    "title_en": "Chinese Court Recognizes SIAC Award, Upholding Principle of Arbitration Clause Autonomy",
+    "summary_en": "In August 2026, the Shenzhen Intermediate People's Court in Guangdong Province ruled to recognize and enforce an international commercial arbitration award rendered by the Singapore International Arbitration Centre (SIAC). The respondent argued that the invalidity of the main contract nullified the arbitration clause, but the court, citing the New York Convention and Chinese arbitration law, held that the arbitration clause is independent of the main contract, and disputes over the latter's validity do not affect the former. This ruling signals a favorable attitude towards international arbitration and reminds Chinese enterprises to explicitly provide for the autonomy of arbitration clauses in contracts.",
+    "source_en": "Source: Case published on official website of Guangdong High People's Court · 2026.08"
   },
   "policy": {
-    "title": "广东发布支持跨境法律服务集聚区建设若干措施，鼓励涉外律师发展",
-    "summary": "广东省司法厅近期出台措施，支持广州、深圳等地建设跨境法律服务集聚区，通过税收优惠、人才引进、机构补贴等方式，吸引国内外知名律所和仲裁机构入驻。同时，鼓励内地律师与港澳律师联营合作，共同为湾区企业提供跨境争议解决、合规咨询等一站式服务。此举将提升大湾区涉外法律服务能力，助力企业“走出去”。",
-    "source": "来源：广东省司法厅 · 2026.08",
-    "title_en": "Guangdong Issues Measures to Support Cross-border Legal Service Clusters, Encouraging Foreign-related Lawyers",
-    "summary_en": "The Department of Justice of Guangdong Province recently issued measures to support the construction of cross-border legal service clusters in cities like Guangzhou and Shenzhen, offering tax incentives, talent introduction, and institutional subsidies to attract renowned domestic and international law firms and arbitration institutions. It also encourages partnership between Mainland and Hong Kong/Macau lawyers to jointly provide one-stop services for cross-border dispute resolution and compliance consulting for enterprises in the Greater Bay Area. This will enhance the foreign-related legal service capacity of the region and support enterprises going global.",
-    "source_en": "Source: Department of Justice of Guangdong Province · Aug 2026"
+    "title": "粤港澳大湾区跨境数据流动新规出台，便利企业合规开展国际业务",
+    "summary": "2026年8月20日，国家网信办联合广东省等部门发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，自2026年10月1日起实施。新规明确在大湾区内试行数据跨境流动“白名单”制度，对列入清单的常见商业数据（如贸易、物流、支付信息）简化安全评估流程，同时强化重要数据和个人信息保护。此举将降低企业跨境数据传输的合规成本，鼓励大湾区企业利用香港、澳门平台拓展国际市场。",
+    "source": "来源：国家互联网信息办公室官网 · 2026.08.20",
+    "title_en": "New Cross-Border Data Flow Rules for Greater Bay Area Aim to Facilitate International Business",
+    "summary_en": "On August 20, 2026, the Cyberspace Administration of China, together with Guangdong Province and other departments, issued the 'Administrative Measures for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', effective October 1, 2026. The new rules introduce a 'whitelist' mechanism for cross-border data flows within the GBA, simplifying security assessments for common commercial data (e.g., trade, logistics, payment information) while strengthening protection of important data and personal information. This will reduce compliance costs for cross-border data transfers and encourage enterprises in the GBA to leverage Hong Kong and Macao platforms for global expansion.",
+    "source_en": "Source: Official website of Cyberspace Administration of China · 2026.08.20"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟《外国补贴条例》执法趋严，中企应建专项合规机制",
-    "summary": "秦林蒿律师研判：近期欧盟《外国补贴条例》已进入实质性执法阶段，针对中国企业的调查数量明显上升，涉及并购、公共采购等领域。该条例要求企业主动申报在欧盟获得的财政资助，否则面临高额罚款。建议中国出海企业建立专项合规机制，梳理欧盟及成员国政府补贴情况，在交易前进行补贴申报评估，并留存完整证据链。同时，可借助外部律师进行模拟审查，降低被调查风险。",
-    "source": "来源：律连全球研究部 · 2026.08.24",
-    "title_en": "Attorney Qin's view: EU Foreign Subsidies Regulation Enforcement Intensifies, Chinese Firms Should Build Specialized Compliance Mechanisms",
-    "summary_en": "Attorney Qin's view: The EU Foreign Subsidies Regulation has entered substantive enforcement phase, with a notable increase in investigations against Chinese companies in M&A and public procurement. The regulation requires proactive notification of financial contributions received from EU and member states, with heavy fines for non-compliance. Chinese enterprises going global are advised to establish specialized compliance mechanisms, map out subsidies from the EU and member states, conduct pre-transaction subsidy notification assessments, and maintain complete evidence chains. Additionally, engaging external counsel for mock reviews can reduce investigation risks.",
-    "source_en": "Source: iGlobal Law Research · 2026.08.24"
+    "title": "秦林蒿律师研判：美国出口管制新规下，中国企业应构建全流程合规体系",
+    "summary": "秦林蒿律师研判：近期美国商务部工业与安全局（BIS）持续扩大对华实体清单管制范围，并强化对“最终用户”的审查。中企在涉美业务中面临更大的合规风险。建议企业：一是建立出口管制合规内控机制，对产品、客户、最终用途进行筛查；二是在合同中加入出口管制合规条款，明确双方责任；三是定期开展合规培训，并聘请专业律师进行风险评估。同时，利用中国商务部“不可靠实体清单”等反制工具，维护自身合法权益。",
+    "source": "来源：律连全球研究部 · 2026.08.25",
+    "title_en": "Attorney Qin's View: Chinese Companies Should Build End-to-End Compliance Systems Amid US Export Controls",
+    "summary_en": "Attorney Qin's view: The US Bureau of Industry and Security (BIS) has been expanding the Entity List and intensifying end-user checks. Chinese companies face growing compliance risks in US-related business. Recommendations: (1) establish internal export control compliance mechanisms to screen products, customers, and end-uses; (2) include export control compliance clauses in contracts to allocate responsibilities; (3) conduct regular compliance training and engage professional counsel for risk assessments. Meanwhile, use China's countermeasures, such as the 'Unreliable Entity List', to protect legitimate rights.",
+    "source_en": "Source: iGlobal Law Research Department · 2026.08.25"
   },
-  "dateLabel": "2026年8月24日 · 星期一",
-  "dateLabel_en": "Monday, August 24, 2026",
-  "issue": 236
+  "dateLabel": "2026年8月25日 · 星期二",
+  "dateLabel_en": "Tuesday, August 25, 2026",
+  "issue": 237
 }
