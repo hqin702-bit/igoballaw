@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美欧拟对华电动汽车加征新关税，中企应提前布局供应链合规",
-    "summary": "据多方消息，美国与欧盟正酝酿于2026年第四季度对进口自中国的电动汽车及关键零部件加征新一轮关税，税率或分别升至35%和30%。此举将显著提高中国车企出口成本，并可能引发连锁反制。建议相关企业立即审查原产地规则与供应链布局，考虑在东南亚或墨西哥设立组装环节以规避关税，同时做好应对欧盟碳边境调节机制（CBAM）的合规准备。",
-    "source": "来源：综合路透社、彭博社报道 · 2026.08.25",
-    "title_en": "US and EU Plan New Tariffs on Chinese EVs; Chinese Firms Urged to Rethink Supply Chains",
-    "summary_en": "Multiple sources indicate that the US and EU are preparing to impose new tariffs of up to 35% and 30%, respectively, on Chinese-made electric vehicles and key components in Q4 2026. This will significantly raise export costs and may trigger retaliatory measures. Companies are advised to review rules of origin and supply chain strategies, consider assembly operations in Southeast Asia or Mexico, and prepare for the EU's Carbon Border Adjustment Mechanism (CBAM).",
-    "source_en": "Source: Compiled from Reuters and Bloomberg reports · 2026.08.25"
+    "title": "欧盟拟就碳边境调节机制发布实施细则，中国出口企业需提前布局碳核算与合规申报",
+    "summary": "据欧盟委员会近期通报，CBAM过渡期将于2026年底结束，2027年起正式征收碳关税。最新实施细则草案要求进口商提交经第三方核验的碳排放数据，并明确中国等非豁免国家出口钢铁、铝、水泥、化肥、电力及氢能产品的核算标准。中国出口企业应尽快建立产品级碳足迹核算体系，评估欧盟认可核证机构，避免因数据不合规导致清关受阻或额外成本。建议企业结合现有ISO 14064体系，开展差距分析，并关注后续正式文本的发布。",
+    "source": "来源：欧盟委员会气候行动总司通报 · 2026.08.27",
+    "title_en": "EU to Publish Implementing Rules on CBAM, Chinese Exporters Urged to Prepare Carbon Accounting and Compliance Filings",
+    "summary_en": "According to recent communications from the European Commission, the CBAM transitional period will end in 2026, with definitive levy starting in 2027. The latest draft implementing rules require importers to submit third-party verified carbon emission data, and specify calculation standards for steel, aluminum, cement, fertilizers, electricity, and hydrogen from non-exempt countries like China. Chinese exporters should promptly establish product-level carbon footprint accounting systems, evaluate EU-recognized verification bodies, and avoid customs delays or extra costs due to non-compliance. It is recommended that companies conduct gap analyses based on existing ISO 14064 systems and monitor subsequent official texts.",
+    "source_en": "Source: Communication from DG CLIMA, European Commission · 2026.08.27"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决获中国法院承认，明确仲裁条款独立性原则",
-    "summary": "2026年8月，广东省深圳市中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项涉外商事仲裁裁决。该案中，被申请人主张主合同无效导致仲裁条款失效，但法院依据《纽约公约》及中国仲裁法，强调仲裁条款独立于主合同，主合同效力争议不影响仲裁协议的效力，最终支持了申请人的执行请求。此案为中国企业参与国际仲裁提供了积极信号，提示企业在起草合同时应明确约定仲裁条款的独立性。",
-    "source": "来源：广东省高级人民法院官网案例发布 · 2026.08",
-    "title_en": "Chinese Court Recognizes SIAC Award, Upholding Principle of Arbitration Clause Autonomy",
-    "summary_en": "In August 2026, the Shenzhen Intermediate People's Court in Guangdong Province ruled to recognize and enforce an international commercial arbitration award rendered by the Singapore International Arbitration Centre (SIAC). The respondent argued that the invalidity of the main contract nullified the arbitration clause, but the court, citing the New York Convention and Chinese arbitration law, held that the arbitration clause is independent of the main contract, and disputes over the latter's validity do not affect the former. This ruling signals a favorable attitude towards international arbitration and reminds Chinese enterprises to explicitly provide for the autonomy of arbitration clauses in contracts.",
-    "source_en": "Source: Case published on official website of Guangdong High People's Court · 2026.08"
+    "title": "最高法发布涉外商事典型案例：明确独立保函欺诈例外适用标准，维护跨境交易安全",
+    "summary": "最高人民法院近期发布涉外商事海事典型案例，其中一起涉及独立保函欺诈纠纷。法院认定，受益人明知基础交易不存在仍索款，构成欺诈，适用欺诈例外原则，支持申请人止付申请。判决明确了独立保函独立性与欺诈例外的界限，强调银行仅负单据表面审查义务，但受益人滥用权利不受保护。该案为中国企业在跨境工程、贸易中使用独立保函提供了风险提示：应审慎审查基础合同真实性，留存交易凭证，若遇恶意索款，可及时申请法院止付令。",
+    "source": "来源：最高人民法院涉外商事典型案例发布（2026年8月）",
+    "title_en": "SPC Releases Typical Foreign-Related Commercial Cases: Clarifies Fraud Exception Standard for Demand Guarantees, Safeguarding Cross-Border Transactions",
+    "summary_en": "The Supreme People's Court recently released typical foreign-related commercial and maritime cases, including one involving a dispute over fraud in an independent demand guarantee. The court held that a beneficiary's claim for payment while knowing the underlying transaction does not exist constitutes fraud, thus applying the fraud exception and supporting the applicant's application for a payment injunction. The judgment clarifies the boundary between the independence of demand guarantees and the fraud exception, emphasizing that banks only have a duty to examine documents on their face, but beneficiaries who abuse their rights are not protected. This case provides risk warnings for Chinese enterprises using demand guarantees in cross-border projects and trade: they should carefully verify the authenticity of underlying contracts, retain transaction evidence, and promptly seek court injunctions against malicious claims.",
+    "source_en": "Source: SPC Typical Foreign-Related Commercial Cases (August 2026)"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规出台，便利企业合规开展国际业务",
-    "summary": "2026年8月20日，国家网信办联合广东省等部门发布《粤港澳大湾区数据跨境流动安全管理规范（试行）》，自2026年10月1日起实施。新规明确在大湾区内试行数据跨境流动“白名单”制度，对列入清单的常见商业数据（如贸易、物流、支付信息）简化安全评估流程，同时强化重要数据和个人信息保护。此举将降低企业跨境数据传输的合规成本，鼓励大湾区企业利用香港、澳门平台拓展国际市场。",
-    "source": "来源：国家互联网信息办公室官网 · 2026.08.20",
-    "title_en": "New Cross-Border Data Flow Rules for Greater Bay Area Aim to Facilitate International Business",
-    "summary_en": "On August 20, 2026, the Cyberspace Administration of China, together with Guangdong Province and other departments, issued the 'Administrative Measures for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', effective October 1, 2026. The new rules introduce a 'whitelist' mechanism for cross-border data flows within the GBA, simplifying security assessments for common commercial data (e.g., trade, logistics, payment information) while strengthening protection of important data and personal information. This will reduce compliance costs for cross-border data transfers and encourage enterprises in the GBA to leverage Hong Kong and Macao platforms for global expansion.",
-    "source_en": "Source: Official website of Cyberspace Administration of China · 2026.08.20"
+    "title": "粤港澳大湾区跨境数据流动新规落地：企业数据出境合规再获便利，负面清单管理成亮点",
+    "summary": "国家网信办与广东省政府联合发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，自2026年10月1日起施行。新规在大湾区内地九市与香港、澳门之间实施数据出境负面清单管理，清单外的一般数据可自由流动，无需单独申报。同时，建立大湾区数据跨境流动“白名单”认证机制，对符合条件的企业给予快速审批通道。此举显著降低企业合规成本，但涉及重要数据、个人信息出境仍需履行安全评估或标准合同备案。建议企业梳理数据资产，对照负面清单，及时调整内部数据管理流程。",
+    "source": "来源：国家互联网信息办公室 · 广东省人民政府联合发布 · 2026.08.27",
+    "title_en": "New GBA Cross-Border Data Flow Rules Take Effect: Data Outbound Compliance Facilitated with Negative List Management",
+    "summary_en": "The Cyberspace Administration of China and the Guangdong Provincial Government jointly issued the 'Provisions on the Administration of Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', effective from October 1, 2026. The new rules implement a negative list management for data outbound transfer between the nine mainland cities in the GBA and Hong Kong/Macau, allowing general data outside the list to flow freely without separate filing. Additionally, a 'whitelist' certification mechanism for data cross-border flow is established, providing fast-track approval for qualified enterprises. This significantly reduces compliance costs, but transfer of important data and personal information still requires security assessment or standard contract filing. Companies are advised to sort their data assets, compare with the negative list, and adjust internal data management processes accordingly.",
+    "source_en": "Source: Cyberspace Administration of China & People's Government of Guangdong Province · 2026.08.27"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国出口管制新规下，中国企业应构建全流程合规体系",
-    "summary": "秦林蒿律师研判：近期美国商务部工业与安全局（BIS）持续扩大对华实体清单管制范围，并强化对“最终用户”的审查。中企在涉美业务中面临更大的合规风险。建议企业：一是建立出口管制合规内控机制，对产品、客户、最终用途进行筛查；二是在合同中加入出口管制合规条款，明确双方责任；三是定期开展合规培训，并聘请专业律师进行风险评估。同时，利用中国商务部“不可靠实体清单”等反制工具，维护自身合法权益。",
-    "source": "来源：律连全球研究部 · 2026.08.25",
-    "title_en": "Attorney Qin's View: Chinese Companies Should Build End-to-End Compliance Systems Amid US Export Controls",
-    "summary_en": "Attorney Qin's view: The US Bureau of Industry and Security (BIS) has been expanding the Entity List and intensifying end-user checks. Chinese companies face growing compliance risks in US-related business. Recommendations: (1) establish internal export control compliance mechanisms to screen products, customers, and end-uses; (2) include export control compliance clauses in contracts to allocate responsibilities; (3) conduct regular compliance training and engage professional counsel for risk assessments. Meanwhile, use China's countermeasures, such as the 'Unreliable Entity List', to protect legitimate rights.",
-    "source_en": "Source: iGlobal Law Research Department · 2026.08.25"
+    "title": "秦林蒿律师研判：美国出口管制实体清单扩容，中国芯片企业应建立全链条合规筛查机制",
+    "summary": "美国商务部工业与安全局近期宣布将多家中国芯片设计、制造及设备企业列入实体清单，限制其获取美国技术及产品。秦林蒿律师研判：此类清单扩容已成常态，企业不应仅依赖外部律师的临时应对，而应建立内部全链条出口管制合规体系，包括：对产品、技术、软件进行ECCN分类；对供应商、客户进行受制裁主体筛查；在合同中加入出口管制合规条款；对员工开展培训。同时，关注“外国直接产品规则”的适用，评估使用美国工具或软件生产的产品的风险。建议企业定期与专业机构合作，更新筛查数据库，以降低违规风险。",
+    "source": "来源：秦林蒿律师团队 · 2026.08.27",
+    "title_en": "Attorney Qin's View: US Entity List Expansion Targets Chinese Chip Firms, Full-Chain Compliance Screening Mechanism Needed",
+    "summary_en": "The US Bureau of Industry and Security recently added several Chinese chip design, manufacturing, and equipment companies to the Entity List, restricting their access to US technology and products. Attorney Qin Linhao's view: such list expansion has become routine, and enterprises should not rely solely on ad-hoc external counsel responses but should establish an internal full-chain export control compliance system, including: classifying products, technology, and software under ECCN; screening suppliers and customers against sanctioned party lists; incorporating export control compliance clauses in contracts; and training employees. Also, pay attention to the applicability of the Foreign Direct Product Rules, assessing risks of products manufactured using US tools or software. It is recommended that enterprises regularly cooperate with professional institutions to update screening databases to reduce compliance risks.",
+    "source_en": "Source: Attorney Qin Linhao's Team · 2026.08.27"
   },
-  "dateLabel": "2026年8月25日 · 星期二",
-  "dateLabel_en": "Tuesday, August 25, 2026",
-  "issue": 237
+  "dateLabel": "2026年8月27日 · 星期四",
+  "dateLabel_en": "Thursday, August 27, 2026",
+  "issue": 239
 }
