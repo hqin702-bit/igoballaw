@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟就碳边境调节机制发布实施细则，中国出口企业需提前布局碳核算与合规申报",
-    "summary": "据欧盟委员会近期通报，CBAM过渡期将于2026年底结束，2027年起正式征收碳关税。最新实施细则草案要求进口商提交经第三方核验的碳排放数据，并明确中国等非豁免国家出口钢铁、铝、水泥、化肥、电力及氢能产品的核算标准。中国出口企业应尽快建立产品级碳足迹核算体系，评估欧盟认可核证机构，避免因数据不合规导致清关受阻或额外成本。建议企业结合现有ISO 14064体系，开展差距分析，并关注后续正式文本的发布。",
-    "source": "来源：欧盟委员会气候行动总司通报 · 2026.08.27",
-    "title_en": "EU to Publish Implementing Rules on CBAM, Chinese Exporters Urged to Prepare Carbon Accounting and Compliance Filings",
-    "summary_en": "According to recent communications from the European Commission, the CBAM transitional period will end in 2026, with definitive levy starting in 2027. The latest draft implementing rules require importers to submit third-party verified carbon emission data, and specify calculation standards for steel, aluminum, cement, fertilizers, electricity, and hydrogen from non-exempt countries like China. Chinese exporters should promptly establish product-level carbon footprint accounting systems, evaluate EU-recognized verification bodies, and avoid customs delays or extra costs due to non-compliance. It is recommended that companies conduct gap analyses based on existing ISO 14064 systems and monitor subsequent official texts.",
-    "source_en": "Source: Communication from DG CLIMA, European Commission · 2026.08.27"
+    "title": "美欧拟对华电动车及关键矿产加征新关税，中企需加快供应链多元化布局",
+    "summary": "据多方消息，美国与欧盟正酝酿于2026年第四季度对进口自中国的电动汽车及关键矿产（如锂、稀土）加征新一轮关税，平均税率或提升15-25个百分点，并可能配套更严格的原产地规则。此举旨在减少对中国供应链的依赖，但将显著推高中国出口企业的合规与关税成本。建议出海企业提前评估关税影响，考虑在东南亚或墨西哥设立组装环节以规避原产地限制，同时关注中国商务部可能出台的反制措施，及时调整出口定价与市场策略。",
+    "source": "来源：综合路透社、彭博社报道 · 2026.08.28",
+    "title_en": "US and EU Eye New Tariffs on Chinese EVs and Critical Minerals, Urging Diversified Supply Chains",
+    "summary_en": "According to multiple reports, the US and EU are preparing to impose new tariffs on Chinese electric vehicles and critical minerals (e.g., lithium, rare earths) in Q4 2026, with average rates potentially rising by 15-25 percentage points, alongside stricter rules of origin. These measures aim to reduce dependence on Chinese supply chains but will significantly increase compliance and tariff costs for Chinese exporters. Companies are advised to assess tariff impacts early, consider establishing assembly operations in Southeast Asia or Mexico to circumvent origin restrictions, and monitor potential countermeasures from China's MOFCOM to adjust export pricing and market strategies promptly.",
+    "source_en": "Source: Compiled from Reuters & Bloomberg reports · 2026.08.28"
   },
   "case": {
-    "title": "最高法发布涉外商事典型案例：明确独立保函欺诈例外适用标准，维护跨境交易安全",
-    "summary": "最高人民法院近期发布涉外商事海事典型案例，其中一起涉及独立保函欺诈纠纷。法院认定，受益人明知基础交易不存在仍索款，构成欺诈，适用欺诈例外原则，支持申请人止付申请。判决明确了独立保函独立性与欺诈例外的界限，强调银行仅负单据表面审查义务，但受益人滥用权利不受保护。该案为中国企业在跨境工程、贸易中使用独立保函提供了风险提示：应审慎审查基础合同真实性，留存交易凭证，若遇恶意索款，可及时申请法院止付令。",
-    "source": "来源：最高人民法院涉外商事典型案例发布（2026年8月）",
-    "title_en": "SPC Releases Typical Foreign-Related Commercial Cases: Clarifies Fraud Exception Standard for Demand Guarantees, Safeguarding Cross-Border Transactions",
-    "summary_en": "The Supreme People's Court recently released typical foreign-related commercial and maritime cases, including one involving a dispute over fraud in an independent demand guarantee. The court held that a beneficiary's claim for payment while knowing the underlying transaction does not exist constitutes fraud, thus applying the fraud exception and supporting the applicant's application for a payment injunction. The judgment clarifies the boundary between the independence of demand guarantees and the fraud exception, emphasizing that banks only have a duty to examine documents on their face, but beneficiaries who abuse their rights are not protected. This case provides risk warnings for Chinese enterprises using demand guarantees in cross-border projects and trade: they should carefully verify the authenticity of underlying contracts, retain transaction evidence, and promptly seek court injunctions against malicious claims.",
-    "source_en": "Source: SPC Typical Foreign-Related Commercial Cases (August 2026)"
+    "title": "新加坡国际仲裁中心裁决：跨境股权代持协议因违反中国外汇管制而无效，强调仲裁地法律适用",
+    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起涉华跨境股权代持纠纷作出裁决，认定当事人为规避中国外汇管理法规而设计的代持安排因违反中国法律强制性规定而无效，并据此驳回实际出资人的返还请求。仲裁庭指出，尽管仲裁地在新加坡，但根据最密切联系原则，应适用中国法律判断合同效力。该案提醒出海企业，在跨境投资中不得以“灰色架构”规避中国外汇管制，否则可能面临协议无效、资金无法追回的双重风险，建议在交易前咨询专业律师进行合规审查。",
+    "source": "来源：新加坡国际仲裁中心2026年裁决摘要 · 2026.08",
+    "title_en": "SIAC Award: Cross-Border Shareholding Nominee Arrangement Void for Violating China's FX Controls, Emphasizing Applicable Law",
+    "summary_en": "In a recent SIAC arbitration concerning a cross-border shareholding dispute involving China, the tribunal held that a nominee arrangement designed to circumvent China's foreign exchange regulations was void for violating mandatory provisions of Chinese law, and consequently dismissed the actual investor's claim for restitution. The tribunal noted that despite the seat of arbitration being Singapore, Chinese law applied to determine the contract's validity based on the closest connection principle. This case reminds Chinese companies going global that using 'gray structures' to evade China's FX controls may lead to both invalidity of agreements and irrecoverable funds. It is advisable to seek professional legal counsel for compliance review before transactions.",
+    "source_en": "Source: SIAC Award Summary 2026 · 2026.08"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地：企业数据出境合规再获便利，负面清单管理成亮点",
-    "summary": "国家网信办与广东省政府联合发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，自2026年10月1日起施行。新规在大湾区内地九市与香港、澳门之间实施数据出境负面清单管理，清单外的一般数据可自由流动，无需单独申报。同时，建立大湾区数据跨境流动“白名单”认证机制，对符合条件的企业给予快速审批通道。此举显著降低企业合规成本，但涉及重要数据、个人信息出境仍需履行安全评估或标准合同备案。建议企业梳理数据资产，对照负面清单，及时调整内部数据管理流程。",
-    "source": "来源：国家互联网信息办公室 · 广东省人民政府联合发布 · 2026.08.27",
-    "title_en": "New GBA Cross-Border Data Flow Rules Take Effect: Data Outbound Compliance Facilitated with Negative List Management",
-    "summary_en": "The Cyberspace Administration of China and the Guangdong Provincial Government jointly issued the 'Provisions on the Administration of Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', effective from October 1, 2026. The new rules implement a negative list management for data outbound transfer between the nine mainland cities in the GBA and Hong Kong/Macau, allowing general data outside the list to flow freely without separate filing. Additionally, a 'whitelist' certification mechanism for data cross-border flow is established, providing fast-track approval for qualified enterprises. This significantly reduces compliance costs, but transfer of important data and personal information still requires security assessment or standard contract filing. Companies are advised to sort their data assets, compare with the negative list, and adjust internal data management processes accordingly.",
-    "source_en": "Source: Cyberspace Administration of China & People's Government of Guangdong Province · 2026.08.27"
+    "title": "粤港澳大湾区跨境纠纷替代解决机制升级：三地法院互认仲裁保全措施，提升执行效率",
+    "summary": "广东省高级人民法院联合香港、澳门特别行政区司法机关宣布，自2026年9月1日起，粤港澳三地法院将相互认可并协助执行仲裁程序中的保全措施（包括财产保全、证据保全），此举将大幅提升跨境仲裁的效率与吸引力。新机制明确，当事人可在任一法域申请保全，其他法域法院应在收到申请后15日内作出裁定并协助执行。该政策被视为大湾区法治化营商环境建设的重要一步，建议跨境企业善用该机制，在仲裁前及时申请保全以保障未来裁决的执行。",
+    "source": "来源：广东省高级人民法院公告 · 2026.08.28",
+    "title_en": "GBA Cross-Border Dispute Resolution Upgrade: Mutual Recognition of Arbitral Interim Measures Among Three Jurisdictions",
+    "summary_en": "The Guangdong High People's Court, together with the judiciary of Hong Kong and Macao, announced that starting from September 1, 2026, courts in the three jurisdictions will mutually recognize and assist in enforcing interim measures (including property preservation and evidence preservation) in arbitration proceedings. This move is expected to significantly enhance the efficiency and attractiveness of cross-border arbitration. The new mechanism allows parties to apply for interim measures in any jurisdiction, and courts in other jurisdictions shall rule and assist within 15 days of receiving the application. This policy is seen as a key step in improving the business environment under the rule of law in the Greater Bay Area. Cross-border enterprises are advised to utilize this mechanism to apply for preservation promptly before arbitration to secure future award enforcement.",
+    "source_en": "Source: Announcement of Guangdong High People's Court · 2026.08.28"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国出口管制实体清单扩容，中国芯片企业应建立全链条合规筛查机制",
-    "summary": "美国商务部工业与安全局近期宣布将多家中国芯片设计、制造及设备企业列入实体清单，限制其获取美国技术及产品。秦林蒿律师研判：此类清单扩容已成常态，企业不应仅依赖外部律师的临时应对，而应建立内部全链条出口管制合规体系，包括：对产品、技术、软件进行ECCN分类；对供应商、客户进行受制裁主体筛查；在合同中加入出口管制合规条款；对员工开展培训。同时，关注“外国直接产品规则”的适用，评估使用美国工具或软件生产的产品的风险。建议企业定期与专业机构合作，更新筛查数据库，以降低违规风险。",
-    "source": "来源：秦林蒿律师团队 · 2026.08.27",
-    "title_en": "Attorney Qin's View: US Entity List Expansion Targets Chinese Chip Firms, Full-Chain Compliance Screening Mechanism Needed",
-    "summary_en": "The US Bureau of Industry and Security recently added several Chinese chip design, manufacturing, and equipment companies to the Entity List, restricting their access to US technology and products. Attorney Qin Linhao's view: such list expansion has become routine, and enterprises should not rely solely on ad-hoc external counsel responses but should establish an internal full-chain export control compliance system, including: classifying products, technology, and software under ECCN; screening suppliers and customers against sanctioned party lists; incorporating export control compliance clauses in contracts; and training employees. Also, pay attention to the applicability of the Foreign Direct Product Rules, assessing risks of products manufactured using US tools or software. It is recommended that enterprises regularly cooperate with professional institutions to update screening databases to reduce compliance risks.",
-    "source_en": "Source: Attorney Qin Linhao's Team · 2026.08.27"
+    "title": "秦林蒿律师研判：欧盟《外国补贴条例》执法趋严，中企应建立全流程合规台账",
+    "summary": "秦林蒿律师研判：随着欧盟委员会对《外国补贴条例》的执法力度加大，近期已有多起针对中国企业的深入调查，涉及并购和公共采购领域。中企在欧经营须警惕“补贴”定义宽泛，包括低息贷款、税收优惠、政府引导基金注资等均可能被纳入审查范围。建议企业：一、梳理自2023年以来的所有跨境资金流入，建立补贴台账；二、在交易前进行自我评估，若达到申报门槛，应主动向欧委会申报；三、完善内部合规制度，确保财务记录透明，以应对突袭检查。",
+    "source": "来源：秦林蒿律师团队实务观察 · 2026.08.28",
+    "title_en": "Attorney Qin's View: EU's Foreign Subsidies Regulation Enforcement Intensifies, Chinese Enterprises Should Establish Full-Process Compliance Ledger",
+    "summary_en": "Attorney Qin's view: As the European Commission intensifies enforcement of the Foreign Subsidies Regulation, there have been several in-depth investigations into Chinese companies in M&A and public procurement. Chinese enterprises operating in Europe must be cautious about the broad definition of 'subsidy', which may include low-interest loans, tax incentives, and injections from government-guided funds. Recommendations: 1) Review all cross-border capital inflows since 2023 and establish a subsidy ledger; 2) Conduct self-assessment before transactions, and proactively notify the Commission if thresholds are met; 3) Strengthen internal compliance systems to ensure transparent financial records, preparing for dawn raids.",
+    "source_en": "Source: Attorney Qin Linhao's team practical observation · 2026.08.28"
   },
-  "dateLabel": "2026年8月27日 · 星期四",
-  "dateLabel_en": "Thursday, August 27, 2026",
-  "issue": 239
+  "dateLabel": "2026年8月28日 · 星期五",
+  "dateLabel_en": "Friday, August 28, 2026",
+  "issue": 240
 }
