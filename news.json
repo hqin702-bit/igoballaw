@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美欧拟对华电动车及关键矿产加征新关税，中企需加快供应链多元化布局",
-    "summary": "据多方消息，美国与欧盟正酝酿于2026年第四季度对进口自中国的电动汽车及关键矿产（如锂、稀土）加征新一轮关税，平均税率或提升15-25个百分点，并可能配套更严格的原产地规则。此举旨在减少对中国供应链的依赖，但将显著推高中国出口企业的合规与关税成本。建议出海企业提前评估关税影响，考虑在东南亚或墨西哥设立组装环节以规避原产地限制，同时关注中国商务部可能出台的反制措施，及时调整出口定价与市场策略。",
-    "source": "来源：综合路透社、彭博社报道 · 2026.08.28",
-    "title_en": "US and EU Eye New Tariffs on Chinese EVs and Critical Minerals, Urging Diversified Supply Chains",
-    "summary_en": "According to multiple reports, the US and EU are preparing to impose new tariffs on Chinese electric vehicles and critical minerals (e.g., lithium, rare earths) in Q4 2026, with average rates potentially rising by 15-25 percentage points, alongside stricter rules of origin. These measures aim to reduce dependence on Chinese supply chains but will significantly increase compliance and tariff costs for Chinese exporters. Companies are advised to assess tariff impacts early, consider establishing assembly operations in Southeast Asia or Mexico to circumvent origin restrictions, and monitor potential countermeasures from China's MOFCOM to adjust export pricing and market strategies promptly.",
-    "source_en": "Source: Compiled from Reuters & Bloomberg reports · 2026.08.28"
+    "title": "美国拟将34家中国实体列入出口管制清单，涉半导体与AI领域",
+    "summary": "据外媒报道，美国商务部工业与安全局（BIS）拟于近期将34家中国实体列入实体清单，涉及半导体设备、人工智能芯片及高性能计算领域。此举将限制相关企业获取美国原产技术及设备，并可能影响其供应链稳定。中国企业需提前评估合规风险，调整采购策略，并考虑申请许可证或转向替代供应商。",
+    "source": "来源：路透社报道 · 2026.08.31",
+    "title_en": "US to Add 34 Chinese Entities to Export Control List, Targeting Semiconductors and AI",
+    "summary_en": "According to foreign media reports, the US Department of Commerce's Bureau of Industry and Security (BIS) plans to add 34 Chinese entities to the Entity List, covering semiconductor equipment, AI chips, and high-performance computing. This move will restrict these companies' access to US-origin technology and equipment, potentially disrupting supply chains. Chinese companies should assess compliance risks, adjust procurement strategies, and consider applying for licenses or seeking alternative suppliers.",
+    "source_en": "Source: Reuters report · 2026.08.31"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境股权代持协议因违反中国外汇管制而无效，强调仲裁地法律适用",
-    "summary": "近期，新加坡国际仲裁中心（SIAC）就一起涉华跨境股权代持纠纷作出裁决，认定当事人为规避中国外汇管理法规而设计的代持安排因违反中国法律强制性规定而无效，并据此驳回实际出资人的返还请求。仲裁庭指出，尽管仲裁地在新加坡，但根据最密切联系原则，应适用中国法律判断合同效力。该案提醒出海企业，在跨境投资中不得以“灰色架构”规避中国外汇管制，否则可能面临协议无效、资金无法追回的双重风险，建议在交易前咨询专业律师进行合规审查。",
-    "source": "来源：新加坡国际仲裁中心2026年裁决摘要 · 2026.08",
-    "title_en": "SIAC Award: Cross-Border Shareholding Nominee Arrangement Void for Violating China's FX Controls, Emphasizing Applicable Law",
-    "summary_en": "In a recent SIAC arbitration concerning a cross-border shareholding dispute involving China, the tribunal held that a nominee arrangement designed to circumvent China's foreign exchange regulations was void for violating mandatory provisions of Chinese law, and consequently dismissed the actual investor's claim for restitution. The tribunal noted that despite the seat of arbitration being Singapore, Chinese law applied to determine the contract's validity based on the closest connection principle. This case reminds Chinese companies going global that using 'gray structures' to evade China's FX controls may lead to both invalidity of agreements and irrecoverable funds. It is advisable to seek professional legal counsel for compliance review before transactions.",
-    "source_en": "Source: SIAC Award Summary 2026 · 2026.08"
+    "title": "最高法发布涉外民商事典型案例：明确跨境担保独立性审查规则",
+    "summary": "最高人民法院近期发布一批涉外民商事典型案例，其中一起涉及跨境担保纠纷案，明确了独立保函与从属性担保的区分标准，强调在审查独立保函时，应严格依据保函文本及国际惯例（如URDG758），尊重当事人意思自治。该案为跨境交易中的担保安排提供了清晰指引，有助于减少因担保性质不明引发的争议。",
+    "source": "来源：最高人民法院公报 · 2026年8月",
+    "title_en": "SPC Publishes Typical Cross-Border Cases: Clarifies Independence Test for Cross-Border Guarantees",
+    "summary_en": "The Supreme People's Court recently published a batch of typical foreign-related civil and commercial cases, including a cross-border guarantee dispute, which clarified the distinction between independent guarantees and accessory guarantees. The court emphasized that when examining independent guarantees, strict adherence to the guarantee text and international practices (such as URDG758) is required, respecting party autonomy. This case provides clear guidance for guarantee arrangements in cross-border transactions, helping to reduce disputes arising from ambiguity.",
+    "source_en": "Source: Gazette of the Supreme People's Court · August 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷替代解决机制升级：三地法院互认仲裁保全措施，提升执行效率",
-    "summary": "广东省高级人民法院联合香港、澳门特别行政区司法机关宣布，自2026年9月1日起，粤港澳三地法院将相互认可并协助执行仲裁程序中的保全措施（包括财产保全、证据保全），此举将大幅提升跨境仲裁的效率与吸引力。新机制明确，当事人可在任一法域申请保全，其他法域法院应在收到申请后15日内作出裁定并协助执行。该政策被视为大湾区法治化营商环境建设的重要一步，建议跨境企业善用该机制，在仲裁前及时申请保全以保障未来裁决的执行。",
-    "source": "来源：广东省高级人民法院公告 · 2026.08.28",
-    "title_en": "GBA Cross-Border Dispute Resolution Upgrade: Mutual Recognition of Arbitral Interim Measures Among Three Jurisdictions",
-    "summary_en": "The Guangdong High People's Court, together with the judiciary of Hong Kong and Macao, announced that starting from September 1, 2026, courts in the three jurisdictions will mutually recognize and assist in enforcing interim measures (including property preservation and evidence preservation) in arbitration proceedings. This move is expected to significantly enhance the efficiency and attractiveness of cross-border arbitration. The new mechanism allows parties to apply for interim measures in any jurisdiction, and courts in other jurisdictions shall rule and assist within 15 days of receiving the application. This policy is seen as a key step in improving the business environment under the rule of law in the Greater Bay Area. Cross-border enterprises are advised to utilize this mechanism to apply for preservation promptly before arbitration to secure future award enforcement.",
-    "source_en": "Source: Announcement of Guangdong High People's Court · 2026.08.28"
+    "title": "广东自贸区发布跨境数据流动负面清单，便利大湾区数据有序流通",
+    "summary": "广东省自贸办近日发布《中国（广东）自由贸易试验区跨境数据流动负面清单》，明确了禁止和限制跨境传输的数据类别，同时简化了合规申报流程。该清单覆盖金融、医疗、汽车等行业，旨在平衡数据安全与经济发展，为粤港澳大湾区企业提供更清晰的合规路径，促进数据要素高效流动。",
+    "source": "来源：广东省自贸办 · 2026年8月",
+    "title_en": "Guangdong Free Trade Zone Issues Negative List for Cross-Border Data Flows, Facilitating Data Circulation in GBA",
+    "summary_en": "The Guangdong Free Trade Zone Office recently issued the \"Negative List for Cross-Border Data Flows in China (Guangdong) Pilot Free Trade Zone,\" specifying categories of data prohibited or restricted from cross-border transfer, while simplifying compliance filing procedures. The list covers sectors such as finance, healthcare, and automobiles, aiming to balance data security and economic development, providing clearer compliance paths for enterprises in the Guangdong-Hong Kong-Macao Greater Bay Area and promoting efficient flow of data elements.",
+    "source_en": "Source: Guangdong FTZ Office · August 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟《外国补贴条例》执法趋严，中企应建立全流程合规台账",
-    "summary": "秦林蒿律师研判：随着欧盟委员会对《外国补贴条例》的执法力度加大，近期已有多起针对中国企业的深入调查，涉及并购和公共采购领域。中企在欧经营须警惕“补贴”定义宽泛，包括低息贷款、税收优惠、政府引导基金注资等均可能被纳入审查范围。建议企业：一、梳理自2023年以来的所有跨境资金流入，建立补贴台账；二、在交易前进行自我评估，若达到申报门槛，应主动向欧委会申报；三、完善内部合规制度，确保财务记录透明，以应对突袭检查。",
-    "source": "来源：秦林蒿律师团队实务观察 · 2026.08.28",
-    "title_en": "Attorney Qin's View: EU's Foreign Subsidies Regulation Enforcement Intensifies, Chinese Enterprises Should Establish Full-Process Compliance Ledger",
-    "summary_en": "Attorney Qin's view: As the European Commission intensifies enforcement of the Foreign Subsidies Regulation, there have been several in-depth investigations into Chinese companies in M&A and public procurement. Chinese enterprises operating in Europe must be cautious about the broad definition of 'subsidy', which may include low-interest loans, tax incentives, and injections from government-guided funds. Recommendations: 1) Review all cross-border capital inflows since 2023 and establish a subsidy ledger; 2) Conduct self-assessment before transactions, and proactively notify the Commission if thresholds are met; 3) Strengthen internal compliance systems to ensure transparent financial records, preparing for dawn raids.",
-    "source_en": "Source: Attorney Qin Linhao's team practical observation · 2026.08.28"
+    "title": "美国出口管制新规下，中国半导体企业如何构建出口合规体系？",
+    "summary": "秦林蒿律师研判：随着美国出口管制持续加码，中国半导体企业面临严峻合规挑战。建议企业建立全流程出口合规体系：一是识别受管制物项，梳理产品技术参数；二是建立最终用户和最终用途筛查机制，利用BIS官网及第三方数据库；三是完善内部合规制度，开展定期培训；四是与专业律师合作，及时应对突发管制措施。同时，企业应积极利用合规例外和许可证申请机制，降低业务中断风险。",
+    "source": "来源：律连全球 · 2026.08.31",
+    "title_en": "How Chinese Semiconductor Companies Can Build Export Compliance Systems Under New US Export Controls?",
+    "summary_en": "Attorney Qin's view: With the intensification of US export controls, Chinese semiconductor companies face severe compliance challenges. It is recommended that companies establish a full-process export compliance system: first, identify controlled items and map product technical parameters; second, establish end-user and end-use screening mechanisms using BIS official website and third-party databases; third, improve internal compliance policies and conduct regular training; fourth, collaborate with professional lawyers to respond promptly to sudden control measures. Additionally, companies should actively utilize compliance exceptions and license application mechanisms to reduce business interruption risks.",
+    "source_en": "Source: iGlobal Law · 2026.08.31"
   },
-  "dateLabel": "2026年8月28日 · 星期五",
-  "dateLabel_en": "Friday, August 28, 2026",
-  "issue": 240
+  "dateLabel": "2026年8月31日 · 星期一",
+  "dateLabel_en": "Monday, August 31, 2026",
+  "issue": 243
 }
