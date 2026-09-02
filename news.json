@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟对东南亚光伏产品加征关税，中企海外产能布局面临新壁垒",
-    "summary": "美国商务部近期宣布，将对从泰国、越南、马来西亚、柬埔寨进口的光伏电池及组件发起新一轮反倾销/反补贴调查，并拟将关税追溯至调查启动前90天。此举主要针对中国企业在东南亚设立的产能，旨在堵住规避对华关税的漏洞。相关企业需在30天内提交应诉材料，否则可能面临最高达250%的惩罚性关税。建议在东南亚设厂的中国光伏企业立即启动合规审查，评估原产地规则与供应链调整方案，并考虑转移至中东或美国本土建厂。",
-    "source": "来源：美国商务部公告 · 2026.09.01",
-    "title_en": "US Proposes New Tariffs on Southeast Asian Solar Imports, Targeting Chinese Overseas Capacity",
-    "summary_en": "The U.S. Department of Commerce has announced a new round of anti-dumping and countervailing duty investigations on solar cells and modules imported from Thailand, Vietnam, Malaysia, and Cambodia, with tariffs potentially retroactive to 90 days before the investigation initiation. This move aims to close loopholes in tariff evasion by Chinese companies with production bases in Southeast Asia. Companies must submit responses within 30 days or face punitive duties up to 250%. Chinese solar firms with Southeast Asian plants are advised to conduct immediate compliance reviews, reassess rules of origin, and consider relocating to the Middle East or the U.S. mainland.",
-    "source_en": "Source: U.S. Department of Commerce Announcement · 2026.09.01"
+    "title": "美国商务部拟将14家中国实体列入出口管制实体清单，涉半导体与AI领域",
+    "summary": "据路透社援引知情人士消息，美国商务部工业与安全局（BIS）拟于近期将14家中国实体列入实体清单，涉及半导体设备、人工智能芯片及高性能计算领域。此举将限制相关企业获取美国原产技术及软件，并可能影响其供应链稳定性。中企需评估现有出口合规体系，梳理涉美采购清单，并考虑替代供应商及许可申请策略。",
+    "source": "来源：路透社 · 2026.09.02",
+    "title_en": "U.S. Commerce Dept. to Add 14 Chinese Entities to Entity List, Targeting Semiconductors and AI",
+    "summary_en": "Citing sources familiar with the matter, Reuters reports that the U.S. Commerce Department's Bureau of Industry and Security (BIS) plans to add 14 Chinese entities to the Entity List, covering semiconductor equipment, AI chips, and high-performance computing. This move would restrict access to U.S.-origin technology and software, potentially disrupting supply chains. Chinese companies should assess their export compliance frameworks, review U.S.-procurement lists, and consider alternative suppliers and license application strategies.",
+    "source_en": "Source: Reuters · 2026.09.02"
   },
   "case": {
-    "title": "最高法发布跨境贸易纠纷典型案例：电子提单转让效力获司法确认",
-    "summary": "最高人民法院于2026年8月底发布一批涉外商事典型案例，其中一宗涉及电子提单的转让效力问题。在该案中，中国出口企业与境外买方通过区块链平台签发并流转电子提单，后因货物损毁引发索赔。法院认定，依据《电子签名法》及《海商法》相关规定，经可靠电子签名认证的电子提单与纸质提单具有同等法律效力，其转让构成有效的物权凭证转移。该判决为中国企业使用电子提单提供了司法指引，降低了贸易文件处理成本与欺诈风险。",
-    "source": "来源：最高人民法院典型案例发布 · 2026.08",
-    "title_en": "SPC Releases Typical Cross-Border Trade Case: Judicial Recognition of Electronic Bill of Lading Transfer",
-    "summary_en": "In late August 2026, the Supreme People's Court published a batch of typical foreign-related commercial cases, including one involving the validity of electronic bill of lading (eBL) transfers. A Chinese exporter and an overseas buyer used a blockchain platform to issue and transfer an eBL, and a dispute arose over cargo damage. The court held that, under the Electronic Signature Law and Maritime Code, an eBL with reliable electronic signatures has the same legal effect as a paper bill, and its transfer constitutes a valid transfer of title document. This ruling provides judicial guidance for Chinese companies using eBLs, reducing paperwork costs and fraud risks.",
-    "source_en": "Source: SPC Typical Cases Release · 2026.08"
+    "title": "最高法发布涉外民商事审判典型案例：明确跨境电商平台‘明知侵权’认定标准",
+    "summary": "最高人民法院于8月底发布一批涉外民商事审判典型案例，其中一例涉及跨境电商平台商标侵权案。法院认定，平台在收到权利人有效通知后，未及时采取必要措施（如删除链接、暂停服务），应承担‘明知侵权’的连带责任。该案例为跨境电商平台及卖家划定了合规边界，强调建立高效的知识产权投诉处理机制的重要性。",
+    "source": "来源：最高人民法院 · 2026.08",
+    "title_en": "SPC Releases Typical Foreign-Related Cases: Clarifies 'Actual Knowledge' Standard for Cross-Border E-Commerce Platforms",
+    "summary_en": "In late August, the Supreme People's Court (SPC) published a batch of typical foreign-related civil and commercial cases, including one on trademark infringement involving a cross-border e-commerce platform. The court held that a platform that fails to take necessary measures (e.g., removing links or suspending services) after receiving a valid notice from the rights holder is liable for contributory infringement based on 'actual knowledge'. This case delineates compliance boundaries for platforms and sellers, emphasizing the importance of an efficient IP complaint handling mechanism.",
+    "source_en": "Source: Supreme People's Court · 2026.08"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，企业合规再添指引",
-    "summary": "广东省互联网信息办公室于2026年9月1日发布《粤港澳大湾区个人信息跨境流动标准合同办法》，自即日起实施。该办法允许大湾区内地九市与香港、澳门之间的个人信息跨境流动采用标准合同备案制，替代此前繁琐的安全评估程序，但需满足出境前开展个人信息保护影响评估等条件。办法明确，涉及重要数据的出境仍须进行安全评估。此举将提升跨境金融服务、供应链管理及远程办公等场景的数据处理效率，相关企业应尽快对照新规调整内部数据合规流程。",
-    "source": "来源：广东省网信办 · 2026.09.01",
-    "title_en": "New Cross-Border Data Flow Rules in GBA Take Effect, Adding Compliance Guidance for Enterprises",
-    "summary_en": "On September 1, 2026, the Cyberspace Administration of Guangdong Province issued the \"Standard Contract Measures for Cross-Border Personal Information Flow in the Guangdong-Hong Kong-Macao Greater Bay Area,\" effective immediately. The measures allow personal information to flow between the nine mainland GBA cities and Hong Kong/Macau via a standard contract filing mechanism, replacing the previous cumbersome security assessment procedures, provided that a personal information protection impact assessment is conducted before transfer. It also clarifies that transfers of important data still require security assessments. This will enhance data processing efficiency in cross-border financial services, supply chain management, and remote work. Companies should promptly update their internal data compliance processes to align with the new rules.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.09.01"
+    "title": "粤港澳大湾区跨境数据流动新规：自贸区试点‘负面清单’管理，便利企业合规",
+    "summary": "广东省互联网信息办公室于9月1日发布《粤港澳大湾区（内地）自贸区跨境数据流动负面清单（2026年版）》，明确在自贸区内试行数据出境‘负面清单’管理，对清单外数据免于安全评估。该举措将降低企业数据出境合规成本，尤其利好金融、物流、跨境电商等行业。企业应梳理自身数据类别，对照清单制定合规策略，并关注后续配套细则。",
+    "source": "来源：广东省互联网信息办公室 · 2026.09.01",
+    "title_en": "New Cross-Border Data Flow Rules in GBA: Negative List Pilot in Free Trade Zones to Ease Compliance",
+    "summary_en": "On September 1, the Cyberspace Administration of Guangdong Province issued the 'Negative List for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland) Free Trade Zones (2026 Edition)', implementing a negative-list management approach for data exports within the FTZs, exempting data not on the list from security assessments. This measure reduces compliance costs for data outbound transfers, particularly benefiting finance, logistics, and cross-border e-commerce. Companies should categorize their data, align with the list, and monitor supporting rules.",
+    "source_en": "Source: Cyberspace Administration of Guangdong · 2026.09.01"
   },
   "analysis": {
-    "title": "美国出口管制清单频繁更新，中企应建立动态筛查机制应对合规风险",
-    "summary": "秦林蒿律师研判：近期美国商务部工业与安全局（BIS）多次修订实体清单（Entity List）及“未经验证清单”（UVL），新增多家中国科技企业，并扩大对半导体、人工智能等领域的管制范围。建议中国出海企业：一是建立覆盖全业务链条的合规筛查体系，将出口管制审查嵌入客户尽调、采购、研发、销售等环节；二是关注“最终用户”与“最终用途”审查，避免因间接涉及受管制物项而遭处罚；三是针对美国技术含量超过25%的产品，评估是否需申请许可；四是定期参加合规培训并保留完整记录，以应对可能的执法调查。",
-    "source": "来源：律连全球研究中心 · 2026.09.01",
-    "title_en": "Frequent Updates to U.S. Export Control Lists: Chinese Companies Should Establish Dynamic Screening Mechanisms",
-    "summary_en": "Attorney Qin's view: The U.S. Bureau of Industry and Security (BIS) has recently revised the Entity List and Unverified List (UVL) multiple times, adding several Chinese tech companies and expanding controls on semiconductors, AI, and other areas. Chinese companies going global should: first, establish a compliance screening system covering the entire business chain, embedding export control reviews into customer due diligence, procurement, R&D, and sales; second, pay close attention to end-user and end-use checks to avoid penalties for indirect involvement with controlled items; third, assess whether licenses are needed for products with more than 25% U.S. content; and fourth, conduct regular compliance training and maintain complete records to respond to potential enforcement actions.",
-    "source_en": "Source: iGlobal Law Research Center · 2026.09.01"
+    "title": "美国对华投资限令实施细则落地：中企应重构融资与合规路径",
+    "summary": "秦林蒿律师研判：美国财政部近期发布对华投资限令最终实施细则，限制美资投资中国半导体、AI、量子计算等领域。中企在吸引外资时需穿透审查资金来源，避免触发合规风险。建议：1）建立外资‘负面清单’筛查机制；2）对现有美资股东进行合规评估，必要时调整架构；3）探索中东、欧洲等替代融资渠道，并关注‘反向’合规要求。",
+    "source": "来源：美国财政部 · 2026.08",
+    "title_en": "U.S. Outbound Investment Rules Finalized: Chinese Companies Should Restructure Financing and Compliance Paths",
+    "summary_en": "Attorney Qin's view: The U.S. Treasury Department recently issued final rules implementing outbound investment restrictions, limiting U.S. investments in Chinese semiconductors, AI, quantum computing, etc. Chinese companies attracting foreign capital must conduct look-through due diligence on funding sources to avoid compliance pitfalls. Recommendations: (1) establish a 'negative list' screening mechanism for foreign investments; (2) assess existing U.S. shareholders for compliance and adjust structures if necessary; (3) explore alternative funding sources from the Middle East, Europe, and be mindful of 'reverse' compliance obligations.",
+    "source_en": "Source: U.S. Department of the Treasury · 2026.08"
   },
-  "dateLabel": "2026年9月1日 · 星期二",
-  "dateLabel_en": "Tuesday, September 1, 2026",
-  "issue": 244
+  "dateLabel": "2026年9月2日 · 星期三",
+  "dateLabel_en": "Wednesday, September 2, 2026",
+  "issue": 245
 }
