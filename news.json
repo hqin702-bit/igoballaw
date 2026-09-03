@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国商务部拟将14家中国实体列入出口管制实体清单，涉半导体与AI领域",
-    "summary": "据路透社援引知情人士消息，美国商务部工业与安全局（BIS）拟于近期将14家中国实体列入实体清单，涉及半导体设备、人工智能芯片及高性能计算领域。此举将限制相关企业获取美国原产技术及软件，并可能影响其供应链稳定性。中企需评估现有出口合规体系，梳理涉美采购清单，并考虑替代供应商及许可申请策略。",
-    "source": "来源：路透社 · 2026.09.02",
-    "title_en": "U.S. Commerce Dept. to Add 14 Chinese Entities to Entity List, Targeting Semiconductors and AI",
-    "summary_en": "Citing sources familiar with the matter, Reuters reports that the U.S. Commerce Department's Bureau of Industry and Security (BIS) plans to add 14 Chinese entities to the Entity List, covering semiconductor equipment, AI chips, and high-performance computing. This move would restrict access to U.S.-origin technology and software, potentially disrupting supply chains. Chinese companies should assess their export compliance frameworks, review U.S.-procurement lists, and consider alternative suppliers and license application strategies.",
-    "source_en": "Source: Reuters · 2026.09.02"
+    "title": "美国商务部拟将14家中国实体列入出口管制实体清单，涉量子计算与半导体设备",
+    "summary": "据多方信源，美国商务部工业与安全局（BIS）拟于本周将14家中国实体列入实体清单，理由涉及量子计算、先进半导体设备及材料对军事现代化的潜在贡献。此举将限制相关企业获取美国原产及受EAR管制的物项，并可能引发供应链调整。涉事企业应尽快开展出口管制合规自查，评估美国物项使用情况，并考虑替代供应商及许可申请策略。建议关注BIS联邦公报正式公告，以清单最终内容为准。",
+    "source": "来源：综合路透社、彭博社报道 · 2026.09.03",
+    "title_en": "U.S. Commerce Dept. to Add 14 Chinese Entities to Entity List over Quantum & Semi Tools",
+    "summary_en": "According to multiple sources, the U.S. Bureau of Industry and Security (BIS) plans to add 14 Chinese entities to the Entity List this week, citing alleged contributions to military modernization through quantum computing and advanced semiconductor equipment and materials. This action would restrict these entities' access to U.S.-origin and EAR-controlled items, potentially triggering supply chain adjustments. Affected companies should promptly conduct export control compliance self-assessments, evaluate their use of U.S. items, and consider alternative suppliers and license application strategies. The final scope will be confirmed upon official Federal Register publication.",
+    "source_en": "Source: Compiled from Reuters & Bloomberg reports · 2026.09.03"
   },
   "case": {
-    "title": "最高法发布涉外民商事审判典型案例：明确跨境电商平台‘明知侵权’认定标准",
-    "summary": "最高人民法院于8月底发布一批涉外民商事审判典型案例，其中一例涉及跨境电商平台商标侵权案。法院认定，平台在收到权利人有效通知后，未及时采取必要措施（如删除链接、暂停服务），应承担‘明知侵权’的连带责任。该案例为跨境电商平台及卖家划定了合规边界，强调建立高效的知识产权投诉处理机制的重要性。",
-    "source": "来源：最高人民法院 · 2026.08",
-    "title_en": "SPC Releases Typical Foreign-Related Cases: Clarifies 'Actual Knowledge' Standard for Cross-Border E-Commerce Platforms",
-    "summary_en": "In late August, the Supreme People's Court (SPC) published a batch of typical foreign-related civil and commercial cases, including one on trademark infringement involving a cross-border e-commerce platform. The court held that a platform that fails to take necessary measures (e.g., removing links or suspending services) after receiving a valid notice from the rights holder is liable for contributory infringement based on 'actual knowledge'. This case delineates compliance boundaries for platforms and sellers, emphasizing the importance of an efficient IP complaint handling mechanism.",
-    "source_en": "Source: Supreme People's Court · 2026.08"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认，明确仲裁协议独立性及电子签署效力",
+    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项仲裁裁决。该案涉及中英合资企业合同纠纷，仲裁协议由双方通过电子邮件签署。法院重申仲裁协议独立性原则，并认定电子签名符合《电子签名法》要求，驳回了被申请人以仲裁协议无效为由的异议。此案为跨境合同中选择境外仲裁机构及电子签署方式提供了积极信号，提示企业在约定仲裁条款时明确机构规则，并妥善保存电子签署记录。",
+    "source": "来源：中国裁判文书网公开案例 · 2026年8月",
+    "title_en": "Chinese Court Recognizes SIAC Award, Upholds Arbitration Clause Independence & E-Signature Validity",
+    "summary_en": "A Chinese intermediate people's court recently ruled to recognize and enforce a Singapore International Arbitration Centre (SIAC) award arising from a Sino-foreign JV contract dispute. The arbitration agreement was concluded via email exchanges. The court reaffirmed the doctrine of separability of arbitration clauses and held that electronic signatures met the requirements of China's Electronic Signature Law, rejecting the respondent's challenge to the arbitration agreement's validity. This case signals a positive judicial attitude toward foreign arbitration and e-execution, reminding parties to clearly specify institutional rules and preserve electronic signature records.",
+    "source_en": "Source: Public case via China Judgments Online · Aug. 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规：自贸区试点‘负面清单’管理，便利企业合规",
-    "summary": "广东省互联网信息办公室于9月1日发布《粤港澳大湾区（内地）自贸区跨境数据流动负面清单（2026年版）》，明确在自贸区内试行数据出境‘负面清单’管理，对清单外数据免于安全评估。该举措将降低企业数据出境合规成本，尤其利好金融、物流、跨境电商等行业。企业应梳理自身数据类别，对照清单制定合规策略，并关注后续配套细则。",
-    "source": "来源：广东省互联网信息办公室 · 2026.09.01",
-    "title_en": "New Cross-Border Data Flow Rules in GBA: Negative List Pilot in Free Trade Zones to Ease Compliance",
-    "summary_en": "On September 1, the Cyberspace Administration of Guangdong Province issued the 'Negative List for Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland) Free Trade Zones (2026 Edition)', implementing a negative-list management approach for data exports within the FTZs, exempting data not on the list from security assessments. This measure reduces compliance costs for data outbound transfers, particularly benefiting finance, logistics, and cross-border e-commerce. Companies should categorize their data, align with the list, and monitor supporting rules.",
-    "source_en": "Source: Cyberspace Administration of Guangdong · 2026.09.01"
+    "title": "粤港澳大湾区跨境纠纷替代解决协作新规出台，推动仲裁调解互认与人才互认",
+    "summary": "广东省司法厅等单位近期联合发布《粤港澳大湾区跨境纠纷替代解决协作指引（试行）》，旨在深化三地仲裁、调解、律师服务协作。指引提出建立仲裁裁决及调解协议的互认与协助执行绿色通道，探索粤港澳律师执业互认试点，并鼓励运用在线纠纷解决平台（ODR）处理跨境商事争议。此举有望降低企业跨境维权成本，提升大湾区法治化营商环境。建议企业关注后续配套细则，在合同中灵活约定适合的争议解决方式。",
+    "source": "来源：广东省司法厅官网 · 2026年8月",
+    "title_en": "New GBA Cross-Border ADR Guidelines Released to Boost Mutual Recognition of Arbitral Awards & Talent",
+    "summary_en": "The Guangdong Provincial Department of Justice and other authorities recently issued the 'Guidelines on Cross-border Dispute Resolution Cooperation in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', aiming to deepen collaboration among arbitration, mediation, and legal services in the three jurisdictions. The guidelines propose green channels for mutual recognition and enforcement of arbitral awards and mediation agreements, pilot mutual recognition of lawyer qualifications, and encourage the use of online dispute resolution (ODR) platforms for cross-border commercial disputes. This is expected to lower costs for enterprises and improve the business environment. Companies should monitor implementation details and flexibly choose dispute resolution methods in contracts.",
+    "source_en": "Source: Department of Justice of Guangdong Province · Aug. 2026"
   },
   "analysis": {
-    "title": "美国对华投资限令实施细则落地：中企应重构融资与合规路径",
-    "summary": "秦林蒿律师研判：美国财政部近期发布对华投资限令最终实施细则，限制美资投资中国半导体、AI、量子计算等领域。中企在吸引外资时需穿透审查资金来源，避免触发合规风险。建议：1）建立外资‘负面清单’筛查机制；2）对现有美资股东进行合规评估，必要时调整架构；3）探索中东、欧洲等替代融资渠道，并关注‘反向’合规要求。",
-    "source": "来源：美国财政部 · 2026.08",
-    "title_en": "U.S. Outbound Investment Rules Finalized: Chinese Companies Should Restructure Financing and Compliance Paths",
-    "summary_en": "Attorney Qin's view: The U.S. Treasury Department recently issued final rules implementing outbound investment restrictions, limiting U.S. investments in Chinese semiconductors, AI, quantum computing, etc. Chinese companies attracting foreign capital must conduct look-through due diligence on funding sources to avoid compliance pitfalls. Recommendations: (1) establish a 'negative list' screening mechanism for foreign investments; (2) assess existing U.S. shareholders for compliance and adjust structures if necessary; (3) explore alternative funding sources from the Middle East, Europe, and be mindful of 'reverse' compliance obligations.",
-    "source_en": "Source: U.S. Department of the Treasury · 2026.08"
+    "title": "欧盟《外国补贴条例》调查趋严，中企参与公共采购及并购需提前开展补贴梳理",
+    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》（FSR）实施一年多来，已对多起涉及中国企业的并购和公共采购案件启动深入调查。FSR要求企业在欧盟公共采购招标或大型并购中主动申报过去三年获得的外国财政资助，否则面临最高达营业额10%的罚款。建议中国出海企业在进入欧盟市场前，建立内部补贴台账，梳理各类政府支持项目，评估是否触发申报义务；在交易时间表上预留额外审查期，并聘请专业律师进行FSR合规评估，以降低交易被叫停风险。",
+    "source": "来源：欧盟委员会竞争总司执法动态 · 2026年9月",
+    "title_en": "EU Foreign Subsidies Regulation Scrutiny Intensifies: Chinese Firms Need Early Subsidy Mapping for M&A and Public Tenders",
+    "summary_en": "Attorney Qin's view: Over a year since the EU Foreign Subsidies Regulation (FSR) took effect, the European Commission has launched in-depth investigations into several deals involving Chinese companies. FSR requires companies to declare all foreign financial contributions received in the past three years when participating in EU public tenders or large M&A deals, with penalties up to 10% of turnover for non-compliance. Chinese companies should establish internal subsidy ledgers, map all government support schemes, and assess whether they trigger notification obligations before entering the EU market. They should also build extra review time into transaction schedules and engage counsel for FSR compliance assessments to mitigate deal-blocking risks.",
+    "source_en": "Source: European Commission DG COMP enforcement update · Sep. 2026"
   },
-  "dateLabel": "2026年9月2日 · 星期三",
-  "dateLabel_en": "Wednesday, September 2, 2026",
-  "issue": 245
+  "dateLabel": "2026年9月3日 · 星期四",
+  "dateLabel_en": "Thursday, September 3, 2026",
+  "issue": 246
 }
