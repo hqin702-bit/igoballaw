@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国对华半导体出口管制升级，欧盟跟进审查成熟制程芯片，全球供应链重构加速",
-    "summary": "本周，美国商务部进一步收紧对华先进制程半导体设备及AI芯片的出口许可，并将多家中国实体列入实体清单，凸显技术脱钩趋势。欧盟委员会同步宣布对成熟制程芯片（28nm及以上）启动市场扭曲调查，评估对中国芯片的依赖风险。此举显示西方对华芯片限制从高端向中低端延伸，中国出海企业需关注供应链合规及替代方案。同时，RCEP框架下亚洲区域贸易活跃度上升，部分跨国企业加速“中国+1”布局，但美国《芯片法案》补贴细则的落地也吸引全球投资回流。整体看，全球半导体供应链正经历深度重构，合规风险与机遇并存。",
-    "source": "来源：美国商务部BIS、欧盟委员会 · 本周",
-    "title_en": "US Escalates Semiconductor Export Controls on China; EU Launches Probe into Mature-Process Chips, Accelerating Global Supply Chain Restructuring",
-    "summary_en": "This week, the US Department of Commerce further tightened export licenses for advanced semiconductor manufacturing equipment and AI chips to China, adding several Chinese entities to the Entity List, underscoring the trend of technological decoupling. Meanwhile, the European Commission initiated a market distortion investigation into mature-process chips (28nm and above), assessing reliance risks on Chinese semiconductors. These moves signal an extension of Western restrictions from high-end to mid- and low-end chips, prompting Chinese outbound enterprises to focus on supply chain compliance and alternative sourcing. Concurrently, intra-Asia trade under RCEP has seen increased activity, with multinationals accelerating 'China+1' strategies, while the implementation of US CHIPS Act subsidies is attracting global investment back to the US. Overall, the global semiconductor supply chain is undergoing profound restructuring, presenting both compliance challenges and opportunities.",
-    "source_en": "Source: US BIS, European Commission · this week"
+    "title": "本周国际经贸主线：美欧对华关税与出口管制持续加码，企业合规压力上升",
+    "summary": "本周（2026.08.31-09.04），国际经贸领域呈现三大主线：一是美国商务部工业与安全局（BIS）宣布将多家中国半导体企业列入实体清单，进一步收紧对华先进制程设备及EDA软件出口；二是欧盟委员会推进碳边境调节机制（CBAM）第三阶段立法，拟将钢铁、铝等行业纳入，对中国出口欧盟的碳密集型产品构成新壁垒；三是美国贸易代表办公室（USTR）启动对华301关税四年期复审，拟维持并上调部分商品税率。整体来看，西方对华“去风险”政策从关税向技术、碳规则延伸，形成组合拳。中国企业出海需高度关注供应链合规与市场准入变化，提前布局多元化市场与合规体系。",
+    "source": "来源：综合美国商务部、欧盟委员会、USTR公告及路透社报道 · 本周",
+    "title_en": "This Week's Global Trade Focus: US-EU Escalate Tariffs and Export Controls on China, Raising Compliance Pressure",
+    "summary_en": "During the week of Aug 31-Sep 4, 2026, three major trends dominated international trade: the US BIS added several Chinese semiconductor firms to the Entity List, further restricting exports of advanced manufacturing equipment and EDA software; the European Commission advanced the third phase of its CBAM legislation, proposing to cover steel and aluminum, creating new barriers for Chinese carbon-intensive exports; and the USTR initiated a four-year review of Section 301 tariffs, considering maintaining or raising rates on some goods. Overall, Western 'de-risking' policies are extending from tariffs to technology and carbon rules, forming a combined approach. Chinese companies going global must pay close attention to supply chain compliance and market access changes, and proactively diversify markets and strengthen compliance systems.",
+    "source_en": "Source: Compiled from US Commerce Dept, European Commission, USTR announcements and Reuters reports · this week"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决：跨境合资纠纷中“不利推论”适用，强调文件披露义务",
-    "summary": "本周公布的一起SIAC仲裁案（涉及中新合资企业股权纠纷）中，仲裁庭适用“不利推论”原则，因被申请方无正当理由拒绝披露关键财务文件，仲裁庭推定该等文件内容对其不利，并据此支持申请方关于违约和损害赔偿的主张。该案为中国出海企业敲响警钟：在跨境仲裁中，文件披露义务至关重要，消极应对可能导致败诉。仲裁庭同时指出，当事人应积极利用国际仲裁规则中的证据开示程序，合理管理电子数据。此裁决体现了国际仲裁对程序公正和证据诚信的高标准，中国企业应提升跨境争议中的证据管理能力。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）案例摘要 · 本周",
-    "title_en": "SIAC Award Applies Adverse Inference in Cross-Border JV Dispute, Underscoring Document Disclosure Obligations",
-    "summary_en": "In a recently published SIAC arbitration case concerning a China-Singapore joint venture equity dispute, the tribunal applied the principle of adverse inference: because the respondent unjustifiably refused to disclose key financial documents, the tribunal presumed such documents were unfavorable to it, supporting the claimant's claims for breach and damages. This case serves as a cautionary tale for Chinese outbound enterprises: document disclosure is critical in cross-border arbitration, and passive resistance may lead to adverse outcomes. The tribunal also emphasized that parties should proactively utilize discovery procedures under international arbitration rules and manage electronic data reasonably. The award reflects high standards of procedural fairness and evidentiary integrity in international arbitration, urging Chinese companies to enhance evidence management capabilities in cross-border disputes.",
-    "source_en": "Source: SIAC case summary · this week"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认：跨境仲裁条款效力认定成关键",
+    "summary": "本周，一起涉及中资企业与东南亚合作方的仲裁裁决承认案引发关注。中国某地中级人民法院依据《纽约公约》裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项裁决。该案中，双方合同约定争议提交SIAC仲裁，但被申请方主张仲裁条款因约定不明而无效。法院审查后认为，当事人对仲裁机构约定明确，且仲裁程序符合约定及SIAC规则，故驳回异议。此案提示出海企业：在起草跨境合同时，应清晰约定仲裁机构、地点、语言及适用法律，避免因条款歧义导致执行障碍。同时，中国法院对国际仲裁的友好态度，为跨境争议解决提供了可预期的司法保障。",
+    "source": "来源：中国裁判文书网相关裁定（隐去案号） · 本周",
+    "title_en": "Singapore SIAC Award Recognized by Chinese Court: Key Lessons on Cross-Border Arbitration Clause Validity",
+    "summary_en": "This week, a notable case concerning the recognition of an arbitral award involving a Chinese enterprise and a Southeast Asian partner drew attention. A Chinese intermediate people's court ruled to recognize and enforce an award rendered by the Singapore International Arbitration Centre (SIAC) under the New York Convention. The respondent argued that the arbitration clause was invalid due to ambiguity. The court held that the parties had clearly designated the arbitral institution, and the proceedings complied with the agreement and SIAC rules, thus rejecting the objection. This case reminds outbound enterprises: when drafting cross-border contracts, clearly specify the arbitral institution, seat, language, and governing law to avoid enforcement obstacles. Meanwhile, the Chinese courts' pro-arbitration stance provides predictable judicial support for cross-border dispute resolution.",
+    "source_en": "Source: Relevant ruling on China Judgements Online (case number omitted) · this week"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，深圳前海试点“数据海关”便利企业合规",
-    "summary": "本周，广东省发布《粤港澳大湾区数据跨境流动安全管理规定（试行）》，明确在大湾区内地九市与香港、澳门之间建立数据跨境流动的“白名单”机制，对涉及个人隐私和重要数据的出境实施分类管理。深圳前海率先试点“数据海关”模式，通过一站式申报和智能审核，缩短企业数据出境合规周期。该规定简化了跨境办公、金融、物流等场景的数据流动程序，但强化了事中事后监管。对于在大湾区布局的出海企业，这既是便利也是责任，需尽快调整内部数据治理架构，确保符合新规。",
-    "source": "来源：广东省互联网信息办公室、深圳前海管理局 · 本周",
-    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area Take Effect; Qianhai Pilots 'Data Customs' to Ease Compliance",
-    "summary_en": "This week, Guangdong Province issued the 'Provisional Regulations on Security Management of Cross-Border Data Flow in the Guangdong-Hong Kong-Macao Greater Bay Area', establishing a 'whitelist' mechanism for data flow between the nine mainland cities and Hong Kong/Macau, with classified management for outbound transfers involving personal privacy and important data. Qianhai in Shenzhen is piloting a 'Data Customs' model, featuring one-stop declaration and intelligent review to shorten compliance cycles for data exits. The regulations streamline procedures for cross-border office, finance, logistics scenarios, while strengthening during- and post-event supervision. For outbound enterprises operating in the GBA, this brings both convenience and responsibility, requiring prompt adjustments to internal data governance structures to ensure compliance.",
-    "source_en": "Source: Cyberspace Administration of Guangdong, Qianhai Authority · this week"
+    "title": "粤港澳大湾区跨境规则衔接提速：数据跨境流动与跨境纠纷调解新规落地",
+    "summary": "本周，粤港澳大湾区在涉外法治建设上迈出关键一步。广东省相关部门联合发布《粤港澳大湾区数据跨境流动便利化指引（试行）》，在确保安全前提下，简化企业数据出境评估流程，为区内企业开展跨境业务提供便利。同时，深圳前海法院与香港调解机构合作推出跨境商事纠纷在线调解平台，实现“一国两制三法域”下纠纷解决的高效衔接。此外，广东自贸区进一步放宽外资准入，在金融、医疗等领域推出负面清单。这些举措体现大湾区正加速打造市场化、法治化、国际化营商环境，为中国企业利用大湾区平台参与国际竞争提供制度支撑。",
+    "source": "来源：广东省人民政府、深圳前海法院等官方发布 · 本周",
+    "title_en": "GBA Cross-Border Rules Integration Accelerates: New Measures on Data Flow and Dispute Resolution",
+    "summary_en": "This week, the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) took a key step in foreign-related legal development. Guangdong authorities jointly issued the 'Guidelines on Facilitating Cross-Border Data Flow in the GBA (Trial)', simplifying the assessment process for corporate data exports while ensuring security. Meanwhile, Shenzhen Qianhai Court and Hong Kong mediation institutions launched an online mediation platform for cross-border commercial disputes, enabling efficient resolution under the 'one country, two systems, three legal jurisdictions' framework. Additionally, the Guangdong Pilot Free Trade Zone further relaxed foreign investment access, adopting negative lists in finance and healthcare. These measures reflect the GBA's acceleration in creating a market-oriented, law-based, and internationalized business environment, providing institutional support for Chinese enterprises to compete globally via the GBA platform.",
+    "source_en": "Source: Official releases from Guangdong Provincial Government, Shenzhen Qianhai Court, etc. · this week"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：出海企业应构建“合规韧性”，紧盯美欧监管联动与数据跨境新规",
-    "summary": "秦林蒿律师周度研判：本周美国对华半导体管制升级与欧盟成熟制程调查，表明西方对华科技限制正走向“全链条”协同，出海企业（尤其涉及芯片、AI、高端制造）应重新评估供应链中的受控物项，并利用海外替代来源或申请许可。同时，粤港澳大湾区数据跨境新规为区域业务提供便利，但企业需建立数据分类分级制度，避免违规出境。SIAC案例提醒，跨境争议中文件披露不可轻视，建议企业提前制定证据保留策略。下周关注：美国商务部对华出口管制最终规则是否更新、欧盟芯片调查初步结论、以及大湾区数据跨境实施细则。建议企业开展合规内审，并咨询专业律师。",
+    "title": "秦林蒿律师周度研判：出海企业需构建“关税-技术-碳”三维合规体系并关注下周欧盟峰会",
+    "summary": "秦林蒿律师周度研判：本周美欧动向表明，传统关税壁垒正与技术封锁、碳规则交织形成复合型壁垒。建议出海企业：一是立即梳理供应链，评估美国实体清单及欧盟CBAM影响，建立动态清单管理；二是审慎选择仲裁条款，优先约定新加坡、香港等中立地，并明确适用法；三是善用大湾区政策，将数据合规与争议解决机制纳入跨境布局。下周重点关注：9月8日欧盟特别峰会可能讨论对华电动汽车反补贴终裁，以及美国国会拟审议的《对外投资审查法案》进展。企业应提前模拟情景，制定应急预案，避免被动应对。",
     "source": "来源：秦林蒿律师团队 · 本周",
-    "title_en": "Attorney Qin's Weekly View: Outbound Enterprises Should Build 'Compliance Resilience', Watch US-EU Regulatory Linkage and New Data Rules",
-    "summary_en": "Attorney Qin's weekly view: This week's US semiconductor controls escalation and EU mature-process probe signal a coordinated 'full-chain' approach in Western tech restrictions. Outbound enterprises, especially in chips, AI, and high-end manufacturing, should reassess controlled items in their supply chains and explore alternative sources or licensing. Meanwhile, the GBA's new cross-border data rules facilitate regional operations, but companies must establish data classification systems to avoid illegal transfers. The SIAC case reminds that document disclosure in cross-border disputes is critical; proactively adopt evidence retention strategies. Next week, watch for updates on US BIS final rules on export controls, initial EU chip probe findings, and GBA data implementation details. Recommend conducting compliance audits and consulting counsel.",
-    "source_en": "Source: Attorney Qin's team · this week"
+    "title_en": "Attorney Qin's Weekly View: Outbound Firms Must Build a 'Tariff-Tech-Carbon' Compliance Matrix; Watch EU Summit Next Week",
+    "summary_en": "Attorney Qin's weekly view: This week's US-EU actions indicate that traditional tariff barriers are intertwining with tech restrictions and carbon rules to form composite barriers. Recommendations for outbound enterprises: first, immediately map supply chains to assess the impact of the US Entity List and EU CBAM, and establish dynamic list management; second, carefully choose arbitration clauses, favoring neutral seats like Singapore or Hong Kong with clear governing law; third, leverage GBA policies to incorporate data compliance and dispute resolution mechanisms into cross-border plans. Next week, focus on: the EU special summit on Sep 8 may discuss final anti-subsidy duties on Chinese EVs, and progress of the US Foreign Investment Review Act proposed in Congress. Enterprises should simulate scenarios in advance and prepare contingency plans to avoid reactive responses.",
+    "source_en": "Source: Attorney Qin Linhao's team · this week"
   },
-  "weekLabel": "2026年8月24日 – 8月28日 · 本周周报",
-  "weekLabel_en": "Aug 24 – Aug 28, 2026 · Weekly Digest",
-  "issue": 35
+  "weekLabel": "2026年8月31日 – 9月4日 · 本周周报",
+  "weekLabel_en": "Aug 31 – Sep 4, 2026 · Weekly Digest",
+  "issue": 36
 }
