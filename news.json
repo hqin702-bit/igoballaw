@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国商务部拟将14家中国实体列入出口管制实体清单，涉量子计算与半导体设备",
-    "summary": "据多方信源，美国商务部工业与安全局（BIS）拟于本周将14家中国实体列入实体清单，理由涉及量子计算、先进半导体设备及材料对军事现代化的潜在贡献。此举将限制相关企业获取美国原产及受EAR管制的物项，并可能引发供应链调整。涉事企业应尽快开展出口管制合规自查，评估美国物项使用情况，并考虑替代供应商及许可申请策略。建议关注BIS联邦公报正式公告，以清单最终内容为准。",
-    "source": "来源：综合路透社、彭博社报道 · 2026.09.03",
-    "title_en": "U.S. Commerce Dept. to Add 14 Chinese Entities to Entity List over Quantum & Semi Tools",
-    "summary_en": "According to multiple sources, the U.S. Bureau of Industry and Security (BIS) plans to add 14 Chinese entities to the Entity List this week, citing alleged contributions to military modernization through quantum computing and advanced semiconductor equipment and materials. This action would restrict these entities' access to U.S.-origin and EAR-controlled items, potentially triggering supply chain adjustments. Affected companies should promptly conduct export control compliance self-assessments, evaluate their use of U.S. items, and consider alternative suppliers and license application strategies. The final scope will be confirmed upon official Federal Register publication.",
-    "source_en": "Source: Compiled from Reuters & Bloomberg reports · 2026.09.03"
+    "title": "欧盟拟对华电动汽车加征最终反补贴税，中企应加速供应链本地化布局",
+    "summary": "据报道，欧盟委员会计划于9月中旬前公布对自中国进口的纯电动汽车加征最终反补贴税的裁定，税率将在现有10%基础上叠加，涉及比亚迪、吉利、上汽等主要出口商。此举将显著提高中国电动车进入欧盟市场的成本。律师建议，相关企业应尽快评估对欧出口结构，考虑在欧盟境内或周边国家设立组装厂或与当地伙伴合资，以规避关税壁垒，并同步推进原产地规则合规与供应链溯源管理。",
+    "source": "来源：欧盟委员会贸易司公告预告 · 2026.09.04",
+    "title_en": "EU Set to Impose Final Countervailing Duties on Chinese EVs; Chinese Firms Urged to Accelerate Localized Supply Chains",
+    "summary_en": "The European Commission is expected to announce by mid-September its final determination on countervailing duties against battery electric vehicles imported from China, adding duties on top of the existing 10% tariff, affecting major exporters such as BYD, Geely, and SAIC. This will significantly raise costs for Chinese EVs entering the EU market. Lawyers advise affected companies to promptly evaluate their export structure, consider setting up assembly plants within the EU or neighboring countries, or forming joint ventures with local partners to circumvent tariff barriers, while ensuring compliance with rules of origin and supply chain traceability.",
+    "source_en": "Source: European Commission trade announcement preview · 2026.09.04"
   },
   "case": {
-    "title": "新加坡国际仲裁中心裁决获中国法院承认，明确仲裁协议独立性及电子签署效力",
-    "summary": "近期，中国某中级人民法院裁定承认并执行新加坡国际仲裁中心（SIAC）作出的一项仲裁裁决。该案涉及中英合资企业合同纠纷，仲裁协议由双方通过电子邮件签署。法院重申仲裁协议独立性原则，并认定电子签名符合《电子签名法》要求，驳回了被申请人以仲裁协议无效为由的异议。此案为跨境合同中选择境外仲裁机构及电子签署方式提供了积极信号，提示企业在约定仲裁条款时明确机构规则，并妥善保存电子签署记录。",
-    "source": "来源：中国裁判文书网公开案例 · 2026年8月",
-    "title_en": "Chinese Court Recognizes SIAC Award, Upholds Arbitration Clause Independence & E-Signature Validity",
-    "summary_en": "A Chinese intermediate people's court recently ruled to recognize and enforce a Singapore International Arbitration Centre (SIAC) award arising from a Sino-foreign JV contract dispute. The arbitration agreement was concluded via email exchanges. The court reaffirmed the doctrine of separability of arbitration clauses and held that electronic signatures met the requirements of China's Electronic Signature Law, rejecting the respondent's challenge to the arbitration agreement's validity. This case signals a positive judicial attitude toward foreign arbitration and e-execution, reminding parties to clearly specify institutional rules and preserve electronic signature records.",
-    "source_en": "Source: Public case via China Judgments Online · Aug. 2026"
+    "title": "最高法典型案例：跨境电商零售进口合同纠纷中格式条款效力的认定规则",
+    "summary": "最高人民法院近期发布涉外商事典型案例，其中一起跨境电商零售进口合同纠纷明确：跨境电商平台以英文或仅以勾选方式呈现的格式管辖条款，若未采取合理方式提请消费者注意，且未提供中文翻译，消费者主张该条款不成为合同内容的，人民法院予以支持。该案为跨境电商企业敲响警钟——在格式条款设计上，必须确保消费者的知情权与选择权，否则可能面临管辖条款无效的风险，增加跨境争议解决的不确定性。",
+    "source": "来源：最高人民法院涉外商事典型案例（2026年第二批）",
+    "title_en": "SPC Typical Case: Validity of Standard Form Jurisdiction Clauses in Cross-Border E-Commerce Retail Contracts",
+    "summary_en": "In a recent batch of typical foreign-related commercial cases released by the Supreme People's Court, a case concerning a cross-border e-commerce retail contract clarified that if a platform presents a standard form jurisdiction clause only in English or via a mere check-box without reasonably drawing the consumer's attention and without a Chinese translation, the consumer's claim that such clause does not form part of the contract will be upheld by the court. This serves as a warning for cross-border e-commerce enterprises: they must ensure consumers' right to know and choose when designing standard clauses, otherwise they risk the clause being invalid, increasing uncertainty in cross-border dispute resolution.",
+    "source_en": "Source: SPC Typical Foreign-Related Commercial Cases (Second Batch of 2026)"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷替代解决协作新规出台，推动仲裁调解互认与人才互认",
-    "summary": "广东省司法厅等单位近期联合发布《粤港澳大湾区跨境纠纷替代解决协作指引（试行）》，旨在深化三地仲裁、调解、律师服务协作。指引提出建立仲裁裁决及调解协议的互认与协助执行绿色通道，探索粤港澳律师执业互认试点，并鼓励运用在线纠纷解决平台（ODR）处理跨境商事争议。此举有望降低企业跨境维权成本，提升大湾区法治化营商环境。建议企业关注后续配套细则，在合同中灵活约定适合的争议解决方式。",
-    "source": "来源：广东省司法厅官网 · 2026年8月",
-    "title_en": "New GBA Cross-Border ADR Guidelines Released to Boost Mutual Recognition of Arbitral Awards & Talent",
-    "summary_en": "The Guangdong Provincial Department of Justice and other authorities recently issued the 'Guidelines on Cross-border Dispute Resolution Cooperation in the Guangdong-Hong Kong-Macao Greater Bay Area (Trial)', aiming to deepen collaboration among arbitration, mediation, and legal services in the three jurisdictions. The guidelines propose green channels for mutual recognition and enforcement of arbitral awards and mediation agreements, pilot mutual recognition of lawyer qualifications, and encourage the use of online dispute resolution (ODR) platforms for cross-border commercial disputes. This is expected to lower costs for enterprises and improve the business environment. Companies should monitor implementation details and flexibly choose dispute resolution methods in contracts.",
-    "source_en": "Source: Department of Justice of Guangdong Province · Aug. 2026"
+    "title": "粤港澳大湾区跨境纠纷在线调解平台上线，实现三地规则衔接与高效解纷",
+    "summary": "为深化粤港澳大湾区法治建设，便利跨境商事纠纷高效化解，由广东省司法厅牵头、港澳相关机构参与共建的“粤港澳大湾区跨境纠纷在线调解平台”于9月1日正式上线。该平台整合粤港澳三地调解资源，支持中、英、葡三语服务，并引入港澳调解员名册，当事人可通过平台在线申请调解、选择调解员、开展视频调解。此举有助于降低跨境解纷成本，提升三地营商环境法治化水平。",
+    "source": "来源：广东省司法厅发布 · 2026.09.01",
+    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Online Mediation Platform Launched to Streamline Cross-Border Dispute Resolution",
+    "summary_en": "To deepen the rule of law in the Guangdong-Hong Kong-Macao Greater Bay Area and facilitate efficient resolution of cross-border commercial disputes, the 'GBA Cross-Border Dispute Online Mediation Platform' co-built by the Department of Justice of Guangdong Province and relevant institutions from Hong Kong and Macao was officially launched on September 1. The platform integrates mediation resources from the three jurisdictions, supports trilingual services in Chinese, English, and Portuguese, and includes a roster of mediators from Hong Kong and Macao. Parties can apply for mediation online, select mediators, and conduct video mediation. This initiative helps reduce cross-border dispute resolution costs and enhance the legal environment for business in the region.",
+    "source_en": "Source: Department of Justice of Guangdong Province release · 2026.09.01"
   },
   "analysis": {
-    "title": "欧盟《外国补贴条例》调查趋严，中企参与公共采购及并购需提前开展补贴梳理",
-    "summary": "秦林蒿律师研判：欧盟《外国补贴条例》（FSR）实施一年多来，已对多起涉及中国企业的并购和公共采购案件启动深入调查。FSR要求企业在欧盟公共采购招标或大型并购中主动申报过去三年获得的外国财政资助，否则面临最高达营业额10%的罚款。建议中国出海企业在进入欧盟市场前，建立内部补贴台账，梳理各类政府支持项目，评估是否触发申报义务；在交易时间表上预留额外审查期，并聘请专业律师进行FSR合规评估，以降低交易被叫停风险。",
-    "source": "来源：欧盟委员会竞争总司执法动态 · 2026年9月",
-    "title_en": "EU Foreign Subsidies Regulation Scrutiny Intensifies: Chinese Firms Need Early Subsidy Mapping for M&A and Public Tenders",
-    "summary_en": "Attorney Qin's view: Over a year since the EU Foreign Subsidies Regulation (FSR) took effect, the European Commission has launched in-depth investigations into several deals involving Chinese companies. FSR requires companies to declare all foreign financial contributions received in the past three years when participating in EU public tenders or large M&A deals, with penalties up to 10% of turnover for non-compliance. Chinese companies should establish internal subsidy ledgers, map all government support schemes, and assess whether they trigger notification obligations before entering the EU market. They should also build extra review time into transaction schedules and engage counsel for FSR compliance assessments to mitigate deal-blocking risks.",
-    "source_en": "Source: European Commission DG COMP enforcement update · Sep. 2026"
+    "title": "秦林蒿律师研判：美欧对华投资审查趋严，中企并购应提前嵌入国家安全申报评估",
+    "summary": "秦林蒿律师研判：近期美国外国投资委员会（CFIUS）及欧盟外资审查条例（EU Screening Regulation）均呈现审查范围扩大、力度增强趋势，尤其在半导体、人工智能、生物科技等敏感领域。中企在美欧开展并购、绿地投资时，除商业尽调外，务必提前进行国家安全申报风险评估，并考虑交易架构设计（如是否引入第三方、剥离敏感资产等）以降低否决风险。建议企业建立常态化合规机制，跟踪目标国监管动态，避免交易后期遭遇强制剥离或高额处罚。",
+    "source": "来源：律连全球涉外法律研究部 · 2026.09.04",
+    "title_en": "Attorney Qin's view: Stricter US/EU Investment Screening, Chinese Acquirers Should Embed National Security Filing Assessment Early",
+    "summary_en": "Attorney Qin's view: Recent trends show that both the US Committee on Foreign Investment in the United States (CFIUS) and the EU Foreign Direct Investment Screening Regulation are expanding review scopes and intensifying enforcement, particularly in sensitive sectors like semiconductors, AI, and biotech. For M&A and greenfield investments in the US and EU, Chinese companies should, beyond commercial due diligence, conduct early national security filing risk assessments and consider deal structuring options (such as introducing third-party investors or divesting sensitive assets) to mitigate the risk of rejection. Companies are advised to establish a routine compliance mechanism and monitor regulatory developments in target jurisdictions to avoid forced divestment or hefty penalties in later stages.",
+    "source_en": "Source: iGlobal Law Research Department · 2026.09.04"
   },
-  "dateLabel": "2026年9月3日 · 星期四",
-  "dateLabel_en": "Thursday, September 3, 2026",
-  "issue": 246
+  "dateLabel": "2026年9月4日 · 星期五",
+  "dateLabel_en": "Friday, September 4, 2026",
+  "issue": 247
 }
