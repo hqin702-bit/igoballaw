@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟对华电动汽车加征最终反补贴税，中企应加速供应链本地化布局",
-    "summary": "据报道，欧盟委员会计划于9月中旬前公布对自中国进口的纯电动汽车加征最终反补贴税的裁定，税率将在现有10%基础上叠加，涉及比亚迪、吉利、上汽等主要出口商。此举将显著提高中国电动车进入欧盟市场的成本。律师建议，相关企业应尽快评估对欧出口结构，考虑在欧盟境内或周边国家设立组装厂或与当地伙伴合资，以规避关税壁垒，并同步推进原产地规则合规与供应链溯源管理。",
-    "source": "来源：欧盟委员会贸易司公告预告 · 2026.09.04",
-    "title_en": "EU Set to Impose Final Countervailing Duties on Chinese EVs; Chinese Firms Urged to Accelerate Localized Supply Chains",
-    "summary_en": "The European Commission is expected to announce by mid-September its final determination on countervailing duties against battery electric vehicles imported from China, adding duties on top of the existing 10% tariff, affecting major exporters such as BYD, Geely, and SAIC. This will significantly raise costs for Chinese EVs entering the EU market. Lawyers advise affected companies to promptly evaluate their export structure, consider setting up assembly plants within the EU or neighboring countries, or forming joint ventures with local partners to circumvent tariff barriers, while ensuring compliance with rules of origin and supply chain traceability.",
-    "source_en": "Source: European Commission trade announcement preview · 2026.09.04"
+    "title": "欧盟拟于2026年底前实施碳边境调节机制过渡期细则，出口企业需提前布局碳核算",
+    "summary": "欧盟委员会近期公布碳边境调节机制（CBAM）过渡期实施细则草案，明确2026年10月起进口商需申报嵌入排放数据，2027年正式征收碳关税。中国钢铁、铝、化肥等高碳出口行业面临成本上升压力。企业应尽快建立产品级碳核算体系，对接欧盟认可的第三方核查机构，优化供应链低碳转型，以降低合规风险与贸易成本。",
+    "source": "来源：欧盟委员会官网 · 2026.09.07",
+    "title_en": "EU Unveils CBAM Transitional Rules for Late 2026; Exporters Urged to Prepare Carbon Accounting",
+    "summary_en": "The European Commission recently published draft implementing rules for the CBAM transitional period, requiring importers to report embedded emissions from October 2026 and imposing carbon levies from 2027. Chinese exporters of steel, aluminum, and fertilizers face rising costs. Companies should establish product-level carbon accounting, engage EU-recognized verifiers, and pursue low-carbon supply chain improvements to mitigate compliance risks.",
+    "source_en": "Source: European Commission official website · 2026.09.07"
   },
   "case": {
-    "title": "最高法典型案例：跨境电商零售进口合同纠纷中格式条款效力的认定规则",
-    "summary": "最高人民法院近期发布涉外商事典型案例，其中一起跨境电商零售进口合同纠纷明确：跨境电商平台以英文或仅以勾选方式呈现的格式管辖条款，若未采取合理方式提请消费者注意，且未提供中文翻译，消费者主张该条款不成为合同内容的，人民法院予以支持。该案为跨境电商企业敲响警钟——在格式条款设计上，必须确保消费者的知情权与选择权，否则可能面临管辖条款无效的风险，增加跨境争议解决的不确定性。",
-    "source": "来源：最高人民法院涉外商事典型案例（2026年第二批）",
-    "title_en": "SPC Typical Case: Validity of Standard Form Jurisdiction Clauses in Cross-Border E-Commerce Retail Contracts",
-    "summary_en": "In a recent batch of typical foreign-related commercial cases released by the Supreme People's Court, a case concerning a cross-border e-commerce retail contract clarified that if a platform presents a standard form jurisdiction clause only in English or via a mere check-box without reasonably drawing the consumer's attention and without a Chinese translation, the consumer's claim that such clause does not form part of the contract will be upheld by the court. This serves as a warning for cross-border e-commerce enterprises: they must ensure consumers' right to know and choose when designing standard clauses, otherwise they risk the clause being invalid, increasing uncertainty in cross-border dispute resolution.",
-    "source_en": "Source: SPC Typical Foreign-Related Commercial Cases (Second Batch of 2026)"
+    "title": "最高法发布跨境知识产权典型案例：强调惩罚性赔偿适用与证据妨碍规则",
+    "summary": "最高人民法院近期发布一批跨境知识产权典型案例，其中涉及中国企业与外方合作中的商业秘密侵权纠纷。法院认定被告恶意毁损证据，适用证据妨碍规则推定侵权成立，并依情节适用惩罚性赔偿，判赔金额显著提高。该案提示出海企业应重视境内外证据保全策略，完善保密协议与竞业限制条款，以应对跨国知识产权纠纷中的举证难题。",
+    "source": "来源：最高人民法院官网 · 2026年9月",
+    "title_en": "SPC Releases Typical Cross-Border IP Cases: Punitive Damages and Evidence Spoliation Rules Highlighted",
+    "summary_en": "The Supreme People's Court recently issued typical cross-border IP cases, including a trade secret dispute between a Chinese company and a foreign partner. The court applied adverse inference due to willful evidence destruction, upheld infringement, and granted enhanced punitive damages. This signals that Chinese enterprises should strengthen evidence preservation strategies and robust confidentiality/non-compete clauses to handle cross-border IP disputes.",
+    "source_en": "Source: Supreme People's Court website · September 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境纠纷在线调解平台上线，实现三地规则衔接与高效解纷",
-    "summary": "为深化粤港澳大湾区法治建设，便利跨境商事纠纷高效化解，由广东省司法厅牵头、港澳相关机构参与共建的“粤港澳大湾区跨境纠纷在线调解平台”于9月1日正式上线。该平台整合粤港澳三地调解资源，支持中、英、葡三语服务，并引入港澳调解员名册，当事人可通过平台在线申请调解、选择调解员、开展视频调解。此举有助于降低跨境解纷成本，提升三地营商环境法治化水平。",
-    "source": "来源：广东省司法厅发布 · 2026.09.01",
-    "title_en": "Guangdong-Hong Kong-Macao Greater Bay Area Online Mediation Platform Launched to Streamline Cross-Border Dispute Resolution",
-    "summary_en": "To deepen the rule of law in the Guangdong-Hong Kong-Macao Greater Bay Area and facilitate efficient resolution of cross-border commercial disputes, the 'GBA Cross-Border Dispute Online Mediation Platform' co-built by the Department of Justice of Guangdong Province and relevant institutions from Hong Kong and Macao was officially launched on September 1. The platform integrates mediation resources from the three jurisdictions, supports trilingual services in Chinese, English, and Portuguese, and includes a roster of mediators from Hong Kong and Macao. Parties can apply for mediation online, select mediators, and conduct video mediation. This initiative helps reduce cross-border dispute resolution costs and enhance the legal environment for business in the region.",
-    "source_en": "Source: Department of Justice of Guangdong Province release · 2026.09.01"
+    "title": "粤港澳大湾区跨境数据流动新规落地，企业合规路径更清晰",
+    "summary": "广东省互联网信息办公室等发布《粤港澳大湾区数据跨境流动安全管理措施（试行）》，为区内企业提供标准合同、认证与安全评估等便捷通道。新规明确个人与重要数据的跨境清单管理，降低中小企业合规成本。出海企业应利用该机制优化数据跨境安排，同时关注国家网信办后续配套指引，确保数据出境安全与业务连续性。",
+    "source": "来源：广东省互联网信息办公室 · 2026.09",
+    "title_en": "New Cross-Border Data Flow Rules in GBA Take Effect, Offering Clearer Compliance Paths",
+    "summary_en": "The Cyberspace Administration of Guangdong Province issued the 'Pilot Measures for Cross-Border Data Flow Security Management in the Guangdong-Hong Kong-Macao Greater Bay Area', providing streamlined channels such as standard contracts, certification, and security assessments. The rules clarify the list-based management of personal and important data, reducing compliance costs for SMEs. Companies should leverage this mechanism to optimize data transfers and monitor follow-up national guidelines.",
+    "source_en": "Source: Cyberspace Administration of Guangdong Province · Sep 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美欧对华投资审查趋严，中企并购应提前嵌入国家安全申报评估",
-    "summary": "秦林蒿律师研判：近期美国外国投资委员会（CFIUS）及欧盟外资审查条例（EU Screening Regulation）均呈现审查范围扩大、力度增强趋势，尤其在半导体、人工智能、生物科技等敏感领域。中企在美欧开展并购、绿地投资时，除商业尽调外，务必提前进行国家安全申报风险评估，并考虑交易架构设计（如是否引入第三方、剥离敏感资产等）以降低否决风险。建议企业建立常态化合规机制，跟踪目标国监管动态，避免交易后期遭遇强制剥离或高额处罚。",
-    "source": "来源：律连全球涉外法律研究部 · 2026.09.04",
-    "title_en": "Attorney Qin's view: Stricter US/EU Investment Screening, Chinese Acquirers Should Embed National Security Filing Assessment Early",
-    "summary_en": "Attorney Qin's view: Recent trends show that both the US Committee on Foreign Investment in the United States (CFIUS) and the EU Foreign Direct Investment Screening Regulation are expanding review scopes and intensifying enforcement, particularly in sensitive sectors like semiconductors, AI, and biotech. For M&A and greenfield investments in the US and EU, Chinese companies should, beyond commercial due diligence, conduct early national security filing risk assessments and consider deal structuring options (such as introducing third-party investors or divesting sensitive assets) to mitigate the risk of rejection. Companies are advised to establish a routine compliance mechanism and monitor regulatory developments in target jurisdictions to avoid forced divestment or hefty penalties in later stages.",
-    "source_en": "Source: iGlobal Law Research Department · 2026.09.04"
+    "title": "秦林蒿律师研判：美国出口管制新规下，中国企业应重构合规筛查与供应链韧性",
+    "summary": "秦林蒿律师研判：美国商务部近期升级对华半导体设备与AI芯片出口管制，实体清单新增多家中国实体，并扩大外国直接产品规则适用范围。中国出海企业，尤其科技行业，需重构出口管制合规筛查体系，包括终端用户审查、产品技术参数比对及供应链穿透核查。建议建立动态合规数据库，与专业机构合作开展内审，并制定应急替代方案以增强供应链韧性。",
+    "source": "来源：律连全球研究部 · 2026.09.07",
+    "title_en": "Attorney Qin's View: Under New US Export Controls, Chinese Firms Should Rebuild Compliance Screening and Supply Chain Resilience",
+    "summary_en": "Attorney Qin's view: The US Department of Commerce recently escalated export controls on semiconductor equipment and AI chips to China, adding Chinese entities to the Entity List and expanding the Foreign Direct Product Rule. Chinese enterprises, especially in tech, must rebuild export control compliance screening, including end-user checks, technical parameter comparisons, and supply chain due diligence. Recommend establishing dynamic compliance databases, conducting internal audits with experts, and devising contingency plans to enhance supply chain resilience.",
+    "source_en": "Source: iGlobal Law Research Dept. · 2026.09.07"
   },
-  "dateLabel": "2026年9月4日 · 星期五",
-  "dateLabel_en": "Friday, September 4, 2026",
-  "issue": 247
+  "dateLabel": "2026年9月7日 · 星期一",
+  "dateLabel_en": "Monday, September 7, 2026",
+  "issue": 250
 }
