@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟拟于2026年底前实施碳边境调节机制过渡期细则，出口企业需提前布局碳核算",
-    "summary": "欧盟委员会近期公布碳边境调节机制（CBAM）过渡期实施细则草案，明确2026年10月起进口商需申报嵌入排放数据，2027年正式征收碳关税。中国钢铁、铝、化肥等高碳出口行业面临成本上升压力。企业应尽快建立产品级碳核算体系，对接欧盟认可的第三方核查机构，优化供应链低碳转型，以降低合规风险与贸易成本。",
-    "source": "来源：欧盟委员会官网 · 2026.09.07",
-    "title_en": "EU Unveils CBAM Transitional Rules for Late 2026; Exporters Urged to Prepare Carbon Accounting",
-    "summary_en": "The European Commission recently published draft implementing rules for the CBAM transitional period, requiring importers to report embedded emissions from October 2026 and imposing carbon levies from 2027. Chinese exporters of steel, aluminum, and fertilizers face rising costs. Companies should establish product-level carbon accounting, engage EU-recognized verifiers, and pursue low-carbon supply chain improvements to mitigate compliance risks.",
-    "source_en": "Source: European Commission official website · 2026.09.07"
+    "title": "美商务部拟扩出口管制清单，涉先进半导体与AI芯片设备",
+    "summary": "据多方消息，美国商务部工业与安全局（BIS）计划于本月晚些时候发布新规，进一步扩大对华出口管制范围，新增若干类先进半导体制造设备及用于AI训练的高性能芯片相关物项，并拟将部分中国实体列入实体清单。此举将影响中国AI芯片产业链的供应稳定性，企业需提前评估供应链风险，并考虑替代采购方案及合规审查。",
+    "source": "来源：综合路透社、美国联邦公报预告 · 2026.09.08",
+    "title_en": "U.S. Commerce Dept. to Expand Export Controls on Advanced Semiconductors and AI Chip Equipment",
+    "summary_en": "According to multiple reports, the U.S. Commerce Department's Bureau of Industry and Security (BIS) plans to issue new rules later this month to further expand export controls on China, adding certain advanced semiconductor manufacturing equipment and high-performance chips for AI training, and propose adding some Chinese entities to the Entity List. This will impact the supply chain stability of China's AI chip industry. Companies should assess supply chain risks in advance and consider alternative procurement and compliance reviews.",
+    "source_en": "Source: Based on Reuters and Federal Register notices · 2026.09.08"
   },
   "case": {
-    "title": "最高法发布跨境知识产权典型案例：强调惩罚性赔偿适用与证据妨碍规则",
-    "summary": "最高人民法院近期发布一批跨境知识产权典型案例，其中涉及中国企业与外方合作中的商业秘密侵权纠纷。法院认定被告恶意毁损证据，适用证据妨碍规则推定侵权成立，并依情节适用惩罚性赔偿，判赔金额显著提高。该案提示出海企业应重视境内外证据保全策略，完善保密协议与竞业限制条款，以应对跨国知识产权纠纷中的举证难题。",
-    "source": "来源：最高人民法院官网 · 2026年9月",
-    "title_en": "SPC Releases Typical Cross-Border IP Cases: Punitive Damages and Evidence Spoliation Rules Highlighted",
-    "summary_en": "The Supreme People's Court recently issued typical cross-border IP cases, including a trade secret dispute between a Chinese company and a foreign partner. The court applied adverse inference due to willful evidence destruction, upheld infringement, and granted enhanced punitive damages. This signals that Chinese enterprises should strengthen evidence preservation strategies and robust confidentiality/non-compete clauses to handle cross-border IP disputes.",
-    "source_en": "Source: Supreme People's Court website · September 2026"
+    "title": "新加坡国际仲裁中心裁决获中国法院承认，重申仲裁条款独立性",
+    "summary": "近期，某中国法院依据《纽约公约》承认并执行了新加坡国际仲裁中心（SIAC）作出的一项裁决。该案中，一方当事人主张主合同无效故仲裁条款无效，法院明确仲裁条款独立于主合同，主合同效力争议不影响仲裁协议效力，且仲裁程序符合当事人约定及仲裁地法律。此案为中国企业参与国际仲裁提供了积极信号，强调在起草合同时应重视仲裁条款的明确性与独立性。",
+    "source": "来源：中国裁判文书网相关案例 · 2026.08",
+    "title_en": "Chinese Court Recognizes SIAC Award, Reaffirming Separability of Arbitration Clause",
+    "summary_en": "Recently, a Chinese court recognized and enforced an award rendered by the Singapore International Arbitration Centre (SIAC) under the New York Convention. In this case, one party argued that the arbitration clause was invalid because the main contract was void. The court clarified that the arbitration clause is independent of the main contract, and disputes over the validity of the main contract do not affect the validity of the arbitration agreement. The arbitral procedure complied with the parties' agreement and the law of the seat. This case provides a positive signal for Chinese enterprises in international arbitration, emphasizing the importance of clear and independent arbitration clauses in contracts.",
+    "source_en": "Source: China Judgments Online related case · 2026.08"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动新规落地，企业合规路径更清晰",
-    "summary": "广东省互联网信息办公室等发布《粤港澳大湾区数据跨境流动安全管理措施（试行）》，为区内企业提供标准合同、认证与安全评估等便捷通道。新规明确个人与重要数据的跨境清单管理，降低中小企业合规成本。出海企业应利用该机制优化数据跨境安排，同时关注国家网信办后续配套指引，确保数据出境安全与业务连续性。",
-    "source": "来源：广东省互联网信息办公室 · 2026.09",
-    "title_en": "New Cross-Border Data Flow Rules in GBA Take Effect, Offering Clearer Compliance Paths",
-    "summary_en": "The Cyberspace Administration of Guangdong Province issued the 'Pilot Measures for Cross-Border Data Flow Security Management in the Guangdong-Hong Kong-Macao Greater Bay Area', providing streamlined channels such as standard contracts, certification, and security assessments. The rules clarify the list-based management of personal and important data, reducing compliance costs for SMEs. Companies should leverage this mechanism to optimize data transfers and monitor follow-up national guidelines.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · Sep 2026"
+    "title": "粤港澳大湾区跨境纠纷调解合作新规出台，推动商事调解互认",
+    "summary": "为深化粤港澳大湾区法治协同，广东省司法厅联合香港律政司、澳门法务局于近日发布《粤港澳大湾区跨境商事纠纷调解合作指引》，明确三地调解机构可相互聘任调解员，并推动调解协议互认与执行衔接。该指引鼓励企业优先通过调解解决跨境争议，降低诉讼成本。相关配套细则将于年内落地，为大湾区企业提供更高效的争议解决渠道。",
+    "source": "来源：广东省司法厅官网 · 2026.09.02",
+    "title_en": "New Guidelines for Cross-border Mediation Cooperation in the Greater Bay Area Promote Mutual Recognition",
+    "summary_en": "To deepen legal collaboration in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), the Department of Justice of Guangdong Province, together with the Department of Justice of Hong Kong and the Legal Affairs Bureau of Macao, recently issued the 'Guidelines for Cooperation on Cross-border Commercial Mediation in the GBA', which allow mediation institutions in the three regions to mutually appoint mediators and promote mutual recognition and enforcement of mediation agreements. The guidelines encourage enterprises to use mediation first to resolve cross-border disputes, reducing litigation costs. Detailed implementation rules will be introduced within the year, providing more efficient dispute resolution channels for GBA enterprises.",
+    "source_en": "Source: Official website of Guangdong Provincial Department of Justice · 2026.09.02"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国出口管制新规下，中国企业应重构合规筛查与供应链韧性",
-    "summary": "秦林蒿律师研判：美国商务部近期升级对华半导体设备与AI芯片出口管制，实体清单新增多家中国实体，并扩大外国直接产品规则适用范围。中国出海企业，尤其科技行业，需重构出口管制合规筛查体系，包括终端用户审查、产品技术参数比对及供应链穿透核查。建议建立动态合规数据库，与专业机构合作开展内审，并制定应急替代方案以增强供应链韧性。",
-    "source": "来源：律连全球研究部 · 2026.09.07",
-    "title_en": "Attorney Qin's View: Under New US Export Controls, Chinese Firms Should Rebuild Compliance Screening and Supply Chain Resilience",
-    "summary_en": "Attorney Qin's view: The US Department of Commerce recently escalated export controls on semiconductor equipment and AI chips to China, adding Chinese entities to the Entity List and expanding the Foreign Direct Product Rule. Chinese enterprises, especially in tech, must rebuild export control compliance screening, including end-user checks, technical parameter comparisons, and supply chain due diligence. Recommend establishing dynamic compliance databases, conducting internal audits with experts, and devising contingency plans to enhance supply chain resilience.",
-    "source_en": "Source: iGlobal Law Research Dept. · 2026.09.07"
+    "title": "欧盟碳边境调节机制过渡期实务要点与应对建议",
+    "summary": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）已于2025年进入正式实施阶段，中国出口企业需关注2026年过渡期后的申报义务。建议企业：一、梳理出口产品是否落入CBAM覆盖范围（如钢铁、铝、水泥、化肥、电力、氢），并建立碳排放数据监测体系；二、提前核算产品隐含排放，必要时引入第三方核证；三、关注欧盟免费配额逐步取消的节奏，评估中长期成本影响。同时，应利用过渡期与欧盟进口商协商数据共享与合同条款，避免因数据缺失导致高额碳税。",
+    "source": "来源：秦林蒿律师团队研究 · 2026.09.08",
+    "title_en": "Practical Points and Recommendations for EU CBAM Transition Period",
+    "summary_en": "Attorney Qin's view: The EU Carbon Border Adjustment Mechanism (CBAM) entered its operational phase in 2025, and Chinese exporters need to pay attention to reporting obligations after the transition period in 2026. Recommendations: First, identify whether exported products fall within CBAM coverage (e.g., steel, aluminum, cement, fertilizers, electricity, hydrogen) and establish a carbon emission data monitoring system. Second, calculate embedded emissions in advance, and consider third-party verification if necessary. Third, monitor the gradual phase-out of free allowances and assess medium- and long-term cost impacts. Also, use the transition period to negotiate data sharing and contract terms with EU importers to avoid high carbon costs due to missing data.",
+    "source_en": "Source: Attorney Qin's team research · 2026.09.08"
   },
-  "dateLabel": "2026年9月7日 · 星期一",
-  "dateLabel_en": "Monday, September 7, 2026",
-  "issue": 250
+  "dateLabel": "2026年9月8日 · 星期二",
+  "dateLabel_en": "Tuesday, September 8, 2026",
+  "issue": 251
 }
