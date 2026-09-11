@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期临近尾声，中国出口企业须加快碳数据合规布局",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入实质征收阶段。钢铁、铝、水泥、化肥、电力及氢能等六大行业对欧出口企业，须在过渡期内完成产品隐含碳排放的核算与申报，并逐步建立经第三方核查的碳数据体系。未合规申报可能导致对欧贸易成本显著上升，甚至面临市场准入障碍。建议企业尽快梳理对欧出口产品清单，对接欧盟认可的核查机构，并评估供应链碳足迹优化空间。",
-    "source": "来源：欧盟委员会气候行动总司政策通报 · 2026.09.10",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
-    "summary_en": "The EU Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with substantive levies commencing in 2027. Exporters to the EU in six sectors—iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen—must complete embedded emissions accounting and reporting during the transitional phase and progressively establish third-party verified carbon data systems. Non-compliance may significantly raise trade costs and even impede market access. Companies are advised to map EU-bound product lists, engage EU-accredited verifiers, and assess supply chain carbon footprint optimisation opportunities.",
-    "source_en": "Source: European Commission DG CLIMA Policy Briefing · 2026.09.10"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需紧急核查碳排放数据",
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起正式征收碳关税。中国钢铁、铝、化肥、电力等行业出口商须在过渡期内完成碳排放数据申报，否则将面临高额默认值惩罚。企业应尽快建立产品级碳足迹核算体系，与欧盟进口商确认数据传递机制，并评估供应链脱碳路径。未合规者可能丧失欧盟市场竞争力，建议立即启动合规审计。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.09.11",
+    "title_en": "EU CBAM Transition Period Nears End: Chinese Exporters Urged to Verify Carbon Data",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period ends in late 2026, with definitive carbon tariffs applying from 2027. Chinese exporters in steel, aluminium, fertilisers, and electricity must complete emissions data reporting during the transition or face hefty default-value penalties. Companies should establish product-level carbon footprint accounting, coordinate data transmission with EU importers, and assess supply chain decarbonisation. Non-compliance risks losing EU market access; an immediate compliance audit is advisable.",
+    "source_en": "Source: European Commission DG CLIMA · 2026.09.11"
   },
   "case": {
-    "title": "新加坡国际商事法庭承认与执行中国法院商事判决，跨境债权实现路径进一步拓宽",
-    "summary": "近期新加坡国际商事法庭（SICC）在一宗跨境买卖合同纠纷中，依据互惠原则承认并执行了中国内地法院作出的生效商事判决。该案明确，在满足正当程序、终局性及不违反公共政策等条件下，中国法院判决可在新加坡获得承认与执行。对于在东南亚有资产布局的中国企业而言，这意味着通过中国诉讼取得生效判决后，可直接向新加坡法院申请执行，无需另行提起实体诉讼，显著降低跨境债权实现的时间与成本。建议企业在跨境交易中注重选择有利的争议解决条款与资产所在地。",
-    "source": "来源：新加坡国际商事法庭案例观察 · 2026年第三季度",
-    "title_en": "SICC Recognises and Enforces Chinese Commercial Judgment, Widening Cross-Border Debt Recovery Paths",
-    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised and enforced a final commercial judgment of a mainland Chinese court in a cross-border sale of goods dispute, based on the principle of reciprocity. The case confirms that Chinese court judgments may be recognised and enforced in Singapore where due process, finality, and public policy requirements are satisfied. For Chinese enterprises with assets in Southeast Asia, this means that after obtaining a final judgment through Chinese litigation, they can directly seek enforcement before Singapore courts without initiating substantive proceedings anew, substantially reducing time and costs in cross-border debt recovery. Companies should carefully consider dispute resolution clauses and asset locations in cross-border transactions.",
-    "source_en": "Source: SICC Case Observation · Q3 2026"
+    "title": "新加坡仲裁案：约定“友好协商”未果后启动仲裁，条款效力获支持",
+    "summary": "某中国企业与东南亚合作方约定争议先友好协商，协商不成提交新加坡国际仲裁中心（SIAC）。因对方拒绝协商，中国企业直接申请仲裁，仲裁庭认定协商条款不构成仲裁前置强制程序，裁决有效。新加坡高等法院随后驳回撤销申请，确认“协商不成”可单方认定。该案提示：起草多层次争议解决条款时，应明确协商期限与启动仲裁的触发条件，避免因程序瑕疵引发管辖权争议。",
+    "source": "来源：新加坡国际仲裁中心案例摘要 · 2026.09",
+    "title_en": "SIAC Arbitration Clause Upheld Despite Unsuccessful 'Friendly Negotiation'",
+    "summary_en": "A Chinese company and its Southeast Asian partner agreed to negotiate amicably before referring disputes to SIAC. When the counterparty refused to negotiate, the Chinese firm commenced arbitration directly. The tribunal held that the negotiation clause was not a mandatory precondition, and the award stood. The Singapore High Court later dismissed a set-aside application, confirming that 'failure to negotiate' can be determined unilaterally. The case highlights the need to specify negotiation deadlines and trigger conditions in multi-tier dispute resolution clauses to avoid jurisdictional challenges.",
+    "source_en": "Source: SIAC Case Summaries · September 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化措施扩展，涉外企业数据合规迎来新指引",
-    "summary": "粤港澳大湾区近期进一步扩展跨境数据流动便利化安排，在医疗、金融、贸易等重点领域试点数据跨境传输“白名单”机制，并简化安全评估与标准合同备案流程。对于在大湾区设有分支机构或数据中心的企业而言，该政策有助于降低跨境数据传输的合规成本，但仍须履行个人信息保护影响评估、数据分类分级等义务。建议企业结合自身业务场景，评估是否适用便利化通道，并同步完善内部数据合规制度，避免因数据出境违规而承担行政或民事责任。",
-    "source": "来源：广东省互联网信息办公室政策解读 · 2026年9月",
-    "title_en": "Greater Bay Area Expands Cross-Border Data Flow Facilitation, Offering New Compliance Guidance for Foreign-Related Enterprises",
-    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area has further expanded facilitation arrangements for cross-border data flows, piloting a 'whitelist' mechanism for cross-border data transfers in key sectors such as healthcare, finance, and trade, while streamlining security assessment and standard contract filing procedures. For enterprises with branches or data centres in the GBA, this policy helps reduce compliance costs for cross-border data transfers, but obligations such as personal information protection impact assessments and data classification and grading remain. Companies should assess whether they qualify for facilitated channels based on their business scenarios, and simultaneously improve internal data compliance systems to avoid administrative or civil liability arising from unlawful data exports.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province Policy Interpretation · September 2026"
+    "title": "粤港澳大湾区推出跨境数据流动“白名单”制度，便利企业合规传输",
+    "summary": "广东省近期发布大湾区跨境数据流动管理试点办法，针对金融、医疗、贸易等重点领域建立数据出境“白名单”，允许符合条件的企业在备案后向港澳传输数据。该制度简化了安全评估流程，降低了企业合规成本。建议大湾区企业梳理数据资产，评估是否落入白名单场景，并完善与港澳合作方的数据保护协议，同时关注后续配套细则的出台。",
+    "source": "来源：广东省政务服务数据管理局 · 2026.09",
+    "title_en": "Greater Bay Area Launches Cross-Border Data 'Whitelist' to Ease Compliance",
+    "summary_en": "Guangdong province has issued pilot measures for cross-border data flow in the Greater Bay Area, establishing a data export 'whitelist' for key sectors such as finance, healthcare, and trade. Qualified enterprises may transfer data to Hong Kong and Macao after filing, simplifying security assessments and reducing compliance costs. Companies in the GBA should map their data assets, assess whether they fall under whitelist scenarios, strengthen data protection agreements with Hong Kong/Macao partners, and monitor upcoming implementing rules.",
+    "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau · September 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：供应链尽职调查义务趋严，出海企业应建立动态合规机制",
-    "summary": "秦林蒿律师研判：近期欧美在供应链人权、环境及强迫劳动领域的尽职调查立法与执法持续加码，中国出海企业面临从“被动应对”向“主动合规”转型的压力。建议企业：一是建立覆盖供应商准入、履约与退出的全流程尽职调查制度，将人权、环境及制裁合规指标嵌入采购合同；二是对高风险地区及行业开展专项审计，保留可追溯的合规证据；三是利用合同条款合理分配合规责任与赔偿风险；四是关注欧盟《企业可持续尽职调查指令》及各成员国转化立法的实施节奏，动态调整合规策略。",
-    "source": "来源：律连全球 · iGlobal Law 编辑部 · 2026.09.10",
-    "title_en": "Attorney Qin's view: Tightening Supply Chain Due Diligence Obligations Require Dynamic Compliance Mechanisms for Outbound Enterprises",
-    "summary_en": "Attorney Qin's view: With Europe and the United States intensifying legislation and enforcement on human rights, environmental, and forced labour due diligence in supply chains, Chinese outbound enterprises face pressure to shift from reactive response to proactive compliance. Recommended actions: first, establish a full-process due diligence system covering supplier onboarding, performance, and exit, embedding human rights, environmental, and sanctions compliance indicators into procurement contracts; second, conduct targeted audits in high-risk regions and sectors, retaining traceable compliance evidence; third, allocate compliance responsibilities and indemnity risks reasonably through contractual clauses; fourth, monitor the implementation pace of the EU Corporate Sustainability Due Diligence Directive and member state transposition laws, and dynamically adjust compliance strategies.",
-    "source_en": "Source: iGlobal Law Editorial Desk · 2026.09.10"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业需重构出海架构",
+    "summary": "秦林蒿律师研判：美国财政部近期拟将对外投资审查范围扩展至更多敏感技术领域，并强化对“规避行为”的追溯。中国科技企业在美投资或通过第三国间接投资可能受波及。建议企业立即排查现有投资架构，评估是否涉及受限技术；在新交易中引入“反向CFIUS”条款，预留退出机制；同时考虑分散投资目的地，并利用香港、新加坡等合规通道。应建立动态监测机制，将地缘政治风险纳入董事会决策议程。",
+    "source": "来源：律连全球 · iGlobal Law 研究部",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Screening Requires Rethinking for Chinese Tech Firms",
+    "summary_en": "Attorney Qin's view: The US Treasury is poised to broaden outbound investment screening to more sensitive technologies and enhance retroactive scrutiny of circumvention. Chinese tech companies investing in the US or indirectly via third countries may be affected. Companies should immediately review existing investment structures, assess exposure to restricted technologies, incorporate 'reverse CFIUS' clauses with exit mechanisms in new deals, and consider diversifying destinations using compliant channels like Hong Kong and Singapore. A dynamic monitoring mechanism and board-level geopolitical risk agenda are essential.",
+    "source_en": "Source: iGlobal Law Research Department"
   },
-  "dateLabel": "2026年9月10日 · 星期四",
-  "dateLabel_en": "Thursday, September 10, 2026",
-  "issue": 253
+  "dateLabel": "2026年9月11日 · 星期五",
+  "dateLabel_en": "Friday, September 11, 2026",
+  "issue": 254
 }
