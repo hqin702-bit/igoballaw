@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需在年底前完成碳数据合规准备",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入实质征税阶段。钢铁、铝、水泥、化肥、电力和氢能等六大行业对欧出口企业，须在过渡期内完成产品嵌入碳排放数据的申报与核查。当前多数中国出口商尚未建立符合欧盟要求的碳核算体系，面临数据缺失、默认值成本高企及下游客户转嫁风险。建议企业尽快梳理对欧出口产品清单，引入第三方核查机构，并评估在供应链合同中增加碳成本分担条款。",
-    "source": "来源：欧盟委员会CBAM过渡期实施指引 · 2026.09.22",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Must Complete Carbon Data Compliance by Year-End",
-    "summary_en": "The transitional period of the EU Carbon Border Adjustment Mechanism (CBAM) will end in late 2026, with actual levies commencing in 2027. Exporters to the EU in six sectors—iron and steel, aluminium, cement, fertilisers, electricity and hydrogen—must report and verify embedded emissions data during the transition. Most Chinese exporters have yet to establish an EU-compliant carbon accounting system, facing missing data, high default-value costs and cost pass-back from downstream customers. Companies should map EU-bound product lists, engage third-party verifiers, and consider carbon cost-sharing clauses in supply contracts.",
-    "source_en": "Source: European Commission CBAM Transitional Period Implementation Guidance · 2026.09.22"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需完成碳排放数据申报准备",
+    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收阶段。届时钢铁、铝、水泥、化肥、电力及氢能等六大行业出口至欧盟的货物须申报隐含碳排放并购买相应证书。中国出口企业应尽快建立产品级碳排放核算体系，收集上游供应链数据，并评估在欧盟注册申报义务。未及时合规可能导致货物滞留或额外成本。建议企业提前与欧盟进口商对接，明确数据共享与责任分配。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.09.23",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Must Prepare for Carbon Data Reporting",
+    "summary_en": "The EU Carbon Border Adjustment Mechanism (CBAM) transitional period ends in late 2026, with the definitive regime starting in 2027. Exporters of iron and steel, aluminium, cement, fertilisers, electricity and hydrogen to the EU will need to report embedded emissions and purchase certificates. Chinese exporters should establish product-level carbon accounting, collect upstream supply chain data, and assess EU registration obligations. Non-compliance may lead to shipment delays or extra costs. Early engagement with EU importers on data sharing and responsibility allocation is strongly advised.",
+    "source_en": "Source: European Commission DG CLIMA · 2026.09.23"
   },
   "case": {
     "title": "新加坡国际商事法庭承认与执行中国法院商事判决，明确互惠关系认定标准",
-    "summary": "新加坡国际商事法庭近期在一宗跨境买卖合同纠纷中，依据《新加坡国际商事法庭法》承认与执行中国内地法院作出的商事判决。裁决要点包括：中国法院判决具有终局性和确定性；双方存在明示或默示的互惠安排；执行不违反新加坡公共政策。该案为中新两国判决互认提供重要参考，也提示中国企业在跨境交易中应重视争议解决条款的法院选择与判决可执行性评估。建议在合同中明确约定管辖法院并保留完整送达与应诉证据。",
-    "source": "来源：新加坡国际商事法庭案例评述 · 2026年第三季度",
+    "summary": "近期新加坡国际商事法庭（SICC）在一宗跨境贸易合同纠纷中，依据《新加坡国际商事法庭法》承认与执行中国法院作出的商事判决。法院重点审查了中新建交及司法互惠关系，认为中国法院此前承认新加坡判决的记录构成互惠基础。该案为中国企业在新加坡申请执行中国判决提供了路径参考。实务中需注意判决终局性、程序正当性及公共政策审查。建议企业在合同中约定争议解决条款时，评估判决跨境执行可行性。",
+    "source": "来源：新加坡国际商事法庭 · 2026年第三季度",
     "title_en": "Singapore International Commercial Court Recognises and Enforces Chinese Commercial Judgment, Clarifying Reciprocity Test",
-    "summary_en": "The Singapore International Commercial Court recently recognised and enforced a commercial judgment rendered by a mainland Chinese court in a cross-border sale-of-goods dispute under the SICC Act. Key holdings include: the Chinese judgment was final and conclusive; reciprocity existed between the parties; and enforcement did not offend Singapore public policy. The case offers important guidance on China-Singapore mutual recognition of judgments and reminds Chinese enterprises to carefully assess court selection and enforceability when drafting dispute resolution clauses. Parties should specify the governing court and preserve complete service and defence records.",
-    "source_en": "Source: Singapore International Commercial Court Case Commentary · Q3 2026"
+    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised and enforced a Chinese commercial judgment in a cross-border trade contract dispute under the SICC Act. The court examined the judicial reciprocity between China and Singapore, finding that prior Chinese recognition of Singaporean judgments established a reciprocal basis. This case offers a reference for Chinese enterprises seeking enforcement of Chinese judgments in Singapore. Practitioners should note finality, due process, and public policy review. When drafting dispute resolution clauses, parties should assess cross-border enforceability.",
+    "source_en": "Source: Singapore International Commercial Court · Q3 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区推出跨境商事纠纷“一站式”在线解纷平台，支持港澳调解与仲裁裁决跨境执行",
-    "summary": "粤港澳大湾区近期上线跨境商事纠纷“一站式”在线解纷平台，整合粤港澳三地调解、仲裁与诉讼资源，支持在线立案、远程调解及裁决跨境执行协助。平台依托《关于内地与香港特别行政区法院相互认可和执行民商事案件判决的安排》及粤港、粤澳合作机制，为企业提供低成本、高效率的争议解决通道。建议大湾区企业优先在合同中约定该平台调解或仲裁条款，并关注港澳裁决在内地执行的程序要求，以提升跨境债权实现效率。",
-    "source": "来源：粤港澳大湾区法律部门联席会议 · 2026年9月",
-    "title_en": "Greater Bay Area Launches One-Stop Online Platform for Cross-Border Commercial Dispute Resolution, Supporting Cross-Border Enforcement of HK/Macao Awards",
-    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area has launched a one-stop online platform for cross-border commercial dispute resolution, integrating mediation, arbitration and litigation resources across the three jurisdictions and supporting online case filing, remote mediation and cross-border enforcement assistance. Backed by the Arrangement on Mutual Recognition and Enforcement of Judgments in Civil and Commercial Matters between Mainland and Hong Kong and Guangdong-HK/Macao cooperation mechanisms, the platform offers a low-cost, efficient dispute resolution channel. GBA enterprises are advised to incorporate platform mediation or arbitration clauses into contracts and to note procedural requirements for enforcing HK/Macao awards on the mainland.",
-    "source_en": "Source: Joint Meeting of GBA Legal Departments · September 2026"
+    "title": "粤港澳大湾区推出跨境商事纠纷一站式解决平台，整合调解仲裁诉讼服务",
+    "summary": "粤港澳大湾区近期推出跨境商事纠纷一站式解决平台，整合粤港澳三地调解、仲裁与诉讼资源，为区内企业提供在线立案、跨境送达、法律查明及多元解纷服务。平台依托前海、南沙、横琴等合作区，探索“港资港法港仲裁”与“澳资澳法澳仲裁”适用范围扩展。企业可借此降低跨境维权成本，缩短解纷周期。建议出海企业熟悉平台规则，在合同中灵活设计争议解决条款，并利用在线调解前置程序化解小额纠纷。",
+    "source": "来源：粤港澳大湾区法律部门联席会议 · 2026.09",
+    "title_en": "Greater Bay Area Launches One-Stop Cross-Border Commercial Dispute Resolution Platform",
+    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area has launched a one-stop cross-border commercial dispute resolution platform, integrating mediation, arbitration and litigation resources across the three jurisdictions. It offers online case filing, cross-border service, legal ascertainment and multi-tiered dispute resolution. Leveraging Qianhai, Nansha and Hengqin cooperation zones, the platform explores extending the application of Hong Kong and Macao law and arbitration. Enterprises can reduce cross-border enforcement costs and shorten resolution cycles. Businesses should familiarise themselves with platform rules and design flexible dispute resolution clauses.",
+    "source_en": "Source: GBA Legal Departments Joint Conference · 2026.09"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华半导体出口管制新规下，企业应建立“穿透式”供应链合规审查机制",
-    "summary": "秦林蒿律师研判：美国近期进一步收紧对华半导体及先进计算出口管制，扩大实体清单与外国直接产品规则适用范围，第三国转口、代工及技术服务均可能触发合规风险。企业应建立“穿透式”供应链合规审查机制，向上追溯至最终用户与最终用途，向下审查分销商与客户，并在合同中嵌入出口管制陈述保证、审计权及终止条款。对涉及美国技术、软件或设备的交易，建议事前进行许可评估并保留完整合规记录，以应对可能的执法问询与民事处罚。",
-    "source": "来源：律连全球涉外合规团队 · 2026.09.22",
-    "title_en": "Attorney Qin's view: Under New U.S. Semiconductor Export Controls, Companies Should Build 'Look-Through' Supply Chain Compliance Reviews",
-    "summary_en": "Attorney Qin's view: The United States has further tightened export controls on semiconductors and advanced computing to China, expanding the Entity List and the foreign direct product rule, with third-country transshipment, foundry services and technical services all potentially triggering compliance risks. Companies should establish a 'look-through' supply chain compliance review mechanism—tracing upstream to end users and end uses, screening downstream distributors and customers, and embedding export control representations, audit rights and termination clauses in contracts. For transactions involving U.S. technology, software or equipment, prior licence assessments and complete compliance records are advisable to address potential enforcement inquiries and civil penalties.",
-    "source_en": "Source: iGlobal Law Cross-Border Compliance Team · 2026.09.22"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业需重构跨境股权与数据合规架构",
+    "summary": "秦林蒿律师研判：美国近期拟进一步扩大对外投资安全审查范围，将半导体、人工智能、量子计算等敏感领域的境外投资纳入申报或禁止范畴。中国科技企业通过离岸架构进行海外融资、并购或技术合作时，可能触发美方管辖。建议企业立即梳理现有跨境股权与控制关系，评估被认定为“受关注外国实体”的风险；在交易文件中加入合规陈述与保证、政府审批风险分配条款；并建立数据出境与知识产权隔离机制。必要时可调整投资路径，采用合资或许可模式降低直接持股敏感度。",
+    "source": "来源：律连全球 · iGlobal Law 研究部 · 2026.09.23",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Screening Requires Chinese Tech Firms to Restructure Cross-Border Equity and Data Compliance",
+    "summary_en": "Attorney Qin's view: The US is poised to further expand its outbound investment security screening, bringing foreign investments in semiconductors, AI and quantum computing within notification or prohibition scope. Chinese tech firms using offshore structures for financing, M&A or tech cooperation may trigger US jurisdiction. Companies should immediately map existing cross-border equity and control relationships, assess risks of being deemed a 'foreign entity of concern', include compliance representations and government approval risk allocation in transaction documents, and establish data export and IP segregation mechanisms. Where necessary, adjust investment paths via JVs or licensing to reduce direct equity sensitivity.",
+    "source_en": "Source: iGlobal Law Research Desk · 2026.09.23"
   },
-  "dateLabel": "2026年9月22日 · 星期二",
-  "dateLabel_en": "Tuesday, September 22, 2026",
-  "issue": 265
+  "dateLabel": "2026年9月23日 · 星期三",
+  "dateLabel_en": "Wednesday, September 23, 2026",
+  "issue": 266
 }
