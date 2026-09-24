@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需完成碳排放数据申报准备",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收阶段。届时钢铁、铝、水泥、化肥、电力及氢能等六大行业出口至欧盟的货物须申报隐含碳排放并购买相应证书。中国出口企业应尽快建立产品级碳排放核算体系，收集上游供应链数据，并评估在欧盟注册申报义务。未及时合规可能导致货物滞留或额外成本。建议企业提前与欧盟进口商对接，明确数据共享与责任分配。",
-    "source": "来源：欧盟委员会气候行动总司 · 2026.09.23",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Must Prepare for Carbon Data Reporting",
-    "summary_en": "The EU Carbon Border Adjustment Mechanism (CBAM) transitional period ends in late 2026, with the definitive regime starting in 2027. Exporters of iron and steel, aluminium, cement, fertilisers, electricity and hydrogen to the EU will need to report embedded emissions and purchase certificates. Chinese exporters should establish product-level carbon accounting, collect upstream supply chain data, and assess EU registration obligations. Non-compliance may lead to shipment delays or extra costs. Early engagement with EU importers on data sharing and responsibility allocation is strongly advised.",
-    "source_en": "Source: European Commission DG CLIMA · 2026.09.23"
+    "title": "美国拟扩大对华半导体出口管制，新增量子计算与先进封装物项",
+    "summary": "华盛顿时间9月23日，美国商务部工业与安全局（BIS）发布拟议规则，计划将量子计算设备、先进封装技术及部分高温超导材料纳入对华出口管制清单，并扩大“外国直接产品规则”（FDPR）适用范围至使用美国技术设计的第三国芯片。新规拟设60天公众评议期，预计2027年初生效。中国出海企业需紧急排查供应链中涉美技术节点，评估合同不可抗力与合规风险，并考虑向BIS提交评论意见。",
+    "source": "来源：美国商务部BIS官网 · 2026.09.24",
+    "title_en": "US Moves to Expand Semiconductor Export Controls on China, Targeting Quantum and Advanced Packaging",
+    "summary_en": "On September 23, the US Commerce Department's Bureau of Industry and Security (BIS) issued a proposed rule to add quantum computing equipment, advanced packaging technologies, and certain high-temperature superconducting materials to the export control list for China, while broadening the Foreign Direct Product Rule (FDPR) to cover third-country chips designed with US technology. The rule carries a 60-day public comment period and is expected to take effect in early 2027. Chinese companies should urgently audit US technology touchpoints in their supply chains, assess force majeure and compliance risks, and consider submitting comments to BIS.",
+    "source_en": "Source: US Department of Commerce, BIS · 2026.09.24"
   },
   "case": {
-    "title": "新加坡国际商事法庭承认与执行中国法院商事判决，明确互惠关系认定标准",
-    "summary": "近期新加坡国际商事法庭（SICC）在一宗跨境贸易合同纠纷中，依据《新加坡国际商事法庭法》承认与执行中国法院作出的商事判决。法院重点审查了中新建交及司法互惠关系，认为中国法院此前承认新加坡判决的记录构成互惠基础。该案为中国企业在新加坡申请执行中国判决提供了路径参考。实务中需注意判决终局性、程序正当性及公共政策审查。建议企业在合同中约定争议解决条款时，评估判决跨境执行可行性。",
-    "source": "来源：新加坡国际商事法庭 · 2026年第三季度",
-    "title_en": "Singapore International Commercial Court Recognises and Enforces Chinese Commercial Judgment, Clarifying Reciprocity Test",
-    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised and enforced a Chinese commercial judgment in a cross-border trade contract dispute under the SICC Act. The court examined the judicial reciprocity between China and Singapore, finding that prior Chinese recognition of Singaporean judgments established a reciprocal basis. This case offers a reference for Chinese enterprises seeking enforcement of Chinese judgments in Singapore. Practitioners should note finality, due process, and public policy review. When drafting dispute resolution clauses, parties should assess cross-border enforceability.",
-    "source_en": "Source: Singapore International Commercial Court · Q3 2026"
+    "title": "新加坡仲裁案：中国卖方因不可抗力主张免责被驳回，凸显合同条款设计关键",
+    "summary": "新加坡国际仲裁中心（SIAC）近期公布一起涉华裁决：中国卖方以疫情后供应链中断构成不可抗力为由拒绝交货，仲裁庭认为合同未明确列举该情形且卖方未及时通知，故不构成免责。仲裁庭强调，不可抗力条款应具体列明事件类型、通知时限及减损义务，否则难以获得支持。该案对跨境贸易合同起草具有警示意义，建议中国企业在合同中细化不可抗力定义并约定替代履行方案。",
+    "source": "来源：新加坡国际仲裁中心（SIAC）案例摘要 · 2026年9月",
+    "title_en": "SIAC Tribunal Rejects Chinese Seller's Force Majeure Defense, Highlighting Contract Drafting Pitfalls",
+    "summary_en": "The Singapore International Arbitration Centre (SIAC) recently published an award involving a Chinese seller that refused delivery, citing post-pandemic supply chain disruptions as force majeure. The tribunal rejected the defense, finding the contract did not expressly list such events and the seller failed to give timely notice. The tribunal stressed that force majeure clauses must specify event types, notice periods, and mitigation duties to be enforceable. The case underscores the need for Chinese companies to refine force majeure definitions and provide for alternative performance in cross-border contracts.",
+    "source_en": "Source: SIAC Case Summary · September 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区推出跨境商事纠纷一站式解决平台，整合调解仲裁诉讼服务",
-    "summary": "粤港澳大湾区近期推出跨境商事纠纷一站式解决平台，整合粤港澳三地调解、仲裁与诉讼资源，为区内企业提供在线立案、跨境送达、法律查明及多元解纷服务。平台依托前海、南沙、横琴等合作区，探索“港资港法港仲裁”与“澳资澳法澳仲裁”适用范围扩展。企业可借此降低跨境维权成本，缩短解纷周期。建议出海企业熟悉平台规则，在合同中灵活设计争议解决条款，并利用在线调解前置程序化解小额纠纷。",
-    "source": "来源：粤港澳大湾区法律部门联席会议 · 2026.09",
-    "title_en": "Greater Bay Area Launches One-Stop Cross-Border Commercial Dispute Resolution Platform",
-    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area has launched a one-stop cross-border commercial dispute resolution platform, integrating mediation, arbitration and litigation resources across the three jurisdictions. It offers online case filing, cross-border service, legal ascertainment and multi-tiered dispute resolution. Leveraging Qianhai, Nansha and Hengqin cooperation zones, the platform explores extending the application of Hong Kong and Macao law and arbitration. Enterprises can reduce cross-border enforcement costs and shorten resolution cycles. Businesses should familiarise themselves with platform rules and design flexible dispute resolution clauses.",
-    "source_en": "Source: GBA Legal Departments Joint Conference · 2026.09"
+    "title": "粤港澳大湾区推出跨境数据流动“白名单”机制，便利企业合规传输",
+    "summary": "广东省近日发布《粤港澳大湾区跨境数据流动便利化试点方案》，建立“白名单”机制，允许符合条件的企业在金融、医疗、贸易等领域向港澳传输数据，无需逐笔申报。试点覆盖广州、深圳、珠海等九市，企业需通过数据保护能力认证并承诺遵守港澳相关法律。该政策有望降低合规成本，但企业仍须关注港澳隐私法规差异，建议建立内部数据分类分级制度并保留传输记录。",
+    "source": "来源：广东省人民政府新闻办 · 2026年9月",
+    "title_en": "Greater Bay Area Launches Cross-Border Data Flow Whitelist to Ease Compliance Burden",
+    "summary_en": "Guangdong Province has released a pilot plan to facilitate cross-border data flows within the Greater Bay Area, establishing a whitelist mechanism that allows qualified enterprises in finance, healthcare, and trade to transfer data to Hong Kong and Macao without case-by-case approval. The pilot covers nine cities including Guangzhou, Shenzhen, and Zhuhai. Companies must obtain data protection certification and commit to complying with Hong Kong and Macao laws. While the policy reduces compliance costs, firms should still address regulatory differences and maintain internal data classification and transfer records.",
+    "source_en": "Source: Information Office of Guangdong Provincial People's Government · September 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业需重构跨境股权与数据合规架构",
-    "summary": "秦林蒿律师研判：美国近期拟进一步扩大对外投资安全审查范围，将半导体、人工智能、量子计算等敏感领域的境外投资纳入申报或禁止范畴。中国科技企业通过离岸架构进行海外融资、并购或技术合作时，可能触发美方管辖。建议企业立即梳理现有跨境股权与控制关系，评估被认定为“受关注外国实体”的风险；在交易文件中加入合规陈述与保证、政府审批风险分配条款；并建立数据出境与知识产权隔离机制。必要时可调整投资路径，采用合资或许可模式降低直接持股敏感度。",
-    "source": "来源：律连全球 · iGlobal Law 研究部 · 2026.09.23",
-    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Screening Requires Chinese Tech Firms to Restructure Cross-Border Equity and Data Compliance",
-    "summary_en": "Attorney Qin's view: The US is poised to further expand its outbound investment security screening, bringing foreign investments in semiconductors, AI and quantum computing within notification or prohibition scope. Chinese tech firms using offshore structures for financing, M&A or tech cooperation may trigger US jurisdiction. Companies should immediately map existing cross-border equity and control relationships, assess risks of being deemed a 'foreign entity of concern', include compliance representations and government approval risk allocation in transaction documents, and establish data export and IP segregation mechanisms. Where necessary, adjust investment paths via JVs or licensing to reduce direct equity sensitivity.",
-    "source_en": "Source: iGlobal Law Research Desk · 2026.09.23"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期结束，出海企业需提前布局碳合规",
+    "summary": "秦林蒿律师研判：欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进口商须购买CBAM证书。中国钢铁、铝、水泥等行业出口企业将面临直接成本上升。建议企业立即开展产品碳足迹核算，完善供应链碳排放数据收集，并考虑在合同中加入碳成本转嫁条款；同时关注欧盟认可的中国碳价抵扣机制，必要时调整市场布局。",
+    "source": "来源：秦林蒿律师团队 · 2026.09.24",
+    "title_en": "Attorney Qin's view: EU CBAM Transition Ends Soon — Chinese Exporters Must Act on Carbon Compliance",
+    "summary_en": "Attorney Qin's view: The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period ends in late 2026, and from 2027 importers must purchase CBAM certificates. Chinese exporters in steel, aluminum, and cement will face direct cost increases. Companies should immediately conduct product carbon footprint accounting, improve supply chain emissions data collection, and consider adding carbon cost pass-through clauses in contracts. They should also monitor EU recognition of Chinese carbon pricing offsets and adjust market strategies as needed.",
+    "source_en": "Source: Attorney Qin Linhao's Team · 2026.09.24"
   },
-  "dateLabel": "2026年9月23日 · 星期三",
-  "dateLabel_en": "Wednesday, September 23, 2026",
-  "issue": 266
+  "dateLabel": "2026年9月24日 · 星期四",
+  "dateLabel_en": "Thursday, September 24, 2026",
+  "issue": 267
 }
