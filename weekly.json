@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "本周全球经贸主线：关键矿产出口管制博弈升级，绿色补贴与关税工具并行",
-    "summary": "本周国际经贸主线围绕关键矿产与绿色产业展开。印尼、智利等资源国加快镍、锂等矿产的出口限制与本地加工要求，欧盟碳边境调节机制过渡期核查趋严，美国则继续以关税与补贴组合推动供应链本土化。与此同时，多国在WTO框架下就矿产出口限制提出磋商请求，规则博弈升温。趋势上，资源民族主义与气候贸易措施叠加，中国出海企业面临原材料成本与合规双重压力，需提前布局多元化供应与本地化生产。",
-    "source": "来源：综合WTO、欧盟委员会、美国贸易代表办公室等公开信息 · 本周",
-    "title_en": "This Week's Global Trade Mainline: Critical Minerals Export Control Contest Escalates, Green Subsidies and Tariff Tools Advance in Parallel",
-    "summary_en": "This week's international trade mainline centered on critical minerals and green industries. Resource-rich countries such as Indonesia and Chile accelerated export restrictions and local processing requirements for nickel and lithium; the EU tightened verification during the CBAM transitional period; and the US continued to combine tariffs and subsidies to localize supply chains. Meanwhile, several countries filed WTO consultation requests over mineral export restrictions, intensifying rule-based competition. The trend shows resource nationalism overlapping with climate trade measures, putting dual pressure on Chinese outbound enterprises regarding raw material costs and compliance, requiring early diversification of supply and localized production.",
-    "source_en": "Source: Compiled from public information of WTO, European Commission, USTR, etc. · this week"
+    "title": "本周全球经贸主线：出口管制与关税博弈并行，供应链合规压力持续上升",
+    "summary": "本周国际经贸领域呈现两条主线：一是部分经济体继续收紧关键技术出口管制，半导体、人工智能及先进制造相关物项成为焦点，跨国企业面临更复杂的许可与尽职调查要求；二是关税与贸易救济措施仍在调整，部分行业面临反倾销、反补贴调查及原产地规则收紧。整体趋势显示，地缘政治因素正加速嵌入商业决策，出海企业需将合规审查前置到采购、研发与销售全流程，并动态评估供应链替代方案。",
+    "source": "来源：综合主要经济体贸易主管部门及国际主流媒体 · 本周",
+    "title_en": "Weekly Global Trade Focus: Export Controls and Tariff Frictions Persist, Supply Chain Compliance Pressure Mounts",
+    "summary_en": "This week, international trade was marked by two main trends. First, several economies continued to tighten export controls on critical technologies, with semiconductors, artificial intelligence and advanced manufacturing items in focus, imposing more complex licensing and due diligence requirements on multinationals. Second, tariffs and trade remedies remained in flux, with anti-dumping and countervailing investigations and stricter rules of origin affecting certain sectors. The overall trend shows geopolitics is increasingly embedded in commercial decisions, requiring outbound Chinese enterprises to front-load compliance reviews across procurement, R&D and sales, and to dynamically assess supply chain alternatives.",
+    "source_en": "Source: Compiled from major economies' trade authorities and international media · this week"
   },
   "case": {
-    "title": "本周案例：新加坡仲裁庭认可中国法院保全裁定，跨境仲裁临时措施协作现积极信号",
-    "summary": "本周，新加坡国际仲裁中心（SIAC）公布一起涉及中国企业的海事货物运输合同仲裁案。仲裁庭依据《新加坡国际仲裁法》及SIAC规则，认可了中国某海事法院此前作出的财产保全裁定，并据此发布临时措施令，冻结被申请人在新加坡的银行账户。该案凸显《新加坡调解公约》与双边司法协助安排下，跨境仲裁临时措施的可执行性增强。启示：出海企业应在合同中明确仲裁地与保全协作条款，并在争议初期同步启动多地保全，防止资产转移。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）案例摘要 · 本周",
-    "title_en": "Case of the Week: Singapore Arbitral Tribunal Recognizes Chinese Court Preservation Ruling, Positive Signal for Cross-Border Interim Measures Cooperation",
-    "summary_en": "This week, the Singapore International Arbitration Centre (SIAC) published an arbitration case concerning a Chinese enterprise in a maritime cargo transport contract. The tribunal, pursuant to the Singapore International Arbitration Act and SIAC Rules, recognized a property preservation ruling previously issued by a Chinese maritime court and accordingly issued an interim measures order freezing the respondent's bank account in Singapore. The case highlights enhanced enforceability of cross-border interim measures under the Singapore Convention on Mediation and bilateral judicial assistance arrangements. Takeaway: outbound enterprises should specify arbitration seats and preservation cooperation clauses in contracts, and simultaneously initiate multi-jurisdictional preservation at the early stage of disputes to prevent asset dissipation.",
-    "source_en": "Source: SIAC case summary · this week"
+    "title": "本周跨境仲裁观察：国际货物买卖合同争议中不可抗力与情势变更的认定边界",
+    "summary": "本周一则国际商事仲裁案例受到关注，涉及因供应链中断导致的交货延迟，买方主张解除合同并索赔，卖方以不可抗力及情势变更为由抗辩。仲裁庭认为，单纯的成本上升或履约困难通常不构成不可抗力，除非合同明确约定或符合适用法律严格条件；同时，当事人未及时通知和减损可能影响责任分担。该案提示出海企业应在合同中细化不可抗力条款、通知义务与替代履行机制，并保留完整履约与沟通证据。",
+    "source": "来源：国际商事仲裁机构近期裁决综述 · 本周",
+    "title_en": "Cross-Border Arbitration Watch: Boundaries of Force Majeure and Changed Circumstances in International Sales Disputes",
+    "summary_en": "An international commercial arbitration case drew attention this week involving delayed delivery due to supply chain disruption. The buyer sought contract termination and damages, while the seller invoked force majeure and changed circumstances. The tribunal held that mere cost increases or performance difficulties generally do not constitute force majeure unless expressly agreed or strictly meeting applicable legal conditions; meanwhile, failure to give timely notice and mitigate may affect liability allocation. This case reminds outbound enterprises to refine force majeure clauses, notice obligations and alternative performance mechanisms in contracts, and to preserve complete performance and communication evidence.",
+    "source_en": "Source: Review of recent awards by international commercial arbitration institutions · this week"
   },
   "policy": {
-    "title": "本周政策：粤港澳大湾区跨境数据流动与职业资格互认再提速，涉外法治服务迎利好",
-    "summary": "本周，粤港澳大湾区在跨境数据流动与职业资格互认方面取得新进展。广东省相关部门发布指引，进一步扩大粤港澳大湾区跨境数据流动试点范围，允许金融、医疗、商贸等领域企业在安全评估下开展数据跨境传输。同时，粤港澳三地就律师、会计师等专业资格互认展开新一轮磋商，前海、横琴等合作区推出涉外法律服务集聚措施。此外，内地与香港就民商事判决互认安排的实施细则进一步明确。趋势：大湾区制度型开放加速，为出海企业提供更便利的跨境合规与争议解决支持。",
-    "source": "来源：广东省人民政府、香港律政司、澳门法务局等公开信息 · 本周",
-    "title_en": "Policy of the Week: Greater Bay Area Cross-Border Data Flow and Professional Qualification Mutual Recognition Accelerate, Favorable for Foreign-Related Legal Services",
-    "summary_en": "This week, the Guangdong-Hong Kong-Macao Greater Bay Area made new progress in cross-border data flow and mutual recognition of professional qualifications. Relevant Guangdong authorities issued guidelines to further expand the pilot scope of cross-border data flow in the Greater Bay Area, allowing enterprises in finance, healthcare, and trade to conduct cross-border data transfers under security assessments. Meanwhile, the three jurisdictions held a new round of consultations on mutual recognition of professional qualifications for lawyers and accountants, and cooperation zones such as Qianhai and Hengqin introduced measures to cluster foreign-related legal services. In addition, implementation details of the mutual recognition arrangement for civil and commercial judgments between the Mainland and Hong Kong were further clarified. Trend: institutional opening in the Greater Bay Area is accelerating, providing more convenient cross-border compliance and dispute resolution support for outbound enterprises.",
-    "source_en": "Source: Public information from Guangdong Provincial People's Government, Hong Kong Department of Justice, Macao Legal Affairs Bureau, etc. · this week"
+    "title": "本周中国涉外政策要点：粤港澳大湾区跨境规则衔接与贸易便利化持续深化",
+    "summary": "本周中国涉外及跨境政策延续开放与便利化导向。粤港澳大湾区在跨境数据流动、职业资格互认、跨境商事纠纷解决等方面继续推进规则衔接，部分措施聚焦于提升企业跨境经营效率。同时，海关与贸易主管部门在通关一体化、原产地证书电子化及出口退税便利化方面出台细化安排，旨在降低合规成本。整体看，政策在鼓励出海的同时，也强化了出口管制、数据合规与反制裁合规要求，企业需同步关注合规义务。",
+    "source": "来源：中国相关部委及粤港澳大湾区地方政府发布 · 本周",
+    "title_en": "China's Foreign-Related Policy Highlights: Greater Bay Area Cross-Border Rule Alignment and Trade Facilitation Deepen",
+    "summary_en": "This week, China's foreign-related and cross-border policies continued to follow an opening-up and facilitation orientation. The Guangdong-Hong Kong-Macao Greater Bay Area advanced rule alignment in cross-border data flows, mutual recognition of professional qualifications and cross-border commercial dispute resolution, with some measures focusing on enhancing cross-border operational efficiency. Meanwhile, customs and trade authorities issued detailed arrangements on integrated customs clearance, electronic certificates of origin and export tax rebate facilitation, aiming to reduce compliance costs. Overall, while encouraging outbound business, policies also strengthened export control, data compliance and anti-sanctions requirements, requiring enterprises to monitor compliance obligations in tandem.",
+    "source_en": "Source: Released by relevant Chinese ministries and Greater Bay Area local governments · this week"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：供应链合规从成本项转为竞争力，下周关注矿产出口管制与CBAM细则",
-    "summary": "秦林蒿律师周度研判：本周趋势表明，全球供应链合规已从成本项转变为企业竞争力。资源国出口限制与气候贸易措施叠加，要求出海企业将法律合规前置到投资决策阶段。建议：一、对关键矿产依赖度高的企业，尽快建立多元化供应与本地加工布局；二、在合同中加入出口管制与制裁变化时的重新谈判条款；三、利用大湾区跨境数据与资格互认政策，优化跨境争议解决架构。下周重点关注：印尼镍出口政策落地、欧盟CBAM过渡期核查指引、以及美国对华关税复审进展。",
-    "source": "来源：秦林蒿律师团队 · 本周",
-    "title_en": "Attorney Qin's weekly view: Supply chain compliance shifts from cost item to competitiveness; watch mineral export controls and CBAM details next week",
-    "summary_en": "Attorney Qin's weekly view: This week's trends indicate that global supply chain compliance has shifted from a cost item to a competitiveness factor. The overlap of resource-country export restrictions and climate trade measures requires outbound enterprises to front-load legal compliance into investment decisions. Recommendations: First, enterprises highly dependent on critical minerals should promptly establish diversified supply and local processing arrangements; second, include renegotiation clauses in contracts for changes in export controls and sanctions; third, leverage Greater Bay Area cross-border data and qualification mutual recognition policies to optimize cross-border dispute resolution structures. Key focuses next week: implementation of Indonesia's nickel export policy, EU CBAM transitional verification guidelines, and progress of the US tariff review on China.",
-    "source_en": "Source: Attorney Qin Linhao's team · this week"
+    "title": "秦林蒿律师周度研判：出海企业应强化合规前置与合同弹性，关注下周管制清单动态",
+    "summary": "秦林蒿律师周度研判：本周趋势表明，出口管制与关税政策仍处于高频调整期，企业不能仅依赖事后应对。建议出海企业：第一，建立跨部门合规小组，将出口管制、经济制裁、数据跨境与反商业贿赂审查嵌入交易全流程；第二，在合同中加入动态合规条款、价格调整机制与争议解决分层设计，预留政策变动下的退出与再谈判空间；第三，对关键供应商与客户开展分级尽职调查，并保留完整记录。下周应重点关注主要经济体管制清单更新、关税复审及大湾区跨境数据细则的后续落地。",
+    "source": "来源：秦林蒿律师 · 本周研判",
+    "title_en": "Attorney Qin's Weekly View: Outbound Enterprises Should Strengthen Front-Loaded Compliance and Contractual Flexibility, Watch Next Week's Control List Updates",
+    "summary_en": "Attorney Qin's weekly view: This week's trends show that export controls and tariff policies remain in a period of high-frequency adjustment, and enterprises cannot rely solely on after-the-fact responses. Outbound enterprises are advised to: first, establish a cross-departmental compliance team integrating export control, economic sanctions, cross-border data and anti-bribery reviews into the entire transaction process; second, incorporate dynamic compliance clauses, price adjustment mechanisms and tiered dispute resolution designs into contracts to reserve exit and renegotiation space amid policy changes; third, conduct tiered due diligence on key suppliers and customers and keep complete records. Next week, focus on updates to major economies' control lists, tariff reviews and the follow-up implementation of Greater Bay Area cross-border data rules.",
+    "source_en": "Source: Attorney Qin Linhao · weekly view"
   },
-  "weekLabel": "2026年9月14日 – 9月18日 · 本周周报",
-  "weekLabel_en": "Sep 14 – Sep 18, 2026 · Weekly Digest",
-  "issue": 38
+  "weekLabel": "2026年9月21日 – 9月25日 · 本周周报",
+  "weekLabel_en": "Sep 21 – Sep 25, 2026 · Weekly Digest",
+  "issue": 39
 }
