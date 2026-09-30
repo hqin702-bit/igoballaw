@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需紧急核查CBAM申报数据",
-    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会加强了对进口商季度报告的审查，中国钢铁、铝、化肥等行业出口企业面临数据合规压力。企业需确保隐含碳排放数据可追溯、可验证，否则可能被欧盟进口商转嫁风险或失去订单。建议尽快建立产品碳足迹核算体系，并与欧盟客户确认申报责任分配。",
-    "source": "来源：欧盟委员会气候行动总司 · 2026.09.29",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Verify Emissions Data",
-    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with definitive taxation starting in 2027. The European Commission has recently intensified scrutiny of importers' quarterly reports, putting Chinese exporters in steel, aluminium, and fertiliser sectors under compliance pressure. Companies must ensure embedded emissions data is traceable and verifiable, or risk shifting liability to EU importers and losing orders. Establishing a product carbon footprint system and clarifying reporting responsibilities with EU clients is imperative.",
-    "source_en": "Source: European Commission DG CLIMA · 2026.09.29"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需加速碳数据合规布局",
+    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收阶段。近期欧盟委员会进一步细化了钢铁、铝、水泥、化肥、电力及氢等六大行业的碳排放核算与申报规则，并强化了对间接排放的核查要求。中国出口企业若未能建立符合欧盟标准的碳足迹监测与报告体系，将面临额外的碳成本甚至贸易壁垒。建议企业尽快梳理对欧出口产品清单，完善上游供应链碳数据收集，并评估在欧盟境内设立合规实体的必要性。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.09.30",
+    "title_en": "EU CBAM Transition Period Nears End, Chinese Exporters Urged to Accelerate Carbon Data Compliance",
+    "summary_en": "The transitional period of the EU Carbon Border Adjustment Mechanism (CBAM) will conclude by the end of 2026, with the definitive regime taking effect from 2027. The European Commission has recently refined carbon emission calculation and reporting rules for six sectors—iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen—while tightening verification requirements for indirect emissions. Chinese exporters that fail to establish EU-compliant carbon footprint monitoring and reporting systems may face additional carbon costs or even trade barriers. Companies are advised to promptly map out EU-bound product lists, enhance upstream supply chain carbon data collection, and assess the need to establish compliance entities within the EU.",
+    "source_en": "Source: DG CLIMA, European Commission · 2026.09.30"
   },
   "case": {
-    "title": "新加坡国际商事法庭首例承认中国法院商事判决，跨境执行路径进一步拓宽",
-    "summary": "新加坡国际商事法庭（SICC）近期依据《选择法院协议公约》及新中双边备忘录，承认并执行了一起中国法院作出的商事金钱判决。该案涉及中资企业与新加坡公司的货物买卖纠纷，SICC认定中国法院管辖协议有效且程序正当。此案表明，在存在排他性管辖协议的情况下，中国判决在普通法系的承认路径更加清晰。出海企业可在合同中优先约定SICC或中国法院管辖，并保留相关证据。",
-    "source": "来源：新加坡国际商事法庭 · 2026.09",
-    "title_en": "SICC Recognises Chinese Commercial Judgment for First Time, Broadening Cross-Border Enforcement",
-    "summary_en": "The Singapore International Commercial Court (SICC) has recently recognised and enforced a monetary commercial judgment from a Chinese court under the Hague Choice of Court Convention and the China-Singapore bilateral memorandum. The case involved a sale of goods dispute between a Chinese enterprise and a Singaporean company, with the SICC upholding the validity of the Chinese court's jurisdiction agreement and due process. This indicates a clearer recognition pathway for Chinese judgments in common law jurisdictions where exclusive jurisdiction agreements exist. Outbound firms should consider designating SICC or Chinese courts in contracts and preserve relevant evidence.",
-    "source_en": "Source: Singapore International Commercial Court · 2026.09"
+    "title": "新加坡国际商事法庭承认与执行中国法院商事判决，明确互惠关系认定标准",
+    "summary": "新加坡国际商事法庭（SICC）近期在一宗跨境货物买卖合同纠纷中，依据《新加坡国际商事法庭法》及普通法互惠原则，承认并执行了中国某中级人民法院作出的生效商事判决。法院重点审查了原判决程序的正当性、管辖权基础及是否存在欺诈情形，最终认定中国法院的判决符合新加坡法律对终局性和确定性的要求。该案为中新两国间民商事判决的跨境流通提供了重要先例，也提示中国企业在跨境交易中应注重合同管辖条款的设计与证据留存，以便未来在普通法法域申请执行。",
+    "source": "来源：新加坡国际商事法庭 · 2026年第三季度",
+    "title_en": "SICC Recognises and Enforces Chinese Commercial Judgment, Clarifying Reciprocity Test",
+    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised and enforced a final commercial judgment rendered by an intermediate people's court of China in a cross-border sale of goods dispute, relying on the SICC Act and common law principles of reciprocity. The court scrutinised the propriety of the original proceedings, the basis of jurisdiction, and the absence of fraud, ultimately finding that the Chinese judgment satisfied Singapore law's requirements for finality and conclusiveness. This case sets an important precedent for the cross-border circulation of civil and commercial judgments between China and Singapore, and underscores the need for Chinese enterprises to carefully design jurisdiction clauses and preserve evidence in cross-border transactions to facilitate future enforcement in common law jurisdictions.",
+    "source_en": "Source: Singapore International Commercial Court · Q3 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区推出跨境数据流动“白名单”机制，便利企业合规传输个人信息",
-    "summary": "广东省与香港、澳门相关部门近期联合发布大湾区跨境数据流动“白名单”制度，允许符合条件的企业在金融、医疗、贸易等领域向港澳传输个人信息，免于逐笔申报。该机制要求企业通过安全评估并加入行业自律公约。此举旨在降低合规成本，促进大湾区一体化。企业应尽快评估自身数据场景，申请纳入白名单，并完善内部数据保护政策。",
-    "source": "来源：广东省政务服务数据管理局 · 2026.09",
-    "title_en": "Greater Bay Area Launches Cross-Border Data Flow 'Whitelist' to Facilitate Compliant Personal Information Transfers",
-    "summary_en": "Authorities in Guangdong, Hong Kong, and Macao have jointly introduced a cross-border data flow 'whitelist' for the Greater Bay Area, permitting eligible enterprises in finance, healthcare, and trade to transfer personal information to Hong Kong and Macao without case-by-case filings. The mechanism requires companies to pass a security assessment and join industry self-regulatory pacts. This aims to reduce compliance costs and promote regional integration. Companies should assess their data scenarios, apply for whitelist inclusion, and enhance internal data protection policies.",
-    "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau · 2026.09"
+    "title": "粤港澳大湾区推出跨境商事纠纷“一站式”在线解纷平台，整合调解仲裁诉讼资源",
+    "summary": "广东省司法厅与香港律政司、澳门法务局近期联合推出粤港澳大湾区跨境商事纠纷“一站式”在线解纷平台，整合三地调解、仲裁及诉讼资源，为跨境企业提供在线立案、远程调解、电子送达及仲裁裁决跨境执行协助等服务。平台首批接入广州仲裁委员会、深圳国际仲裁院、香港国际仲裁中心及澳门世界贸易中心仲裁中心等机构，并发布统一调解规则指引。此举旨在降低三地企业跨境解纷的时间与费用成本，提升大湾区法治化营商环境。企业应关注平台规则，在合同中约定适用该机制以增强争议解决效率。",
+    "source": "来源：广东省司法厅、香港律政司、澳门法务局 · 2026年9月",
+    "title_en": "Greater Bay Area Launches One-Stop Online Dispute Resolution Platform for Cross-Border Commercial Disputes",
+    "summary_en": "The Guangdong Department of Justice, the Hong Kong Department of Justice, and Macao's Legal Affairs Bureau have jointly launched a one-stop online dispute resolution platform for cross-border commercial disputes in the Greater Bay Area, integrating mediation, arbitration, and litigation resources across the three jurisdictions. The platform offers online case filing, remote mediation, electronic service, and assistance with cross-border enforcement of arbitral awards. Founding institutions include the Guangzhou Arbitration Commission, the Shenzhen Court of International Arbitration, the Hong Kong International Arbitration Centre, and the Macao World Trade Center Arbitration Center, alongside unified mediation rules. The initiative aims to reduce time and cost for businesses in the three regions and enhance the rule-of-law business environment. Companies should familiarise themselves with the platform's rules and consider incorporating them into contracts to improve dispute resolution efficiency.",
+    "source_en": "Source: Guangdong Department of Justice, Hong Kong Department of Justice, Macao Legal Affairs Bureau · September 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业需重构跨境架构",
-    "summary": "秦林蒿律师研判：美国近期拟扩大对外投资审查范围，将人工智能、量子计算、先进半导体等领域纳入禁止或申报交易。中国科技企业通过离岸架构进行海外融资或技术合作可能触发合规风险。建议企业立即梳理现有投资路径，评估是否涉及敏感技术，并考虑调整交易结构或申请豁免。同时，应加强内部合规培训，避免因违规导致制裁或处罚。",
-    "source": "来源：律连全球 · iGlobal Law · 2026.09.29",
-    "title_en": "Attorney Qin's View: Expanded US Outbound Investment Screening Requires Chinese Tech Firms to Restructure Cross-Border Frameworks",
-    "summary_en": "Attorney Qin's view: The US is poised to expand outbound investment screening to cover AI, quantum computing, and advanced semiconductors, with prohibited or notifiable transactions. Chinese tech firms using offshore structures for overseas financing or tech cooperation may face compliance risks. Companies should immediately map existing investment paths, assess exposure to sensitive technologies, and consider adjusting deal structures or seeking exemptions. Internal compliance training should be strengthened to avoid sanctions or penalties for violations.",
-    "source_en": "Source: iGlobal Law · 2026.09.29"
+    "title": "秦林蒿律师研判：美国对华半导体出口管制新规下，企业需构建“穿透式”合规体系",
+    "summary": "秦林蒿律师研判：美国商务部近期进一步收紧对华半导体制造设备及高端芯片的出口管制，新增多项“外国直接产品规则”限制，并将多家中国实体列入实体清单。新规不仅约束美国原产技术，还扩展至使用美国软件或设备在第三国生产的产品。中国企业在采购、研发及国际合作中面临更高的合规风险。建议企业立即开展供应链穿透式排查，识别受控物项与技术来源；完善内部出口管制合规制度，对交易对方进行强化尽职调查；并在合同中加入出口管制变更条款与免责条款，以应对政策突变带来的履约风险。",
+    "source": "来源：律连全球 · iGlobal Law 编辑部 · 2026.09.30",
+    "title_en": "Attorney Qin's View: Building a 'Look-Through' Compliance System Amid New US Semiconductor Export Controls",
+    "summary_en": "Attorney Qin's view: The US Department of Commerce has recently further tightened export controls on semiconductor manufacturing equipment and advanced chips destined for China, adding multiple Foreign Direct Product Rule restrictions and placing several Chinese entities on the Entity List. The new rules not only capture US-origin technology but also extend to products manufactured in third countries using US software or equipment. Chinese enterprises face heightened compliance risks in procurement, R&D, and international cooperation. Companies should immediately conduct look-through supply chain audits to identify controlled items and technology sources; enhance internal export control compliance programmes and conduct enhanced due diligence on counterparties; and incorporate export control change-of-law and force majeure clauses into contracts to mitigate performance risks arising from abrupt policy shifts.",
+    "source_en": "Source: iGlobal Law Editorial Desk · 2026.09.30"
   },
-  "dateLabel": "2026年9月29日 · 星期二",
-  "dateLabel_en": "Tuesday, September 29, 2026",
-  "issue": 272
+  "dateLabel": "2026年9月30日 · 星期三",
+  "dateLabel_en": "Wednesday, September 30, 2026",
+  "issue": 273
 }
