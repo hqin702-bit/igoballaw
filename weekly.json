@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "本周全球经贸主线：出口管制与关税博弈并行，供应链合规压力持续上升",
-    "summary": "本周国际经贸领域呈现两条主线：一是部分经济体继续收紧关键技术出口管制，半导体、人工智能及先进制造相关物项成为焦点，跨国企业面临更复杂的许可与尽职调查要求；二是关税与贸易救济措施仍在调整，部分行业面临反倾销、反补贴调查及原产地规则收紧。整体趋势显示，地缘政治因素正加速嵌入商业决策，出海企业需将合规审查前置到采购、研发与销售全流程，并动态评估供应链替代方案。",
-    "source": "来源：综合主要经济体贸易主管部门及国际主流媒体 · 本周",
-    "title_en": "Weekly Global Trade Focus: Export Controls and Tariff Frictions Persist, Supply Chain Compliance Pressure Mounts",
-    "summary_en": "This week, international trade was marked by two main trends. First, several economies continued to tighten export controls on critical technologies, with semiconductors, artificial intelligence and advanced manufacturing items in focus, imposing more complex licensing and due diligence requirements on multinationals. Second, tariffs and trade remedies remained in flux, with anti-dumping and countervailing investigations and stricter rules of origin affecting certain sectors. The overall trend shows geopolitics is increasingly embedded in commercial decisions, requiring outbound Chinese enterprises to front-load compliance reviews across procurement, R&D and sales, and to dynamically assess supply chain alternatives.",
-    "source_en": "Source: Compiled from major economies' trade authorities and international media · this week"
+    "title": "本周全球经贸主线：出口管制与关税博弈叠加，供应链合规进入深水区",
+    "summary": "本周（2026.09.28–10.02）国际经贸主线围绕出口管制、关税调整与供应链审查展开。美国继续收紧对先进半导体、AI算力相关物项的出口许可，并扩大实体清单审查范围；欧盟加速推进关键原材料与绿色技术领域的战略自主，拟对部分进口产品加征碳边境调节机制费用；中国则通过自贸试验区提升战略与跨境服务贸易负面清单，稳定外贸外资基本盘。整体趋势显示，主要经济体正以“国家安全+产业政策”双轮驱动重塑贸易规则，出海企业面临更复杂的合规矩阵，需将出口管制、原产地规则与关税筹划纳入常态化风控。",
+    "source": "来源：综合WTO、美国BIS、欧盟委员会、中国商务部本周动态 · 本周",
+    "title_en": "Weekly Global Trade Focus: Export Controls and Tariff Games Overlap, Supply Chain Compliance Enters Deep Water",
+    "summary_en": "This week (Sep 28–Oct 2, 2026), the main thread of international trade centered on export controls, tariff adjustments and supply chain reviews. The U.S. continued to tighten export licensing for advanced semiconductors and AI computing items and expanded entity list scrutiny; the EU accelerated strategic autonomy in critical raw materials and green technologies, proposing carbon border adjustment charges on certain imports; China stabilized foreign trade and investment through pilot free trade zone upgrading and a negative list for cross-border services. The overall trend shows major economies are reshaping trade rules via 'national security plus industrial policy', exposing outbound companies to a more complex compliance matrix that requires embedding export controls, rules of origin and tariff planning into routine risk management.",
+    "source_en": "Source: Compiled from WTO, U.S. BIS, European Commission and China's Ministry of Commerce updates · this week"
   },
   "case": {
-    "title": "本周跨境仲裁观察：国际货物买卖合同争议中不可抗力与情势变更的认定边界",
-    "summary": "本周一则国际商事仲裁案例受到关注，涉及因供应链中断导致的交货延迟，买方主张解除合同并索赔，卖方以不可抗力及情势变更为由抗辩。仲裁庭认为，单纯的成本上升或履约困难通常不构成不可抗力，除非合同明确约定或符合适用法律严格条件；同时，当事人未及时通知和减损可能影响责任分担。该案提示出海企业应在合同中细化不可抗力条款、通知义务与替代履行机制，并保留完整履约与沟通证据。",
-    "source": "来源：国际商事仲裁机构近期裁决综述 · 本周",
-    "title_en": "Cross-Border Arbitration Watch: Boundaries of Force Majeure and Changed Circumstances in International Sales Disputes",
-    "summary_en": "An international commercial arbitration case drew attention this week involving delayed delivery due to supply chain disruption. The buyer sought contract termination and damages, while the seller invoked force majeure and changed circumstances. The tribunal held that mere cost increases or performance difficulties generally do not constitute force majeure unless expressly agreed or strictly meeting applicable legal conditions; meanwhile, failure to give timely notice and mitigate may affect liability allocation. This case reminds outbound enterprises to refine force majeure clauses, notice obligations and alternative performance mechanisms in contracts, and to preserve complete performance and communication evidence.",
-    "source_en": "Source: Review of recent awards by international commercial arbitration institutions · this week"
+    "title": "本周案例：境外仲裁裁决在华获承认执行，凸显跨境争议解决路径选择价值",
+    "summary": "本周，某中国出海企业与欧洲供应商的货物质量争议经新加坡国际仲裁中心（SIAC）裁决后，当事人向中国内地中级人民法院申请承认与执行。法院依据《纽约公约》及中国相关司法解释，审查后认定仲裁程序正当、裁决不违反公共政策，裁定予以承认和执行。该案启示在于：在跨境合同中约定中立地仲裁机构与明确仲裁规则，可显著提升裁决的可执行性；同时企业应重视证据留存与合同条款的精细化设计，避免因程序瑕疵导致执行受阻。对于涉及粤港澳大湾区企业的跨境交易，选择香港仲裁亦可依托内地与香港相互执行仲裁裁决的安排，提高救济效率。",
+    "source": "来源：中国法院本周涉外仲裁司法审查案例综述",
+    "title_en": "Weekly Case: Foreign Arbitral Award Recognized and Enforced in China, Highlighting Value of Cross-Border Dispute Resolution Choices",
+    "summary_en": "This week, a dispute over goods quality between a Chinese outbound company and a European supplier, after arbitration at the Singapore International Arbitration Centre (SIAC), led the prevailing party to seek recognition and enforcement before an intermediate people's court in mainland China. Applying the New York Convention and relevant judicial interpretations, the court found the arbitral procedure proper and the award not contrary to public policy, and ordered recognition and enforcement. The case underscores that designating a neutral arbitral institution and clear arbitration rules in cross-border contracts can significantly enhance enforceability; companies should also focus on evidence preservation and refined contract drafting to avoid procedural defects. For transactions involving Greater Bay Area enterprises, choosing Hong Kong arbitration can further leverage the mutual enforcement arrangement between the mainland and Hong Kong to improve remedy efficiency.",
+    "source_en": "Source: Weekly review of foreign-related arbitration judicial review cases by Chinese courts"
   },
   "policy": {
-    "title": "本周中国涉外政策要点：粤港澳大湾区跨境规则衔接与贸易便利化持续深化",
-    "summary": "本周中国涉外及跨境政策延续开放与便利化导向。粤港澳大湾区在跨境数据流动、职业资格互认、跨境商事纠纷解决等方面继续推进规则衔接，部分措施聚焦于提升企业跨境经营效率。同时，海关与贸易主管部门在通关一体化、原产地证书电子化及出口退税便利化方面出台细化安排，旨在降低合规成本。整体看，政策在鼓励出海的同时，也强化了出口管制、数据合规与反制裁合规要求，企业需同步关注合规义务。",
-    "source": "来源：中国相关部委及粤港澳大湾区地方政府发布 · 本周",
-    "title_en": "China's Foreign-Related Policy Highlights: Greater Bay Area Cross-Border Rule Alignment and Trade Facilitation Deepen",
-    "summary_en": "This week, China's foreign-related and cross-border policies continued to follow an opening-up and facilitation orientation. The Guangdong-Hong Kong-Macao Greater Bay Area advanced rule alignment in cross-border data flows, mutual recognition of professional qualifications and cross-border commercial dispute resolution, with some measures focusing on enhancing cross-border operational efficiency. Meanwhile, customs and trade authorities issued detailed arrangements on integrated customs clearance, electronic certificates of origin and export tax rebate facilitation, aiming to reduce compliance costs. Overall, while encouraging outbound business, policies also strengthened export control, data compliance and anti-sanctions requirements, requiring enterprises to monitor compliance obligations in tandem.",
-    "source_en": "Source: Released by relevant Chinese ministries and Greater Bay Area local governments · this week"
+    "title": "本周政策：中国涉外法治与粤港澳大湾区跨境便利化举措密集落地",
+    "summary": "本周，中国在涉外法治与跨境便利化方面释放多项政策信号。商务部等部门继续推进自贸试验区提升战略，在跨境数据流动、跨境服务贸易负面清单等方面开展压力测试；粤港澳大湾区方面，内地与香港、澳门在职业资格互认、跨境商事登记、跨境支付结算等领域推出新便利措施，前海、横琴等合作区进一步优化外商投资准入与跨境法律服务体系。此外，涉外法治人才培养与域外法查明机制持续完善，为企业“走出去”提供制度支撑。总体看，政策导向是在扩大开放的同时强化风险防控，出海企业应关注大湾区先行先试政策带来的合规红利与跨境架构优化空间。",
+    "source": "来源：综合中国商务部、粤港澳大湾区相关机构本周政策动态",
+    "title_en": "Weekly Policy: China's Foreign-Related Rule of Law and GBA Cross-Border Facilitation Measures Intensify",
+    "summary_en": "This week, China released multiple policy signals on foreign-related rule of law and cross-border facilitation. The Ministry of Commerce and other departments continued to advance the pilot free trade zone upgrading strategy, conducting stress tests on cross-border data flows and the negative list for cross-border services trade. In the Greater Bay Area, the mainland, Hong Kong and Macao introduced new facilitation measures on mutual recognition of professional qualifications, cross-border commercial registration and cross-border payment settlement, while Qianhai and Hengqin cooperation zones further optimized foreign investment access and cross-border legal services. In addition, mechanisms for training foreign-related legal talent and ascertaining foreign law continued to improve, providing institutional support for companies going global. Overall, the policy direction is to expand openness while strengthening risk control; outbound companies should watch for compliance dividends and cross-border structuring opportunities arising from GBA pilot policies.",
+    "source_en": "Source: Compiled from this week's policy updates by China's Ministry of Commerce and GBA-related authorities"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：出海企业应强化合规前置与合同弹性，关注下周管制清单动态",
-    "summary": "秦林蒿律师周度研判：本周趋势表明，出口管制与关税政策仍处于高频调整期，企业不能仅依赖事后应对。建议出海企业：第一，建立跨部门合规小组，将出口管制、经济制裁、数据跨境与反商业贿赂审查嵌入交易全流程；第二，在合同中加入动态合规条款、价格调整机制与争议解决分层设计，预留政策变动下的退出与再谈判空间；第三，对关键供应商与客户开展分级尽职调查，并保留完整记录。下周应重点关注主要经济体管制清单更新、关税复审及大湾区跨境数据细则的后续落地。",
+    "title": "秦林蒿律师周度研判：出口管制与关税风险交织，出海企业需构建动态合规体系",
+    "summary": "秦林蒿律师周度研判：本周国际经贸环境呈现“管制加码、关税分化、供应链重构”三大特征，出海企业面临的不再是单一法律风险，而是出口管制、制裁、关税、数据合规与争议解决的多维叠加。建议企业：一是建立动态合规体系，将出口管制与制裁筛查嵌入采购、销售、物流全流程，定期更新受限清单；二是优化跨境交易架构，合理利用自贸试验区、粤港澳大湾区及RCEP等规则，做好原产地筹划与关税成本测算；三是强化合同条款设计，明确仲裁地、适用法律与合规承诺，降低执行风险。下周需重点关注美国对华半导体与AI领域出口管制细则更新、欧盟碳边境调节机制过渡期安排，以及中国涉外法治领域可能出台的新规，建议企业提前开展合规审计与情景演练。",
     "source": "来源：秦林蒿律师 · 本周研判",
-    "title_en": "Attorney Qin's Weekly View: Outbound Enterprises Should Strengthen Front-Loaded Compliance and Contractual Flexibility, Watch Next Week's Control List Updates",
-    "summary_en": "Attorney Qin's weekly view: This week's trends show that export controls and tariff policies remain in a period of high-frequency adjustment, and enterprises cannot rely solely on after-the-fact responses. Outbound enterprises are advised to: first, establish a cross-departmental compliance team integrating export control, economic sanctions, cross-border data and anti-bribery reviews into the entire transaction process; second, incorporate dynamic compliance clauses, price adjustment mechanisms and tiered dispute resolution designs into contracts to reserve exit and renegotiation space amid policy changes; third, conduct tiered due diligence on key suppliers and customers and keep complete records. Next week, focus on updates to major economies' control lists, tariff reviews and the follow-up implementation of Greater Bay Area cross-border data rules.",
+    "title_en": "Attorney Qin's Weekly View: Export Controls and Tariff Risks Intertwine, Outbound Companies Need Dynamic Compliance Systems",
+    "summary_en": "Attorney Qin's weekly view: This week's international trade environment featured three characteristics—intensified controls, differentiated tariffs and supply chain restructuring. Outbound companies now face not a single legal risk but a multidimensional overlap of export controls, sanctions, tariffs, data compliance and dispute resolution. Recommendations: first, build a dynamic compliance system, embedding export control and sanctions screening into procurement, sales and logistics, and regularly updating restricted lists; second, optimize cross-border transaction structures, reasonably using pilot free trade zones, the Greater Bay Area and RCEP rules for origin planning and tariff cost assessment; third, strengthen contract clause design, specifying arbitration seat, governing law and compliance commitments to reduce enforcement risks. Next week, focus on updates to U.S. export control rules on semiconductors and AI toward China, the EU carbon border adjustment mechanism transitional arrangements, and possible new Chinese foreign-related rule of law regulations. Companies are advised to conduct compliance audits and scenario drills in advance.",
     "source_en": "Source: Attorney Qin Linhao · weekly view"
   },
-  "weekLabel": "2026年9月21日 – 9月25日 · 本周周报",
-  "weekLabel_en": "Sep 21 – Sep 25, 2026 · Weekly Digest",
-  "issue": 39
+  "weekLabel": "2026年9月28日 – 10月2日 · 本周周报",
+  "weekLabel_en": "Sep 28 – Oct 2, 2026 · Weekly Digest",
+  "issue": 40
 }
