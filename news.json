@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期临近，中国出口企业需加快碳数据合规布局",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收阶段。涉及钢铁、铝、水泥、化肥、电力和氢能等六大行业。中国出口企业需建立产品碳足迹核算体系，收集并验证嵌入碳排放数据，否则将面临额外成本。建议企业尽快梳理对欧出口产品清单，与欧盟进口商确认数据申报要求，并探索使用绿电、低碳工艺降低碳强度。同时关注欧盟认可的中国碳市场衔接可能性。",
-    "source": "来源：欧盟委员会气候行动总司 · 2026.10.02",
-    "title_en": "EU CBAM Transition Period Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
-    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transition period will conclude by the end of 2026, with the definitive regime applying from 2027 to six sectors: iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen. Chinese exporters must establish product carbon footprint accounting systems, collect and verify embedded emissions data, or face additional costs. Companies should promptly map EU-bound products, confirm data reporting requirements with EU importers, and explore green electricity and low-carbon processes to reduce carbon intensity. Attention should also be paid to the potential linkage with China's carbon market.",
-    "source_en": "Source: European Commission DG CLIMA · 2026.10.02"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需紧急核查碳数据申报合规性",
+    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会更新了申报模板与默认值规则，对钢铁、铝、水泥、化肥、电力及氢能等六大行业的嵌入碳排放数据要求更为严格。中国出口企业若未在过渡期内完成合规申报，可能面临罚款及未来税负增加。建议企业立即梳理对欧出口产品清单，建立产品级碳核算体系，并关注欧盟认可的第三方核查机构名单。",
+    "source": "来源：欧盟委员会税收与海关同盟总司 · 2026.10.05",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Verify Carbon Data Reporting Compliance",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime and levy commencing in 2027. The European Commission recently updated reporting templates and default value rules, imposing stricter requirements on embedded emissions data for six sectors: iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen. Chinese exporters that fail to complete compliant reporting during the transitional period may face penalties and higher future tax burdens. Companies are advised to immediately map EU-bound product lists, establish product-level carbon accounting systems, and monitor the list of EU-recognised third-party verifiers.",
+    "source_en": "Source: European Commission, Directorate-General for Taxation and Customs Union · 2026.10.05"
   },
   "case": {
-    "title": "新加坡上诉法院明确跨境仲裁中第三方资助的披露义务与利益冲突审查标准",
-    "summary": "新加坡上诉法院近期在一宗涉及中国企业的国际仲裁裁决执行案中，明确了第三方资助（TPF）的披露义务范围，并指出资助方与仲裁员之间的间接利益关系可能构成撤销裁决的理由。该案涉及一家中国工程公司在新加坡仲裁后申请执行裁决，被申请人以资助方与首席仲裁员存在业务往来为由请求撤销。法院认为，若资助协议中的利益安排可能影响仲裁员公正性，当事人有义务主动披露。此案提示中国企业在选择资助方时需进行利益冲突尽调，并在仲裁程序中及时披露资助安排。",
-    "source": "来源：新加坡上诉法院 · 2026年9月",
-    "title_en": "Singapore Court of Appeal Clarifies Disclosure Duties and Conflict Review Standards for Third-Party Funding in Cross-Border Arbitration",
-    "summary_en": "The Singapore Court of Appeal recently clarified the scope of disclosure obligations for third-party funding (TPF) in an enforcement case involving a Chinese enterprise, holding that indirect interests between a funder and an arbitrator may justify setting aside an award. The case arose when a Chinese engineering company sought to enforce an award in Singapore, and the respondent challenged it based on business ties between the funder and the presiding arbitrator. The court held that parties must proactively disclose funding arrangements if they could affect arbitrator impartiality. This underscores the need for Chinese companies to conduct conflict due diligence on funders and promptly disclose TPF arrangements.",
-    "source_en": "Source: Singapore Court of Appeal · September 2026"
+    "title": "新加坡国际商事法庭首例承认中国法院商事判决，跨境债权执行路径进一步拓宽",
+    "summary": "新加坡国际商事法庭（SICC）近期在一宗跨境贷款纠纷中，依据普通法原则承认了中国内地法院的商事判决，并允许债权人在新加坡启动执行程序。该案明确了中国法院判决满足“终局性”与“确定性”标准的审查要点，为债权人提供了除仲裁外的替代路径。对于在东南亚有资产的中国企业而言，此案意味着可通过中国法院判决直接寻求新加坡司法承认与执行，但需注意送达程序、管辖权及公共政策等抗辩事由。建议在跨境合同中明确争议解决条款并保留完整证据链。",
+    "source": "来源：新加坡国际商事法庭 · 2026.10",
+    "title_en": "SICC Recognises Chinese Commercial Judgment in First-of-its-Kind Ruling, Broadening Cross-Border Debt Enforcement",
+    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised a commercial judgment from a mainland Chinese court under common law principles in a cross-border loan dispute, permitting the creditor to commence enforcement proceedings in Singapore. The case clarifies the criteria for assessing finality and conclusiveness of Chinese judgments, offering creditors an alternative to arbitration. For Chinese enterprises with assets in Southeast Asia, this ruling means they may seek recognition and enforcement of Chinese court judgments directly in Singapore, though defences such as service, jurisdiction, and public policy remain available. Parties are advised to specify dispute resolution clauses clearly in cross-border contracts and maintain a complete evidentiary chain.",
+    "source_en": "Source: Singapore International Commercial Court · October 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区推出跨境商事纠纷“一站式”在线解纷平台，强化涉外法律服务",
-    "summary": "粤港澳大湾区近期上线跨境商事纠纷“一站式”在线解纷平台，整合粤港澳三地调解、仲裁和诉讼资源，为跨境企业提供在线立案、调解、仲裁和司法确认服务。平台支持中英葡三语，并引入香港、澳门调解机构和仲裁机构。此举旨在降低跨境解纷成本，提升大湾区法治化营商环境。企业可通过平台在线提交纠纷材料，选择适用香港、澳门或内地法律，并实现裁决的跨境认可与执行。建议出海企业熟悉平台流程，在合同中约定适用该平台解纷。",
-    "source": "来源：广东省司法厅 · 2026年9月",
-    "title_en": "Greater Bay Area Launches One-Stop Online Dispute Resolution Platform for Cross-Border Commercial Disputes",
-    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area recently launched a one-stop online dispute resolution platform integrating mediation, arbitration, and litigation resources across the three jurisdictions. The platform offers online case filing, mediation, arbitration, and judicial confirmation services in Chinese, English, and Portuguese, and includes mediation and arbitration institutions from Hong Kong and Macao. It aims to reduce cross-border dispute resolution costs and enhance the rule-of-law business environment. Companies can submit disputes online, choose applicable law, and seek cross-border recognition and enforcement of awards. Export-oriented enterprises should familiarise themselves with the platform and consider designating it in contracts.",
-    "source_en": "Source: Guangdong Provincial Department of Justice · September 2026"
+    "title": "粤港澳大湾区推出跨境商事纠纷“一站式”在线解纷平台，港澳调解协议可申请内地司法确认",
+    "summary": "广东省高级人民法院与香港、澳门相关机构联合推出粤港澳大湾区跨境商事纠纷“一站式”在线解纷平台，整合调解、仲裁与诉讼服务。根据最新安排，经港澳调解机构主持达成的调解协议，当事人可向大湾区内地法院申请司法确认，从而获得强制执行效力。该机制显著降低了跨境纠纷解决的时间与成本，尤其适用于货物买卖、股权投资及知识产权许可等常见争议。企业应熟悉平台操作流程，并在合同中约定适用该机制。",
+    "source": "来源：广东省高级人民法院 · 2026.09",
+    "title_en": "Greater Bay Area Launches One-Stop Online Dispute Resolution Platform; HK & Macao Mediation Agreements Eligible for Mainland Judicial Confirmation",
+    "summary_en": "The Guangdong High People's Court, together with relevant Hong Kong and Macao authorities, has launched a one-stop online dispute resolution platform for cross-border commercial disputes in the Greater Bay Area (GBA), integrating mediation, arbitration, and litigation services. Under the new arrangement, parties may apply to mainland GBA courts for judicial confirmation of mediation agreements reached through Hong Kong or Macao mediation institutions, thereby obtaining enforceability. This mechanism significantly reduces the time and cost of cross-border dispute resolution, particularly for disputes over goods sales, equity investment, and IP licensing. Companies should familiarise themselves with the platform's procedures and consider designating it in their contracts.",
+    "source_en": "Source: Guangdong High People's Court · September 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师：美国对华半导体出口管制新规下，企业需构建“穿透式”合规体系",
-    "summary": "秦林蒿律师研判：美国近期进一步收紧对华半导体出口管制，将更多中国实体列入实体清单，并扩大外国直接产品规则适用范围。中国企业面临供应链断供、次级制裁及高管刑事责任等多重风险。建议企业立即开展供应链穿透排查，识别受控物项和交易对手；建立出口管制合规内控机制，包括最终用户和最终用途审查；在合同中加入合规陈述与保证、终止权条款；对敏感交易进行法律意见书论证。同时，关注中国《反外国制裁法》下的阻断与反制措施，平衡合规与业务连续性。",
-    "source": "来源：秦林蒿律师 · 2026.10.02",
-    "title_en": "Attorney Qin: Under New U.S. Semiconductor Export Controls, Companies Need a 'Look-Through' Compliance System",
-    "summary_en": "Attorney Qin's view: The U.S. recently tightened semiconductor export controls on China, adding more Chinese entities to the Entity List and expanding the foreign direct product rule. Chinese companies face supply chain disruptions, secondary sanctions, and potential executive criminal liability. Companies should immediately conduct look-through supply chain audits to identify controlled items and counterparties; establish export control compliance programs including end-user and end-use checks; incorporate compliance representations, warranties, and termination rights in contracts; and obtain legal opinions for sensitive transactions. Meanwhile, monitor blocking and countermeasures under China's Anti-Foreign Sanctions Law to balance compliance and business continuity.",
-    "source_en": "Source: Attorney Qin Linhao · 2026.10.02"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业需重构跨境股权与数据合规架构",
+    "summary": "秦林蒿律师研判：美国近期进一步扩大对外投资审查范围，将半导体、人工智能、量子计算等敏感领域的对华投资纳入更严格的申报与禁止类交易清单。中国科技企业若涉及美元基金或美籍投资人，可能面临投资被叫停、强制剥离甚至处罚的风险。建议企业立即排查现有股东结构中是否存在美国主体，评估融资交易是否触发申报义务，并同步审查数据跨境流动与出口管制合规。在架构层面，可考虑调整融资路径、设立隔离层或引入非美资替代方案，但须避免构成规避行为。",
+    "source": "来源：律连全球 · iGlobal Law 律师团队 · 2026.10.05",
+    "title_en": "Attorney Qin's view: New US Outbound Investment Rules Expand Scope — Chinese Tech Firms Must Restructure Cross-Border Equity and Data Compliance",
+    "summary_en": "Attorney Qin's view: The United States has further expanded its outbound investment review, placing investments in sensitive sectors such as semiconductors, artificial intelligence, and quantum computing in China under stricter notification and prohibited transaction lists. Chinese tech companies with US dollar funds or American investors may face risks of investment being blocked, forced divestment, or penalties. Companies should immediately examine their shareholder structures for US persons, assess whether financing transactions trigger filing obligations, and review cross-border data flows and export control compliance. At the structural level, adjusting financing paths, establishing isolation layers, or introducing non-US alternatives may be considered, but must not constitute circumvention.",
+    "source_en": "Source: iGlobal Law Legal Team · 2026.10.05"
   },
-  "dateLabel": "2026年10月2日 · 星期五",
-  "dateLabel_en": "Friday, October 2, 2026",
-  "issue": 275
+  "dateLabel": "2026年10月5日 · 星期一",
+  "dateLabel_en": "Monday, October 5, 2026",
+  "issue": 278
 }
