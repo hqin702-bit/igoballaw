@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需紧急核查碳数据申报合规性",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会更新了申报模板与默认值规则，对钢铁、铝、水泥、化肥、电力及氢能等六大行业的嵌入碳排放数据要求更为严格。中国出口企业若未在过渡期内完成合规申报，可能面临罚款及未来税负增加。建议企业立即梳理对欧出口产品清单，建立产品级碳核算体系，并关注欧盟认可的第三方核查机构名单。",
-    "source": "来源：欧盟委员会税收与海关同盟总司 · 2026.10.05",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Verify Carbon Data Reporting Compliance",
-    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime and levy commencing in 2027. The European Commission recently updated reporting templates and default value rules, imposing stricter requirements on embedded emissions data for six sectors: iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen. Chinese exporters that fail to complete compliant reporting during the transitional period may face penalties and higher future tax burdens. Companies are advised to immediately map EU-bound product lists, establish product-level carbon accounting systems, and monitor the list of EU-recognised third-party verifiers.",
-    "source_en": "Source: European Commission, Directorate-General for Taxation and Customs Union · 2026.10.05"
+    "title": "美国拟扩大对华先进芯片出口管制，新增量子计算与AI训练芯片类别",
+    "summary": "2026年10月6日，美国商务部工业与安全局（BIS）发布拟议规则，计划将量子计算芯片、AI训练专用芯片及配套EDA工具纳入对华出口管制清单，并扩大「外国直接产品规则」适用范围。新规预计影响中国云计算、自动驾驶及大模型企业的供应链。建议出海企业立即排查美国原产技术占比，评估替代供应商，并在合同中增设出口管制合规条款与不可抗力条款。",
+    "source": "来源：美国商务部BIS公告 · 2026.10.06",
+    "title_en": "US Moves to Broaden Chip Export Controls on China, Adding Quantum and AI Training Chips",
+    "summary_en": "On October 6, 2026, the US Bureau of Industry and Security (BIS) issued a proposed rule to add quantum computing chips, AI-training-specific chips, and related EDA tools to the export control list for China, while expanding the Foreign Direct Product Rule. The new rules are expected to impact the supply chains of Chinese cloud computing, autonomous driving, and large-model enterprises. Outbound companies should immediately assess the proportion of US-origin technology, evaluate alternative suppliers, and incorporate export control compliance and force majeure clauses into contracts.",
+    "source_en": "Source: US BIS Announcement · 2026.10.06"
   },
   "case": {
-    "title": "新加坡国际商事法庭首例承认中国法院商事判决，跨境债权执行路径进一步拓宽",
-    "summary": "新加坡国际商事法庭（SICC）近期在一宗跨境贷款纠纷中，依据普通法原则承认了中国内地法院的商事判决，并允许债权人在新加坡启动执行程序。该案明确了中国法院判决满足“终局性”与“确定性”标准的审查要点，为债权人提供了除仲裁外的替代路径。对于在东南亚有资产的中国企业而言，此案意味着可通过中国法院判决直接寻求新加坡司法承认与执行，但需注意送达程序、管辖权及公共政策等抗辩事由。建议在跨境合同中明确争议解决条款并保留完整证据链。",
-    "source": "来源：新加坡国际商事法庭 · 2026.10",
-    "title_en": "SICC Recognises Chinese Commercial Judgment in First-of-its-Kind Ruling, Broadening Cross-Border Debt Enforcement",
-    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised a commercial judgment from a mainland Chinese court under common law principles in a cross-border loan dispute, permitting the creditor to commence enforcement proceedings in Singapore. The case clarifies the criteria for assessing finality and conclusiveness of Chinese judgments, offering creditors an alternative to arbitration. For Chinese enterprises with assets in Southeast Asia, this ruling means they may seek recognition and enforcement of Chinese court judgments directly in Singapore, though defences such as service, jurisdiction, and public policy remain available. Parties are advised to specify dispute resolution clauses clearly in cross-border contracts and maintain a complete evidentiary chain.",
-    "source_en": "Source: Singapore International Commercial Court · October 2026"
+    "title": "新加坡国际商事法庭承认与执行中国法院商事判决，确立互惠关系新标准",
+    "summary": "2026年9月，新加坡国际商事法庭（SICC）在一宗中新建材贸易合同纠纷中，依据《中新关于承认与执行商事判决的谅解备忘录》及普通法互惠原则，承认并执行了中国某中级人民法院的生效判决。法院明确，中国法院对新加坡判决的承认实践可作为互惠事实证据。该案为中国企业在新加坡及普通法国家追索债务提供了重要先例，建议在跨境合同中优先选择新加坡法院管辖或约定仲裁。",
+    "source": "来源：新加坡国际商事法庭 · 2026.09",
+    "title_en": "Singapore International Commercial Court Recognizes and Enforces Chinese Commercial Judgment, Setting New Reciprocity Standard",
+    "summary_en": "In September 2026, the Singapore International Commercial Court (SICC), in a China-Singapore building materials trade contract dispute, recognized and enforced a final judgment of a Chinese Intermediate People's Court based on the China-Singapore Memorandum of Understanding on Recognition and Enforcement of Commercial Judgments and common law reciprocity principles. The court clarified that Chinese courts' practice of recognizing Singaporean judgments can serve as evidence of reciprocity. This case provides an important precedent for Chinese enterprises seeking debt recovery in Singapore and common law jurisdictions. It is advisable to prioritize Singapore court jurisdiction or arbitration in cross-border contracts.",
+    "source_en": "Source: Singapore International Commercial Court · 2026.09"
   },
   "policy": {
-    "title": "粤港澳大湾区推出跨境商事纠纷“一站式”在线解纷平台，港澳调解协议可申请内地司法确认",
-    "summary": "广东省高级人民法院与香港、澳门相关机构联合推出粤港澳大湾区跨境商事纠纷“一站式”在线解纷平台，整合调解、仲裁与诉讼服务。根据最新安排，经港澳调解机构主持达成的调解协议，当事人可向大湾区内地法院申请司法确认，从而获得强制执行效力。该机制显著降低了跨境纠纷解决的时间与成本，尤其适用于货物买卖、股权投资及知识产权许可等常见争议。企业应熟悉平台操作流程，并在合同中约定适用该机制。",
-    "source": "来源：广东省高级人民法院 · 2026.09",
-    "title_en": "Greater Bay Area Launches One-Stop Online Dispute Resolution Platform; HK & Macao Mediation Agreements Eligible for Mainland Judicial Confirmation",
-    "summary_en": "The Guangdong High People's Court, together with relevant Hong Kong and Macao authorities, has launched a one-stop online dispute resolution platform for cross-border commercial disputes in the Greater Bay Area (GBA), integrating mediation, arbitration, and litigation services. Under the new arrangement, parties may apply to mainland GBA courts for judicial confirmation of mediation agreements reached through Hong Kong or Macao mediation institutions, thereby obtaining enforceability. This mechanism significantly reduces the time and cost of cross-border dispute resolution, particularly for disputes over goods sales, equity investment, and IP licensing. Companies should familiarise themselves with the platform's procedures and consider designating it in their contracts.",
-    "source_en": "Source: Guangdong High People's Court · September 2026"
+    "title": "粤港澳大湾区推出跨境数据流动「白名单」制度，便利金融与医疗数据合规传输",
+    "summary": "2026年10月，广东省及香港、澳门特区联合发布《粤港澳大湾区跨境数据流动白名单管理暂行办法》，率先在金融、医疗、贸易领域允许符合条件的企业在备案后向港澳传输指定数据。白名单企业需通过数据保护影响评估并接受年度审计。该政策为跨境业务提供了合规通道，建议大湾区企业尽快申请白名单资质，建立数据分类分级制度，并完善与港澳合作方的数据保护协议。",
+    "source": "来源：广东省政数局、香港创新科技署 · 2026.10",
+    "title_en": "Greater Bay Area Launches Cross-Border Data Flow 'Whitelist' to Facilitate Compliant Financial and Medical Data Transfers",
+    "summary_en": "In October 2026, Guangdong Province, Hong Kong, and Macao jointly issued the Interim Measures for the Administration of the Cross-Border Data Flow Whitelist in the Guangdong-Hong Kong-Macao Greater Bay Area. The measures allow qualified enterprises in finance, healthcare, and trade to transfer specified data to Hong Kong and Macao after filing. Whitelisted enterprises must pass a data protection impact assessment and undergo annual audits. This policy provides a compliance channel for cross-border operations. Greater Bay Area enterprises are advised to apply for whitelist status promptly, establish data classification and grading systems, and improve data protection agreements with Hong Kong and Macao partners.",
+    "source_en": "Source: Guangdong Provincial Government Data Bureau, Hong Kong Innovation and Technology Commission · 2026.10"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业需重构跨境股权与数据合规架构",
-    "summary": "秦林蒿律师研判：美国近期进一步扩大对外投资审查范围，将半导体、人工智能、量子计算等敏感领域的对华投资纳入更严格的申报与禁止类交易清单。中国科技企业若涉及美元基金或美籍投资人，可能面临投资被叫停、强制剥离甚至处罚的风险。建议企业立即排查现有股东结构中是否存在美国主体，评估融资交易是否触发申报义务，并同步审查数据跨境流动与出口管制合规。在架构层面，可考虑调整融资路径、设立隔离层或引入非美资替代方案，但须避免构成规避行为。",
-    "source": "来源：律连全球 · iGlobal Law 律师团队 · 2026.10.05",
-    "title_en": "Attorney Qin's view: New US Outbound Investment Rules Expand Scope — Chinese Tech Firms Must Restructure Cross-Border Equity and Data Compliance",
-    "summary_en": "Attorney Qin's view: The United States has further expanded its outbound investment review, placing investments in sensitive sectors such as semiconductors, artificial intelligence, and quantum computing in China under stricter notification and prohibited transaction lists. Chinese tech companies with US dollar funds or American investors may face risks of investment being blocked, forced divestment, or penalties. Companies should immediately examine their shareholder structures for US persons, assess whether financing transactions trigger filing obligations, and review cross-border data flows and export control compliance. At the structural level, adjusting financing paths, establishing isolation layers, or introducing non-US alternatives may be considered, but must not constitute circumvention.",
-    "source_en": "Source: iGlobal Law Legal Team · 2026.10.05"
+    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期结束，出海企业需重构供应链碳合规",
+    "summary": "秦林蒿律师研判：欧盟CBAM过渡期于2026年9月30日结束，10月1日起进入正式征收阶段，覆盖钢铁、铝、水泥、化肥、电力及氢。中国出口企业须提交经核查的嵌入碳排放数据，否则面临高额罚款。建议：一、立即对欧出口产品进行碳足迹核算；二、与欧盟进口商明确CBAM成本分担机制；三、考虑在合同中加入碳价调整条款；四、探索使用绿电或低碳原料以降低碳成本。",
+    "source": "来源：欧盟委员会CBAM条例 · 2026.10",
+    "title_en": "Attorney Qin's view: EU CBAM Transition Period Ends, Outbound Firms Must Restructure Supply Chain Carbon Compliance",
+    "summary_en": "Attorney Qin's view: The EU CBAM transition period ended on September 30, 2026, and the definitive regime starts on October 1, covering steel, aluminum, cement, fertilizers, electricity, and hydrogen. Chinese exporters must submit verified embedded emissions data or face heavy penalties. Recommendations: 1. Immediately calculate the carbon footprint of products exported to the EU; 2. Clarify CBAM cost-sharing mechanisms with EU importers; 3. Consider adding carbon price adjustment clauses in contracts; 4. Explore green electricity or low-carbon raw materials to reduce carbon costs.",
+    "source_en": "Source: EU Commission CBAM Regulation · 2026.10"
   },
-  "dateLabel": "2026年10月5日 · 星期一",
-  "dateLabel_en": "Monday, October 5, 2026",
-  "issue": 278
+  "dateLabel": "2026年10月6日 · 星期二",
+  "dateLabel_en": "Tuesday, October 6, 2026",
+  "issue": 279
 }
