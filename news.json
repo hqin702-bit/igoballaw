@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "美国拟扩大对华先进芯片出口管制，新增量子计算与AI训练芯片类别",
-    "summary": "2026年10月6日，美国商务部工业与安全局（BIS）发布拟议规则，计划将量子计算芯片、AI训练专用芯片及配套EDA工具纳入对华出口管制清单，并扩大「外国直接产品规则」适用范围。新规预计影响中国云计算、自动驾驶及大模型企业的供应链。建议出海企业立即排查美国原产技术占比，评估替代供应商，并在合同中增设出口管制合规条款与不可抗力条款。",
-    "source": "来源：美国商务部BIS公告 · 2026.10.06",
-    "title_en": "US Moves to Broaden Chip Export Controls on China, Adding Quantum and AI Training Chips",
-    "summary_en": "On October 6, 2026, the US Bureau of Industry and Security (BIS) issued a proposed rule to add quantum computing chips, AI-training-specific chips, and related EDA tools to the export control list for China, while expanding the Foreign Direct Product Rule. The new rules are expected to impact the supply chains of Chinese cloud computing, autonomous driving, and large-model enterprises. Outbound companies should immediately assess the proportion of US-origin technology, evaluate alternative suppliers, and incorporate export control compliance and force majeure clauses into contracts.",
-    "source_en": "Source: US BIS Announcement · 2026.10.06"
+    "title": "欧盟碳边境调节机制过渡期临近，中国出口企业需加快碳数据合规布局",
+    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收阶段。近期欧盟委员会进一步细化了钢铁、铝、水泥、化肥等产品的隐含碳排放申报要求，并强化了对第三国生产商数据的核查。中国出口企业若未能建立符合欧盟标准的碳核算与报告体系，可能面临高额碳成本甚至市场准入障碍。建议企业尽快梳理对欧出口产品清单，建立产品级碳足迹台账，并关注默认值的使用限制与替代方案。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.10.07",
+    "title_en": "EU CBAM Transition Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
+    "summary_en": "The EU Carbon Border Adjustment Mechanism (CBAM) transitional period will end in late 2026, with the definitive regime applying from 2027. The European Commission has recently refined embedded emissions reporting requirements for steel, aluminium, cement, fertilisers and other products, and strengthened verification of third-country producer data. Chinese exporters lacking EU-compliant carbon accounting and reporting systems may face significant carbon costs or even market access barriers. Companies should map EU-bound product lines, establish product-level carbon footprint records, and monitor restrictions on default values and alternatives.",
+    "source_en": "Source: European Commission DG CLIMA · 2026.10.07"
   },
   "case": {
-    "title": "新加坡国际商事法庭承认与执行中国法院商事判决，确立互惠关系新标准",
-    "summary": "2026年9月，新加坡国际商事法庭（SICC）在一宗中新建材贸易合同纠纷中，依据《中新关于承认与执行商事判决的谅解备忘录》及普通法互惠原则，承认并执行了中国某中级人民法院的生效判决。法院明确，中国法院对新加坡判决的承认实践可作为互惠事实证据。该案为中国企业在新加坡及普通法国家追索债务提供了重要先例，建议在跨境合同中优先选择新加坡法院管辖或约定仲裁。",
-    "source": "来源：新加坡国际商事法庭 · 2026.09",
-    "title_en": "Singapore International Commercial Court Recognizes and Enforces Chinese Commercial Judgment, Setting New Reciprocity Standard",
-    "summary_en": "In September 2026, the Singapore International Commercial Court (SICC), in a China-Singapore building materials trade contract dispute, recognized and enforced a final judgment of a Chinese Intermediate People's Court based on the China-Singapore Memorandum of Understanding on Recognition and Enforcement of Commercial Judgments and common law reciprocity principles. The court clarified that Chinese courts' practice of recognizing Singaporean judgments can serve as evidence of reciprocity. This case provides an important precedent for Chinese enterprises seeking debt recovery in Singapore and common law jurisdictions. It is advisable to prioritize Singapore court jurisdiction or arbitration in cross-border contracts.",
-    "source_en": "Source: Singapore International Commercial Court · 2026.09"
+    "title": "新加坡国际商事法庭认可中国法院商事判决，跨境债务追索路径进一步畅通",
+    "summary": "近期新加坡国际商事法庭（SICC）在一宗跨境贷款纠纷中，依据普通法原则认可并执行了中国法院作出的商事给付判决。该案明确，即使中新之间尚未缔结双边判决承认与执行条约，只要中国判决符合终局性、确定性及程序公正等要件，新加坡法院仍可予以普通法上的认可。这为中国企业在新加坡追索债务提供了更清晰的路径。建议企业在跨境交易中约定新加坡法院管辖或仲裁，并注意保存完整的诉讼程序文件。",
+    "source": "来源：新加坡国际商事法庭（SICC）· 2026年第三季度",
+    "title_en": "Singapore International Commercial Court Recognises Chinese Commercial Judgment, Easing Cross-Border Debt Recovery",
+    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised and enforced a Chinese monetary commercial judgment in a cross-border loan dispute under common law principles. The case confirms that even without a bilateral treaty on mutual recognition and enforcement between China and Singapore, a Chinese judgment may be recognised at common law if it satisfies finality, certainty and procedural fairness requirements. This offers Chinese enterprises a clearer route to recover debts in Singapore. Parties should consider choosing Singapore court jurisdiction or arbitration in cross-border contracts and retain complete litigation procedural documents.",
+    "source_en": "Source: Singapore International Commercial Court (SICC) · Q3 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区推出跨境数据流动「白名单」制度，便利金融与医疗数据合规传输",
-    "summary": "2026年10月，广东省及香港、澳门特区联合发布《粤港澳大湾区跨境数据流动白名单管理暂行办法》，率先在金融、医疗、贸易领域允许符合条件的企业在备案后向港澳传输指定数据。白名单企业需通过数据保护影响评估并接受年度审计。该政策为跨境业务提供了合规通道，建议大湾区企业尽快申请白名单资质，建立数据分类分级制度，并完善与港澳合作方的数据保护协议。",
-    "source": "来源：广东省政数局、香港创新科技署 · 2026.10",
-    "title_en": "Greater Bay Area Launches Cross-Border Data Flow 'Whitelist' to Facilitate Compliant Financial and Medical Data Transfers",
-    "summary_en": "In October 2026, Guangdong Province, Hong Kong, and Macao jointly issued the Interim Measures for the Administration of the Cross-Border Data Flow Whitelist in the Guangdong-Hong Kong-Macao Greater Bay Area. The measures allow qualified enterprises in finance, healthcare, and trade to transfer specified data to Hong Kong and Macao after filing. Whitelisted enterprises must pass a data protection impact assessment and undergo annual audits. This policy provides a compliance channel for cross-border operations. Greater Bay Area enterprises are advised to apply for whitelist status promptly, establish data classification and grading systems, and improve data protection agreements with Hong Kong and Macao partners.",
-    "source_en": "Source: Guangdong Provincial Government Data Bureau, Hong Kong Innovation and Technology Commission · 2026.10"
+    "title": "粤港澳大湾区推出跨境数据流动便利化新举措，涉外企业数据合规迎来操作指引",
+    "summary": "广东省与香港、澳门相关部门近期联合发布粤港澳大湾区跨境数据流动便利化措施，进一步扩大科研、金融、医疗等领域的数据跨境流动试点，并简化个人信息出境标准合同备案流程。同时，相关部门发布了针对涉外企业的数据合规操作指引，明确数据分类分级、安全评估与出境路径选择的具体要求。建议大湾区企业利用试点政策优化数据跨境架构，同时建立数据出境风险自评估机制，确保符合《个人信息保护法》及配套规定。",
+    "source": "来源：广东省政务服务数据管理局、香港特区政府创新科技及工业局 · 2026年第三季度",
+    "title_en": "Greater Bay Area Introduces New Measures to Facilitate Cross-Border Data Flows, Offering Compliance Guidance for Foreign-Related Enterprises",
+    "summary_en": "Authorities in Guangdong, Hong Kong and Macao have jointly issued new measures to facilitate cross-border data flows in the Greater Bay Area, expanding pilots in research, finance and healthcare, and simplifying the filing process for standard contracts on personal information export. An operational compliance guide for foreign-related enterprises was also released, specifying data classification and grading, security assessments and export pathway selection. Companies in the GBA should leverage pilot policies to optimise cross-border data architecture while establishing self-assessment mechanisms for data export risks to comply with the Personal Information Protection Law and related rules.",
+    "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau; Hong Kong Innovation, Technology and Industry Bureau · Q3 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：欧盟碳边境调节机制过渡期结束，出海企业需重构供应链碳合规",
-    "summary": "秦林蒿律师研判：欧盟CBAM过渡期于2026年9月30日结束，10月1日起进入正式征收阶段，覆盖钢铁、铝、水泥、化肥、电力及氢。中国出口企业须提交经核查的嵌入碳排放数据，否则面临高额罚款。建议：一、立即对欧出口产品进行碳足迹核算；二、与欧盟进口商明确CBAM成本分担机制；三、考虑在合同中加入碳价调整条款；四、探索使用绿电或低碳原料以降低碳成本。",
-    "source": "来源：欧盟委员会CBAM条例 · 2026.10",
-    "title_en": "Attorney Qin's view: EU CBAM Transition Period Ends, Outbound Firms Must Restructure Supply Chain Carbon Compliance",
-    "summary_en": "Attorney Qin's view: The EU CBAM transition period ended on September 30, 2026, and the definitive regime starts on October 1, covering steel, aluminum, cement, fertilizers, electricity, and hydrogen. Chinese exporters must submit verified embedded emissions data or face heavy penalties. Recommendations: 1. Immediately calculate the carbon footprint of products exported to the EU; 2. Clarify CBAM cost-sharing mechanisms with EU importers; 3. Consider adding carbon price adjustment clauses in contracts; 4. Explore green electricity or low-carbon raw materials to reduce carbon costs.",
-    "source_en": "Source: EU Commission CBAM Regulation · 2026.10"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国出海企业需重构投资与合规架构",
+    "summary": "秦林蒿律师研判：美国近期进一步扩大对外投资审查范围，将更多涉及先进半导体、人工智能、量子计算等领域的交易纳入申报要求，并对涉及中国实体的投资施加更严格限制。中国出海企业若通过第三国子公司或基金架构间接投资美国敏感领域，可能触发合规风险。建议企业立即排查现有及拟议交易，评估是否落入新规管辖，并考虑调整投资路径、设置合规防火墙、完善交易文件中的陈述与保证条款，以降低被调查或处罚的风险。",
+    "source": "来源：律连全球 · iGlobal Law 涉外法律团队 · 2026.10.07",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Screening Requires Chinese Overseas Enterprises to Restructure Investment and Compliance Architecture",
+    "summary_en": "Attorney Qin's view: The United States has further expanded its outbound investment screening, bringing more transactions involving advanced semiconductors, artificial intelligence and quantum computing under notification requirements, and imposing stricter restrictions on investments linked to Chinese entities. Chinese overseas enterprises investing indirectly in sensitive US sectors through third-country subsidiaries or fund structures may trigger compliance risks. Companies should immediately review existing and proposed transactions, assess whether they fall within the new rules, and consider adjusting investment pathways, establishing compliance firewalls, and strengthening representations and warranties in transaction documents to mitigate investigation or penalty risks.",
+    "source_en": "Source: iGlobal Law Cross-Border Legal Team · 2026.10.07"
   },
-  "dateLabel": "2026年10月6日 · 星期二",
-  "dateLabel_en": "Tuesday, October 6, 2026",
-  "issue": 279
+  "dateLabel": "2026年10月7日 · 星期三",
+  "dateLabel_en": "Wednesday, October 7, 2026",
+  "issue": 280
 }
