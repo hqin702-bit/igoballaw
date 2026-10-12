@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟对华电动汽车反补贴税落地：分级税率与价格承诺窗口下的合规应对",
-    "summary": "2026年10月，欧盟委员会结束对华电动汽车反补贴调查并实施分级税率，配合价格承诺机制为部分企业提供替代方案。中国出海车企与供应链企业面临双重挑战：一是关税成本转嫁与在欧售价调整，二是原产地规则、电池碳足迹与本地化投资承诺的合规审查。企业应尽快排查对欧出口车型的税负敞口，评估价格承诺、在欧设厂或与当地伙伴合作等路径，同时完善供应链溯源与补贴申报文件，防范后续反规避调查与海关稽查风险。",
-    "source": "来源：欧盟委员会贸易救济动态 · 2026.10.09",
-    "title_en": "EU Countervailing Duties on Chinese EVs Take Effect: Tiered Tariffs, Price Undertakings and Compliance Options",
-    "summary_en": "In October 2026, the European Commission concluded its anti-subsidy investigation into Chinese electric vehicles and imposed tiered countervailing duties, alongside a price undertaking mechanism as an alternative for certain exporters. Chinese automakers and supply-chain companies face dual pressures: passing on tariff costs and adjusting EU pricing, and satisfying compliance reviews on rules of origin, battery carbon footprint and localisation commitments. Companies should promptly map their tariff exposure on EU-bound models, assess price undertakings, EU manufacturing or local partnerships, and strengthen supply-chain traceability and subsidy filings to mitigate anti-circumvention and customs audit risks.",
-    "source_en": "Source: European Commission trade defence updates · 2026.10.09"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需加速构建碳数据合规体系",
+    "summary": "2026年10月，欧盟碳边境调节机制（CBAM）过渡期进入最后阶段，2027年起将正式对进口钢铁、铝、水泥、化肥、电力和氢能征收碳关税。中国出口企业须在过渡期内完成产品嵌入碳排放的核算与申报，并建立可追溯的碳数据管理体系。未合规申报可能导致货物滞留或面临罚款。建议企业尽快对接欧盟授权申报人，采用国际认可的方法学开展碳足迹核算，并考虑在合同中明确碳成本分担条款，以降低过渡期后的合规风险与成本冲击。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.10.12",
+    "title_en": "EU CBAM Transition Period Nears End: Chinese Exporters Must Accelerate Carbon Data Compliance",
+    "summary_en": "As of October 2026, the EU Carbon Border Adjustment Mechanism (CBAM) transition period is in its final phase, with definitive carbon tariffs on imports of steel, aluminium, cement, fertilisers, electricity and hydrogen set to apply from 2027. Chinese exporters must complete embedded emissions calculation and reporting during the transition and establish a traceable carbon data management system. Non-compliant reporting may lead to cargo delays or penalties. Companies should engage EU authorised declarants promptly, adopt internationally recognised methodologies for carbon footprint accounting, and consider explicit carbon cost-sharing clauses in contracts to mitigate post-transition compliance risks and cost impacts.",
+    "source_en": "Source: European Commission DG CLIMA · 2026.10.12"
   },
   "case": {
-    "title": "跨境仲裁裁决在华执行：主债务人破产不阻却连带保证人责任",
-    "summary": "某境外仲裁机构裁决中国内地保证人承担连带清偿责任，保证人抗辩称主债务人已在境外进入破产程序，应中止执行。内地法院审查后认为，境外破产程序不影响仲裁裁决的终局性与执行力，保证责任独立于主债务，且《纽约公约》项下不存在拒绝承认与执行的法定事由，遂裁定承认并执行。该案提示出海企业：在跨境融资与担保安排中，应明确保证条款的独立性、争议解决条款与执行路径，并关注主债务人破产对担保链的传导效应，提前设计风险隔离与追偿方案。",
-    "source": "来源：涉外仲裁司法审查实务观察 · 2026年第三季度",
-    "title_en": "Enforcing a Foreign Arbitral Award in China: Foreign Insolvency of the Principal Debtor Does Not Bar Liability of the Joint Guarantor",
-    "summary_en": "A foreign arbitral institution ruled that a mainland Chinese guarantor was jointly liable, but the guarantor argued that enforcement should be stayed because the principal debtor had entered insolvency proceedings abroad. The mainland court held that foreign insolvency does not affect the finality or enforceability of the arbitral award, that the guarantee obligation is independent of the principal debt, and that no grounds under the New York Convention justified refusal. The award was recognised and enforced. The case reminds outbound companies to clarify guarantee independence, dispute resolution and enforcement routes in cross-border financing, and to design risk isolation and recourse mechanisms against insolvency contagion.",
-    "source_en": "Source: Practical observations on judicial review of foreign-related arbitration · Q3 2026"
+    "title": "新加坡国际商事法庭承认与执行中国仲裁裁决：跨境仲裁司法审查标准再确认",
+    "summary": "近期，新加坡国际商事法庭（SICC）在一宗涉及中国企业与东南亚公司的货物买卖纠纷中，依据《纽约公约》承认并执行了一份由中国国际经济贸易仲裁委员会（CIETAC）作出的仲裁裁决。法院驳回了被申请人关于仲裁庭组成违反约定及公共政策的抗辩，强调对仲裁裁决的司法审查应保持克制，仅在程序严重瑕疵时方可拒绝执行。该案为中国企业在新加坡及普通法法域申请执行中国仲裁裁决提供了积极指引，建议企业在跨境合同中明确仲裁条款，并注意保留仲裁程序合规证据。",
+    "source": "来源：新加坡国际商事法庭 · 2026年第三季度",
+    "title_en": "SICC Recognises and Enforces Chinese Arbitral Award: Judicial Review Standards for Cross-Border Arbitration Reaffirmed",
+    "summary_en": "The Singapore International Commercial Court (SICC) recently recognised and enforced an arbitral award issued by the China International Economic and Trade Arbitration Commission (CIETAC) under the New York Convention in a sale of goods dispute between a Chinese company and a Southeast Asian counterparty. The court rejected the respondent's objections regarding tribunal composition and public policy, emphasising that judicial review of arbitral awards should be restrained and enforcement refused only for serious procedural defects. This case offers positive guidance for Chinese enterprises seeking enforcement of Chinese arbitral awards in Singapore and common law jurisdictions. Companies should clearly draft arbitration clauses in cross-border contracts and preserve evidence of procedural compliance.",
+    "source_en": "Source: Singapore International Commercial Court · Q3 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化再升级：企业合规路径与申报要点",
-    "summary": "2026年10月，粤港澳大湾区在跨境数据流动方面继续推进便利化安排，围绕个人信息出境标准合同、安全评估与认证等路径优化操作指引，并探索科研、金融、贸易等场景下的数据跨境流动清单管理。区内企业应结合业务场景选择合规路径：一般场景可优先适用标准合同备案，敏感或大规模数据出境需完成安全评估，同时建立数据分类分级、个人信息保护影响评估与出境记录留存机制，防范跨境传输中的监管问询与合同违约风险。",
-    "source": "来源：粤港澳大湾区跨境数据流动政策动态 · 2026.10.09",
-    "title_en": "Greater Bay Area Cross-Border Data Flows: Upgraded Facilitation and Key Filing Steps for Businesses",
-    "summary_en": "In October 2026, the Guangdong-Hong Kong-Macao Greater Bay Area continued to advance facilitation arrangements for cross-border data flows, refining operational guidance on standard contracts, security assessments and certification for outbound personal information, and exploring list-based management for data flows in research, finance and trade scenarios. Companies in the region should choose compliance routes based on business context: standard contract filing for ordinary scenarios, security assessment for sensitive or large-volume transfers, and robust data classification, impact assessments and transfer records to reduce regulatory inquiries and contractual breach risks.",
-    "source_en": "Source: GBA cross-border data flow policy updates · 2026.10.09"
+    "title": "粤港澳大湾区推出跨境数据流动便利化新举措，涉外企业数据合规路径进一步明晰",
+    "summary": "2026年10月，粤港澳大湾区在数据跨境流动领域推出新一批便利化措施，进一步扩大安全评估、标准合同和个人信息保护认证的适用范围，并试点建立粤港澳数据跨境流动白名单机制。新措施允许符合条件的企业在科研、金融、医疗等特定场景下更高效地开展数据跨境传输，同时强化事中事后监管。对于在大湾区布局的出海企业而言，应借此优化数据合规架构，将数据出境路径纳入常态化合规管理，并关注行业白名单的动态更新，以降低合规成本、提升跨境运营效率。",
+    "source": "来源：广东省人民政府、香港特区政府、澳门特区政府联合发布 · 2026.10",
+    "title_en": "Greater Bay Area Launches New Measures to Facilitate Cross-Border Data Flows, Clarifying Compliance Pathways for Foreign-Related Enterprises",
+    "summary_en": "In October 2026, the Guangdong-Hong Kong-Macao Greater Bay Area introduced a new round of facilitation measures for cross-border data flows, further expanding the application of security assessments, standard contracts and personal information protection certification, and piloting a whitelist mechanism for GBA cross-border data transfers. The measures allow eligible enterprises to conduct cross-border data transmission more efficiently in specific scenarios such as research, finance and healthcare, while strengthening ongoing supervision. For outbound-oriented enterprises in the GBA, this is an opportunity to optimise data compliance structures, integrate data export pathways into routine compliance management, and monitor updates to sectoral whitelists to reduce compliance costs and enhance cross-border operational efficiency.",
+    "source_en": "Source: Jointly issued by the Guangdong Provincial Government, HKSAR Government and Macao SAR Government · Oct 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：供应链尽职调查从合规成本转向市场准入条件",
-    "summary": "秦林蒿律师研判：欧美供应链尽职调查与强迫劳动、环境合规要求正从“软性倡议”变为“硬性准入条件”，直接影响中国出海企业的投标资格、清关与订单获取。建议企业建立三级应对：一是对上游供应商开展国别与品类风险筛查，保留可追溯的审计与整改记录；二是将尽职调查条款嵌入采购合同，明确供应商配合义务与违约救济；三是对高风险环节准备替代供应与本地化方案。提前布局者可将合规转化为竞争优势，被动应对者则可能被排除在核心市场之外。",
-    "source": "来源：律连全球 · iGlobal Law 涉外律师团队 · 2026.10.09",
-    "title_en": "Attorney Qin's view: Supply-Chain Due Diligence Is Shifting from Compliance Cost to Market-Access Condition",
-    "summary_en": "Attorney Qin's view: supply-chain due diligence, forced-labour and environmental compliance requirements in Europe and the US are moving from soft initiatives to hard market-access conditions, directly affecting Chinese outbound companies' bidding eligibility, customs clearance and order wins. A three-tier response is advised: first, screen upstream suppliers by country and category, keeping auditable records of reviews and remediation; second, embed due diligence clauses in procurement contracts with clear cooperation duties and remedies; third, prepare alternative sourcing and localisation for high-risk links. Early movers can turn compliance into competitive advantage, while passive players risk exclusion from core markets.",
-    "source_en": "Source: iGlobal Law cross-border legal team · 2026.10.09"
+    "title": "秦林蒿律师研判：美国对华投资限制新规下，企业应重构跨境投资合规与风险隔离机制",
+    "summary": "秦林蒿律师研判：近期美国进一步收紧对华投资限制，将半导体、人工智能、量子计算等敏感领域纳入禁止或申报范围，并强化对间接投资和合资架构的穿透审查。中国出海企业及在华运营的跨国企业需重新评估跨境投资架构，识别敏感技术流向，建立投资前尽职调查与交易后合规监控机制。建议在交易文件中设置合规陈述保证、分手费与赔偿条款，并利用香港、新加坡等中间控股平台实现风险隔离。同时，应密切关注中国反制措施及双边政策互动，避免双重合规冲突。",
+    "source": "来源：律连全球 · iGlobal Law 编辑部 · 2026.10.12",
+    "title_en": "Attorney Qin's view: Under New U.S. Outbound Investment Restrictions, Companies Should Rebuild Cross-Border Investment Compliance and Risk Isolation Mechanisms",
+    "summary_en": "Attorney Qin's view: The United States has recently further tightened outbound investment restrictions targeting China, adding sensitive sectors such as semiconductors, artificial intelligence and quantum computing to prohibited or notifiable categories, and enhancing look-through scrutiny of indirect investments and joint venture structures. Chinese outbound enterprises and multinationals operating in China must reassess cross-border investment structures, identify sensitive technology flows, and establish pre-investment due diligence and post-closing compliance monitoring mechanisms. It is advisable to include compliance representations and warranties, break fees and indemnities in transaction documents, and to use intermediate holding platforms in Hong Kong or Singapore for risk isolation. Meanwhile, companies should closely monitor China's countermeasures and bilateral policy interactions to avoid dual compliance conflicts.",
+    "source_en": "Source: iGlobal Law Editorial Desk · 2026.10.12"
   },
-  "dateLabel": "2026年10月9日 · 星期五",
-  "dateLabel_en": "Friday, October 9, 2026",
-  "issue": 282
+  "dateLabel": "2026年10月12日 · 星期一",
+  "dateLabel_en": "Monday, October 12, 2026",
+  "issue": 285
 }
