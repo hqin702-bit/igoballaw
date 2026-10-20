@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业须加速碳数据合规布局",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会发布过渡期最终版申报指南，明确钢铁、铝、水泥、化肥、电力及氢六大行业出口商须提交嵌入碳排放数据，且对数据质量要求显著提高。中国相关出口企业面临碳排放核算方法不统一、第三方核查缺失等挑战。建议企业尽快建立产品级碳足迹核算体系，选择欧盟认可的核查机构，并关注默认值使用限制，避免因数据不合规导致成本激增。",
-    "source": "来源：欧盟委员会官网 · 2026.10.19",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Must Accelerate Carbon Data Compliance",
-    "summary_en": "The transitional period of the EU Carbon Border Adjustment Mechanism (CBAM) will conclude at the end of 2026, with the definitive regime and levy applying from 2027. The European Commission recently published final guidance for transitional reporting, requiring exporters in six sectors—iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen—to submit embedded emissions data with significantly higher quality standards. Chinese exporters face challenges such as inconsistent carbon accounting methodologies and a lack of third-party verification. Companies are advised to establish product-level carbon footprint systems, engage EU-accredited verifiers, and monitor restrictions on default values to avoid cost surges from non-compliant data.",
-    "source_en": "Source: European Commission website · 2026.10.19"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业须加速碳足迹合规布局",
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会发布过渡期数据报送常见问题指南，强调对进口钢铁、铝、水泥、化肥、电力及氢的隐含碳排放核算要求趋严。中国相关出口企业面临数据缺口与申报合规双重压力，建议尽快建立产品级碳足迹核算体系，完善供应商数据链，并关注欧盟认可的中国核查机构资质进展，以降低未来碳关税成本。",
+    "source": "来源：欧盟委员会税务与海关同盟总署（DG TAXUD）公开文件 · 2026.10.20",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Accelerate Carbon Footprint Compliance",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime and levy starting in 2027. The European Commission recently issued FAQs on transitional data reporting, tightening embedded emissions accounting for imports of steel, aluminium, cement, fertilisers, electricity and hydrogen. Chinese exporters face dual pressures of data gaps and reporting compliance. Companies should establish product-level carbon footprint accounting, improve supplier data chains, and monitor the accreditation of Chinese verification bodies recognised by the EU to reduce future carbon tariff costs.",
+    "source_en": "Source: European Commission DG TAXUD public documents · 2026.10.20"
   },
   "case": {
-    "title": "新加坡上诉庭确立跨境在线仲裁协议效力认定规则，对中企合同条款设计具警示意义",
-    "summary": "新加坡上诉庭近期在一宗涉中国与东南亚企业的国际贸易纠纷中，维持了依据《新加坡国际仲裁中心规则》通过在线方式达成的仲裁协议的效力。该案明确：电子通信中嵌入的仲裁条款只要能够合理识别并满足书面形式要求，即符合《纽约公约》第二条。法院同时强调，合同双方在往来邮件中引用不同版本仲裁规则可能引发争议，建议明确约定规则版本与仲裁地。此案对中国出海企业在跨境电商、数字服务合同中设计争议解决条款具有重要参考价值。",
-    "source": "来源：新加坡上诉庭判例摘要 · 2026.10",
-    "title_en": "Singapore Appellate Court Upholds Validity of Cross-Border Online Arbitration Agreement, Offering Lessons for Chinese Contract Drafting",
-    "summary_en": "The Singapore Appellate Court recently upheld the validity of an arbitration agreement concluded online under the SIAC Rules in a trade dispute involving Chinese and Southeast Asian companies. The court clarified that arbitration clauses embedded in electronic communications satisfy the written-form requirement under Article II of the New York Convention if they are reasonably identifiable. It also warned that referencing different versions of arbitration rules in email exchanges may create disputes, recommending explicit stipulation of the rules version and seat. The case offers valuable guidance for Chinese companies drafting dispute resolution clauses in cross-border e-commerce and digital service contracts.",
-    "source_en": "Source: Singapore Appellate Court case summary · Oct 2026"
+    "title": "新加坡高等法院承认与执行中国法院商事判决，明确互惠关系认定标准",
+    "summary": "新加坡高等法院近期在一宗涉及中国企业的商事纠纷中，依据普通法规则承认与执行中国内地法院的生效判决。判决要点包括：中国法院程序符合自然正义标准，且中新之间在司法互惠上呈现积极趋势。该案为中国出海企业在新加坡追索债权提供了重要参考，提示企业在跨境交易中应注重选择具有互惠基础的司法辖区，并保留完整的诉讼程序记录，以便后续承认与执行。",
+    "source": "来源：新加坡高等法院判例摘要 · 2026年10月",
+    "title_en": "Singapore High Court Recognises and Enforces Chinese Commercial Judgment, Clarifying Reciprocity Test",
+    "summary_en": "The Singapore High Court recently recognised and enforced a final civil judgment from mainland China in a commercial dispute involving a Chinese company, applying common law principles. Key holdings include that the Chinese proceedings met natural justice standards and that judicial reciprocity between Singapore and China is trending positively. This case offers valuable guidance for Chinese companies seeking to recover debts in Singapore, highlighting the importance of choosing jurisdictions with a reciprocity basis and maintaining complete procedural records for subsequent recognition and enforcement.",
+    "source_en": "Source: Singapore High Court case summary · October 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化再升级，南沙前海试点扩大企业白名单",
-    "summary": "广东省近期发布粤港澳大湾区跨境数据流动便利化措施，进一步扩大广州南沙、深圳前海等试点区域的企业白名单范围，允许符合条件的港资、澳资及外资企业在大湾区内跨境传输低风险数据。新措施简化了安全评估流程，对不超过一定数量的个人信息出境实行备案管理，并建立粤港澳三地数据合规互认机制。建议跨境企业及时评估自身数据出境场景，申请纳入白名单，并完善内部数据分类分级制度，以享受政策红利并降低合规成本。",
-    "source": "来源：广东省人民政府新闻办公室 · 2026.10",
-    "title_en": "Greater Bay Area Cross-Border Data Flow Facilitation Upgraded: Nansha and Qianhai Pilot Programs Expand Corporate Whitelist",
-    "summary_en": "Guangdong Province recently issued measures to facilitate cross-border data flows in the Greater Bay Area (GBA), further expanding the corporate whitelist in pilot zones such as Guangzhou Nansha and Shenzhen Qianhai. Eligible Hong Kong, Macao, and foreign-invested enterprises are permitted to transfer low-risk data within the GBA. The new measures streamline security assessment procedures, introduce filing management for outbound transfers of personal information below a certain threshold, and establish a mutual recognition mechanism for data compliance among Guangdong, Hong Kong, and Macao. Cross-border companies are advised to assess their data export scenarios, apply for whitelist inclusion, and improve internal data classification to benefit from the policy and reduce compliance costs.",
-    "source_en": "Source: Information Office of Guangdong Provincial People's Government · Oct 2026"
+    "title": "粤港澳大湾区跨境数据流动便利化再升级，南沙前海试点扩大至更多行业",
+    "summary": "广东省近期发布关于推进粤港澳大湾区数据跨境流动合作的最新指引，将南沙、前海等试点区域的数据跨境便利化措施扩展至智能网联汽车、金融科技、医疗健康等领域。指引明确企业可通过安全评估、标准合同或认证等多元路径实现数据出境，并鼓励建立粤港澳三地互认的数据分类分级制度。建议大湾区跨境企业及时评估自身数据出境场景，选择适配的合规路径，并关注行业主管部门发布的细化清单。",
+    "source": "来源：广东省政务服务和数据管理局公开指引 · 2026年10月",
+    "title_en": "Greater Bay Area Cross-Border Data Flow Facilitation Upgraded: Nansha and Qianhai Pilots Expanded to More Sectors",
+    "summary_en": "Guangdong Province recently issued updated guidelines on promoting cross-border data flow cooperation in the Greater Bay Area, expanding facilitation measures in pilot zones such as Nansha and Qianhai to sectors including intelligent connected vehicles, fintech, and healthcare. The guidelines clarify that companies may transfer data abroad through multiple paths such as security assessment, standard contracts, or certification, and encourage mutual recognition of data classification and grading across Guangdong, Hong Kong, and Macao. Cross-border businesses in the GBA should assess their data export scenarios, choose suitable compliance paths, and monitor detailed sectoral lists issued by regulators.",
+    "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau public guidelines · October 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对外投资审查新规落地，中企须重构跨境交易架构与申报策略",
-    "summary": "秦林蒿律师研判：美国对外投资审查新规已正式生效，重点限制半导体、人工智能、量子计算等敏感领域的对华投资，并要求美国投资者履行申报义务。中国出海企业若涉及美资股东或美元基金，应尽快排查现有交易是否落入禁止或申报类别，避免因美方合规瑕疵导致交易受阻或融资违约。建议在融资协议中增设合规陈述与保证条款，预设替代资金方案，并在跨境并购中提前进行国别风险评估，将申报时间成本纳入交易时间表。",
-    "source": "来源：律连全球 · iGlobal Law 编辑部 · 2026.10.19",
-    "title_en": "Attorney Qin's View: New US Outbound Investment Rules Take Effect, Chinese Firms Must Restructure Cross-Border Deals and Filing Strategies",
-    "summary_en": "Attorney Qin's view: The new US outbound investment screening rules have officially taken effect, targeting investments in sensitive sectors such as semiconductors, artificial intelligence, and quantum computing in China, and imposing notification obligations on US investors. Chinese companies with US shareholders or dollar-denominated funds should promptly assess whether existing transactions fall into prohibited or notifiable categories to avoid deal blockage or financing defaults due to US compliance issues. It is advisable to include compliance representations and warranties in financing agreements, prepare alternative funding plans, conduct country risk assessments in cross-border M&A, and incorporate filing timelines into deal schedules.",
-    "source_en": "Source: iGlobal Law Editorial Desk · 2026.10.19"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中企需重构跨境技术合作合规架构",
+    "summary": "秦林蒿律师研判：美国财政部近期拟进一步扩大对外投资审查范围，将更多涉及人工智能、量子计算和先进半导体的投资交易纳入申报要求。中国企业在美技术合作、合资及并购面临更高合规门槛。建议企业立即梳理现有及拟议交易，识别是否涉及受限技术领域；在交易文件中设置合规陈述与保证、分手费及监管审批风险分配条款；同时评估通过第三国架构或技术许可等替代路径的可行性，并提前与专业顾问进行模拟申报演练。",
+    "source": "来源：美国财政部投资安全办公室公开征求意见稿 · 2026年10月",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Review Requires Chinese Firms to Restructure Cross-Border Tech Compliance",
+    "summary_en": "Attorney Qin's view: The US Department of the Treasury recently proposed further expanding outbound investment review to cover more transactions involving AI, quantum computing, and advanced semiconductors. Chinese companies face higher compliance thresholds in US technology cooperation, joint ventures, and M&A. Companies should immediately map existing and proposed transactions to identify restricted technology sectors; include compliance representations and warranties, break fees, and regulatory approval risk allocation clauses in transaction documents; assess alternative paths such as third-country structures or technology licensing; and conduct mock filing exercises with professional advisers in advance.",
+    "source_en": "Source: US Department of the Treasury Office of Investment Security public draft · October 2026"
   },
-  "dateLabel": "2026年10月19日 · 星期一",
-  "dateLabel_en": "Monday, October 19, 2026",
-  "issue": 292
+  "dateLabel": "2026年10月20日 · 星期二",
+  "dateLabel_en": "Tuesday, October 20, 2026",
+  "issue": 293
 }
