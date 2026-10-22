@@ -1,37 +1,37 @@
 {
   "focus": {
     "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业须提前布局碳成本核算",
-    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会发布过渡期数据申报常见问题指南，强调进口商须确保申报数据完整准确。中国钢铁、铝、化肥等行业出口企业面临碳成本传导压力，建议尽快建立产品碳足迹核算体系，与欧盟进口商协同完成数据申报，并评估在欧盟境内设立实体的必要性。",
-    "source": "来源：欧盟委员会官网 · 2026.10.21",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Prepare for Carbon Cost Accounting",
-    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime and levy taking effect in 2027. The European Commission recently published FAQs on transitional data reporting, stressing that importers must ensure completeness and accuracy of declared data. Chinese exporters in steel, aluminium, and fertilisers face pressure to pass through carbon costs. Companies are advised to establish product carbon footprint accounting systems, coordinate with EU importers on data reporting, and assess the need to set up EU entities.",
-    "source_en": "Source: European Commission website · 2026.10.21"
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征收阶段。近期欧盟委员会发布过渡期数据申报常见问题指引，强调进口商须确保第三国供应商提供的内嵌碳排放数据可核查。中国钢铁、铝、水泥、化肥等行业对欧出口企业面临碳成本传导压力。建议企业尽快建立产品级碳足迹核算体系，与欧盟进口商明确数据责任划分，并关注欧盟认可的核查机构名单，避免因数据缺失导致默认值惩罚。",
+    "source": "来源：欧盟委员会税务与海关同盟总司 · 2026.10.22",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Prepare Carbon Cost Accounting",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime applying from 2027. The European Commission recently issued guidance on common reporting issues, stressing that importers must ensure verifiable embedded emissions data from third-country suppliers. Chinese exporters in steel, aluminium, cement and fertilisers face carbon cost pass-through pressure. Companies should establish product-level carbon footprint accounting, clarify data responsibilities with EU importers, and monitor the list of accredited verifiers to avoid default-value penalties for missing data.",
+    "source_en": "Source: European Commission, DG Taxation and Customs Union · 2026.10.22"
   },
   "case": {
-    "title": "新加坡高等法院承认中国法院商事判决，跨境债权追索路径进一步拓宽",
-    "summary": "近期新加坡高等法院依据《选择法院协议公约》及普通法规则，在一起中资企业间的跨境合同纠纷中承认并执行了中国法院的商事判决。该案明确了中新两国在无双边条约背景下，通过普通法路径承认中国判决的可行性。对于在新加坡有资产的中国债权人，此案提供了可操作的追索范式，建议在跨境合同中约定新加坡法院管辖或选择仲裁，并提前调查债务人资产分布。",
-    "source": "来源：新加坡高等法院 · 2026.10",
-    "title_en": "Singapore High Court Recognises Chinese Commercial Judgment, Broadening Cross-Border Debt Recovery Options",
-    "summary_en": "The Singapore High Court recently recognised and enforced a Chinese commercial judgment in a cross-border contractual dispute between Chinese-owned entities, relying on the Hague Choice of Court Convention and common law principles. The decision confirms the feasibility of recognising Chinese judgments in Singapore via the common law route absent a bilateral treaty. For Chinese creditors with assets in Singapore, this case offers a workable recovery model. It is advisable to include Singapore court jurisdiction or arbitration clauses in cross-border contracts and to investigate debtors' asset distribution in advance.",
-    "source_en": "Source: Singapore High Court · Oct 2026"
+    "title": "新加坡上诉庭确立跨境在线仲裁条款效力认定标准，对中企合同起草具参考价值",
+    "summary": "新加坡上诉庭近期在一起涉及中国与东南亚企业的供货合同纠纷中，维持了以电子邮件往来达成仲裁协议的效力，明确《新加坡国际仲裁法》下书面形式要求可被电子通信满足。该案凸显跨境交易中仲裁条款的成立不必然依赖单一签署文本，碎片化沟通可能构成有效合意。建议中国出海企业在谈判中明确排除或确认仲裁合意，避免因往来函电产生非预期仲裁管辖，并在合同中统一争议解决条款表述。",
+    "source": "来源：新加坡上诉庭（Singapore Court of Appeal）· 2026年10月",
+    "title_en": "Singapore Appellate Court Sets Standard for Validity of Cross-Border Online Arbitration Clauses",
+    "summary_en": "The Singapore Court of Appeal recently upheld the validity of an arbitration agreement formed through email exchanges in a supply contract dispute involving Chinese and Southeast Asian companies, confirming that electronic communications can satisfy the writing requirement under the Singapore International Arbitration Act. The case highlights that in cross-border transactions, an arbitration clause need not be contained in a single signed document; fragmented communications may constitute valid consensus. Chinese companies should expressly confirm or exclude arbitration consent during negotiations to avoid unexpected jurisdiction and unify dispute resolution clauses in contracts.",
+    "source_en": "Source: Singapore Court of Appeal · October 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化再升级，企业需关注“白名单”与安全评估衔接",
-    "summary": "近期广东省网信办等部门进一步优化粤港澳大湾区跨境数据流动便利化措施，扩大适用“白名单”机制的行业范围，并简化低风险数据出境的安全评估流程。对于注册在大湾区、面向港澳开展业务的企业，建议梳理数据出境场景，优先申请纳入“白名单”，同时完善内部数据分类分级制度，确保与《个人信息保护法》及跨境传输新规衔接，降低合规成本。",
-    "source": "来源：广东省互联网信息办公室 · 2026.10",
-    "title_en": "Greater Bay Area Cross-Border Data Flow Facilitation Upgraded: Firms Need to Align 'Whitelist' with Security Assessment",
-    "summary_en": "Authorities in Guangdong, including the provincial cyberspace administration, have further optimised cross-border data flow facilitation measures in the Greater Bay Area (GBA), expanding the industry scope of the 'whitelist' mechanism and simplifying security assessment procedures for low-risk outbound data transfers. Companies registered in the GBA and doing business with Hong Kong and Macao should map their data export scenarios, prioritise whitelist inclusion, and refine internal data classification and grading systems to align with the Personal Information Protection Law and new cross-border transfer rules, thereby reducing compliance costs.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · Oct 2026"
+    "title": "粤港澳大湾区推出跨境商事纠纷“一站式”在线调解平台，衔接港澳调解机构",
+    "summary": "广东省司法厅与港澳相关机构近期联合推出粤港澳大湾区跨境商事纠纷在线调解平台，整合三地调解资源，为区内企业提供在线申请、调解员选择、协议签署及司法确认对接服务。平台强调调解协议可依《新加坡调解公约》及内地与港澳相关安排申请执行。建议跨境贸易企业将平台调解作为诉讼仲裁前的低成本解决选项，并在合同中约定适用该平台调解的阶梯式争议解决条款。",
+    "source": "来源：广东省司法厅、香港律政司、澳门法务局联合发布 · 2026年10月",
+    "title_en": "Greater Bay Area Launches One-Stop Online Mediation Platform for Cross-Border Commercial Disputes",
+    "summary_en": "The Guangdong Department of Justice, together with Hong Kong and Macao authorities, has launched an online mediation platform for cross-border commercial disputes in the Greater Bay Area. The platform integrates mediation resources across the three jurisdictions, offering online application, mediator selection, agreement signing and judicial confirmation support. It emphasises that mediated settlements may be enforced under the Singapore Convention on Mediation and relevant mainland-Hong Kong/Macao arrangements. Companies are advised to consider platform mediation as a low-cost pre-litigation/arbitration option and to include tiered dispute resolution clauses referencing the platform.",
+    "source_en": "Source: Guangdong Department of Justice, Hong Kong Department of Justice, Macao Legal Affairs Bureau · October 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华投资限制新规落地，企业应重构跨境交易架构与合规防火墙",
-    "summary": "秦林蒿律师研判：美国近期进一步收紧对华半导体、人工智能等敏感领域的投资限制，并扩大“美国人”定义范围。中国出海企业应重新审视跨境融资与并购架构，避免引入受限制的美国资本或人员；同时建立交易对手筛查机制，在合资、许可等安排中嵌入合规陈述与保证条款。建议企业提前进行供应链与股权穿透分析，必要时调整投资路径，并保留法律意见以应对潜在审查。",
-    "source": "来源：律连全球 · 秦林蒿律师 · 2026.10.21",
-    "title_en": "Attorney Qin's view: New US Outbound Investment Restrictions on China Take Effect—Firms Should Restructure Cross-Border Deals and Build Compliance Firewalls",
-    "summary_en": "Attorney Qin's view: The United States has recently tightened outbound investment restrictions on sensitive sectors such as semiconductors and artificial intelligence involving China, and broadened the definition of 'US persons'. Chinese outbound companies should re-examine cross-border financing and M&A structures to avoid introducing restricted US capital or personnel. They should also establish counterparty screening mechanisms and embed compliance representations and warranties in joint venture and licensing arrangements. Companies are advised to conduct supply chain and equity penetration analyses in advance, adjust investment paths where necessary, and retain legal opinions to address potential reviews.",
-    "source_en": "Source: iGlobal Law · Attorney Qin Linhao · 2026.10.21"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中企须重构跨境投融资合规路径",
+    "summary": "秦林蒿律师研判：美国财政部近期拟进一步扩大对外投资审查范围，将更多涉及先进计算、量子信息及特定生物技术的对外投资纳入申报要求。中国企业在美设立研发中心、与美资基金共同投资第三国项目均可能触发审查。建议企业立即梳理现有及拟议交易中的美国连接点，评估是否落入禁止或申报类别；在交易文件中设置监管审批先决条件与分手费条款；对涉及敏感技术的合资项目，提前设计股权架构与知识产权隔离方案，并预留6-12个月审批周期。",
+    "source": "来源：美国财政部投资安全办公室、律所实务观察 · 2026年10月",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Screening Requires Chinese Firms to Rethink Cross-Border Compliance",
+    "summary_en": "Attorney Qin's view: The US Department of the Treasury is reportedly moving to broaden outbound investment screening to cover more investments in advanced computing, quantum information and selected biotechnologies. Chinese companies establishing US R&D centres or co-investing with US funds in third-country projects may trigger scrutiny. Companies should immediately map US nexus in existing and proposed transactions, assess whether deals fall into prohibited or notifiable categories, include regulatory approval conditions and break fees in transaction documents, design equity and IP ring-fencing for sensitive JVs, and budget 6–12 months for approval timelines.",
+    "source_en": "Source: US Treasury Office of Investment Security; law firm practice notes · October 2026"
   },
-  "dateLabel": "2026年10月21日 · 星期三",
-  "dateLabel_en": "Wednesday, October 21, 2026",
-  "issue": 294
+  "dateLabel": "2026年10月22日 · 星期四",
+  "dateLabel_en": "Thursday, October 22, 2026",
+  "issue": 295
 }
