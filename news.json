@@ -1,37 +1,37 @@
 {
   "focus": {
     "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业须加速碳数据合规布局",
-    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会发布过渡期数据申报常见问题指南，强调进口商须确保申报数据可核查。中国钢铁、铝、化肥等行业出口企业面临碳成本传导压力，建议尽快建立产品级碳足迹核算体系，与欧盟进口商协同完成数据申报，并关注CBAM覆盖范围可能扩大的立法动态。",
-    "source": "来源：欧盟委员会税收与海关总署 · 2026.10.27",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
-    "summary_en": "The EU's CBAM transitional period will conclude at the end of 2026, with definitive carbon levies applying from 2027. The European Commission recently issued FAQs on transitional data reporting, stressing that importers must ensure verifiable data. Chinese exporters in steel, aluminium and fertilisers face carbon cost pass-through pressure. Companies should establish product-level carbon footprint accounting, coordinate with EU importers on data reporting, and monitor legislative developments that may expand CBAM's scope.",
-    "source_en": "Source: European Commission DG TAXUD · 2026.10.27"
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征税阶段。中国钢铁、铝、化肥等行业出口企业面临碳成本传导压力，需尽快建立产品碳足迹核算体系、完善供应链碳排放数据收集，并评估在欧盟境内设立合规实体的必要性。未雨绸缪者将获得绿色竞争力先机。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.10.28",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Must Accelerate Carbon Data Compliance",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period ends in late 2026, with definitive taxation starting in 2027. Chinese exporters in steel, aluminium, and fertilisers face carbon cost pass-through pressure. Companies should urgently establish product carbon footprint accounting, improve supply chain emissions data collection, and assess the need for an EU-based compliance entity. Early movers will gain a green competitive edge.",
+    "source_en": "Source: European Commission DG CLIMA · 2026.10.28"
   },
   "case": {
-    "title": "新加坡国际仲裁中心案例：跨境供货合同不可抗力条款解释趋严，通知义务成关键",
-    "summary": "近期新加坡国际仲裁中心（SIAC）公布的一起仲裁裁决显示，仲裁庭对不可抗力条款的解释趋于严格，强调援引方须在合同约定期限内发出具体、充分的不可抗力通知，并证明事件与履约障碍之间的因果关系。该案涉及中国供应商与东南亚买方之间的设备供货合同，因供应链中断引发争议。仲裁庭认为，笼统援引政府政策而未提供实质证据的通知不构成有效通知。建议出海企业在合同中明确通知时限与证据要求，并建立应急通知流程。",
-    "source": "来源：新加坡国际仲裁中心案例摘要 · 2026年第三季度",
-    "title_en": "SIAC Tribunal Takes Stricter Approach to Force Majeure Clauses: Notification Obligations Prove Decisive",
-    "summary_en": "A recently published SIAC award reveals a stricter interpretive approach to force majeure clauses, emphasising that the invoking party must issue a specific and substantiated notice within the contractual time limit and demonstrate causation between the event and the impediment. The case involved an equipment supply contract between a Chinese supplier and a Southeast Asian buyer, with disputes arising from supply chain disruptions. The tribunal held that a generic reference to government policy without substantive evidence did not constitute valid notice. Exporters should specify notice deadlines and evidentiary requirements in contracts and establish emergency notification protocols.",
-    "source_en": "Source: SIAC Case Summary · Q3 2026"
+    "title": "新加坡国际仲裁中心案例：跨境合同中的多层争议解决条款效力获确认",
+    "summary": "近期SIAC一则裁决确认，约定“协商-调解-仲裁”多层争议解决条款有效，当事人未完成前置程序即提起仲裁可能被驳回。该案提示中国出海企业在起草跨境合同时，应明确前置程序的时限、启动方式及未履行的后果，避免争议解决条款因模糊而失效或引发管辖权异议。",
+    "source": "来源：新加坡国际仲裁中心案例摘要 · 2026.10",
+    "title_en": "SIAC Case: Validity of Multi-Tiered Dispute Resolution Clauses in Cross-Border Contracts Confirmed",
+    "summary_en": "A recent SIAC award upheld a multi-tiered dispute resolution clause requiring negotiation, mediation, and arbitration, suggesting that parties may have claims dismissed if they commence arbitration without completing pre-arbitral steps. Chinese outbound enterprises should specify time limits, initiation methods, and consequences of non-compliance in such clauses to avoid ambiguity and jurisdictional challenges.",
+    "source_en": "Source: SIAC Case Summary · Oct 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化再提速，涉外企业数据出境合规路径更趋清晰",
-    "summary": "近期粤港澳大湾区在跨境数据流动领域持续推出便利化措施，包括扩展安全评估、标准合同备案和个人信息保护认证的适用场景，并探索“白名单”机制。国家网信办与广东省相关部门协同推进大湾区数据跨境流动合作，为区内企业提供更明确的合规指引。建议涉及跨境业务的企业梳理数据出境场景，优先利用大湾区试点政策完成合规路径选择，并关注行业主管部门发布的细则。",
-    "source": "来源：国家互联网信息办公室、广东省相关主管部门 · 2026年10月",
-    "title_en": "Greater Bay Area Accelerates Cross-Border Data Flow Facilitation, Clarifying Compliance Pathways for Foreign-Related Enterprises",
-    "summary_en": "The Guangdong-Hong Kong-Macao Greater Bay Area has continued to roll out facilitation measures for cross-border data flows, including expanding the application scenarios for security assessments, standard contract filing and personal information protection certification, and exploring a 'whitelist' mechanism. The Cyberspace Administration of China and Guangdong authorities are jointly advancing GBA data cross-border cooperation to provide clearer compliance guidance. Enterprises with cross-border operations should map their data export scenarios, prioritise GBA pilot policies when selecting compliance pathways, and monitor detailed rules issued by sector regulators.",
-    "source_en": "Source: Cyberspace Administration of China; Guangdong Authorities · October 2026"
+    "title": "粤港澳大湾区推出跨境数据流动便利化新举措，企业合规路径进一步明晰",
+    "summary": "广东省近日发布大湾区跨境数据流动便利化试点指引，明确科研、金融、医疗等场景下数据出境的安全评估与备案流程，并探索“白名单”机制。企业应借此梳理数据资产、完善内部合规制度，利用试点政策降低跨境传输合规成本，同时关注个人信息保护与重要数据识别的边界。",
+    "source": "来源：广东省政务服务数据管理局 · 2026.10",
+    "title_en": "Greater Bay Area Introduces New Measures to Facilitate Cross-Border Data Flows, Clarifying Compliance Pathways",
+    "summary_en": "Guangdong Province recently issued pilot guidelines for facilitating cross-border data flows in the Greater Bay Area, clarifying security assessment and filing procedures for data exports in research, finance, and healthcare, and exploring a whitelist mechanism. Enterprises should map data assets, improve internal compliance, leverage pilot policies to reduce costs, and monitor boundaries between personal information protection and important data identification.",
+    "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau · Oct 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美欧供应链尽职调查规则叠加，中企须构建可追溯合规证据链",
-    "summary": "秦林蒿律师研判：美国《维吾尔强迫劳动预防法》与欧盟《企业可持续发展尽职调查指令》相继实施，形成供应链合规双重压力。企业仅作书面承诺已不足够，须建立覆盖原材料采购、生产加工、物流运输的可追溯证据链，并保留第三方审计记录。建议出海企业将尽职调查嵌入采购合同，要求供应商提供可验证的溯源信息，同时关注欧盟指令转化为成员国法律的时限差异，提前开展供应链映射与风险分级，避免因单点断供引发连锁违约。",
-    "source": "来源：律连全球 · iGlobal Law 编辑部 · 2026.10.27",
-    "title_en": "Attorney Qin's view: Overlapping US-EU Supply Chain Due Diligence Rules Require Chinese Firms to Build Traceable Compliance Evidence Chains",
-    "summary_en": "Attorney Qin's view: The implementation of the US Uyghur Forced Labor Prevention Act and the EU Corporate Sustainability Due Diligence Directive has created dual compliance pressure on supply chains. Written commitments alone are no longer sufficient; companies must establish traceable evidence chains covering raw material sourcing, production and logistics, and retain third-party audit records. Exporters should embed due diligence into procurement contracts, require suppliers to provide verifiable traceability information, and monitor differences in member state transposition deadlines. Supply chain mapping and risk tiering should be conducted in advance to avoid cascading defaults from single-point disruptions.",
-    "source_en": "Source: iGlobal Law Editorial · 2026.10.27"
+    "title": "秦林蒿律师研判：美国对外投资审查新规下，中国企业的技术合作与架构安排需审慎",
+    "summary": "秦林蒿律师研判：美国对外投资审查规则持续收紧，涉及半导体、人工智能等敏感领域的跨境投资与技术合作面临更高门槛。建议中国企业：一是在交易前开展投资目的地审查风险评估；二是优化交易架构，避免触发强制申报义务；三是完善技术出口内部合规体系，保留完整决策记录以备核查。",
+    "source": "来源：美国财政部投资安全办公室 · 2026.10",
+    "title_en": "Attorney Qin's view: Chinese Firms Must Exercise Caution in Tech Cooperation and Deal Structuring under New US Outbound Investment Rules",
+    "summary_en": "Attorney Qin's view: US outbound investment screening rules continue to tighten, raising barriers for cross-border investment and technology cooperation in sensitive sectors such as semiconductors and AI. Chinese companies should: (1) conduct pre-transaction risk assessments of investment destinations; (2) optimise deal structures to avoid mandatory filing triggers; (3) strengthen internal compliance for technology exports and maintain complete decision-making records for verification.",
+    "source_en": "Source: US Department of the Treasury, Office of Investment Security · Oct 2026"
   },
-  "dateLabel": "2026年10月27日 · 星期二",
-  "dateLabel_en": "Tuesday, October 27, 2026",
-  "issue": 300
+  "dateLabel": "2026年10月28日 · 星期三",
+  "dateLabel_en": "Wednesday, October 28, 2026",
+  "issue": 301
 }
