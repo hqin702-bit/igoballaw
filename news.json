@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业须加速碳数据合规布局",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入正式征收阶段。近期欧盟委员会发布过渡期总结报告，强调进口商申报数据质量要求将显著提高，并计划对未合规申报实施处罚。中国钢铁、铝、化肥等行业出口企业面临碳成本传导压力，需尽快建立产品碳足迹核算体系，完善供应链碳排放数据收集，并评估在欧盟境内设立合规实体的必要性。",
-    "source": "来源：欧盟委员会官网 · 2026.10.30",
-    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
-    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime starting in 2027. The European Commission's recent stocktaking report stresses that data quality requirements for importers' declarations will be significantly tightened, and penalties for non-compliant reporting are planned. Chinese exporters in steel, aluminium, and fertilisers face carbon cost pass-through pressure. They should promptly establish product carbon footprint accounting systems, improve supply chain emissions data collection, and assess the need to set up compliance entities within the EU.",
-    "source_en": "Source: European Commission · 2026.10.30"
+    "title": "欧盟对华电动汽车反补贴税终裁落地，出海车企需重构定价与供应链",
+    "summary": "欧盟委员会于2026年10月30日公布对华电动汽车反补贴调查终裁，决定征收为期五年的最终反补贴税，税率因企业配合程度而异。中国车企面临出口成本上升与市场份额压力，需重新评估欧洲定价策略、本地化生产布局及供应链溯源合规。建议企业关注终裁文本中的承诺机制，评估价格承诺或本地化投资替代方案，并同步排查电池组件、关键矿物的原产地规则风险，避免叠加触发其他贸易救济措施。",
+    "source": "来源：欧盟委员会贸易救济公告 · 2026.10.30",
+    "title_en": "EU Imposes Final Countervailing Duties on Chinese EVs: Exporters Must Rethink Pricing and Supply Chains",
+    "summary_en": "The European Commission published its final countervailing duty determination on Chinese electric vehicles on 30 October 2026, imposing five-year duties at rates varying by company cooperation. Chinese automakers face higher export costs and market share pressure, requiring reassessment of European pricing, local production footprint and supply chain traceability compliance. Companies should examine the undertaking mechanism in the final text, evaluate price undertakings or local investment as alternatives, and screen battery components and critical minerals for rules-of-origin risks to avoid triggering additional trade remedies.",
+    "source_en": "Source: European Commission trade remedies notice · 30 Oct 2026"
   },
   "case": {
-    "title": "新加坡国际商事法庭首例适用《新加坡调解公约》作出商事调解协议执行令，跨境争议解决路径拓宽",
-    "summary": "新加坡国际商事法庭（SICC）近期在一起跨境货物买卖纠纷中，依据《新加坡调解公约》首次作出执行令，承认并执行一项国际商事调解协议。该案涉及中国卖方与东南亚买方之间的质量争议，经调解达成和解后，一方未履行，另一方遂向SICC申请执行。法院确认调解协议符合公约要求，裁定可执行。此案为《公约》缔约国间的调解协议跨境执行提供了重要先例，提示中国出海企业可在合同中优先约定调解条款并选择新加坡作为调解地。",
-    "source": "来源：新加坡国际商事法庭公报 · 2026.10",
-    "title_en": "SICC Issues First Enforcement Order for Mediated Settlement under Singapore Convention, Broadening Cross-Border Dispute Resolution",
-    "summary_en": "The Singapore International Commercial Court (SICC) has recently issued its first enforcement order under the Singapore Convention on Mediation, recognising and enforcing an international commercial mediated settlement in a cross-border sale of goods dispute. The case involved a quality dispute between a Chinese seller and a Southeast Asian buyer; a settlement was reached through mediation, but one party failed to comply, prompting the other to seek enforcement before the SICC. The court confirmed the settlement met the Convention's requirements and ruled it enforceable. This landmark decision provides an important precedent for cross-border enforcement of mediated settlements among Convention states and suggests that Chinese outbound enterprises may prioritise mediation clauses and choose Singapore as the mediation seat in contracts.",
-    "source_en": "Source: SICC Bulletin · Oct 2026"
+    "title": "新加坡上诉庭明确跨境仲裁禁诉令边界，中企海外维权可援引",
+    "summary": "新加坡上诉庭近期审结一起涉中资企业的国际工程合同纠纷，明确当外国法院诉讼构成对仲裁协议的违反且造成压迫性后果时，新加坡法院可颁发禁诉令。该案确立的“压迫性及无理缠讼”标准，为中企在“一带一路”项目中遭遇对方在第三国提起诉讼、意图规避仲裁时提供了可操作救济路径。建议中企在合同中明确约定仲裁地与仲裁规则，并在境外诉讼启动后及时向仲裁地法院申请禁诉令，同时保全证据、评估反诉策略。",
+    "source": "来源：新加坡上诉庭判例综述 · 2026.10",
+    "title_en": "Singapore Appellate Court Clarifies Anti-Suit Injunction Boundaries in Cross-Border Arbitration",
+    "summary_en": "The Singapore Court of Appeal recently ruled on an international engineering contract dispute involving a Chinese enterprise, confirming that Singapore courts may grant anti-suit injunctions where foreign proceedings breach an arbitration agreement and cause oppressive consequences. The \"oppressive and vexatious\" standard offers Chinese companies a practical remedy when counterparties initiate third-country litigation to circumvent arbitration in Belt and Road projects. Companies should specify arbitration seat and rules in contracts, promptly seek anti-suit relief in the seat court after foreign proceedings commence, preserve evidence and assess counterclaim strategies.",
+    "source_en": "Source: Singapore Court of Appeal case review · Oct 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境商事纠纷“一站式”解决平台上线，实现调解、仲裁、诉讼在线衔接",
-    "summary": "广东省高级人民法院与香港律政司、澳门法务局近期联合推出粤港澳大湾区跨境商事纠纷“一站式”在线解决平台。该平台整合三地调解、仲裁与诉讼资源，允许当事人通过单一入口提交争议解决申请，并实现电子送达、在线调解及仲裁裁决转诉讼保全等功能的衔接。平台首阶段覆盖货物买卖、投资争端等常见跨境商事纠纷，旨在降低跨境解纷成本，提升大湾区法治化营商环境。企业应关注平台规则，善用在线调解机制高效化解跨境争议。",
-    "source": "来源：广东省高级人民法院、香港律政司联合发布 · 2026.10",
-    "title_en": "GBA Launches One-Stop Online Platform for Cross-Border Commercial Dispute Resolution, Linking Mediation, Arbitration and Litigation",
-    "summary_en": "The Guangdong High People's Court, the Hong Kong Department of Justice and Macao's Legal Affairs Bureau have jointly launched a one-stop online platform for cross-border commercial dispute resolution in the Greater Bay Area (GBA). The platform integrates mediation, arbitration and litigation resources across the three jurisdictions, allowing parties to submit dispute resolution applications through a single portal and enabling e-service, online mediation and the transfer of arbitral awards to litigation preservation measures. Initially covering common cross-border commercial disputes such as sale of goods and investment disputes, it aims to reduce dispute resolution costs and enhance the rule-of-law business environment in the GBA. Enterprises should familiarise themselves with the platform rules and leverage online mediation for efficient resolution of cross-border disputes.",
-    "source_en": "Source: Guangdong High People's Court & Hong Kong Department of Justice joint release · Oct 2026"
+    "title": "粤港澳大湾区跨境数据流动新规实施，涉外企业合规路径进一步明晰",
+    "summary": "粤港澳大湾区近日实施跨境数据流动管理新规，进一步细化个人信息与重要数据出境的安全评估、标准合同及认证路径，并扩大“白名单”场景适用范围。新规为区内涉外企业开展跨境研发、供应链协同和客户服务提供更明确的合规指引，同时强化数据分类分级与出境后监督。建议企业尽快梳理数据资产地图，区分重要数据与个人信息，优先适用标准合同或认证机制，并建立出境数据台账与年度审计制度，防范跨境传输违规风险。",
+    "source": "来源：广东省及港澳相关主管部门联合发布 · 2026.10",
+    "title_en": "New Cross-Border Data Rules in Greater Bay Area Clarify Compliance Paths for Foreign-Related Firms",
+    "summary_en": "New cross-border data flow rules have taken effect in the Guangdong-Hong Kong-Macao Greater Bay Area, refining security assessment, standard contract and certification pathways for outbound personal information and important data, and expanding the scope of \"whitelist\" scenarios. The rules provide clearer compliance guidance for foreign-related enterprises engaged in cross-border R&D, supply chain coordination and customer service, while strengthening data classification and post-transfer supervision. Companies should map data assets, distinguish important data from personal information, prioritise standard contracts or certification, and maintain outbound data records and annual audits to mitigate transfer risks.",
+    "source_en": "Source: Joint release by Guangdong and Hong Kong/Macao authorities · Oct 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中国科技企业赴美投资须重构合规架构",
-    "summary": "秦林蒿律师研判：美国财政部近期发布对外投资审查规则修订草案，拟将半导体、人工智能、量子计算等领域的投资限制扩展至更多交易类型，并强化对间接投资和合资架构的审查。中国科技企业通过离岸主体赴美投资或与美方设立合资公司时，须提前进行交易架构合规评估，识别是否落入禁止或申报类别；建议在交易文件中设置监管审批先决条件及分手费条款，并建立投后合规监控机制，以降低被强制撤资或处罚的风险。",
-    "source": "来源：美国财政部、律所实务观察 · 2026.10",
-    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Review Rules Require Chinese Tech Firms to Restructure Compliance Architecture for US Investments",
-    "summary_en": "Attorney Qin's view: The US Department of the Treasury has recently issued draft amendments to outbound investment review rules, proposing to extend investment restrictions in semiconductors, artificial intelligence and quantum computing to more transaction types and to strengthen scrutiny of indirect investments and joint venture structures. Chinese tech companies investing in the US through offshore entities or forming joint ventures with US parties must conduct pre-transaction compliance assessments to identify whether a deal falls into prohibited or notifiable categories. It is advisable to include regulatory approval conditions precedent and break-fee clauses in transaction documents and to establish post-investment compliance monitoring mechanisms to mitigate the risk of forced divestment or penalties.",
-    "source_en": "Source: US Department of the Treasury; law firm practice observations · Oct 2026"
+    "title": "秦林蒿律师研判：美对华投资限制新规扩围，中企应前置搭建合规防火墙",
+    "summary": "秦林蒿律师研判：美国近期拟进一步扩大对华半导体、人工智能等敏感领域的投资限制，并强化对间接投资与基金架构的穿透审查。中企及美元基金在搭建跨境架构时，应前置评估受限行业清单、资金来源与最终受益人披露要求，避免因“视同投资”规则触发处罚。建议在投资协议中加入合规陈述与保证、分手费及监管变化条款，并同步准备替代融资方案；对已存续项目开展合规审计，必要时调整治理结构与信息隔离安排，以降低被动退出风险。",
+    "source": "来源：律连全球·iGlobal Law 律师团队 · 2026.11.02",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Restrictions Require Proactive Compliance Firewalls",
+    "summary_en": "Attorney Qin's view: The United States is moving to further expand investment restrictions in sensitive sectors such as semiconductors and artificial intelligence, and to strengthen look-through review of indirect investments and fund structures. Chinese companies and USD funds should assess restricted-sector lists, funding sources and ultimate beneficiary disclosure requirements at the structuring stage to avoid penalties under \"deemed investment\" rules. We recommend incorporating compliance representations and warranties, break fees and regulatory change clauses into investment agreements, preparing alternative financing, and conducting compliance audits of existing projects—adjusting governance and information barriers where necessary to reduce forced-exit risk.",
+    "source_en": "Source: iGlobal Law legal team · 2 Nov 2026"
   },
-  "dateLabel": "2026年10月30日 · 星期五",
-  "dateLabel_en": "Friday, October 30, 2026",
-  "issue": 303
+  "dateLabel": "2026年11月2日 · 星期一",
+  "dateLabel_en": "Monday, November 2, 2026",
+  "issue": 306
 }
