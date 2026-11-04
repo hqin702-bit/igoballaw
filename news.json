@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟对华电动车反补贴税终裁落地，出海车企须重构供应链与定价策略",
-    "summary": "欧盟委员会近日公布对华电动汽车反补贴调查终裁，决定征收为期五年的最终反补贴税，税率因企业配合程度而异。中国车企面临整车出口成本上升、欧盟本地化生产压力加大等挑战。实务上，企业应尽快评估关税对现有贸易模式的影响，考虑通过欧盟境内组装、技术授权或与当地伙伴合资等方式降低税负，同时完善原产地规则合规与供应链追溯体系，防范后续延伸调查风险。",
-    "source": "来源：欧盟委员会贸易救济公告 · 2026.11.03",
-    "title_en": "EU Imposes Final Countervailing Duties on Chinese EVs: Supply Chain and Pricing Overhaul Required",
-    "summary_en": "The European Commission has published its final countervailing duty determination on Chinese electric vehicles, imposing five-year duties that vary by company cooperation level. Chinese automakers face higher export costs and mounting pressure to localize production in the EU. In practice, companies should promptly assess the tariff impact on existing trade models, explore EU-based assembly, technology licensing, or joint ventures with local partners to mitigate duty exposure, and strengthen origin-rule compliance and supply chain traceability to guard against follow-on investigations.",
-    "source_en": "Source: European Commission Trade Remedy Notice · 2026.11.03"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需加速碳数据合规布局",
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征税阶段。近期欧盟委员会发布过渡期最终版申报指南，强调对钢铁、铝、水泥、化肥、电力和氢等六类产品嵌入排放的核查要求。中国出口企业面临碳排放数据核算、第三方核查及供应链追溯等合规挑战。建议企业尽快建立产品级碳足迹核算体系，完善供应商数据收集机制，并关注欧盟认可核查机构名单，以降低未来碳关税成本。",
+    "source": "来源：欧盟委员会 · 2026.11.04",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime and carbon levies starting in 2027. The European Commission recently issued final guidance on transitional reporting, emphasizing verification requirements for embedded emissions in six sectors: iron and steel, aluminium, cement, fertilisers, electricity, and hydrogen. Chinese exporters face compliance challenges in carbon accounting, third-party verification, and supply chain traceability. Companies should establish product-level carbon footprint systems, enhance supplier data collection, and monitor the list of EU-accredited verifiers to mitigate future carbon costs.",
+    "source_en": "Source: European Commission · 2026.11.04"
   },
   "case": {
-    "title": "新加坡上诉庭明确跨境仲裁中单方指定仲裁员条款效力，中企应审慎设计争议解决条款",
-    "summary": "新加坡上诉庭近期在一起涉华贸易合同纠纷中，认定约定由一方单方指定仲裁员的条款违反自然正义原则，裁决不予执行。该案凸显跨境合同中仲裁条款设计的重要性。实务建议：中企在起草涉外合同时，应避免赋予单方指定仲裁员或控制仲裁程序的权利，优先选择双方共同指定或由机构指定的机制，并明确仲裁地、仲裁规则与语言，以降低裁决被撤销或不予执行的风险。",
-    "source": "来源：新加坡上诉庭判决摘要 · 2026.10",
-    "title_en": "Singapore Appellate Court Clarifies Validity of Unilateral Arbitrator Appointment Clauses in Cross-Border Arbitration",
-    "summary_en": "The Singapore Court of Appeal recently ruled in a China-related trade contract dispute that a clause allowing one party to unilaterally appoint the arbitrator violated natural justice, and refused enforcement of the award. The case underscores the importance of drafting arbitration clauses in cross-border contracts. Practical advice: Chinese companies should avoid granting one party the right to unilaterally appoint arbitrators or control proceedings, prefer mutual or institutional appointment mechanisms, and specify the seat, rules, and language of arbitration to reduce the risk of awards being set aside or denied enforcement.",
-    "source_en": "Source: Singapore Court of Appeal Judgment Summary · 2026.10"
+    "title": "新加坡上诉庭确立跨境破产承认新标准，中资企业境外债务重组获重要参考",
+    "summary": "新加坡上诉庭近期在一起涉及中资背景企业的跨境破产承认案中，明确外国破产程序在新加坡获得承认需满足“主要利益中心”测试及公共政策例外。该案中，法院首次详细阐释了债务人注册地、主要营业地及债权人分布等因素的权重，并认可了境外重组程序对当地资产的效力。此判决为中资企业利用新加坡作为债务重组平台提供了司法指引，提示企业在设计跨境重组方案时需注重主要利益中心的证据构建。",
+    "source": "来源：新加坡上诉庭 · 2026.10",
+    "title_en": "Singapore Appellate Court Sets New Standard for Cross-Border Insolvency Recognition, Offers Guidance for Chinese Debt Restructuring",
+    "summary_en": "The Singapore Appellate Court recently clarified the criteria for recognizing foreign insolvency proceedings, requiring satisfaction of the centre of main interests (COMI) test and public policy exceptions in a case involving a Chinese-backed enterprise. The court elaborated on the weight of factors such as the debtor's registered office, principal place of business, and creditor distribution, and recognized the effects of foreign restructuring proceedings on local assets. This decision provides judicial guidance for Chinese companies using Singapore as a restructuring platform, highlighting the need to build evidence of COMI in cross-border restructuring plans.",
+    "source_en": "Source: Singapore Appellate Court · 2026.10"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化措施扩展，企业须完善数据出境合规路径",
-    "summary": "广东省网信办等部门近期扩大粤港澳大湾区跨境数据流动便利化试点范围，允许符合条件的企业在备案后向港澳传输特定商业数据。此举有助于降低跨境数据合规成本，但企业仍需履行个人信息保护影响评估、合同备案等义务。实务上，建议企业梳理数据出境场景，优先适用试点便利化通道，同时建立数据分类分级与安全评估机制，确保符合《个人信息保护法》及港澳相关法规要求。",
-    "source": "来源：广东省互联网信息办公室 · 2026.10",
-    "title_en": "Greater Bay Area Expands Cross-Border Data Flow Facilitation: Compliance Pathways for Enterprises",
-    "summary_en": "Guangdong's cyberspace authorities and other departments recently expanded the pilot for facilitating cross-border data flows in the Greater Bay Area, allowing eligible enterprises to transfer specified commercial data to Hong Kong and Macao after filing. This helps reduce compliance costs but enterprises must still conduct personal information protection impact assessments and file contracts. In practice, companies should map data export scenarios, prioritize the pilot facilitation channel, and establish data classification and security assessment mechanisms to comply with the Personal Information Protection Law and relevant Hong Kong and Macao regulations.",
-    "source_en": "Source: Cyberspace Administration of Guangdong Province · 2026.10"
+    "title": "粤港澳大湾区跨境数据流动新规落地，企业需关注“白名单”机制与合规路径",
+    "summary": "广东省近期发布粤港澳大湾区跨境数据流动便利化措施，率先在金融、医疗、跨境电商等领域建立“白名单”机制，允许符合条件的企业在安全评估基础上实现数据跨境传输。新规细化了数据分类分级、个人信息保护影响评估及合同备案等要求，并明确了大湾区内地城市与港澳间数据流动的负面清单。企业应尽快梳理自身数据资产，评估适用白名单的可行性，并建立内部数据合规制度以把握政策红利。",
+    "source": "来源：广东省人民政府 · 2026.10",
+    "title_en": "New Cross-Border Data Flow Rules in Greater Bay Area: Companies Need to Focus on 'Whitelist' Mechanism and Compliance Paths",
+    "summary_en": "Guangdong Province recently issued measures to facilitate cross-border data flows within the Guangdong-Hong Kong-Macao Greater Bay Area, establishing a 'whitelist' mechanism in sectors such as finance, healthcare, and cross-border e-commerce, allowing eligible companies to transfer data abroad based on security assessments. The new rules detail data classification, personal information protection impact assessments, and contract filing requirements, and clarify a negative list for data flows between mainland GBA cities and Hong Kong/Macao. Companies should map their data assets, assess whitelist eligibility, and establish internal compliance systems to seize policy benefits.",
+    "source_en": "Source: Guangdong Provincial People's Government · 2026.10"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美对华半导体出口管制新规下，企业应建立动态合规与供应链尽职调查机制",
-    "summary": "秦林蒿律师研判：美国近期进一步收紧对华半导体出口管制，扩大实体清单并限制先进计算芯片与制造设备对华出口，同时加强对第三国转口的管控。中国企业面临供应链中断与次级制裁风险。建议企业立即开展供应链穿透式排查，识别受控物项与交易对手，完善最终用户/最终用途声明，并在合同中加入出口管制合规承诺与终止条款。同时建立动态监测机制，跟踪美方规则更新，必要时申请许可或调整采购路径，以降低违规风险。",
-    "source": "来源：美国商务部工业与安全局公告 · 2026.10",
-    "title_en": "Attorney Qin's view: Under New US Semiconductor Export Controls, Enterprises Should Build Dynamic Compliance and Supply Chain Due Diligence",
-    "summary_en": "Attorney Qin's view: The US has recently further tightened semiconductor export controls on China, expanding the Entity List and restricting exports of advanced computing chips and manufacturing equipment, while strengthening controls on third-country transshipment. Chinese enterprises face supply chain disruption and secondary sanctions risks. Companies should immediately conduct penetrating supply chain reviews, identify controlled items and counterparties, improve end-user/end-use statements, and incorporate export control compliance commitments and termination clauses into contracts. They should also establish dynamic monitoring mechanisms to track US rule updates, apply for licenses where necessary, or adjust procurement routes to mitigate violation risks.",
-    "source_en": "Source: US Bureau of Industry and Security Notice · 2026.10"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中企需重构跨境投资合规架构",
+    "summary": "秦林蒿律师研判：美国财政部外国投资委员会（CFIUS）近期强化对半导体、人工智能、量子计算等敏感领域的对外投资审查，并拟将审查范围扩展至间接投资和绿地投资。中资企业通过第三地子公司对美投资可能触发申报义务，未申报面临高额罚款及强制剥离风险。建议企业：一是在交易前进行CFIUS管辖权预判，识别“关键技术”和“敏感个人数据”要素；二是优化投资路径，避免通过高风险辖区中转；三是完善内部合规审查，对现有投资组合开展回溯性风险评估。",
+    "source": "来源：秦林蒿律师 · 2026.11.04",
+    "title_en": "Attorney Qin's view: Expanded US Outbound Investment Review Requires Chinese Firms to Restructure Cross-Border Compliance",
+    "summary_en": "Attorney Qin's view: The US Treasury's CFIUS has recently tightened scrutiny of outbound investments in sensitive sectors such as semiconductors, AI, and quantum computing, and plans to extend review to indirect and greenfield investments. Chinese companies investing in the US through third-country subsidiaries may trigger filing obligations, with non-compliance risking heavy penalties and forced divestiture. Recommended actions: (1) conduct pre-transaction CFIUS jurisdictional assessments to identify 'critical technology' and 'sensitive personal data' elements; (2) optimize investment structures to avoid中转 through high-risk jurisdictions; (3) strengthen internal compliance reviews and conduct retrospective risk assessments of existing portfolios.",
+    "source_en": "Source: Attorney Qin Linhao · 2026.11.04"
   },
-  "dateLabel": "2026年11月3日 · 星期二",
-  "dateLabel_en": "Tuesday, November 3, 2026",
-  "issue": 307
+  "dateLabel": "2026年11月4日 · 星期三",
+  "dateLabel_en": "Wednesday, November 4, 2026",
+  "issue": 308
 }
