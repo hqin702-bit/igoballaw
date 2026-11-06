@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟对华电动车反补贴税终裁落地，中企须关注价格承诺与本地化布局",
-    "summary": "欧盟委员会于2026年10月底公布对华电动汽车反补贴调查终裁，决定征收为期五年的最终反补贴税，税率因企业配合程度而异。中国出海车企面临出口成本上升与市场份额压力，同时可评估价格承诺、本地化生产及供应链调整等应对路径。建议企业尽快梳理对欧出口产品矩阵，评估关税影响，并关注欧盟成员国执行细则及可能的WTO争端进展。",
-    "source": "来源：欧盟委员会贸易司 · 2026.10",
-    "title_en": "EU Imposes Final Countervailing Duties on Chinese EVs: Price Undertakings and Localization in Focus",
-    "summary_en": "The European Commission published its final countervailing duty decision on Chinese electric vehicles in late October 2026, imposing five-year duties with rates varying by company cooperation. Chinese exporters face higher costs and market share pressure, and should assess price undertakings, local production and supply chain adjustments. Companies are advised to review their EU export portfolios, quantify tariff exposure, and monitor member state implementation and potential WTO dispute developments.",
-    "source_en": "Source: European Commission DG Trade · Oct 2026"
+    "title": "欧盟对华电动车反补贴税终裁落地，出海企业须重估供应链与定价",
+    "summary": "欧盟委员会近日公布对华电动汽车反补贴调查终裁措施，在原有10%基础关税上叠加差异化税率，并设定价格承诺谈判窗口。对中国车企而言，短期应评估出口成本转嫁空间与本地化组装可行性，同步核查电池原产地与补贴披露口径；对零部件与储能企业，需警惕调查范围外溢。建议企业建立关税情景模型，预留价格承诺与WTO争端解决两条应对路径。",
+    "source": "来源：欧盟委员会贸易司公开信息 · 2026.11.06",
+    "title_en": "EU Final Anti-Subsidy Duties on Chinese EVs: Rethink Supply Chains and Pricing",
+    "summary_en": "The European Commission has published its final anti-subsidy measures on Chinese electric vehicles, layering differentiated duties on top of the existing 10% base tariff and opening a window for price-undertaking negotiations. Chinese automakers should assess cost pass-through headroom and the feasibility of local assembly, while verifying battery origin and subsidy disclosure. Component and energy-storage suppliers should watch for scope spillover. Build tariff scenario models and keep both price undertakings and WTO dispute settlement in reserve.",
+    "source_en": "Source: European Commission, DG Trade public information · 2026.11.06"
   },
   "case": {
-    "title": "新加坡上诉庭明确跨境仲裁中第三方资助披露义务，中企参与仲裁须审慎",
-    "summary": "新加坡上诉庭近期在一宗国际商事仲裁相关案件中，就第三方资助的披露义务作出指引，强调当事人及代理律师应及时向仲裁庭披露资助安排，否则可能影响仲裁裁决的可执行性。该案对参与新加坡仲裁的中国企业具有警示意义：在涉及第三方资助时，应确保披露合规，避免因程序瑕疵导致裁决在《纽约公约》下被挑战。建议企业建立资助安排审查机制。",
-    "source": "来源：新加坡上诉庭 · 2026.10",
-    "title_en": "Singapore Court of Appeal Clarifies Third-Party Funding Disclosure in Cross-Border Arbitration",
-    "summary_en": "The Singapore Court of Appeal recently issued guidance on disclosure obligations for third-party funding in an international commercial arbitration context, stressing that parties and counsel must promptly disclose funding arrangements to the tribunal, failing which the enforceability of the award may be affected. The case serves as a warning to Chinese companies in Singapore arbitrations: ensure compliant disclosure to avoid challenges under the New York Convention. Companies should establish review mechanisms for funding arrangements.",
-    "source_en": "Source: Singapore Court of Appeal · Oct 2026"
+    "title": "境外仲裁裁决在华承认执行：被申请人未举证送达瑕疵，法院裁定予以执行",
+    "summary": "某内地法院近期审结一起申请承认与执行外国仲裁裁决案。被申请人以未获适当通知、违反正当程序为由抗辩，但未能就仲裁机构送达记录提出反证。法院依据《纽约公约》第五条及互惠原则审查后认定，送达符合仲裁规则即视为适当通知，裁定承认并执行。启示：跨境交易应明确约定送达地址与电子送达方式，争议阶段及时固定送达证据，避免以程序瑕疵作无效抗辩。",
+    "source": "来源：中国法院涉外民商事审判公开案例综述 · 2026年下半年",
+    "title_en": "Foreign Arbitral Award Enforced in China: Respondent Fails to Prove Defective Notice",
+    "summary_en": "A mainland court recently ruled on an application to recognize and enforce a foreign arbitral award. The respondent argued improper notice and breach of due process but offered no rebuttal of the institution's delivery records. Applying Article V of the New York Convention and reciprocity, the court held that notice in accordance with the arbitration rules constitutes proper notice and enforced the award. Takeaway: stipulate service addresses and e-service methods, preserve delivery evidence, and avoid procedural-defect defenses without proof.",
+    "source_en": "Source: Review of published foreign-related civil and commercial judgments, Chinese courts · H2 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化再扩围，企业须完善数据合规体系",
-    "summary": "广东省及深圳市相关部门近期发布粤港澳大湾区跨境数据流动便利化措施，进一步扩展适用行业与场景，允许符合条件的企业在安全评估、标准合同或认证路径下实现数据跨境流动。此举有利于大湾区跨境电商、金融科技及供应链企业提升运营效率。建议企业对照最新目录评估自身数据出境场景，完善个人信息保护影响评估与合同条款，并利用大湾区试点机制降低合规成本。",
-    "source": "来源：广东省政务服务数据管理局 · 2026.10",
-    "title_en": "Greater Bay Area Expands Cross-Border Data Flow Facilitation: Compliance Upgrades Needed",
-    "summary_en": "Guangdong and Shenzhen authorities recently issued measures to facilitate cross-border data flows in the Greater Bay Area, further expanding eligible industries and scenarios. Qualified companies may transfer data under security assessment, standard contract or certification pathways. This benefits e-commerce, fintech and supply chain firms. Companies should assess their data export scenarios against the latest catalogue, improve impact assessments and contract terms, and leverage pilot mechanisms to reduce compliance costs.",
-    "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau · Oct 2026"
+    "title": "粤港澳大湾区跨境商事调解与仲裁衔接机制提速，涉外企业争议解决选项增多",
+    "summary": "大湾区近期推进跨境商事调解与仲裁的规则衔接与机构协作，前海、南沙、横琴等地探索调解协议跨境执行与临时措施协助。对出海企业而言，可在合同中嵌入“调解前置＋港澳仲裁”分层条款，利用内地与港澳相互执行仲裁裁决的安排降低执行不确定性。建议在起草阶段明确适用规则、仲裁地与语言，并评估调解保密性对后续证据使用的影响。",
+    "source": "来源：粤港澳大湾区法律部门联席会议公开信息 · 2026.11",
+    "title_en": "Greater Bay Area Speeds Up Mediation-Arbitration Linkage, Widening Dispute Options",
+    "summary_en": "The Greater Bay Area is advancing rule alignment and institutional cooperation between cross-border commercial mediation and arbitration, with Qianhai, Nansha and Hengqin piloting cross-border enforcement of settlement agreements and interim-measure assistance. For outbound businesses, embedding tiered clauses (mediation first, then Hong Kong/Macau arbitration) can reduce enforcement uncertainty under the mutual enforcement arrangements. Specify rules, seat and language at drafting, and assess mediation confidentiality's effect on later evidence use.",
+    "source_en": "Source: Public information of the GBA legal departments joint meeting · Nov 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对外投资审查新规收紧，中企须重构跨境交易合规路径",
-    "summary": "秦林蒿律师研判：美国近期进一步收紧对外投资审查规则，扩大敏感技术领域范围并强化申报要求。中国企业在涉及美国技术、资金或人员的跨境交易中，须提前进行投资审查筛查，识别是否触发申报义务，并评估交易架构调整空间。建议在交易前期引入法律尽调，设计分步交割与风险隔离机制，同时关注中国反制法规的适用，避免双重合规冲突。",
-    "source": "来源：秦林蒿律师 · 2026.11.05",
-    "title_en": "Attorney Qin's View: Tightened US Outbound Investment Rules Require Rethinking Cross-Border Compliance",
-    "summary_en": "Attorney Qin's view: The US has further tightened outbound investment review rules, expanding sensitive technology sectors and strengthening notification requirements. Chinese companies involved in cross-border transactions with US technology, capital or personnel should conduct early screening to identify filing obligations and assess restructuring options. We recommend legal due diligence at the outset, designing staged closing and risk isolation mechanisms, and monitoring China's countermeasures to avoid dual compliance conflicts.",
-    "source_en": "Source: Attorney Qin Linhao · Nov 5, 2026"
+    "title": "秦林蒿律师研判：出口管制“50%规则”外溢下，中国企业须重建股权穿透合规",
+    "summary": "秦林蒿律师研判：美方出口管制中关联方持股穿透规则持续外溢，直接或间接持股达一定比例即可能触发同等许可要求。企业应建立“股权穿透＋物项分类＋最终用途”三张清单，对境外合资、代持与基金架构逐层核查；在采购合同中加入管制变更与许可不能取得时的免责与退出条款，并保留BIS咨询与自愿披露通道。切勿以形式切割替代实质合规。",
+    "source": "来源：律连全球·iGlobal Law 编辑部 · 2026.11.06",
+    "title_en": "Attorney Qin's view: Affiliate-Ownership Rules in Export Controls Require Ownership Look-Through Compliance",
+    "summary_en": "Attorney Qin's view: the affiliate-ownership look-through rule in US export controls continues to expand, so direct or indirect stakes above certain thresholds may trigger equivalent licensing requirements. Companies should build three lists—ownership look-through, item classification and end use—and verify offshore JVs, nominee holdings and fund structures layer by layer. Add change-in-control and license-denial exit clauses to procurement contracts, and keep BIS consultation and voluntary self-disclosure channels open. Formal separation is no substitute for substantive compliance.",
+    "source_en": "Source: iGlobal Law Editorial Desk · 2026.11.06"
   },
-  "dateLabel": "2026年11月5日 · 星期四",
-  "dateLabel_en": "Thursday, November 5, 2026",
-  "issue": 309
+  "dateLabel": "2026年11月6日 · 星期五",
+  "dateLabel_en": "Friday, November 6, 2026",
+  "issue": 310
 }
