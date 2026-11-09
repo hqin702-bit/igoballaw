@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟对华电动车反补贴税终裁落地，出海企业须重估供应链与定价",
-    "summary": "欧盟委员会近日公布对华电动汽车反补贴调查终裁措施，在原有10%基础关税上叠加差异化税率，并设定价格承诺谈判窗口。对中国车企而言，短期应评估出口成本转嫁空间与本地化组装可行性，同步核查电池原产地与补贴披露口径；对零部件与储能企业，需警惕调查范围外溢。建议企业建立关税情景模型，预留价格承诺与WTO争端解决两条应对路径。",
-    "source": "来源：欧盟委员会贸易司公开信息 · 2026.11.06",
-    "title_en": "EU Final Anti-Subsidy Duties on Chinese EVs: Rethink Supply Chains and Pricing",
-    "summary_en": "The European Commission has published its final anti-subsidy measures on Chinese electric vehicles, layering differentiated duties on top of the existing 10% base tariff and opening a window for price-undertaking negotiations. Chinese automakers should assess cost pass-through headroom and the feasibility of local assembly, while verifying battery origin and subsidy disclosure. Component and energy-storage suppliers should watch for scope spillover. Build tariff scenario models and keep both price undertakings and WTO dispute settlement in reserve.",
-    "source_en": "Source: European Commission, DG Trade public information · 2026.11.06"
+    "title": "欧盟对华电动车反补贴税终裁落地，出海车企须重构定价与供应链合规",
+    "summary": "欧盟委员会近日公布对华电动汽车反补贴调查终裁，决定征收为期五年的最终反补贴税，税率因企业配合程度而异。中国车企需立即评估在欧售价调整、本地化生产及供应链溯源安排，并关注与WTO争端解决并行的法律救济路径。建议企业同步审查经销协议中的关税调整条款，避免触发违约风险。",
+    "source": "来源：欧盟委员会贸易救济公告 · 2026.11.09",
+    "title_en": "EU Final Anti-Subsidy Duties on Chinese EVs: Exporters Must Rethink Pricing and Supply-Chain Compliance",
+    "summary_en": "The European Commission has published its final anti-subsidy determination on Chinese electric vehicles, imposing definitive duties for five years at rates that vary by company. Chinese automakers should immediately reassess European pricing, localisation plans and supply-chain traceability, while tracking parallel WTO dispute-settlement options. Companies are also advised to review dealer agreements for tariff-adjustment clauses to avoid breach-of-contract exposure.",
+    "source_en": "Source: European Commission trade defence notice · 2026.11.09"
   },
   "case": {
-    "title": "境外仲裁裁决在华承认执行：被申请人未举证送达瑕疵，法院裁定予以执行",
-    "summary": "某内地法院近期审结一起申请承认与执行外国仲裁裁决案。被申请人以未获适当通知、违反正当程序为由抗辩，但未能就仲裁机构送达记录提出反证。法院依据《纽约公约》第五条及互惠原则审查后认定，送达符合仲裁规则即视为适当通知，裁定承认并执行。启示：跨境交易应明确约定送达地址与电子送达方式，争议阶段及时固定送达证据，避免以程序瑕疵作无效抗辩。",
-    "source": "来源：中国法院涉外民商事审判公开案例综述 · 2026年下半年",
-    "title_en": "Foreign Arbitral Award Enforced in China: Respondent Fails to Prove Defective Notice",
-    "summary_en": "A mainland court recently ruled on an application to recognize and enforce a foreign arbitral award. The respondent argued improper notice and breach of due process but offered no rebuttal of the institution's delivery records. Applying Article V of the New York Convention and reciprocity, the court held that notice in accordance with the arbitration rules constitutes proper notice and enforced the award. Takeaway: stipulate service addresses and e-service methods, preserve delivery evidence, and avoid procedural-defect defenses without proof.",
-    "source_en": "Source: Review of published foreign-related civil and commercial judgments, Chinese courts · H2 2026"
+    "title": "香港仲裁裁决在内地获认可执行：跨境合同约定仲裁地及送达条款的实务启示",
+    "summary": "某内地企业与香港公司因货物买卖合同纠纷提交香港国际仲裁中心仲裁，胜诉方向内地中级人民法院申请认可和执行。法院依据《关于内地与香港特别行政区相互执行仲裁裁决的安排》审查后予以认可。本案提示出海企业：仲裁条款应明确仲裁地、仲裁机构及送达地址，并保留完整送达证据，以降低后续执行障碍。",
+    "source": "来源：最高人民法院涉港仲裁司法审查典型案例 · 2026.10",
+    "title_en": "Hong Kong Arbitral Award Recognised and Enforced in Mainland China: Lessons on Seat and Service Clauses",
+    "summary_en": "A mainland company and a Hong Kong counterparty referred a sales-contract dispute to HKIAC arbitration; the prevailing party then sought recognition and enforcement before a mainland intermediate people's court. The court granted recognition under the Mainland-Hong Kong Arrangement on Mutual Enforcement of Arbitral Awards. The case highlights the need for clear arbitration-seat, institution and service-address clauses, plus robust proof of service, to smooth later enforcement.",
+    "source_en": "Source: SPC typical cases on judicial review of Hong Kong-related arbitration · 2026.10"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境商事调解与仲裁衔接机制提速，涉外企业争议解决选项增多",
-    "summary": "大湾区近期推进跨境商事调解与仲裁的规则衔接与机构协作，前海、南沙、横琴等地探索调解协议跨境执行与临时措施协助。对出海企业而言，可在合同中嵌入“调解前置＋港澳仲裁”分层条款，利用内地与港澳相互执行仲裁裁决的安排降低执行不确定性。建议在起草阶段明确适用规则、仲裁地与语言，并评估调解保密性对后续证据使用的影响。",
-    "source": "来源：粤港澳大湾区法律部门联席会议公开信息 · 2026.11",
-    "title_en": "Greater Bay Area Speeds Up Mediation-Arbitration Linkage, Widening Dispute Options",
-    "summary_en": "The Greater Bay Area is advancing rule alignment and institutional cooperation between cross-border commercial mediation and arbitration, with Qianhai, Nansha and Hengqin piloting cross-border enforcement of settlement agreements and interim-measure assistance. For outbound businesses, embedding tiered clauses (mediation first, then Hong Kong/Macau arbitration) can reduce enforcement uncertainty under the mutual enforcement arrangements. Specify rules, seat and language at drafting, and assess mediation confidentiality's effect on later evidence use.",
-    "source_en": "Source: Public information of the GBA legal departments joint meeting · Nov 2026"
+    "title": "粤港澳大湾区跨境商事纠纷“一站式”解纷平台扩容，涉外企业可在线申请调解与仲裁",
+    "summary": "粤港澳大湾区近期进一步整合跨境商事调解与仲裁资源，推动“一站式”在线解纷平台覆盖更多涉外民商事案件。企业可通过平台在线提交调解申请、选择港澳调解员，并实现调解与仲裁程序衔接。建议出海企业将平台调解条款纳入跨境合同，以降低诉讼成本并提升争议解决效率。",
+    "source": "来源：粤港澳大湾区法律部门联席会议机制 · 2026.11",
+    "title_en": "Greater Bay Area Expands One-Stop Cross-Border Dispute Platform for Online Mediation and Arbitration",
+    "summary_en": "The Greater Bay Area has further integrated cross-border commercial mediation and arbitration resources, expanding a one-stop online dispute-resolution platform to more foreign-related civil and commercial cases. Companies can file mediation requests online, select Hong Kong or Macao mediators, and link mediation to arbitration proceedings. Exporters should consider incorporating platform mediation clauses into cross-border contracts to cut litigation costs and speed up dispute resolution.",
+    "source_en": "Source: GBA legal departments joint meeting mechanism · 2026.11"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：出口管制“50%规则”外溢下，中国企业须重建股权穿透合规",
-    "summary": "秦林蒿律师研判：美方出口管制中关联方持股穿透规则持续外溢，直接或间接持股达一定比例即可能触发同等许可要求。企业应建立“股权穿透＋物项分类＋最终用途”三张清单，对境外合资、代持与基金架构逐层核查；在采购合同中加入管制变更与许可不能取得时的免责与退出条款，并保留BIS咨询与自愿披露通道。切勿以形式切割替代实质合规。",
-    "source": "来源：律连全球·iGlobal Law 编辑部 · 2026.11.06",
-    "title_en": "Attorney Qin's view: Affiliate-Ownership Rules in Export Controls Require Ownership Look-Through Compliance",
-    "summary_en": "Attorney Qin's view: the affiliate-ownership look-through rule in US export controls continues to expand, so direct or indirect stakes above certain thresholds may trigger equivalent licensing requirements. Companies should build three lists—ownership look-through, item classification and end use—and verify offshore JVs, nominee holdings and fund structures layer by layer. Add change-in-control and license-denial exit clauses to procurement contracts, and keep BIS consultation and voluntary self-disclosure channels open. Formal separation is no substitute for substantive compliance.",
-    "source_en": "Source: iGlobal Law Editorial Desk · 2026.11.06"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中企境外架构与交易文件须提前合规布局",
+    "summary": "秦林蒿律师研判：美国对外投资安全审查规则持续扩围，涉及半导体、人工智能、量子等敏感领域的跨境投资交易面临更严申报义务。建议中企在搭建境外投资架构前开展穿透式合规筛查，在交易文件中设置监管审批先决条件、分手费及合规陈述保证条款，并动态跟踪规则更新，避免因未申报导致交易被叫停或处罚。",
+    "source": "来源：美国财政部投资安全办公室规则更新 · 2026.11",
+    "title_en": "Attorney Qin's view: Expanding US Outbound Investment Rules Require Early Compliance Planning for Chinese Deals",
+    "summary_en": "Attorney Qin's view: US outbound investment security review continues to expand, imposing stricter filing obligations on cross-border deals touching semiconductors, AI and quantum technologies. Chinese companies should conduct look-through compliance screening before structuring offshore investments, include regulatory-approval conditions precedent, break fees and compliance representations in transaction documents, and monitor rule updates to avoid deals being blocked or penalised for non-filing.",
+    "source_en": "Source: US Treasury Office of Investment Security rule updates · 2026.11"
   },
-  "dateLabel": "2026年11月6日 · 星期五",
-  "dateLabel_en": "Friday, November 6, 2026",
-  "issue": 310
+  "dateLabel": "2026年11月9日 · 星期一",
+  "dateLabel_en": "Monday, November 9, 2026",
+  "issue": 313
 }
