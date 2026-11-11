@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制全面实施，中国出口企业面临碳成本与申报双重合规挑战",
-    "summary": "2026年11月10日，欧盟碳边境调节机制（CBAM）结束过渡期进入全面实施阶段，覆盖钢铁、铝、水泥、化肥、电力和氢六大行业。中国相关出口企业须按季度申报产品隐含碳排放，并购买CBAM证书，未合规将面临高额罚款。企业应尽快建立产品碳足迹核算体系，优化供应链低碳转型，并关注欧盟认可的第三方核查机构名单，以降低合规成本。",
-    "source": "来源：欧盟委员会 · 2026.11.10",
-    "title_en": "EU CBAM Fully Operational: Chinese Exporters Face Dual Compliance Challenges on Carbon Costs and Reporting",
-    "summary_en": "On 10 November 2026, the EU Carbon Border Adjustment Mechanism (CBAM) concluded its transitional period and entered full implementation, covering six sectors: iron and steel, aluminium, cement, fertilisers, electricity and hydrogen. Chinese exporters in these sectors must now report embedded emissions quarterly and purchase CBAM certificates; non-compliance will trigger substantial penalties. Companies should urgently establish product carbon footprint accounting systems, decarbonise supply chains, and monitor the list of EU-accredited verification bodies to minimise compliance costs.",
-    "source_en": "Source: European Commission · 2026.11.10"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业须提前布局碳成本核算",
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入正式征收阶段。中国钢铁、铝、化肥、氢等行业出口企业面临碳排放数据申报与成本传导双重压力。企业应尽快建立产品级碳足迹核算体系，完善供应链碳排放数据收集，并评估在欧盟境内设立合规实体的可行性，以应对即将到来的碳关税成本。",
+    "source": "来源：欧盟委员会气候行动总司 · 2026.11.11",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Prepare for Carbon Cost Accounting",
+    "summary_en": "The EU's CBAM transitional period will conclude at the end of 2026, with the definitive regime taking effect in 2027. Chinese exporters in steel, aluminium, fertilisers and hydrogen face dual pressures of emissions data reporting and cost pass-through. Companies should promptly establish product-level carbon footprint accounting systems, enhance supply chain emissions data collection, and assess the feasibility of setting up compliant entities within the EU to prepare for the impending carbon tariff costs.",
+    "source_en": "Source: European Commission DG CLIMA · 2026.11.11"
   },
   "case": {
-    "title": "香港仲裁裁决在内地获认可执行，法院明确公共政策抗辩的严格审查标准",
-    "summary": "近期，内地某中级人民法院审结一起申请认可和执行香港仲裁裁决案件。被申请人以裁决违反内地公共政策为由抗辩，法院指出公共政策抗辩应严格限缩适用，仅限裁决结果严重损害社会公共利益的情形，并强调仲裁庭对合同效力的认定属于实体审理范围，不构成程序瑕疵。本案对跨境仲裁裁决在内地的执行具有重要指导意义，提示企业应审慎评估公共政策抗辩的可行性。",
-    "source": "来源：最高人民法院案例库 · 2026.10",
-    "title_en": "Mainland Court Enforces Hong Kong Arbitral Award, Clarifying Strict Standard for Public Policy Defence",
-    "summary_en": "A mainland intermediate people's court recently ruled on an application to recognise and enforce a Hong Kong arbitral award. The respondent argued that enforcement would violate mainland public policy, but the court held that the public policy defence must be interpreted narrowly and applies only where enforcement would seriously harm social public interests. It further stressed that the tribunal's findings on contract validity are substantive matters, not procedural defects. The case offers important guidance for enforcing cross-border arbitral awards in the mainland and reminds companies to assess the viability of public policy challenges carefully.",
-    "source_en": "Source: Supreme People's Court Case Database · 2026.10"
+    "title": "新加坡上诉法院确立跨境在线仲裁条款效力认定标准，对中企合同起草具参考价值",
+    "summary": "新加坡上诉法院近期在一起跨国电商服务合同纠纷中，认定通过电子邮件往来达成的仲裁条款有效，即使该条款未以传统书面形式签署。法院强调，只要仲裁意图明确且条款可追溯，电子通信形式不影响仲裁协议效力。该判决对中企在跨境合同中采用电子签约方式具有指导意义，建议明确仲裁条款的独立性与电子记录的保存。",
+    "source": "来源：新加坡上诉法院 · 2026.10",
+    "title_en": "Singapore Court of Appeal Sets Standard for Validity of Cross-Border Online Arbitration Clauses, Offering Guidance for Chinese Contract Drafting",
+    "summary_en": "The Singapore Court of Appeal recently upheld an arbitration clause concluded via email exchanges in a cross-border e-commerce service dispute, despite the absence of traditional written signatures. The Court emphasised that electronic form does not affect the validity of an arbitration agreement where the intent to arbitrate is clear and the clause is traceable. This ruling provides guidance for Chinese companies using e-signatures in cross-border contracts, recommending clarity on the severability of arbitration clauses and preservation of electronic records.",
+    "source_en": "Source: Singapore Court of Appeal · 2026.10"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化新规出台，企业需关注数据出境安全评估豁免情形",
-    "summary": "2026年11月，粤港澳大湾区推出跨境数据流动便利化措施，进一步明确区内企业数据出境的安全评估豁免情形，涵盖研发、供应链管理等特定场景。新规简化了申报流程，并设立大湾区数据跨境流动服务中心提供咨询。企业应梳理自身数据出境场景，评估是否符合豁免条件，完善内部数据合规制度，并利用服务中心资源降低合规风险。",
+    "title": "粤港澳大湾区推出跨境数据流动便利化新规，允许特定行业试点负面清单管理",
+    "summary": "广东省近日发布粤港澳大湾区跨境数据流动便利化措施，在金融、医疗、汽车等特定行业试点数据出境负面清单管理，允许清单外数据自由流动。同时建立粤港澳三方数据安全互认机制，简化安全评估流程。企业应关注行业负面清单的具体范围，利用试点政策优化数据跨境传输合规路径，并同步完善内部数据分类分级管理。",
     "source": "来源：广东省政务服务数据管理局 · 2026.11",
-    "title_en": "New Greater Bay Area Rules Facilitate Cross-Border Data Flows, Highlight Exemptions from Security Assessment",
-    "summary_en": "In November 2026, the Guangdong-Hong Kong-Macao Greater Bay Area introduced measures to facilitate cross-border data flows, further clarifying exemptions from security assessment for data exports by companies in the region, covering specific scenarios such as R&D and supply chain management. The new rules streamline filing procedures and establish a Greater Bay Area cross-border data flow service centre for consultation. Companies should map their data export scenarios, assess eligibility for exemptions, improve internal data compliance systems, and leverage the service centre to mitigate compliance risks.",
+    "title_en": "Greater Bay Area Introduces New Measures to Facilitate Cross-Border Data Flows, Piloting Negative List Management in Specific Sectors",
+    "summary_en": "Guangdong Province recently issued facilitation measures for cross-border data flows in the Greater Bay Area, piloting negative list management for data exports in sectors such as finance, healthcare and automotive, allowing free flow of data outside the list. A tripartite data security mutual recognition mechanism among Guangdong, Hong Kong and Macao has also been established to streamline security assessment procedures. Companies should monitor the specific scope of sectoral negative lists, leverage pilot policies to optimise compliance pathways for cross-border data transfers, and enhance internal data classification and grading management.",
     "source_en": "Source: Guangdong Provincial Government Services and Data Management Bureau · 2026.11"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美国对华投资限制新规扩围，企业应构建“投资+技术+供应链”三维合规体系",
-    "summary": "秦林蒿律师研判：美国近期扩大对华投资限制范围，将半导体、人工智能、量子计算等领域纳入管控，并强化对现有投资的审查。中国企业应构建“投资+技术+供应链”三维合规体系：投资端审慎评估美资背景基金的投资条款，技术端加强自主研发与知识产权布局，供应链端推动多元化并建立溯源机制。同时，建议企业提前进行合规审计，预留政策缓冲期，以应对动态监管环境。",
-    "source": "来源：美国财政部 · 2026.11",
-    "title_en": "Attorney Qin's view: US Expands Outbound Investment Restrictions on China; Companies Should Build a Three-Dimensional Compliance Framework Covering Investment, Technology and Supply Chains",
-    "summary_en": "Attorney Qin's view: The United States has recently expanded its outbound investment restrictions on China, adding semiconductors, artificial intelligence and quantum computing to the controlled sectors and tightening reviews of existing investments. Chinese companies should build a three-dimensional compliance framework covering investment, technology and supply chains: on investment, carefully assess terms of US-backed funds; on technology, strengthen independent R&D and IP portfolios; on supply chains, promote diversification and establish traceability mechanisms. Companies are advised to conduct compliance audits in advance and allow a policy buffer period to navigate the dynamic regulatory environment.",
-    "source_en": "Source: US Department of the Treasury · 2026.11"
+    "title": "秦林蒿律师研判：美国对外投资审查新规扩围，中企需重构跨境投资合规架构",
+    "summary": "秦林蒿律师研判：美国近期拟进一步扩大对外投资审查范围，将更多涉及人工智能、量子计算等敏感技术领域纳入限制。中企在美投资或与美国主体合作时，应提前进行交易架构审查，识别是否触及“受关注国家”限制，并考虑通过第三地实体或技术许可安排降低风险。建议企业建立投资合规内控机制，在交易前期开展尽职调查，并预留政策变动应对方案。",
+    "source": "来源：秦林蒿律师 · 律连全球 · 2026.11.11",
+    "title_en": "Attorney Qin's view: Expanding US Outbound Investment Review Rules Require Chinese Firms to Restructure Cross-Border Investment Compliance Architecture",
+    "summary_en": "Attorney Qin's view: The US is reportedly planning to further expand the scope of outbound investment review, adding more sensitive technology sectors such as artificial intelligence and quantum computing to restrictions. Chinese companies investing in the US or cooperating with US entities should conduct early transaction structure reviews to identify whether they fall within restrictions on 'countries of concern', and consider mitigating risks through third-country entities or technology licensing arrangements. It is advisable to establish investment compliance internal control mechanisms, conduct pre-transaction due diligence, and prepare contingency plans for policy changes.",
+    "source_en": "Source: Attorney Qin Linhao · iGlobal Law · 2026.11.11"
   },
-  "dateLabel": "2026年11月10日 · 星期二",
-  "dateLabel_en": "Tuesday, November 10, 2026",
-  "issue": 314
+  "dateLabel": "2026年11月11日 · 星期三",
+  "dateLabel_en": "Wednesday, November 11, 2026",
+  "issue": 315
 }
