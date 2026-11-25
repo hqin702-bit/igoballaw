@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "欧盟碳边境调节机制全面实施在即，中国出口企业需完成碳成本核算与申报准备",
-    "summary": "欧盟碳边境调节机制（CBAM）过渡期将于2026年底结束，2027年起进入全面实施阶段。届时进口商须购买CBAM证书，覆盖钢铁、铝、水泥、化肥、电力及氢等品类。中国相关出口企业应尽快建立产品嵌入式碳排放核算体系，完善供应链数据，并评估在欧盟的申报义务与成本传导。建议企业提前与欧盟进口商沟通，明确数据提供责任，避免因申报不合规导致货物滞留或罚款。",
-    "source": "来源：欧盟委员会CBAM法规及过渡期实施指南 · 2026.11.24",
-    "title_en": "EU CBAM Nears Full Implementation: Chinese Exporters Must Prepare Carbon Accounting and Reporting",
-    "summary_en": "The EU Carbon Border Adjustment Mechanism (CBAM) transitional period ends in late 2026, with full implementation from 2027. Importers will then need to purchase CBAM certificates for goods including steel, aluminium, cement, fertilisers, electricity and hydrogen. Chinese exporters should establish embedded emissions accounting systems, improve supply chain data, and assess EU reporting obligations and cost pass-through. Early engagement with EU importers is advised to clarify data responsibilities and avoid shipment delays or penalties due to non-compliant reporting.",
-    "source_en": "Source: European Commission CBAM Regulation and transitional guidance · 2026.11.24"
+    "title": "欧盟碳边境调节机制过渡期收官在即，中国出口企业需加速碳数据合规布局",
+    "summary": "欧盟CBAM过渡期将于2026年底结束，2027年起进入实质性征收阶段。近期欧盟委员会发布过渡期最终报告，强调进口商须确保嵌入式碳排放数据可核查。中国钢铁、铝、化肥等行业出口企业面临碳成本传导压力，建议尽快建立产品级碳足迹核算体系，完善供应商数据链条，并关注欧盟认可的核查机构名单，以降低未来合规成本。",
+    "source": "来源：欧盟委员会官网 · 2026.11.25",
+    "title_en": "EU CBAM Transitional Period Nears End: Chinese Exporters Urged to Accelerate Carbon Data Compliance",
+    "summary_en": "The EU's Carbon Border Adjustment Mechanism (CBAM) transitional period will conclude at the end of 2026, with the definitive regime starting in 2027. The European Commission's final transitional report stresses that importers must ensure verifiable embedded emissions data. Chinese exporters in steel, aluminium, and fertilisers face carbon cost pass-through pressure. Companies should establish product-level carbon footprint accounting, strengthen supplier data chains, and monitor EU-accredited verifier lists to reduce future compliance costs.",
+    "source_en": "Source: European Commission website · 2026.11.25"
   },
   "case": {
-    "title": "新加坡仲裁案：不可抗力条款在供应链中断中的解释与举证责任分配",
-    "summary": "某中国设备出口商与东南亚买方因疫情后物流中断引发交货争议，提交新加坡国际仲裁中心（SIAC）仲裁。仲裁庭认为，不可抗力条款的适用需满足“不能合理预见、不能克服”要件，且主张方应承担举证责任。出口商因未能提供充分证据证明政府限制措施直接导致履约不能，其不可抗力抗辩未获支持。本案提示企业应在合同中明确不可抗力事件清单、通知义务及替代履行方案，并注重留存官方证明与沟通记录。",
-    "source": "来源：新加坡国际仲裁中心（SIAC）典型案例摘要 · 2026年",
-    "title_en": "SIAC Case: Interpretation of Force Majeure Clauses and Burden of Proof in Supply Chain Disruptions",
-    "summary_en": "A Chinese equipment exporter and a Southeast Asian buyer disputed delivery after post-pandemic logistics disruptions, referred to SIAC arbitration. The tribunal held that invoking force majeure requires events to be unforeseeable and insurmountable, with the burden of proof on the claiming party. The exporter's defence failed due to insufficient evidence that government restrictions directly prevented performance. The case highlights the need for clear force majeure event lists, notice obligations, alternative performance plans, and retention of official certificates and communications.",
-    "source_en": "Source: Singapore International Arbitration Centre (SIAC) case summary · 2026"
+    "title": "新加坡上诉庭裁定：跨境电商业者未履行数据本地化义务不构成合同根本违约",
+    "summary": "新加坡上诉庭近期审结一起跨境电商服务合同纠纷，明确数据本地化监管要求不当然构成合同目的落空。案中中国电商平台因未满足印尼数据存储规定被当地处罚，其新加坡服务商主张免责。法院认为，平台作为数据控制者应自行承担合规风险，服务商仅提供技术支持不构成根本违约。该案提示出海企业应在合同中明确合规责任分配与免责条款，避免因监管变化引发争议。",
+    "source": "来源：新加坡上诉庭判例摘要 · 2026.11",
+    "title_en": "Singapore Appellate Court: Cross-border E-commerce Operator's Failure to Meet Data Localisation Rules Not a Fundamental Breach",
+    "summary_en": "The Singapore Appellate Court recently ruled in a cross-border e-commerce service contract dispute that data localisation requirements do not automatically frustrate contractual purpose. A Chinese e-commerce platform penalised in Indonesia for non-compliance with local data storage rules sought to hold its Singapore service provider liable. The court held that the platform, as data controller, bears compliance risk, and the provider's technical support did not constitute fundamental breach. The case highlights the need for clear compliance allocation and exemption clauses in contracts.",
+    "source_en": "Source: Singapore Appellate Court judgment summary · Nov 2026"
   },
   "policy": {
-    "title": "粤港澳大湾区跨境数据流动便利化措施扩展，企业需关注数据出境合规路径",
-    "summary": "粤港澳大湾区近期进一步扩展跨境数据流动便利化措施，覆盖更多行业和场景，允许符合条件的企业通过标准合同、安全评估或认证等方式实现数据出境。政策强调个人信息保护与数据安全，要求企业开展数据分类分级，建立出境数据台账。建议大湾区企业梳理数据资产，评估出境场景，选择适当合规路径，并关注行业主管部门的具体指引，确保跨境业务数据流动合法有序。",
-    "source": "来源：广东省互联网信息办公室等大湾区数据跨境政策文件 · 2026年11月",
-    "title_en": "Greater Bay Area Expands Cross-Border Data Flow Facilitation: Compliance Pathways for Enterprises",
-    "summary_en": "The Greater Bay Area has further expanded cross-border data flow facilitation measures, covering more industries and scenarios. Eligible enterprises may transfer data abroad via standard contracts, security assessments or certifications. The policy emphasises personal information protection and data security, requiring data classification and outbound data records. Enterprises are advised to map data assets, assess outbound scenarios, choose appropriate compliance pathways, and follow sector-specific guidance to ensure lawful cross-border data flows.",
-    "source_en": "Source: Guangdong Cyberspace Administration and GBA cross-border data policies · November 2026"
+    "title": "粤港澳大湾区跨境数据流动新规落地，港澳企业可申请数据出境安全评估绿色通道",
+    "summary": "国家网信办与广东省近期联合发布粤港澳大湾区跨境数据流动便利化措施，允许符合条件的港澳企业通过绿色通道申请数据出境安全评估，缩短审批时限。新规明确在医疗、金融、跨境电商等领域开展试点，要求企业建立数据分类分级保护制度。建议大湾区港资、澳资企业尽快梳理数据资产，完成自评估并准备申请材料，以利用政策红利降低合规成本。",
+    "source": "来源：国家互联网信息办公室、广东省人民政府 · 2026.11",
+    "title_en": "New GBA Cross-border Data Flow Rules: HK/Macao Firms Eligible for Green Channel for Data Export Security Assessment",
+    "summary_en": "The Cyberspace Administration of China and Guangdong Province have jointly issued facilitation measures for cross-border data flows in the Greater Bay Area, allowing eligible Hong Kong and Macao enterprises to apply for data export security assessments via a green channel with shortened approval timelines. Pilots cover healthcare, finance, and cross-border e-commerce, requiring data classification and grading systems. GBA-based HK/Macao firms should map data assets, complete self-assessments, and prepare applications to benefit from the policy.",
+    "source_en": "Source: Cyberspace Administration of China; Guangdong Provincial People's Government · Nov 2026"
   },
   "analysis": {
-    "title": "秦林蒿律师研判：美对华出口管制穿透性规则升级，企业应构建全链条合规体系",
-    "summary": "秦林蒿律师研判：美国近期调整出口管制规则，扩大对关联实体的许可要求，穿透性监管趋势明显。中国出海企业面临供应链溯源、最终用途审查及再出口风险。建议企业立即开展物项分类与客户筛查，完善内部合规制度，在合同中加入出口管制陈述保证与终止条款，并建立动态监控机制。同时，对涉及美国技术或零部件的产品，应评估替代方案与许可证申请路径，防范连带制裁风险。",
-    "source": "来源：美国商务部工业与安全局（BIS）规则更新及实务观察 · 2026.11.24",
-    "title_en": "Attorney Qin's view: US Export Controls Tighten with Penetrating Rules—Build a Full-Chain Compliance System",
-    "summary_en": "Attorney Qin's view: The US has recently adjusted export control rules, expanding licensing requirements for affiliated entities with a clear trend of penetrating regulation. Chinese going-global enterprises face supply chain tracing, end-use review and re-export risks. Companies should immediately classify items and screen customers, improve internal compliance programmes, include export control representations and termination clauses in contracts, and establish dynamic monitoring. For products involving US technology or components, assess alternatives and licensing paths to mitigate derivative sanctions risks.",
-    "source_en": "Source: US Bureau of Industry and Security (BIS) rule updates and practice observations · 2026.11.24"
+    "title": "秦林蒿律师研判：美国对华投资限制新规扩围，企业应重构跨境交易架构与合规防火墙",
+    "summary": "秦林蒿律师研判：美国近期拟将半导体、人工智能等领域对华投资限制扩展至更多敏感技术，并强化对通过第三地间接投资的审查。出海企业应重新评估现有跨境交易架构，避免通过新加坡、开曼等中间层规避监管；在投资协议中增设监管变化退出机制；同时建立技术出口分类台账，对涉及受限技术的合作开展内部合规审查。建议企业提前与专业律师团队进行压力测试，确保交易可进可退。",
+    "source": "来源：律连全球·iGlobal Law 编辑部 · 2026.11.25",
+    "title_en": "Attorney Qin's View: Expanded US Outbound Investment Restrictions on China Require Rebuilding Cross-border Deal Structures and Compliance Firewalls",
+    "summary_en": "Attorney Qin's view: The US is set to expand outbound investment restrictions on China in semiconductors, AI, and other sensitive technologies, and to tighten scrutiny of indirect investments via third countries. Chinese companies going global should reassess existing cross-border structures to avoid using Singapore or Cayman intermediaries to circumvent rules; incorporate regulatory-change exit mechanisms in investment agreements; and maintain technology export classification ledgers with internal compliance reviews for restricted-tech cooperation. Early stress-testing with legal counsel is advised to keep deals flexible.",
+    "source_en": "Source: iGlobal Law Editorial · 2026.11.25"
   },
-  "dateLabel": "2026年11月24日 · 星期二",
-  "dateLabel_en": "Tuesday, November 24, 2026",
-  "issue": 328
+  "dateLabel": "2026年11月25日 · 星期三",
+  "dateLabel_en": "Wednesday, November 25, 2026",
+  "issue": 329
 }
