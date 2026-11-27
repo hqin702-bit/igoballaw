@@ -1,37 +1,37 @@
 {
   "focus": {
-    "title": "本周全球经贸主线：出口管制联动收紧、关税工具化与供应链合规重构并行",
-    "summary": "本周国际经贸法律环境呈现三条主线并行：其一，主要经济体在先进计算、半导体设备与关键矿产领域持续强化出口管制与投资审查，管制清单与许可口径趋于细化；其二，关税与贸易救济工具进一步被用作谈判筹码，企业原产地与转口合规风险上升；其三，供应链尽职调查与ESG合规要求向跨境交易全流程渗透。对中国出海企业而言，合规重心正从单一出口许可转向“管制—关税—投资审查—供应链尽调”四位一体的体系化应对，需提前建立跨法域合规映射与动态监测机制。",
-    "source": "来源：综合主要经济体官方公报与主流财经媒体 · 本周",
-    "title_en": "This Week's Global Trade Law Mainlines: Tightening Export Controls, Tariff Instrumentalization and Supply Chain Compliance Restructuring",
-    "summary_en": "This week's international trade law landscape is shaped by three parallel trends: first, major economies continued to tighten export controls and investment screening over advanced computing, semiconductor equipment and critical minerals, with licensing criteria becoming more granular; second, tariffs and trade remedies were further instrumentalized as negotiating leverage, raising origin and transshipment compliance risks; third, supply chain due diligence and ESG requirements are penetrating the full lifecycle of cross-border transactions. For Chinese outbound enterprises, compliance focus is shifting from single export licensing to an integrated framework covering controls, tariffs, investment screening and supply chain due diligence, requiring cross-jurisdictional compliance mapping and dynamic monitoring.",
-    "source_en": "Source: Official gazettes of major economies and leading financial media · this week"
+    "title": "本周全球经贸主线：出口管制联盟化与关税工具化并行，供应链合规压力升级",
+    "summary": "本周国际经贸领域呈现两条主线：一是美国联合盟友强化对先进计算与半导体设备的出口管制协同，并扩大实体清单适用范围，第三国转口风险上升；二是欧盟碳边境调节机制过渡期临近尾声，钢铝、化工等产品出口商面临碳数据申报与成本传导压力。同时，多国重启贸易救济调查，关税工具化趋势明显。对中国出海企业而言，合规重心正从单一市场准入转向全链条供应链溯源与多法域协同应对，建议提前梳理高风险物项与转口路径。",
+    "source": "来源：美国商务部、欧盟委员会及WTO贸易监测动态 · 本周",
+    "title_en": "Weekly Global Trade Agenda: Allied Export Controls and Tariff Instrumentalization Raise Supply-Chain Compliance Pressure",
+    "summary_en": "This week's international trade landscape is shaped by two trends. First, the United States and its allies have tightened coordinated export controls on advanced computing and semiconductor equipment, expanding entity-list coverage and raising third-country transshipment risks. Second, as the EU CBAM transitional period nears its end, exporters of steel, aluminium and chemicals face carbon-data reporting and cost pass-through pressure. Meanwhile, multiple jurisdictions have relaunched trade-remedy investigations, underscoring the instrumentalization of tariffs. For Chinese outbound enterprises, compliance focus is shifting from single-market access to full-chain traceability and multi-jurisdictional coordination; early mapping of high-risk items and transshipment routes is advised.",
+    "source_en": "Source: U.S. Department of Commerce, European Commission and WTO trade monitoring updates · this week"
   },
   "case": {
-    "title": "本周案例观察：跨境仲裁中“多层次争议解决条款”效力认定对出海合同的启示",
-    "summary": "本周国际仲裁实务界关注一起涉及多层次争议解决条款的跨境商事仲裁案例：当事人约定“协商—调解—仲裁”递进程序，一方未完整履行前置程序即提起仲裁，仲裁庭对管辖权作出认定。要点在于，前置程序的履行程度、时限约定是否明确，直接影响仲裁庭是否受理及裁决的可执行性。启示：中国出海企业在起草跨境合同争议解决条款时，应明确各阶段程序、时限与法律后果，避免因前置程序瑕疵导致仲裁受阻或裁决在承认执行阶段被挑战，同时关注主要公约成员国法院对可分性及程序瑕疵的审查尺度。",
-    "source": "来源：国际仲裁机构实务动态与跨境争议解决评论 · 本周",
-    "title_en": "Case Watch: Validity of Multi-Tiered Dispute Resolution Clauses in Cross-Border Arbitration and Lessons for Outbound Contracts",
-    "summary_en": "This week the international arbitration community focused on a cross-border commercial arbitration involving multi-tiered dispute resolution clauses: the parties agreed on a negotiation–mediation–arbitration sequence, and one party commenced arbitration without fully completing the pre-arbitration steps, leading the tribunal to rule on jurisdiction. The key point is that the degree of compliance with pre-arbitration procedures and the clarity of time limits directly affect whether the tribunal accepts the case and the enforceability of the award. Lesson: Chinese outbound enterprises should specify each stage, time limits and legal consequences in dispute resolution clauses to avoid arbitration being blocked or awards challenged at the recognition and enforcement stage, and should monitor how courts in key Convention states review separability and procedural defects.",
-    "source_en": "Source: International arbitration institution practice updates and cross-border dispute resolution commentary · this week"
+    "title": "本周案例观察：跨境仲裁中临时措施跨境执行获支持，凸显仲裁地选择与保全策略价值",
+    "summary": "本周一则跨境商事仲裁实践引发关注：某中国企业与境外交易对手因供货合同争议在新加坡仲裁，仲裁庭作出的临时保全措施随后在第三国法院获得承认与执行，有效防止了资产转移。该案要点在于仲裁地法律对临时措施的支持力度、纽约公约框架下的执行路径，以及申请人举证紧迫性与不可弥补损害的技巧。启示：出海企业应在合同中优选支持临时措施的仲裁地与规则，争议初期即评估全球资产保全，避免“赢了裁决、执行落空”。",
+    "source": "来源：新加坡国际仲裁中心（SIAC）案例实践与相关法院公开信息 · 本周",
+    "title_en": "Weekly Case Watch: Cross-Border Enforcement of Interim Measures in Arbitration Affirmed, Highlighting Seat Selection and Preservation Strategy",
+    "summary_en": "A cross-border commercial arbitration practice drew attention this week: in a supply-contract dispute between a Chinese company and an overseas counterparty seated in Singapore, interim preservative measures issued by the tribunal were subsequently recognized and enforced by a third-country court, effectively preventing asset dissipation. Key points include the seat jurisdiction's support for interim measures, enforcement pathways under the New York Convention framework, and techniques for demonstrating urgency and irreparable harm. Takeaway: outbound enterprises should select arbitration seats and rules supportive of interim relief and assess global asset preservation at the outset of disputes to avoid winning an award that cannot be enforced.",
+    "source_en": "Source: SIAC case practice and publicly available court information · this week"
   },
   "policy": {
-    "title": "本周中国涉外政策综述：大湾区跨境便利化与涉外法治服务体系建设持续推进",
-    "summary": "本周中国涉外及跨境政策延续“便利化+法治化”双轨推进。粤港澳大湾区在跨境数据流动、跨境商事登记、外籍人员往来便利等方面继续推出务实举措，前海、南沙、横琴等平台在跨境争议解决与法律服务开放上探索机制创新；同时，涉外法治服务体系建设受到持续关注，包括涉外仲裁、调解与公证协作机制的完善。对出海企业而言，政策红利集中于跨境资金、数据与人员流动的合规通道，建议企业结合自身行业与区域布局，用足大湾区试点政策，同时同步完善数据出境与跨境合规内控。",
-    "source": "来源：中国政府网、粤港澳大湾区相关主管部门发布 · 本周",
-    "title_en": "China's Foreign-Related Policy Roundup: Greater Bay Area Cross-Border Facilitation and Foreign-Related Rule-of-Law Services Advance",
-    "summary_en": "This week China's foreign-related and cross-border policies continued on the dual track of facilitation and rule-of-law development. The Guangdong-Hong Kong-Macao Greater Bay Area rolled out practical measures on cross-border data flows, cross-border commercial registration and facilitation of foreign personnel exchanges, while platforms such as Qianhai, Nansha and Hengqin explored mechanism innovations in cross-border dispute resolution and legal services opening. Meanwhile, the development of foreign-related rule-of-law services continued to draw attention, including improved coordination mechanisms for foreign-related arbitration, mediation and notarization. For outbound enterprises, policy dividends concentrate on compliant channels for cross-border capital, data and personnel flows; companies should leverage GBA pilot policies in light of their industry and regional layout while improving data export and cross-border compliance internal controls.",
-    "source_en": "Source: The State Council website and GBA competent authorities · this week"
+    "title": "本周政策综述：粤港澳大湾区跨境便利化再提速，数据出境与跨境结算规则持续优化",
+    "summary": "本周中国涉外与跨境政策围绕大湾区展开：广东自贸试验区及横琴、前海、南沙等平台进一步简化跨境投融资与外债登记流程，推动跨境人民币结算便利化；数据出境安全评估与个人信息出境标准合同备案机制在部分行业推出更清晰的操作指引，便利企业开展跨境数据传输。同时，涉外法律服务领域鼓励粤港澳联营所与仲裁机构合作，提升跨境争议解决能力。总体看，政策在“便利化”与“安全可控”之间寻求平衡，出海企业应同步完善数据合规与跨境资金安排。",
+    "source": "来源：广东省人民政府、国家网信办及大湾区相关平台发布 · 本周",
+    "title_en": "Weekly Policy Roundup: Greater Bay Area Cross-Border Facilitation Accelerates, Data Export and Cross-Border Settlement Rules Refined",
+    "summary_en": "This week's China-related cross-border policies centered on the Greater Bay Area. The Guangdong Pilot Free Trade Zone and platforms such as Hengqin, Qianhai and Nansha further simplified cross-border investment, financing and foreign-debt registration, promoting RMB cross-border settlement facilitation. Clearer operational guidelines for data export security assessment and standard-contract filing for personal information exports were introduced in certain sectors, easing cross-border data transfers. Meanwhile, the foreign-related legal services sector encouraged Guangdong-Hong Kong-Macao joint ventures and arbitration institutions to cooperate in enhancing cross-border dispute resolution. Overall, policy balances facilitation with security and controllability; outbound enterprises should concurrently improve data compliance and cross-border fund arrangements.",
+    "source_en": "Source: Guangdong Provincial People's Government, Cyberspace Administration of China and Greater Bay Area platform releases · this week"
   },
   "analysis": {
-    "title": "秦林蒿律师周度研判：从“单点合规”走向“体系合规”，出海企业下周关注三项风险",
-    "summary": "秦林蒿律师周度研判：本周趋势表明，出口管制、关税工具化与供应链尽调正在形成叠加效应，企业单点应对已不足以覆盖风险。建议出海企业：一是建立跨法域管制清单与许可口径的动态映射，重点排查先进技术、关键矿产与转口贸易环节；二是在跨境合同中细化争议解决前置程序、原产地与关税承担条款，预留政策变动调整机制；三是用足大湾区跨境数据与人员便利化政策，同步完善数据出境合规内控。下周重点关注：主要经济体管制清单更新与许可执法动向、关税与贸易救济新立案、以及跨境仲裁程序性抗辩的司法审查趋势。",
-    "source": "来源：秦林蒿律师团队周度合规观察 · 本周",
-    "title_en": "Attorney Qin's Weekly View: From Point Compliance to Systemic Compliance—Three Risks for Outbound Enterprises to Watch Next Week",
-    "summary_en": "Attorney Qin's weekly view: This week's trends show that export controls, tariff instrumentalization and supply chain due diligence are creating compounding effects, and point-based responses are no longer sufficient. Outbound enterprises are advised to: first, build a dynamic mapping of cross-jurisdictional control lists and licensing criteria, focusing on advanced technologies, critical minerals and transshipment; second, refine dispute resolution pre-procedures, origin and tariff allocation clauses in cross-border contracts, with mechanisms to adjust for policy changes; third, leverage GBA facilitation policies on cross-border data and personnel while improving data export compliance internal controls. Next week, watch for: updates to control lists and licensing enforcement in major economies, new tariff and trade remedy investigations, and judicial review trends on procedural defenses in cross-border arbitration.",
-    "source_en": "Source: Attorney Qin Linhao's team weekly compliance watch · this week"
+    "title": "秦林蒿律师周度研判：供应链合规进入“多法域协同”阶段，出海企业应建立动态风险地图",
+    "summary": "秦林蒿律师周度研判：本周信号表明，出口管制、关税与数据规则正从单点监管走向多法域协同，企业面临的不是单一合规问题，而是供应链全链条的“合规叠加”。建议出海企业：一是建立覆盖物项、交易对手、转口路径的动态风险地图，按季度更新；二是在合同中嵌入出口管制与制裁合规条款、碳数据申报义务及临时措施保全安排；三是争议解决优先选择支持临时措施且执行便利的仲裁地。下周重点关注欧盟CBAM实施细则、美国实体清单更新及大湾区跨境数据流动试点进展。",
+    "source": "来源：秦林蒿律师团队·律连全球iGlobal Law · 本周",
+    "title_en": "Attorney Qin's Weekly View: Supply-Chain Compliance Enters Multi-Jurisdictional Coordination Phase; Outbound Firms Need Dynamic Risk Maps",
+    "summary_en": "Attorney Qin's weekly view: This week's signals indicate that export controls, tariffs and data rules are moving from single-point regulation toward multi-jurisdictional coordination, confronting enterprises not with isolated compliance issues but with layered compliance across the entire supply chain. Recommendations for outbound enterprises: first, build dynamic risk maps covering items, counterparties and transshipment routes, updated quarterly; second, embed export-control and sanctions compliance clauses, carbon-data reporting obligations and interim-measure preservation arrangements into contracts; third, prioritize arbitration seats that support interim measures and offer convenient enforcement. Next week, watch EU CBAM implementing rules, U.S. entity-list updates and Greater Bay Area cross-border data flow pilot progress.",
+    "source_en": "Source: Attorney Qin Linhao's team · iGlobal Law · this week"
   },
-  "weekLabel": "2026年11月16日 – 11月20日 · 本周周报",
-  "weekLabel_en": "Nov 16 – Nov 20, 2026 · Weekly Digest",
-  "issue": 47
+  "weekLabel": "2026年11月23日 – 11月27日 · 本周周报",
+  "weekLabel_en": "Nov 23 – Nov 27, 2026 · Weekly Digest",
+  "issue": 48
 }
